@@ -507,22 +507,19 @@ def cmd_watch(args) -> None:
 
 
 def cmd_inspect(args) -> None:
-    """기사 페이지 하나를 받아 본문 구조를 요약합니다(파서 점검용, 요청 1회)."""
+    """기사 페이지를 받아 본문 구조를 요약합니다(파서 점검용, 기사마다 요청 1회)."""
     fetcher = Fetcher(args.delay)
-    status, headers, body = fetcher.request("/news/articleView.html", {"idxno": str(args.id)})
-    page = body.decode("utf-8", errors="replace")
-    print(f"status {status} · {len(page)} chars · content-type {headers.get('Content-Type')}")
-    for marker in ("article-view-content-div", "itemprop=\"articleBody\"", "<article", "<strong", "기자"):
-        print(f"  {marker!r}: {page.count(marker)}")
-    i = page.rfind("article-view-content-div")    # 첫 등장은 스크립트 안이라 마지막 등장을 봅니다
-    if i >= 0:
-        print("--- 본문 시작 부분 ---")
-        print(re.sub(r"\s+", " ", page[max(0, i - 300): i + 3000]))
-    m = re.search(r'<article\b[^>]*id="article-view-content-div"[^>]*>(.*?)</article>', page, re.S)
-    print(f"--- 본문 정규식: {'일치 ' + str(len(m.group(1))) + '자' if m else '불일치'} ---")
-    print(f"--- 꼭지 {len(parse_briefs(page))}개 ---")
-    for b in parse_briefs(page):
-        print(" ", b["title"], "|", b["reporter"], "|", len(b["paragraphs"]))
+    for idxno in args.id:
+        status, headers, body = fetcher.request("/news/articleView.html", {"idxno": str(idxno)})
+        page = body.decode("utf-8", errors="replace")
+        print(f"=== {idxno}: status {status} · {len(page)} chars")
+        content = article_body(page)
+        print(f"--- 본문 {len(content)}자 ---")
+        print(re.sub(r"\s+", " ", content[:2500]))
+        briefs = parse_briefs(page)
+        print(f"--- 꼭지 {len(briefs)}개 ---")
+        for b in briefs:
+            print(" ", b["title"], "|", b["reporter"], "|", len(b["paragraphs"]))
 
 
 def cmd_build(args) -> None:
@@ -562,7 +559,7 @@ def main() -> None:
     w.add_argument("--delay", type=float, default=1.5)
     w.add_argument("--max-pages", type=int, default=10)
     i = sub.add_parser("inspect", help="기사 페이지 하나의 본문 구조 보기(파서 점검)")
-    i.add_argument("id", type=int)
+    i.add_argument("id", type=int, nargs="+")
     i.add_argument("--delay", type=float, default=1.5)
     args = p.parse_args()
     {"backfill": cmd_backfill, "update": cmd_update, "build": cmd_build, "watch": cmd_watch,
