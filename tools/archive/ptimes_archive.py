@@ -197,35 +197,45 @@ def article_body(page: str) -> str:
 
 
 def parse_briefs(page: str) -> list[dict]:
-    """단신 묶음 본문 → 꼭지들. 굵은 제목 문단으로 시작하고, "OOO 기자" 줄(문단 끝 <br /> 뒤 또는 따로 한 문단)로 끝납니다."""
+    """단신 묶음 본문 → 꼭지들.
+    꼭지는 제목(<h2>·<h3> 또는 전체가 굵은 문단)으로 시작하고 "OOO 기자" 줄로 끝납니다.
+    바이라인은 따로 한 문단이거나(오른쪽 정렬·굵게일 때도 있음) 마지막 문단 끝 <br /> 뒤에 붙습니다."""
     body = article_body(page)
     if not body:
         return []
     briefs, current = [], None
-    for pm in re.finditer(r"<p\b[^>]*>(.*?)</p>", body, re.S):
-        raw, t = pm.group(1), text(pm.group(1))
+
+    def close():
+        nonlocal current
+        if current and current["paragraphs"]:
+            briefs.append(current)
+        current = None
+
+    for m in re.finditer(r"<(h[2-4]|p)\b[^>]*>(.*?)</\1>", body, re.S):
+        tag, raw = m.group(1), m.group(2)
+        t = text(raw)
         if not t or "저작권자" in t:
             continue
-        bold = "".join(text(b) for b in re.findall(r"<(?:strong|b)\b[^>]*>(.*?)</(?:strong|b)>", raw, re.S))
-        if bold and re.sub(r"\s", "", bold) == re.sub(r"\s", "", t):
-            if current and current["paragraphs"]:
-                briefs.append(current)
-            current = {"title": t, "reporter": None, "paragraphs": []}
+        lines = [ln.strip() for ln in t.split("\n") if ln.strip()]
+        last = BYLINE_RE.match(lines[-1]) if lines and len(lines[-1]) < 60 else None
+        if last and len(lines) == 1:                 # 바이라인만 있는 문단
+            if current is not None:
+                current["reporter"] = f"{last.group(1)} 기자"
+            close()
             continue
-        lines = t.split("\n")
-        reporter = None
-        if BYLINE_RE.match(lines[-1]) and len(lines[-1]) < 60:
-            reporter = f"{BYLINE_RE.match(lines[-1]).group(1)} 기자"
+        bold = "".join(text(x) for x in re.findall(r"<(?:strong|b)\b[^>]*>(.*?)</(?:strong|b)>", raw, re.S))
+        if tag != "p" or (bold and re.sub(r"\s", "", bold) == re.sub(r"\s", "", t)):
+            close()
+            current = {"title": t.replace("\n", " "), "reporter": None, "paragraphs": []}
+            continue
+        if last:
             lines = lines[:-1]
-        body_text = "\n".join(lines).strip()
-        if current is not None and body_text:
-            current["paragraphs"].append(body_text)
-        if reporter and current is not None:
-            current["reporter"] = reporter
-            briefs.append(current)
-            current = None
-    if current and current["paragraphs"]:
-        briefs.append(current)
+        if current is not None and lines:
+            current["paragraphs"].append("\n".join(lines))
+        if last and current is not None:
+            current["reporter"] = f"{last.group(1)} 기자"
+            close()
+    close()
     return briefs
 
 

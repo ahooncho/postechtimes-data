@@ -61,6 +61,22 @@ class ParserTests(unittest.TestCase):
         self.assertEqual(items[2]["edition"], "en")
         self.assertEqual(items[1]["edition"], "ko")
 
+    def test_briefs_old_markup(self):
+        page = """<div id="article-view-content-div" class="" itemprop="articleBody">
+<div class="article-head-sub">△가<br /> △나</div>
+<h3><strong>생명 장지원 교수, 신진과학자 선정</strong></h3>
+<p>장지원(생명) 부교수가 선정됐다.</p>
+<p style="text-align: right;"><strong><span style="color:#999999;">조유현 기자 whdbgus0224@</span></strong></p> <hr />
+<h2><strong>캠퍼스에서 헝가리를 만나다&hellip; 2025 PAF 개최</strong></h2>
+<p>개최했다.</p>
+<p style="text-align: right;">박단아 기자 parkdana@</p>
+<div class="view-copyright">저작권자</div>"""
+        b = pa.parse_briefs(page)
+        self.assertEqual([(x["title"], x["reporter"], x["paragraphs"]) for x in b], [
+            ("생명 장지원 교수, 신진과학자 선정", "조유현 기자", ["장지원(생명) 부교수가 선정됐다."]),
+            ("캠퍼스에서 헝가리를 만나다… 2025 PAF 개최", "박단아 기자", ["개최했다."]),
+        ])
+
     def test_briefs(self):
         b = pa.parse_briefs(BRIEF)
         self.assertEqual(len(b), 3)
