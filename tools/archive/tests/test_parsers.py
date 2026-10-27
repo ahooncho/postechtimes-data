@@ -74,5 +74,17 @@ class ParserTests(unittest.TestCase):
         self.assertEqual([(i["number"], len(i["articles"])) for i in issues["ko"]], [(477, 2), (478, 2)])
         self.assertEqual([i["number"] for i in issues["en"]], [198, 199])
 
+    def test_review_points_to_next_issue_and_outliers_are_dropped(self):
+        def art(i, day, title, category="보도"):
+            return {"id": i, "title": title, "published": f"2018-{day}T12:00:00+09:00", "edition": "ko",
+                    "sectionCode": "S1N1", "category": category}
+        arts = [art(1, "03-07", "제393호 ‘불이 꺼지지 않는…’을 읽고", "독자리뷰"),      # → 394
+                art(2, "03-28", "제394호 ‘결혼은 언제 하니?’를 읽고", "독자리뷰"),       # → 395
+                art(3, "04-18", "제17호 태풍, 큰 피해", "중형보도"),                    # 다른 연재물 번호 → 버림
+                art(4, "04-18", "기사"), art(5, "04-18", "기사"), art(6, "04-18", "기사"), art(7, "04-18", "기사"), art(8, "04-18", "기사"),
+                art(9, "05-10", "제396호 단신보도", "단신보도")]                         # 그 호 스스로 → 396
+        issues = pa.build_issues(arts, {"gapDays": 3, "englishAnchor": {"number": 1, "date": "2000-01-01"}}, {})
+        self.assertEqual([i["number"] for i in issues["ko"]], [394, 395, 396])
+
 if __name__ == "__main__":
     unittest.main()

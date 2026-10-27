@@ -1,0 +1,393 @@
+{
+ "edition": "ko",
+ "number": 459,
+ "published": "2024-10-30T13:00:00+09:00",
+ "lastUpload": "2024-10-30T13:00:00+09:00",
+ "articles": [
+  {
+   "id": 23358,
+   "title": "2024 POSTECH AutumnFest, 우리대학에서 독일을 경험하다",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23358_27752_5155.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23357,
+   "title": "각양각색으로 빛나는 무은재의 꿈을 모아, ‘한빛’으로",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23356,
+   "title": "우리대학, THE 소규모대학평가 2년 연속 세계 2위",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23355,
+   "title": "우리대학 박문정 교수, 10월 ‘이달의 과학기술인상’ 수상",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23354,
+   "title": "장영태 교수팀, 폼알데하이드로 쉽고 간단하게 유기형광분자 합성",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23353,
+   "title": "권세윤 교수팀, 북극 생태계 수은 오염 경로 최초 규명",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "양지윤 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23352,
+   "title": "자기주도적 미래 계획을 지원하는 ‘Pathfinder 바우처 제도’",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23351,
+   "title": "우리대학, 맞춤형 창업 재무 컨설팅 프로그램 제공",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "정유현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23350,
+   "title": "우리대학, 애플 주관 스마트 제조 포럼 개최",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23350_27753_5326.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23349,
+   "title": "우리대학 학생들의 투자 현황, 그들의 전략은 ①",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김윤철",
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23349_27754_5451.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23348,
+   "title": "침묵의 학생사회, 목소리를 내는 포스테키안이 돼야",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김태린",
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23348_27756_5935.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23347,
+   "title": "이공계 대학원생 연구생활장려금, 우리대학 여론은",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "정유현",
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23347_27757_014.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23346,
+   "title": "사회와 학교를 잇는 봉사 단체에 대해 알아보다",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "정유현",
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23346_27758_18.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23345,
+   "title": "KBO 리그 첫 1,000만 관중 돌파, 그 비결은",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김윤철",
+    "양지윤 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23345_27760_354.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23344,
+   "title": "스트레스는 저 멀리, 포항 인근 페스티벌 탐방",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23344_27761_1518.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23343,
+   "title": "늘어만 가는 스펙 부담, 늦어지는 청년들의 사회 진출",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "오유진",
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23343_27762_169.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23342,
+   "title": "파격만이 가득한 2024 노벨상 수상을 돌아보며",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23342_27763_1650.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23340,
+   "title": "DNA로 구현하는 데이터 아카이브",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "정우빈 / 화공 조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23340_27764_1735.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23339,
+   "title": "무대를 뒤흔든 88분간의 마법 같은 공연",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23339_27767_2036.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 23338,
+   "title": "학교생활, 즐겁게 하고 있나요?",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "조성현 / 컴공 부교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 23337,
+   "title": "우리의 삶은 항상 행복했다",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "김주연 / 산경 22"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 23336,
+   "title": "제458호 ‘AI, 다가올 승리의 순간을 위한 POSCAT의 열정’을 읽고",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "길연희 / 화공 22"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 23335,
+   "title": "나와 겨루기",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 23334,
+   "title": "라이브 공연 중독",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 23333,
+   "title": "노벨상의 역설",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 23332,
+   "title": "동문 화합의 자리, DONATING POSTECHians 2024 개최",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23332_27768_2142.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 23331,
+   "title": "제 459호 형산만평",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23331_27769_2239.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

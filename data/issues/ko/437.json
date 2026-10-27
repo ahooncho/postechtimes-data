@@ -1,42 +1,153 @@
 {
  "edition": "ko",
  "number": 437,
- "published": "2022-11-13T01:11:00+09:00",
- "lastUpload": "2022-11-13T01:26:00+09:00",
+ "published": "2022-10-03T01:52:00+09:00",
+ "lastUpload": "2022-10-03T12:47:00+09:00",
  "articles": [
   {
-   "id": 22332,
-   "title": "3년 만의 총학생회장단 입후보, 우리대학 학생 사회를 ‘세움'",
-   "published": "2022-11-13T01:26:00+09:00",
+   "id": 22284,
+   "title": "디지털 트윈과 물리 기반 인공지능 기술",
+   "published": "2022-10-03T12:47:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "이승철 / 기계 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22284_26902_4713.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22276,
+   "title": "도약이 될 우리들의 열정, KAIST-POSTECH 학생대제전",
+   "published": "2022-10-03T02:02:00+09:00",
    "category": "TOP/준TOP",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22276_26899_4555.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22275,
+   "title": "우리대학 동문 스타트업, 세계에서 인정받아",
+   "published": "2022-10-03T02:02:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22275_26898_4536.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22274,
+   "title": "POBBA, 대학체육관을 열정으로 채우다",
+   "published": "2022-10-03T02:01:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22274_26897_452.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 22273,
+   "title": "멀리, 높이, 더 빨리 쏴봐, Tachyons!",
+   "published": "2022-10-03T02:01:00+09:00",
+   "category": "기획/사진",
    "bylines": [
     "박준우 기자"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22332_26935_5226.jpg",
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N9",
-   "subSectionName": "TOP/준TOP"
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22273_26896_4438.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
   },
   {
-   "id": 22331,
-   "title": "Donating POSTECHians 2022, 동문재단의 시작을 알리다",
-   "published": "2022-11-13T01:25:00+09:00",
-   "category": "TOP/준TOP",
+   "id": 22272,
+   "title": "카포전 첫 경기 승리를 위해 달리다, 축구",
+   "published": "2022-10-03T02:00:00+09:00",
+   "category": "기획/사진",
    "bylines": [
-    "최대현",
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22272_26895_446.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 22271,
+   "title": "E-sports, 콜로세움에서 날아오를 채비를 하다",
+   "published": "2022-10-03T01:59:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22271_26894_4333.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 22270,
+   "title": "POSCAT, 탄탄한 팀워크로 준비한 카포전 AI",
+   "published": "2022-10-03T01:59:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "탁영채"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22270_26893_434.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 22269,
+   "title": "해킹, 이제는 승리할 때",
+   "published": "2022-10-03T01:58:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22269_26892_4221.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 22268,
+   "title": "카포전 지식싸움의 현장, 과학퀴즈",
+   "published": "2022-10-03T01:57:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
     "강민영 기자"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22331_26934_527.jpg",
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N9",
-   "subSectionName": "TOP/준TOP"
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22268_26891_4143.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
   },
   {
-   "id": 22330,
-   "title": "반도체 공정으로 전기전도도 73배 높인 박막 MOF 최초 제작",
-   "published": "2022-11-13T01:25:00+09:00",
+   "id": 22267,
+   "title": "스마트폰 카메라만으로 생체 신호 정확히 측정한다",
+   "published": "2022-10-03T01:57:00+09:00",
    "category": "단신보도",
    "bylines": [
     "안윤겸 기자"
@@ -48,295 +159,65 @@
    "subSectionName": "단신보도"
   },
   {
-   "id": 22329,
-   "title": "주변 소음에도 목소리 정확히 감지하는 피부 부착형 마이크로폰 개발",
-   "published": "2022-11-13T01:25:00+09:00",
+   "id": 22266,
+   "title": "열교환기 표면 윤활액에 실리카 나노입자 덧씌운 ‘오염 제로’ 열교환기 개발",
+   "published": "2022-10-03T01:56:00+09:00",
    "category": "단신보도",
-   "bylines": [
-    "이재현 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N34",
-   "subSectionName": "단신보도"
-  },
-  {
-   "id": 22328,
-   "title": "우리대학, 데이터 혁신 생태계 선두에 설 빅데이터 AI 혁신센터 개소",
-   "published": "2022-11-13T01:24:00+09:00",
-   "category": "단신보도",
-   "bylines": [
-    "고평강 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N34",
-   "subSectionName": "단신보도"
-  },
-  {
-   "id": 22327,
-   "title": "축구로 하나 된 우리대학, 3년만의 과대항 축구대회",
-   "published": "2022-11-13T01:24:00+09:00",
-   "category": "중형보도",
-   "bylines": [
-    "강민영 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22327_26933_5142.jpg",
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N11",
-   "subSectionName": "중형보도"
-  },
-  {
-   "id": 22326,
-   "title": "공동 연구팀, 의료 인공지능 대회 2위 수상",
-   "published": "2022-11-13T01:24:00+09:00",
-   "category": "중형보도",
-   "bylines": [
-    "이재현 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N11",
-   "subSectionName": "중형보도"
-  },
-  {
-   "id": 22325,
-   "title": "다양한 교내 먹거리의 미래, 복지회에 묻다",
-   "published": "2022-11-13T01:23:00+09:00",
-   "category": "대학",
-   "bylines": [
-    "장유진 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22325_26936_530.jpg",
-   "sectionCode": "S1N26",
-   "sectionName": "대학",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 22324,
-   "title": "우리대학 기술사업화 실적 1.6배 성장 쾌거 이뤄",
-   "published": "2022-11-13T01:23:00+09:00",
-   "category": "대학",
-   "bylines": [
-    "손유민 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22324_26940_5829.jpg",
-   "sectionCode": "S1N26",
-   "sectionName": "대학",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 22323,
-   "title": "도서관 좌석예약시스템, 잘 운영되고 있는가?",
-   "published": "2022-11-13T01:22:00+09:00",
-   "category": "대학",
-   "bylines": [
-    "이재현",
-    "최대현 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22323_26931_4946.jpg",
-   "sectionCode": "S1N26",
-   "sectionName": "대학",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 22322,
-   "title": "우리대학 시설물 안전의 현주소",
-   "published": "2022-11-13T01:22:00+09:00",
-   "category": "대학",
-   "bylines": [
-    "강민영",
-    "박준우 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22322_26932_5122.jpg",
-   "sectionCode": "S1N26",
-   "sectionName": "대학",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 22321,
-   "title": "우리대학 의과학 발전의 문을 열 의과학대학원 교수들을 만나다",
-   "published": "2022-11-13T01:21:00+09:00",
-   "category": "인터뷰",
-   "bylines": [
-    "강민영",
-    "고평강",
-    "손유민 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22321_26937_541.jpg",
-   "sectionCode": "S1N22",
-   "sectionName": "인터뷰",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 22320,
-   "title": "이모티콘 40주년, 이모티콘을 돌아보자",
-   "published": "2022-11-13T01:19:00+09:00",
-   "category": "문화",
-   "bylines": [
-    "소예린",
-    "조원준 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22320_26930_492.jpg",
-   "sectionCode": "S1N6",
-   "sectionName": "문화",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 22319,
-   "title": "연기부터 그림까지···벽을 깨고 아티스트 돼가는 AI",
-   "published": "2022-11-13T01:18:00+09:00",
-   "category": "문화",
-   "bylines": [
-    "고평강 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22319_26929_4848.jpg",
-   "sectionCode": "S1N6",
-   "sectionName": "문화",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 22318,
-   "title": "일상을 잠식해가는 마약, 청년층 마약사범 급증",
-   "published": "2022-11-13T01:18:00+09:00",
-   "category": "사회",
-   "bylines": [
-    "탁영채 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22318_26928_4826.jpg",
-   "sectionCode": "S1N20",
-   "sectionName": "사회",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 22317,
-   "title": "자꾸 깜빡깜빡한다면, 나도 영츠하이머?",
-   "published": "2022-11-13T01:18:00+09:00",
-   "category": "사회",
    "bylines": [
     "소예린 기자"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22317_26927_488.jpg",
-   "sectionCode": "S1N20",
-   "sectionName": "사회",
-   "subSectionCode": null,
-   "subSectionName": null
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
   },
   {
-   "id": 22316,
-   "title": "세포의 재구성: 합성생물학과 세포 프로그래밍",
-   "published": "2022-11-13T01:17:00+09:00",
-   "category": "학술",
+   "id": 22265,
+   "title": "체외 암 모델로 새로운 의료 방향을 개척하다",
+   "published": "2022-10-03T01:56:00+09:00",
+   "category": "단신보도",
    "bylines": [
-    "김종민 / 생명 조교수",
-    "강한솔 / 생명 통합"
+    "조원준"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22316_26942_83.jpg",
-   "sectionCode": "S1N5",
-   "sectionName": "학술",
-   "subSectionCode": null,
-   "subSectionName": null
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
   },
   {
-   "id": 22315,
-   "title": "좋은 코드 작성법",
-   "published": "2022-11-13T01:16:00+09:00",
-   "category": "포스테키안의픽",
+   "id": 22264,
+   "title": "20학번 재학생 전원에게 CES 견학 기회",
+   "published": "2022-10-03T01:56:00+09:00",
+   "category": "중형보도",
    "bylines": [
     "장유진 기자"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22315_26924_4525.jpg",
-   "sectionCode": "S1N32",
-   "sectionName": "기자의시선",
-   "subSectionCode": "S2N41",
-   "subSectionName": "포스테키안의픽"
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
   },
   {
-   "id": 22314,
-   "title": "초보 교수자의 어려움",
-   "published": "2022-11-13T01:15:00+09:00",
-   "category": "노벨동산",
+   "id": 22263,
+   "title": "우리대학, 전문연구요원 유연근무제 시행",
+   "published": "2022-10-03T01:55:00+09:00",
+   "category": "중형보도",
    "bylines": [
-    "이종식 / 인문 조교수"
+    "고평강 기자"
    ],
    "photo": null,
-   "sectionCode": "S1N27",
-   "sectionName": "여론",
-   "subSectionCode": "S2N24",
-   "subSectionName": "노벨동산"
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
   },
   {
-   "id": 22313,
-   "title": "진짜 좋은 사람이 되는 방법",
-   "published": "2022-11-13T01:14:00+09:00",
-   "category": "지곡골목소리",
-   "bylines": [
-    "윤태희 / 산경 20"
-   ],
-   "photo": null,
-   "sectionCode": "S1N27",
-   "sectionName": "여론",
-   "subSectionCode": "S2N26",
-   "subSectionName": "지곡골목소리"
-  },
-  {
-   "id": 22312,
-   "title": "제437호 ‘도약이 될 우리들의 열정, KAIST-POSTECH 학생대제전’을 읽고",
-   "published": "2022-11-13T01:14:00+09:00",
-   "category": "독자리뷰",
-   "bylines": [
-    "이준석 / 신소재 21"
-   ],
-   "photo": null,
-   "sectionCode": "S1N27",
-   "sectionName": "여론",
-   "subSectionCode": "S2N27",
-   "subSectionName": "독자리뷰"
-  },
-  {
-   "id": 22311,
-   "title": "훌리건들에게 고한다",
-   "published": "2022-11-13T01:13:00+09:00",
-   "category": "78오름돌",
-   "bylines": [
-    "최대현 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N32",
-   "sectionName": "기자의시선",
-   "subSectionCode": "S2N39",
-   "subSectionName": "78오름돌"
-  },
-  {
-   "id": 22310,
-   "title": "초연결 시대, 편리함 이면의 의존성",
-   "published": "2022-11-13T01:13:00+09:00",
-   "category": "78내림돌",
-   "bylines": [
-    "조원준 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N32",
-   "sectionName": "기자의시선",
-   "subSectionCode": "S2N40",
-   "subSectionName": "78내림돌"
-  },
-  {
-   "id": 22309,
-   "title": "대학의 사계절",
-   "published": "2022-11-13T01:12:00+09:00",
+   "id": 22262,
+   "title": "인공지능의 역설과 미래",
+   "published": "2022-10-03T01:54:00+09:00",
    "category": "사설",
    "bylines": [
     "times"
@@ -348,32 +229,60 @@
    "subSectionName": "사설"
   },
   {
-   "id": 22308,
-   "title": "성공적으로 개최된 Science Festival-Computing Fair",
-   "published": "2022-11-13T01:12:00+09:00",
-   "category": "현장포착",
-   "bylines": [
-    "탁영채 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22308_26923_4448.jpg",
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N38",
-   "subSectionName": "현장포착"
-  },
-  {
-   "id": 22307,
-   "title": "438호 형산만평",
-   "published": "2022-11-13T01:11:00+09:00",
+   "id": 22261,
+   "title": "437호 형산만평",
+   "published": "2022-10-03T01:53:00+09:00",
    "category": "형산만평",
    "bylines": [
     "times"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/202211/22307_26922_4221.jpg",
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22261_26890_3744.jpg",
    "sectionCode": "S1N27",
    "sectionName": "여론",
    "subSectionCode": "S2N29",
    "subSectionName": "형산만평"
+  },
+  {
+   "id": 22260,
+   "title": "2022 포카전 사진기사(1)",
+   "published": "2022-10-03T01:52:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22260_26885_3557.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 22259,
+   "title": "2022 포카전 사진기사(2)",
+   "published": "2022-10-03T01:52:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22259_26878_3321.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 22258,
+   "title": "2022 포카전 사진기사(3)",
+   "published": "2022-10-03T01:52:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22258_26871_3053.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
   }
  ],
  "briefs": {}

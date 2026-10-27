@@ -1,181 +1,223 @@
 {
  "edition": "ko",
  "number": 392,
- "published": "2018-02-09T13:01:00+09:00",
- "lastUpload": "2018-02-09T14:18:00+09:00",
+ "published": "2018-01-01T19:44:00+09:00",
+ "lastUpload": "2018-01-01T20:58:00+09:00",
  "articles": [
   {
-   "id": 10112,
-   "title": "세상으로 뻗어나가는 포스테키안의 첫걸음",
-   "published": "2018-02-09T14:18:00+09:00",
-   "category": "TOP/준TOP",
-   "bylines": [
-    "김윤식 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10112_24870_3811.jpg",
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N9",
-   "subSectionName": "TOP/준TOP"
-  },
-  {
-   "id": 10111,
-   "title": "포항공대신문이 이렇게 바뀝니다",
-   "published": "2018-02-09T14:13:00+09:00",
-   "category": "보도",
-   "bylines": [
-    "김건창 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10111_24885_2847.jpg",
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 10110,
-   "title": "2018학년도 학위수여식 총장 식사",
-   "published": "2018-02-09T14:12:00+09:00",
+   "id": 10074,
+   "title": "가치창출을 포스텍 도약의 원동력으로",
+   "published": "2018-01-01T20:58:00+09:00",
    "category": "축사/식사/치사",
    "bylines": [
     "김도연 총장"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10110_24869_1217.jpg",
+   "photo": "https://times.postech.ac.kr/news/photo/201801/10074_24852_5821.jpg",
    "sectionCode": "S1N25",
    "sectionName": "특집",
    "subSectionCode": "S2N30",
    "subSectionName": "축사/식사/치사"
   },
   {
-   "id": 10109,
-   "title": "2018학년도 학위수여식 이사장 치사",
-   "published": "2018-02-09T14:11:00+09:00",
+   "id": 10073,
+   "title": "모든 혁신은 Vulnerability를 동반한다",
+   "published": "2018-01-01T20:56:00+09:00",
    "category": "축사/식사/치사",
    "bylines": [
-    "권오준 이사장"
+    "한진관(생명) / 이학 학장"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10109_24868_1148.jpg",
+   "photo": "https://times.postech.ac.kr/news/photo/201801/10073_24851_5732.jpg",
    "sectionCode": "S1N25",
    "sectionName": "특집",
    "subSectionCode": "S2N30",
    "subSectionName": "축사/식사/치사"
   },
   {
-   "id": 10108,
-   "title": "우리대학, 포항 방사광가속기 위탁운영기관으로 최종 선정",
-   "published": "2018-02-09T14:11:00+09:00",
+   "id": 10072,
+   "title": "미래 향해 더욱 가속도 붙이는 해가 되기를",
+   "published": "2018-01-01T20:55:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "권혁상 / 직장발전협의회 근로자 대표"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201801/10072_24850_566.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 10071,
+   "title": "Smart + Curiosity + Strategic Thinking",
+   "published": "2018-01-01T20:50:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "현석진 / 제14대 총동창회장"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201801/10071_24849_5030.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 10070,
+   "title": "가치창출대학으로의 '견실한' 발전 기반을 일구는 한 해로",
+   "published": "2018-01-01T20:49:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "김광재(산경) / 기획처장"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201801/10070_24848_505.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 10069,
+   "title": "전체학생대의원회에서 총학생회장단 및 총여학생회 징계 논의",
+   "published": "2018-01-01T20:48:00+09:00",
    "category": "보도",
    "bylines": [
-    "박준현 기자"
+    "박지후 기자"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10108_24873_4554.jpg",
+   "photo": null,
    "sectionCode": "S1N1",
    "sectionName": "보도",
    "subSectionCode": null,
    "subSectionName": null
   },
   {
-   "id": 10107,
-   "title": "낭비의 최소화, 나아가 우리대학의 가치 높인다",
-   "published": "2018-02-09T14:08:00+09:00",
-   "category": "보도",
-   "bylines": [
-    "박민해 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10107_24875_4851.jpg",
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 10106,
-   "title": "2017년을 되돌아보며",
-   "published": "2018-02-09T14:07:00+09:00",
+   "id": 10068,
+   "title": "예비 포스테키안을 환영합니다",
+   "published": "2018-01-01T20:46:00+09:00",
    "category": "대학",
    "bylines": [
-    "황성진 기자"
+    "박민해 기자 황성진 기자"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10106_24876_5328.jpg",
+   "photo": null,
    "sectionCode": "S1N26",
    "sectionName": "대학",
    "subSectionCode": null,
    "subSectionName": null
   },
   {
-   "id": 10105,
-   "title": "포기하지 않고 노력한다면 그 진가는 드러난다",
-   "published": "2018-02-09T14:05:00+09:00",
-   "category": "인터뷰",
-   "bylines": [
-    "박민해 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10105_24867_531.jpg",
-   "sectionCode": "S1N22",
-   "sectionName": "인터뷰",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 10104,
-   "title": "스스로에 대해 믿음 가지고 행복하게 나아가길",
-   "published": "2018-02-09T14:01:00+09:00",
-   "category": "인터뷰",
-   "bylines": [
-    "김휘 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10104_24866_154.jpg",
-   "sectionCode": "S1N22",
-   "sectionName": "인터뷰",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 10102,
-   "title": "하고 싶은 일을 하며 찾은 나만의 가치(Value)",
-   "published": "2018-02-09T13:53:00+09:00",
-   "category": "인터뷰",
+   "id": 10067,
+   "title": "[시선공감]심장으로 켜는 78 계단 크리스마스 트리",
+   "published": "2018-01-01T20:37:00+09:00",
+   "category": "현장포착",
    "bylines": [
     "정유진 기자"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10102_24865_5346.jpg",
-   "sectionCode": "S1N22",
-   "sectionName": "인터뷰",
-   "subSectionCode": null,
-   "subSectionName": null
+   "photo": "https://times.postech.ac.kr/news/photo/201801/10067_24847_3737.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
   },
   {
-   "id": 10101,
-   "title": "항상 준비하는 마음가짐으로 다가올 기회에 부응하기를",
-   "published": "2018-02-09T13:53:00+09:00",
-   "category": "인터뷰",
+   "id": 10066,
+   "title": "퍼스널 컬러 알고 얼굴에 생기 되찾자!",
+   "published": "2018-01-01T20:36:00+09:00",
+   "category": "문화",
    "bylines": [
-    "황성진 기자"
+    "정유진 기자"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10101_24864_5316.jpg",
-   "sectionCode": "S1N22",
-   "sectionName": "인터뷰",
+   "photo": null,
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
    "subSectionCode": null,
    "subSectionName": null
   },
   {
-   "id": 10100,
-   "title": "남을 진심으로 돕거나 배려하면 내 삶은 더 풍요로워져",
-   "published": "2018-02-09T13:52:00+09:00",
-   "category": "인터뷰",
+   "id": 10065,
+   "title": "양파 껍질 셀룰로오스로 제작한 스마트 압전소자",
+   "published": "2018-01-01T20:32:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "이주현 / 화공 통합과정"
+   ],
+   "photo": null,
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10064,
+   "title": "[포항 지진 두 달, 상처는 아물었나] 지진 직격탄 맞은 한동대학교, 상황은 어떠한가",
+   "published": "2018-01-01T20:25:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "백승헌 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 10063,
+   "title": "[포항 지진 두 달, 상처는 아물었나] 우리대학 학생의 지진 경험담",
+   "published": "2018-01-01T20:24:00+09:00",
+   "category": "기획/사진",
    "bylines": [
     "장호중 기자"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10100_24863_5237.jpg",
-   "sectionCode": "S1N22",
-   "sectionName": "인터뷰",
-   "subSectionCode": null,
-   "subSectionName": null
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
   },
   {
-   "id": 10099,
-   "title": "자연적인 것이 최고인가",
-   "published": "2018-02-09T13:48:00+09:00",
+   "id": 10062,
+   "title": "[포항 지진 두 달, 상처는 아물었나] 지진 이후 달라진 재난 대비 시스템",
+   "published": "2018-01-01T20:23:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "명수한 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 10061,
+   "title": "[포항 지진 두 달, 상처는 아물었나] 우리대학 내진설계, 믿을 수 있나",
+   "published": "2018-01-01T19:57:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "김건창 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 10060,
+   "title": "[만평]",
+   "published": "2018-01-01T19:56:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 10059,
+   "title": "포스텍이 포스코를 먹여 살리는 날",
+   "published": "2018-01-01T19:49:00+09:00",
    "category": "사설",
    "bylines": [
     "."
@@ -187,12 +229,12 @@
    "subSectionName": "사설"
   },
   {
-   "id": 10098,
-   "title": "불이 꺼지지 않는 지식의 전당",
-   "published": "2018-02-09T13:48:00+09:00",
+   "id": 10058,
+   "title": "기레기여야 할 기자는 없다",
+   "published": "2018-01-01T19:48:00+09:00",
    "category": "78오름돌",
    "bylines": [
-    "김희진 기자"
+    "김건창 기자"
    ],
    "photo": null,
    "sectionCode": "S1N32",
@@ -201,26 +243,26 @@
    "subSectionName": "78오름돌"
   },
   {
-   "id": 10097,
-   "title": "393호 형산만평",
-   "published": "2018-02-09T13:48:00+09:00",
-   "category": "형산만평",
+   "id": 10057,
+   "title": "지능정보사회에서 법과 과학기술의 만남",
+   "published": "2018-01-01T19:46:00+09:00",
+   "category": "노벨동산",
    "bylines": [
-    "."
+    "정채연 / 인문 대우조교수"
    ],
-   "photo": "https://times.postech.ac.kr/news/photo/201802/10097_24871_4049.jpg",
+   "photo": null,
    "sectionCode": "S1N27",
    "sectionName": "여론",
-   "subSectionCode": "S2N29",
-   "subSectionName": "형산만평"
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
   },
   {
-   "id": 10095,
-   "title": "원망과 이해",
-   "published": "2018-02-09T13:37:00+09:00",
+   "id": 10056,
+   "title": "서울대학교, 다른 학교에서의 생활",
+   "published": "2018-01-01T19:46:00+09:00",
    "category": "지곡골목소리",
    "bylines": [
-    "강한솔 / 생명 15"
+    "도승원 / 전자 13"
    ],
    "photo": null,
    "sectionCode": "S1N27",
@@ -229,12 +271,12 @@
    "subSectionName": "지곡골목소리"
   },
   {
-   "id": 10094,
-   "title": "제392호 '퍼스널 컬러 알고 얼굴에 생기 되찾자!'를 읽고",
-   "published": "2018-02-09T13:01:00+09:00",
+   "id": 10055,
+   "title": "제391호 '포항서 규모 5.4 지진 발생'을 읽고",
+   "published": "2018-01-01T19:44:00+09:00",
    "category": "독자리뷰",
    "bylines": [
-    "김기환 / 기계 15"
+    "김지환 / 기계 17"
    ],
    "photo": null,
    "sectionCode": "S1N27",

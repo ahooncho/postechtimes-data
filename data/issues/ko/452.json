@@ -1,0 +1,393 @@
+{
+ "edition": "ko",
+ "number": 452,
+ "published": "2024-02-29T19:58:00+09:00",
+ "lastUpload": "2024-02-29T20:31:00+09:00",
+ "articles": [
+  {
+   "id": 22996,
+   "title": "우리대학에 첫 발걸음 내디딘 817인의 포스테키안",
+   "published": "2024-02-29T20:31:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22996_27500_1620.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22995,
+   "title": "제2 건학을 위한 대규모 투자계획 발표, 대학원생에게는 어떤 혜택이?",
+   "published": "2024-02-29T20:30:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이재현",
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22994,
+   "title": "2023학년도 2학기 Best Paper Award 선정 발표",
+   "published": "2024-02-29T20:26:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22993,
+   "title": "‘제4회 포스텍 SF 어워드’ 당선작 발표",
+   "published": "2024-02-29T20:25:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22992,
+   "title": "AI로 세포 간 상호작용 예측한다",
+   "published": "2024-02-29T20:25:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22991,
+   "title": "해조류 추출 탄수화물을 기반으로 망막 박리 치료용 인공 유리체 개발",
+   "published": "2024-02-29T20:24:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22990,
+   "title": "사립대 최초 한국도서관상 대상 수상",
+   "published": "2024-02-29T20:24:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22990_27504_206.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22989,
+   "title": "우리대학, 경북형 초청장학제도 수학대학으로 선정",
+   "published": "2024-02-29T20:23:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22988,
+   "title": "새롭게 단장된 RC 1층·11층 공용공간",
+   "published": "2024-02-29T20:22:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22988_27505_2345.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22987,
+   "title": "우리대학 외부 여론 대처 및 홍보 방식에 대한 구성원의 목소리",
+   "published": "2024-02-29T20:22:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22987_27506_2440.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22986,
+   "title": "우리대학 식생활 실태",
+   "published": "2024-02-29T20:21:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "강호연",
+    "오유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22986_27507_2625.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22985,
+   "title": "제2 건학으로 우리대학 날개 단다",
+   "published": "2024-02-29T20:19:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이재현",
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22985_27508_2915.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22984,
+   "title": "우리대학 안전은 어떻게 지켜질까, 안전팀을 만나다",
+   "published": "2024-02-29T20:18:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강민영",
+    "김윤철",
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22984_27509_3349.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22980,
+   "title": "제452호 형산만평",
+   "published": "2024-02-29T20:13:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22980_27499_5748.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 22978,
+   "title": "단통법 폐지와 제4이동통신사, 가계통신비 부담 줄어들까",
+   "published": "2024-02-29T20:10:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22978_27512_3646.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22977,
+   "title": "곪을 대로 곪은 의료 문제, 이번엔 해결될 수 있을까",
+   "published": "2024-02-29T20:09:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22977_27513_3725.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22976,
+   "title": "변화하는 도서정가제, 올바른 방향은",
+   "published": "2024-02-29T20:08:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이주형",
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22976_27498_5421.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22975,
+   "title": "딥페이크 피해 속출, 대책은?",
+   "published": "2024-02-29T20:08:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22975_27497_5225.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22974,
+   "title": "말랑말랑 리보솜",
+   "published": "2024-02-29T20:07:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "이준구 / 화공 조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22974_27495_500.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22973,
+   "title": "전통 스릴러 문법에 참신한 소재를 더한다면",
+   "published": "2024-02-29T20:06:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22973_27494_4648.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22972,
+   "title": "뜨거운 환호 속 열린 2024 새내기새로배움터 동아리 무대",
+   "published": "2024-02-29T20:05:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22972_27493_422.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22971,
+   "title": "‘자연에 이름 붙이기’를 읽고",
+   "published": "2024-02-29T20:04:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "김종흠 / 생명 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22970,
+   "title": "‘끝’이란 다시 시작할 수 있다는 것",
+   "published": "2024-02-29T20:02:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "김준서 / 컴공 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22969,
+   "title": "제451호 ‘우리대학의 전폭적인 장학 지원 제도들’을 읽고",
+   "published": "2024-02-29T20:01:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "문준성 / 무은재 23"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22968,
+   "title": "넓은 시야로 바라본 진정한 가치",
+   "published": "2024-02-29T20:00:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22967,
+   "title": "관계에서 찾는 존재의 의미",
+   "published": "2024-02-29T19:59:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22966,
+   "title": "포항공대 ‘제2의 건학’을 기대하며",
+   "published": "2024-02-29T19:58:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {}
+}

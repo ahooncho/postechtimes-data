@@ -1,452 +1,16 @@
 {
  "edition": "ko",
  "number": 395,
- "published": "2018-04-18T16:54:00+09:00",
- "lastUpload": "2018-04-18T18:59:00+09:00",
+ "published": "2018-03-28T13:14:00+09:00",
+ "lastUpload": "2018-03-28T16:18:00+09:00",
  "articles": [
   {
-   "id": 20184,
-   "title": "396호 형산만평",
-   "published": "2018-04-18T18:59:00+09:00",
-   "category": "형산만평",
-   "bylines": [
-    "."
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20184_25060_5911.jpg",
-   "sectionCode": "S1N27",
-   "sectionName": "여론",
-   "subSectionCode": "S2N29",
-   "subSectionName": "형산만평"
-  },
-  {
-   "id": 20183,
-   "title": "#POSTECH_Too, 우리대학도 말하다",
-   "published": "2018-04-18T18:55:00+09:00",
-   "category": "TOP/준TOP",
-   "bylines": [
-    "장호중 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201805/20183_25086_04.jpg",
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N9",
-   "subSectionName": "TOP/준TOP"
-  },
-  {
-   "id": 20182,
-   "title": "치열한 경선, 제1대 무은재새내기학생회장단 선거",
-   "published": "2018-04-18T18:54:00+09:00",
-   "category": "TOP/준TOP",
-   "bylines": [
-    "정유진 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N9",
-   "subSectionName": "TOP/준TOP"
-  },
-  {
-   "id": 20181,
-   "title": "대학평의원회 학칙 개정 및 감사실 감사규정 개정 단행",
-   "published": "2018-04-18T18:53:00+09:00",
-   "category": "TOP/준TOP",
-   "bylines": [
-    "박민해",
-    "황성진 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N9",
-   "subSectionName": "TOP/준TOP"
-  },
-  {
-   "id": 20180,
-   "title": "우리대학 조동우 교수, 생명의 신비상 수상 기념 강연 개최",
-   "published": "2018-04-18T18:52:00+09:00",
-   "category": "보도",
-   "bylines": [
-    "장호중 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20179,
-   "title": "학생회관 미끄럼틀 운영 시작",
-   "published": "2018-04-18T18:51:00+09:00",
-   "category": "보도",
-   "bylines": [
-    "박민해 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20178,
-   "title": "기계 임근배 교수팀, 대용량 물기름 분리 기술 개발",
-   "published": "2018-04-18T18:51:00+09:00",
-   "category": "보도",
-   "bylines": [
-    "정유진 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20177,
-   "title": "기존에 없었던 거울상 대칭 제올라이트 합성 성공",
-   "published": "2018-04-18T18:50:00+09:00",
-   "category": "보도",
-   "bylines": [
-    "황성진 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20176,
-   "title": "RIST 3동 실험실 화재 발생…초기 진압해 인명피해 없어",
-   "published": "2018-04-18T18:49:00+09:00",
-   "category": "중형보도",
-   "bylines": [
-    "김희진 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20176_25058_4926.jpg",
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N11",
-   "subSectionName": "중형보도"
-  },
-  {
-   "id": 20175,
-   "title": "전국 44개 대학교 여교수회, 미투 운동 지지 선언",
-   "published": "2018-04-18T18:48:00+09:00",
-   "category": "중형보도",
-   "bylines": [
-    "박민해 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N11",
-   "subSectionName": "중형보도"
-  },
-  {
-   "id": 20174,
-   "title": "과사통(과학과사회의통합적이해) 교수, 강의 중 ‘체벌’ 논란",
-   "published": "2018-04-18T18:47:00+09:00",
-   "category": "중형보도",
-   "bylines": [
-    "김건창 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N11",
-   "subSectionName": "중형보도"
-  },
-  {
-   "id": 20173,
-   "title": "[RC 10주년] 새내기 위한 RC의 변신, 무은재새내기학부가 이끄는 RC 프로그램",
-   "published": "2018-04-18T18:46:00+09:00",
-   "category": "대학",
-   "bylines": [
-    "박민해 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20173_25062_2510.jpg",
-   "sectionCode": "S1N26",
-   "sectionName": "대학",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20171,
-   "title": "[RC 10주년] RC, 새로운 10년을 맞이하며 지난 10년을 돌아보다",
-   "published": "2018-04-18T18:43:00+09:00",
-   "category": "대학",
-   "bylines": [
-    "정유진 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20171_25052_4135.jpg",
-   "sectionCode": "S1N26",
-   "sectionName": "대학",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20170,
-   "title": "효곡천문대, 다시 한번 모두의 품으로",
-   "published": "2018-04-18T18:37:00+09:00",
-   "category": "대학",
-   "bylines": [
-    "박준현",
-    "황성진 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20170_25050_3853.jpg",
-   "sectionCode": "S1N26",
-   "sectionName": "대학",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20169,
-   "title": "[제32기 수습기자의 다짐]",
-   "published": "2018-04-18T18:23:00+09:00",
-   "category": "수습기자의 다짐",
-   "bylines": [
-    "."
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20169_25042_2323.jpg",
-   "sectionCode": "S1N25",
-   "sectionName": "특집",
-   "subSectionCode": "S2N31",
-   "subSectionName": "수습기자의 다짐"
-  },
-  {
-   "id": 20168,
-   "title": "[제32기 수습기자] 글, 세상, 그리고 좋은 기사",
-   "published": "2018-04-18T18:22:00+09:00",
-   "category": "수습기자의 다짐",
-   "bylines": [
-    "권재영 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20168_25041_2222.jpg",
-   "sectionCode": "S1N25",
-   "sectionName": "특집",
-   "subSectionCode": "S2N31",
-   "subSectionName": "수습기자의 다짐"
-  },
-  {
-   "id": 20167,
-   "title": "[제32기 수습기자] 기자로서의 삶으로 꽉 채울 대학생활",
-   "published": "2018-04-18T18:21:00+09:00",
-   "category": "수습기자의 다짐",
-   "bylines": [
-    "김주희 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20167_25040_2132.jpg",
-   "sectionCode": "S1N25",
-   "sectionName": "특집",
-   "subSectionCode": "S2N31",
-   "subSectionName": "수습기자의 다짐"
-  },
-  {
-   "id": 20166,
-   "title": "[제32기 수습기자] 새로운 마음, 새로운 도전",
-   "published": "2018-04-18T18:21:00+09:00",
-   "category": "수습기자의 다짐",
-   "bylines": [
-    "김영현"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20166_25039_2018.jpg",
-   "sectionCode": "S1N25",
-   "sectionName": "특집",
-   "subSectionCode": "S2N31",
-   "subSectionName": "수습기자의 다짐"
-  },
-  {
-   "id": 20165,
-   "title": "[제32기 수습기자] W5, Which Was What We Wanted",
-   "published": "2018-04-18T18:19:00+09:00",
-   "category": "수습기자의 다짐",
-   "bylines": [
-    "국현호 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20165_25038_1920.jpg",
-   "sectionCode": "S1N25",
-   "sectionName": "특집",
-   "subSectionCode": "S2N31",
-   "subSectionName": "수습기자의 다짐"
-  },
-  {
-   "id": 20164,
-   "title": "[제32기 수습기자] 우리대학 역사를 기록하는 사람이 되다",
-   "published": "2018-04-18T18:18:00+09:00",
-   "category": "수습기자의 다짐",
-   "bylines": [
-    "김성민 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20164_25037_1759.jpg",
-   "sectionCode": "S1N25",
-   "sectionName": "특집",
-   "subSectionCode": "S2N31",
-   "subSectionName": "수습기자의 다짐"
-  },
-  {
-   "id": 20163,
-   "title": "[제32기 수습기자] 글을 쓴다는 것과 기자가 된다는 것",
-   "published": "2018-04-18T18:16:00+09:00",
-   "category": "수습기자의 다짐",
-   "bylines": [
-    "이신범 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20163_25036_165.jpg",
-   "sectionCode": "S1N25",
-   "sectionName": "특집",
-   "subSectionCode": "S2N31",
-   "subSectionName": "수습기자의 다짐"
-  },
-  {
-   "id": 20162,
-   "title": "전직 대통령 구속, 또다시 반복된 헌정사의 비극",
-   "published": "2018-04-18T18:15:00+09:00",
-   "category": "사회",
-   "bylines": [
-    "박준현 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20162_25035_1447.jpg",
-   "sectionCode": "S1N20",
-   "sectionName": "사회",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20160,
-   "title": "대한민국을 뒤덮은 미세먼지, 병들어가는 한반도",
-   "published": "2018-04-18T18:10:00+09:00",
-   "category": "사회",
-   "bylines": [
-    "장호중 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20160_25034_1353.jpg",
-   "sectionCode": "S1N20",
-   "sectionName": "사회",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20159,
-   "title": "[오아시스] 구속영장이란?",
-   "published": "2018-04-18T18:06:00+09:00",
-   "category": "사회",
-   "bylines": [
-    "정유진 기자"
-   ],
-   "photo": null,
-   "sectionCode": "S1N20",
-   "sectionName": "사회",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20157,
-   "title": "개선 현실을 이용한 통증 치료",
-   "published": "2018-04-18T18:01:00+09:00",
-   "category": "학술",
-   "bylines": [
-    "구교인 / 울산대학교 의공학전공 교수"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20157_25030_033.jpg",
-   "sectionCode": "S1N5",
-   "sectionName": "학술",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20156,
-   "title": "'키덜트', 동심으로 돌아간 어른들",
-   "published": "2018-04-18T17:53:00+09:00",
-   "category": "문화",
-   "bylines": [
-    "김희진 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20156_25025_4916.jpg",
-   "sectionCode": "S1N6",
-   "sectionName": "문화",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20155,
-   "title": "웰다잉(Well Dying), 품위있는 죽음을 준비하다",
-   "published": "2018-04-18T17:42:00+09:00",
-   "category": "문화",
-   "bylines": [
-    "공환석 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20155_25017_3435.jpg",
-   "sectionCode": "S1N6",
-   "sectionName": "문화",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20154,
-   "title": "대학 생활에서 꼭 해야 할 것들",
-   "published": "2018-04-18T17:33:00+09:00",
-   "category": "노벨동산",
-   "bylines": [
-    "노준석 / 기계·화공 교수"
-   ],
-   "photo": null,
-   "sectionCode": "S1N27",
-   "sectionName": "여론",
-   "subSectionCode": "S2N24",
-   "subSectionName": "노벨동산"
-  },
-  {
-   "id": 20153,
-   "title": "‘폭짜’의 계절",
-   "published": "2018-04-18T17:32:00+09:00",
-   "category": "현장포착",
-   "bylines": [
-    "박민해 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20153_25016_3222.jpg",
-   "sectionCode": "S1N1",
-   "sectionName": "보도",
-   "subSectionCode": "S2N38",
-   "subSectionName": "현장포착"
-  },
-  {
-   "id": 20152,
-   "title": "AI와의 더부살이, 잘 얹혀살기 위한 방법론",
-   "published": "2018-04-18T17:31:00+09:00",
-   "category": "지곡골목소리",
-   "bylines": [
-    "하현우 / 전자 16"
-   ],
-   "photo": null,
-   "sectionCode": "S1N27",
-   "sectionName": "여론",
-   "subSectionCode": "S2N26",
-   "subSectionName": "지곡골목소리"
-  },
-  {
-   "id": 20151,
-   "title": "빛나지 않는 황금빛, 모노톤의 역사",
-   "published": "2018-04-18T17:30:00+09:00",
-   "category": "여론",
-   "bylines": [
-    "공환석 기자"
-   ],
-   "photo": "https://times.postech.ac.kr/news/photo/201804/20151_25015_2949.jpg",
-   "sectionCode": "S1N27",
-   "sectionName": "여론",
-   "subSectionCode": null,
-   "subSectionName": null
-  },
-  {
-   "id": 20150,
-   "title": "제395호 ‘포항공대신문, 총장실 문을 두드리다’를 읽고",
-   "published": "2018-04-18T16:56:00+09:00",
+   "id": 20119,
+   "title": "제394호 ‘‘결혼은 언제 하니?’에 대한 우리의 대답’을 읽고",
+   "published": "2018-03-28T16:18:00+09:00",
    "category": "독자리뷰",
    "bylines": [
-    "허태양 / 생명 16"
+    "최수지 / 생명 16"
    ],
    "photo": null,
    "sectionCode": "S1N27",
@@ -455,12 +19,351 @@
    "subSectionName": "독자리뷰"
   },
   {
-   "id": 20149,
-   "title": "우리 사회의 사회적 갈등, 이대로 괜찮은가",
-   "published": "2018-04-18T16:56:00+09:00",
-   "category": "78오름돌",
+   "id": 20118,
+   "title": "우리대학, 연세대와 ‘국내 최초’ 전방위 교류 선언",
+   "published": "2018-03-28T14:01:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20118_24991_1257.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20117,
+   "title": "제32대 총학생회장단, 김동석·정진아 후보 당선",
+   "published": "2018-03-28T14:00:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "박준현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20117_24987_034.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20116,
+   "title": "포스텍 1호 펀드 출범",
+   "published": "2018-03-28T14:00:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20115,
+   "title": "2019학년도부터 실천교양 교육과정 폐지된다",
+   "published": "2018-03-28T13:59:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김희진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20115_24992_2945.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20114,
+   "title": "등심위, 학부 등록금 동결·대학원 등록금 인상 의결",
+   "published": "2018-03-28T13:58:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "박준현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20114_24985_581.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20113,
+   "title": "2018 POSTECH STARTUP DAY 개최",
+   "published": "2018-03-28T13:57:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20112,
+   "title": "‘Ferrous Technology’ 온라인 강좌 신규 개설",
+   "published": "2018-03-28T13:56:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20111,
+   "title": "연세대학교 김용학 총장 초청 특강 개최",
+   "published": "2018-03-28T13:56:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20110,
+   "title": "우리대학 후배사랑 기금 3년째 이어져",
+   "published": "2018-03-28T13:56:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20109,
+   "title": "[총학생회장단 인터뷰]Better Together, 함께해서 더 좋은 총학생회",
+   "published": "2018-03-28T13:55:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20108,
+   "title": "더 넓은 세상으로, 세계 문화 탐방대",
+   "published": "2018-03-28T13:53:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20108_24981_509.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20107,
+   "title": "가깝고도 먼 우리대학 연구소, 어디까지 가봤니?",
+   "published": "2018-03-28T13:48:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "공환석",
+    "황성진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20107_24980_4547.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20106,
+   "title": "[김도연 총장 인터뷰]포항공대신문, 총장실 문을 두드리다",
+   "published": "2018-03-28T13:43:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "이승호",
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20106_24990_1116.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20105,
+   "title": "#MeToo, 세상을 울린 간절한 목소리",
+   "published": "2018-03-28T13:39:00+09:00",
+   "category": "사회",
    "bylines": [
     "이승호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20105_24976_3649.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20104,
+   "title": "바다의 보석, 진주층 형성의 이해",
+   "published": "2018-03-28T13:34:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "차형준 / 화공 교수",
+    "반소영 / 화공 박사후연구원"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20104_24975_340.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20102,
+   "title": "[평창 동계올림픽]PyeongChang 2018, “수고했어요. 평창!”",
+   "published": "2018-03-28T13:32:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "김희진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20102_24970_2815.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20101,
+   "title": "[평창 동계올림픽]빙판처럼 얼어붙었던 평창 동계올림픽 논란",
+   "published": "2018-03-28T13:27:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20101_24967_2532.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20100,
+   "title": "[평창 동계올림픽]올림픽의 숨은 주역, 자원봉사자들",
+   "published": "2018-03-28T13:23:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "박준현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20099,
+   "title": "[평창 동계올림픽]평창 동계올림픽, 뜨거운 마무리",
+   "published": "2018-03-28T13:22:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "박준현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20098,
+   "title": "겸손한 과학, 따뜻한 기술",
+   "published": "2018-03-28T13:21:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "장수영 / 산경 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 20097,
+   "title": "포스텍의 창업에 관하여",
+   "published": "2018-03-28T13:20:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "박진성 / 산경 16"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 20096,
+   "title": "395호 형산만평",
+   "published": "2018-03-28T13:20:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20096_24966_202.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 20095,
+   "title": "학생회관에 미끄럼틀 등장",
+   "published": "2018-03-28T13:19:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20095_24965_1852.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 20094,
+   "title": "돌아올게, 비가 다시 오는 날",
+   "published": "2018-03-28T13:17:00+09:00",
+   "category": "여론",
+   "bylines": [
+    "이승호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20094_24964_1718.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20093,
+   "title": "군 복무기간 단축, 국방력 약화가 아닌 약진의 기회",
+   "published": "2018-03-28T13:15:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김건창 기자"
    ],
    "photo": null,
    "sectionCode": "S1N32",
@@ -469,12 +372,12 @@
    "subSectionName": "78오름돌"
   },
   {
-   "id": 20148,
-   "title": "학문을 배우고 익히는 즐거움",
-   "published": "2018-04-18T16:55:00+09:00",
+   "id": 20092,
+   "title": "일기(日記), 하루의 기록",
+   "published": "2018-03-28T13:14:00+09:00",
    "category": "78내림돌",
    "bylines": [
-    "황성진 기자"
+    "박민해 기자"
    ],
    "photo": null,
    "sectionCode": "S1N32",
@@ -483,12 +386,12 @@
    "subSectionName": "78내림돌"
   },
   {
-   "id": 20147,
-   "title": "공유와 상생을 바탕으로 한 대학 모델",
-   "published": "2018-04-18T16:54:00+09:00",
+   "id": 20091,
+   "title": "대학의 개방",
+   "published": "2018-03-28T13:14:00+09:00",
    "category": "사설",
    "bylines": [
-    "."
+    "사설위원회"
    ],
    "photo": null,
    "sectionCode": "S1N27",

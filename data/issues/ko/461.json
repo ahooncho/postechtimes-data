@@ -1,0 +1,293 @@
+{
+ "edition": "ko",
+ "number": 461,
+ "published": "2025-01-06T09:00:00+09:00",
+ "lastUpload": "2025-01-06T09:00:00+09:00",
+ "articles": [
+  {
+   "id": 23459,
+   "title": "도전과 열정의 또 다른 한 해를 열며",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김성근 총장"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23459_27827_4842.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23458,
+   "title": "김진태 교수, 피부 밀착형 무선 햅틱 기기 개발",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23457,
+   "title": "이상민 교수팀, 나노입자 AI 설계로 유전자 치료 전환",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23456,
+   "title": "PAMTIP, 산업경영공학과에 지원금 3억원 전달",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23455,
+   "title": "우리대학, 첫 미래탐험포럼 개최",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23455_27829_5348.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23454,
+   "title": "지속가능캠퍼스를 향한 우리대학의 첫걸음",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "양지윤",
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23454_27830_5530.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23452,
+   "title": "우리대학의 밥약 문화는",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "양지윤",
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23452_27831_5628.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23451,
+   "title": "우리대학의 취업 지원, 어떻게 이뤄지고 있을까",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이이수",
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23451_27832_016.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23450,
+   "title": "굿즈 마케팅, 소장 욕구가 만든 새로운 트렌드",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23450_27833_143.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23449,
+   "title": "플라스틱 협약 결국 무산 … 심도있는 논의 선행돼야",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김태린",
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23449_27834_438.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23448,
+   "title": "2025년 신년사",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23448_27835_542.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 23447,
+   "title": "숨결이 남긴 발자취",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23447_27840_1241.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 23446,
+   "title": "실패 업고 튀어",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "정덕종 / 산경 대우조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 23445,
+   "title": "의연하다는 건",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "정호영 / 무은재 23"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 23444,
+   "title": "제460호 ‘교재 불법 다운로드, 해결책은 있을까’를 읽고",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "손다인 / 무은재 24"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 23443,
+   "title": "중립을 유지하겠다는 당신에게",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 23442,
+   "title": "잊어버린 말들",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 23441,
+   "title": "미래로 가는 여정의 출발선, 준비물 세 가지",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 23440,
+   "title": "3분 만에 듣는 우리대학 연구 이야기",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23440_27841_138.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 23439,
+   "title": "제461호 형산만평",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23439_27860_1020.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

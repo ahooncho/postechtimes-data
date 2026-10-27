@@ -1,0 +1,373 @@
+{
+ "edition": "ko",
+ "number": 414,
+ "published": "2019-11-08T15:29:00+09:00",
+ "lastUpload": "2019-11-08T15:56:00+09:00",
+ "articles": [
+  {
+   "id": 21087,
+   "title": "우리대학, 러시아 극동연방대와 손잡다",
+   "published": "2019-11-08T15:56:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21087_25993_5644.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21086,
+   "title": "제33대 총학생회 향한 ‘행복연구소’와 ‘파도’의 경선",
+   "published": "2019-11-08T15:56:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21086_25992_566.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21085,
+   "title": "뇌종양 실시간 관찰 가능한 세포영상기술 개발",
+   "published": "2019-11-08T15:55:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손도원 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21084,
+   "title": "우리대학, Dell Technologies와 MOU 체결",
+   "published": "2019-11-08T15:54:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21083,
+   "title": "우리대학, 연구 안전의 선두 달리다",
+   "published": "2019-11-08T15:54:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손도원 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21082,
+   "title": "이승우 교수팀, 장내 미생물 신호전달 경로 밝혀내",
+   "published": "2019-11-08T15:53:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21081,
+   "title": "우리대학, 세계혁신대학 아시아 1위",
+   "published": "2019-11-08T15:52:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21081_25991_5216.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21080,
+   "title": "우리대학, 2019년 반도체 인프라 구축 지원 사업 선정",
+   "published": "2019-11-08T15:51:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21079,
+   "title": "“연구가 항상 제 일과의 일부분이면 좋겠어요”, 이안나 교수 인터뷰",
+   "published": "2019-11-08T15:50:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21079_25988_4947.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21078,
+   "title": "POSTECH과 교육부 대학혁신지원사업",
+   "published": "2019-11-08T15:48:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "최은정 / 미래전략팀"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21078_25987_489.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 21077,
+   "title": "포스테키안과 함께하는 대학혁신지원사업",
+   "published": "2019-11-08T15:47:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "최은정 / 미래전략팀"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21077_25986_4657.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 21076,
+   "title": "414호 Humans of POSTECH",
+   "published": "2019-11-08T15:45:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21076_25983_4441.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 21075,
+   "title": "영화 보고 따라 하면 어쩌죠? 조커가 낳은 모방 범죄 논란",
+   "published": "2019-11-08T15:41:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이민우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21075_25982_4059.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21074,
+   "title": "먹는 것만 채식주의가 아니다···‘비건 패션’ 유행",
+   "published": "2019-11-08T15:40:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21074_25981_4013.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21073,
+   "title": "2019 유엔 기후행동 정상회의와 10대 환경운동가",
+   "published": "2019-11-08T15:39:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21073_25980_3912.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21072,
+   "title": "화성 연쇄살인 사건과 끝나버린 공소시효",
+   "published": "2019-11-08T15:38:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21072_25979_383.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21071,
+   "title": "탄소 2개 이어 붙이기의 어려움, 계산으로 풀어가는 메테인 산화이량화",
+   "published": "2019-11-08T15:37:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "하정명 박사 / 한국과학기술연구원 책임연구원"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21071_25978_3645.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21070,
+   "title": "우리는 답을 찾을 것이다, 늘 그랬듯이",
+   "published": "2019-11-08T15:35:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21070_25977_3537.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21069,
+   "title": "과학의 빛, 문학의 색",
+   "published": "2019-11-08T15:34:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "이상빈 / 인문 대우교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21068,
+   "title": "수레바퀴 아래서",
+   "published": "2019-11-08T15:33:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "김문정 / 물리 17"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21067,
+   "title": "제413호 “POSTECH-긱블-클래스워너원, 상생 위한 노력”을 읽고",
+   "published": "2019-11-08T15:33:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김 민 / 무은재 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21066,
+   "title": "‘관크’를 아시나요",
+   "published": "2019-11-08T15:32:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21065,
+   "title": "창조적인 삶",
+   "published": "2019-11-08T15:32:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "이민우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21064,
+   "title": "학과 설립, 변경, 폐쇄를 신중하게 하자",
+   "published": "2019-11-08T15:31:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21063,
+   "title": "제2회 치믈리에 선발 시험 개최",
+   "published": "2019-11-08T15:31:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21063_25975_3030.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21062,
+   "title": "414호 형산만평",
+   "published": "2019-11-08T15:29:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21062_25974_290.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

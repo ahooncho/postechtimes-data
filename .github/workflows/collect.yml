@@ -11,8 +11,12 @@ on:
       mode:
         description: "watch: 바뀌었을 때만 갱신 / update: 새 기사 바로 확인 / backfill: 전체 목록 처음부터(이어받기)"
         type: choice
-        options: [watch, update, backfill]
+        options: [watch, update, backfill, inspect]
         default: watch
+      article:
+        description: "inspect일 때 볼 기사 번호(idxno)"
+        required: false
+        default: "24338"
 
 permissions:
   contents: write
@@ -37,6 +41,7 @@ jobs:
             watch)    python3 tools/archive/ptimes_archive.py watch --once ;;
             update)   python3 tools/archive/ptimes_archive.py update ;;
             backfill) python3 tools/archive/ptimes_archive.py backfill ;;
+            inspect)  python3 tools/archive/ptimes_archive.py inspect "${{ github.event.inputs.article }}" ;;
           esac
       - name: Commit changes
         if: always()             # 중간에 막혀도 받은 데까지는 남깁니다(backfill 이어받기)

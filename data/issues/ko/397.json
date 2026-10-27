@@ -1,0 +1,379 @@
+{
+ "edition": "ko",
+ "number": 397,
+ "published": "2018-05-10T15:25:00+09:00",
+ "lastUpload": "2018-05-10T18:52:00+09:00",
+ "articles": [
+  {
+   "id": 20236,
+   "title": "397호 형산만평",
+   "published": "2018-05-10T18:52:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20236_25139_5212.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 20235,
+   "title": "2000, 2007... 2018, 다시 만난 두 정상, 장벽은 없었다",
+   "published": "2018-05-10T18:17:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20235_25154_541.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20234,
+   "title": "무은재새내기학생회장단 ‘범인’, 첫 발걸음을 내딛다",
+   "published": "2018-05-10T18:16:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "황성진",
+    "김성민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20233,
+   "title": "문미옥 청와대 과학기술보좌관 초청 강연 개최",
+   "published": "2018-05-10T18:14:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "김영현"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20232,
+   "title": "삼성전자 정은승 사장 초청 강연 개최",
+   "published": "2018-05-10T18:13:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "권재영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20231,
+   "title": "세계 최초로 거울 대칭 구조 금 나노입자 합성",
+   "published": "2018-05-10T18:13:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20230,
+   "title": "여진 대비를 위한 건물별 지진 대피 훈련 시행",
+   "published": "2018-05-10T18:12:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20229,
+   "title": "카카오 모빌리티 정주환 대표 초청 강연 개최",
+   "published": "2018-05-10T18:12:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20228,
+   "title": "경상북도, 우리대학에 인공지능 거점센터 개소",
+   "published": "2018-05-10T18:11:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김영현"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20228_25137_1035.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20227,
+   "title": "차명훈 코인원 대표 초청 강연, 토크쇼 개최",
+   "published": "2018-05-10T18:09:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20227_25136_859.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20226,
+   "title": "화재 현장에서 손쉽게 사용 가능한 통신헬멧 개발",
+   "published": "2018-05-10T18:08:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20226_25135_734.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20225,
+   "title": "우리대학의 석면사용건축물, 제대로 알아보자",
+   "published": "2018-05-10T18:05:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박준현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20225_25132_345.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20224,
+   "title": "방역 먼저? 사생활 먼저?",
+   "published": "2018-05-10T17:58:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20224_25130_5812.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20223,
+   "title": "세계를 이끌 우리대학 출신 30세 이하 리더",
+   "published": "2018-05-10T17:55:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "공환석",
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20223_25148_4450.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20220,
+   "title": "평화, 새로운 시작. 2018 남북정상회담",
+   "published": "2018-05-10T16:58:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20220_25125_5749.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20219,
+   "title": "양 정상 간 핫라인, 통일로의 직통선 되길",
+   "published": "2018-05-10T16:45:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20218,
+   "title": "형광·퀀텀닷 이용한 탐사 약물로 오류 없이 초기 암 찾아내는 기술",
+   "published": "2018-05-10T16:43:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "김성지 / 화학 교수",
+    "정예빈 / 화학 통합",
+    "이준화 / 화학 통합"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20218_25122_411.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20217,
+   "title": "우리대학의 숨은 마니아를 찾다",
+   "published": "2018-05-10T16:37:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "공환석",
+    "정유진",
+    "황성진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20217_25120_3311.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20215,
+   "title": "대화의 기술",
+   "published": "2018-05-10T15:38:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "김수영 / 인문 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 20214,
+   "title": "내가 평생 사랑할 수 있는 학교",
+   "published": "2018-05-10T15:37:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "문경덕 / 산경 15"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 20213,
+   "title": "제396호 ‘새내기 위한 RC의 변신, 무은재새내기학부가 이끄는 RC 프로그램’을 읽고",
+   "published": "2018-05-10T15:36:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "조승연 / 생명 16"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 20212,
+   "title": "크리스마스에 시청 옥상에서 뛰어내리겠습니다!",
+   "published": "2018-05-10T15:33:00+09:00",
+   "category": "여론",
+   "bylines": [
+    "권재영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20212_25110_3426.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20211,
+   "title": "후끈후끈 달아오른 4월 총학‘s day",
+   "published": "2018-05-10T15:32:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20211_25109_3222.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 20210,
+   "title": "대학 사회에서의 ‘리더 포비아’",
+   "published": "2018-05-10T15:26:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김희진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 20209,
+   "title": "군대 가고 싶다",
+   "published": "2018-05-10T15:25:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 20208,
+   "title": "포스텍 포지셔닝 - 연구",
+   "published": "2018-05-10T15:25:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {}
+}

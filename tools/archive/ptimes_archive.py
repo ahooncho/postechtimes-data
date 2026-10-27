@@ -265,18 +265,45 @@ def build_issues(articles: list[dict], config: dict, overrides: dict) -> dict[st
     pool = [a for a in articles if a["id"] not in excluded]
     issues: dict[str, list[dict]] = {"ko": [], "en": []}
 
-    # 국문: 호 안의 "제NNN호" 제목(단신보도·형산만평 등)에서 호수. 없으면 앞뒤 호 사이 하나 빈 경우만 채웁니다.
+    # 국문 호수. 호 안 제목의 "제NNN호"를 표로 셉니다.
+    #  - 형산만평·단신보도는 그 호 스스로(N, 가중치 3), 독자리뷰 "제N호 '…'를 읽고"는 지난 호를 다루므로 N+1(가중치 2),
+    #    그 밖의 제목은 N(가중치 1).
+    #  - 다른 연재물 번호("제17호 태풍")나 잘못 친 번호에 속지 않도록, 날짜순으로 엄격히 커지는 가장 긴 수열만 남깁니다.
+    #  - 비어 있는 호는 앞뒤 호수 차이와 빈 묶음 수가 정확히 맞을 때만 차례로 채웁니다.
     ko_groups = cluster([a for a in pool if a["edition"] == "ko"], gap)
     numbered = []
     for g in ko_groups:
-        nums = [int(m.group(1)) for a in g for m in [re.search(r"제\s*(\d+)\s*호", a["title"])] if m]
-        numbered.append(collections.Counter(nums).most_common(1)[0][0] if nums else None)
-    for i, g in enumerate(ko_groups):
-        if numbered[i] is None and len(g) >= 8:
-            prev = next((numbered[j] for j in range(i - 1, -1, -1) if numbered[j]), None)
-            nxt = next((numbered[j] for j in range(i + 1, len(ko_groups)) if numbered[j]), None)
-            if prev and nxt and nxt - prev == 2:
-                numbered[i] = prev + 1
+        votes = collections.Counter()
+        for a in g:
+            m = re.search(r"제\s*(\d+)\s*호", a["title"])
+            if not m:
+                continue
+            n = int(m.group(1))
+            if "읽고" in a["title"] or a.get("category") == "독자리뷰":
+                votes[n + 1] += 2          # 독자리뷰 "제N호 '…'를 읽고"는 다음 호(N+1)에 실림
+            elif a.get("category") in ("형산만평", "단신보도") or re.search(r"(형산만평|단신보도)", a["title"]):
+                votes[n] += 3              # 그 호 스스로를 가리키는 꼭지
+            else:
+                votes[n] += 1
+        numbered.append(votes.most_common(1)[0][0] if votes else None)
+    # 날짜순으로 엄격히 커지는 가장 긴 수열만 남깁니다(최장 증가 부분 수열). 어긋난 값은 다른 연재물·지난 호 언급.
+    known = [(i, n) for i, n in enumerate(numbered) if n is not None]
+    best, prev = [1] * len(known), [-1] * len(known)
+    for x in range(len(known)):
+        for y in range(x):
+            if known[y][1] < known[x][1] and best[y] + 1 > best[x]:
+                best[x], prev[x] = best[y] + 1, y
+    keep, x = set(), (max(range(len(known)), key=lambda k: best[k]) if known else -1)
+    while x != -1:
+        keep.add(known[x][0]); x = prev[x]
+    numbered = [n if i in keep else None for i, n in enumerate(numbered)]
+    # 빈 호 채우기: 앞 p, 뒤 q 사이 빈 묶음이 정확히 q-p-1개면 차례로
+    known = [i for i, n in enumerate(numbered) if n is not None]
+    for a_, b_ in zip(known, known[1:]):
+        gaps = [k for k in range(a_ + 1, b_) if len(ko_groups[k]) >= 5]
+        if gaps and numbered[b_] - numbered[a_] - 1 == len(gaps):
+            for off, k in enumerate(gaps, start=1):
+                numbered[k] = numbered[a_] + off
     for g, n in zip(ko_groups, numbered):
         if n is not None:
             issues["ko"].append({"number": n, "articles": g})
@@ -461,6 +488,23 @@ def cmd_watch(args) -> None:
         time.sleep(args.interval * 60)
 
 
+def cmd_inspect(args) -> None:
+    """기사 페이지 하나를 받아 본문 구조를 요약합니다(파서 점검용, 요청 1회)."""
+    fetcher = Fetcher(args.delay)
+    status, headers, body = fetcher.request("/news/articleView.html", {"idxno": str(args.id)})
+    page = body.decode("utf-8", errors="replace")
+    print(f"status {status} · {len(page)} chars · content-type {headers.get('Content-Type')}")
+    for marker in ("article-view-content-div", "itemprop=\"articleBody\"", "<article", "<strong", "기자"):
+        print(f"  {marker!r}: {page.count(marker)}")
+    i = page.find("article-view-content-div")
+    if i >= 0:
+        print("--- 본문 시작 부분 ---")
+        print(re.sub(r"\s+", " ", page[max(0, i - 200): i + 1800]))
+    print(f"--- 꼭지 {len(parse_briefs(page))}개 ---")
+    for b in parse_briefs(page):
+        print(" ", b["title"], "|", b["reporter"], "|", len(b["paragraphs"]))
+
+
 def cmd_build(args) -> None:
     finish(None, load_json(DATA / "articles.json", []), load_json(DATA / "categories.json", {}), fetch_bodies=False)
 
@@ -497,8 +541,12 @@ def main() -> None:
     w.add_argument("--once", action="store_true", help="한 번만 확인하고 끝내기")
     w.add_argument("--delay", type=float, default=1.5)
     w.add_argument("--max-pages", type=int, default=10)
+    i = sub.add_parser("inspect", help="기사 페이지 하나의 본문 구조 보기(파서 점검)")
+    i.add_argument("id", type=int)
+    i.add_argument("--delay", type=float, default=1.5)
     args = p.parse_args()
-    {"backfill": cmd_backfill, "update": cmd_update, "build": cmd_build, "watch": cmd_watch}[args.cmd](args)
+    {"backfill": cmd_backfill, "update": cmd_update, "build": cmd_build, "watch": cmd_watch,
+     "inspect": cmd_inspect}[args.cmd](args)
 
 
 if __name__ == "__main__":
