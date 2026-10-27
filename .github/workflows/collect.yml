@@ -41,7 +41,7 @@ jobs:
             watch)    python3 tools/archive/ptimes_archive.py watch --once ;;
             update)   python3 tools/archive/ptimes_archive.py update ;;
             backfill) python3 tools/archive/ptimes_archive.py backfill ;;
-            inspect)  python3 tools/archive/ptimes_archive.py inspect "${{ github.event.inputs.article }}" ;;
+            inspect)  python3 tools/archive/ptimes_archive.py inspect "${{ github.event.inputs.article }}" | tee data/.inspect_last.txt ;;
           esac
       - name: Commit changes
         if: always()             # 중간에 막혀도 받은 데까지는 남깁니다(backfill 이어받기)
