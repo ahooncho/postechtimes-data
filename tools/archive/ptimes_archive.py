@@ -211,7 +211,7 @@ def parse_briefs(page: str) -> list[dict]:
             briefs.append(current)
         current = None
 
-    for m in re.finditer(r"<(h[2-4]|p)\b[^>]*>(.*?)</\1>", body, re.S):
+    for m in re.finditer(r"<(h[1-4]|p)\b[^>]*>(.*?)</\1>", body, re.S):
         tag, raw = m.group(1), m.group(2)
         t = text(raw)
         if not t or "저작권자" in t:
