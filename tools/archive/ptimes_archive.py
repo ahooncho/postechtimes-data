@@ -198,7 +198,7 @@ def article_body(page: str) -> str:
 
 def parse_briefs(page: str) -> list[dict]:
     """단신 묶음 본문 → 꼭지들.
-    꼭지는 제목(<h2>·<h3> 또는 전체가 굵은 문단)으로 시작하고 "OOO 기자" 줄로 끝납니다.
+    꼭지는 제목(<h1>~<h4> 또는 전체가 굵은 문단)으로 시작하고 "OOO 기자" 줄로 끝납니다.
     바이라인은 따로 한 문단이거나(오른쪽 정렬·굵게일 때도 있음) 마지막 문단 끝 <br /> 뒤에 붙습니다."""
     body = article_body(page)
     if not body:
