@@ -186,13 +186,23 @@ def total_count(page: str) -> int | None:
     return int(m.group(1)) if m else None
 
 
+BYLINE_RE = re.compile(r"^([가-힣]{2,4})\s*기자(?:\s|$)")
+
+
+def article_body(page: str) -> str:
+    """기사 본문: <div id="article-view-content-div" …> 부터 저작권 표시(view-copyright) 전까지.
+    (예전 판형은 <article id=…>였으므로 그것도 받습니다.)"""
+    m = re.search(r'<(?:div|article)\b[^>]*id="article-view-content-div"[^>]*>(.*?)(?:<div class="view-copyright"|</article>)', page, re.S)
+    return m.group(1) if m else ""
+
+
 def parse_briefs(page: str) -> list[dict]:
-    """단신 묶음 본문 → 꼭지들. 굵은 제목으로 시작해 "OOO 기자" 줄로 끝납니다."""
-    m = re.search(r'<article\b[^>]*id="article-view-content-div"[^>]*>(.*?)</article>', page, re.S)
-    if not m:
+    """단신 묶음 본문 → 꼭지들. 굵은 제목 문단으로 시작하고, "OOO 기자" 줄(문단 끝 <br /> 뒤 또는 따로 한 문단)로 끝납니다."""
+    body = article_body(page)
+    if not body:
         return []
     briefs, current = [], None
-    for pm in re.finditer(r"<p\b[^>]*>(.*?)</p>", m.group(1), re.S):
+    for pm in re.finditer(r"<p\b[^>]*>(.*?)</p>", body, re.S):
         raw, t = pm.group(1), text(pm.group(1))
         if not t or "저작권자" in t:
             continue
@@ -202,15 +212,18 @@ def parse_briefs(page: str) -> list[dict]:
                 briefs.append(current)
             current = {"title": t, "reporter": None, "paragraphs": []}
             continue
-        rm = re.match(r"^([가-힣]{2,4})\s*기자(?:\s|$)", t)
-        if rm and len(t) < 60:
-            if current:
-                current["reporter"] = f"{rm.group(1)} 기자"
-                briefs.append(current)
+        lines = t.split("\n")
+        reporter = None
+        if BYLINE_RE.match(lines[-1]) and len(lines[-1]) < 60:
+            reporter = f"{BYLINE_RE.match(lines[-1]).group(1)} 기자"
+            lines = lines[:-1]
+        body_text = "\n".join(lines).strip()
+        if current is not None and body_text:
+            current["paragraphs"].append(body_text)
+        if reporter and current is not None:
+            current["reporter"] = reporter
+            briefs.append(current)
             current = None
-            continue
-        if current is not None:
-            current["paragraphs"].append(t)
     if current and current["paragraphs"]:
         briefs.append(current)
     return briefs

@@ -25,14 +25,17 @@ LIST = '''
 </section><a href="?page=2&total=38">2</a>
 '''
 
-BRIEF = '''<article id="article-view-content-div" class="article-veiw-body">
-<p><strong>산업경영공학과 채민우 교수, ‘올해의 대한민국 통계연구자상’ 수상</strong></p>
-<p>채민우(산경) 교수가 지난달 1일 제32회 통계의 날 기념식에서 수상했다.</p>
-<p>조아훈 기자 ahooncho@</p>
-<p><b>우리대학에서 즐기는 캐나다, 2026 PAF 개최</b></p>
-<p>지난달 29일부터 30일 이틀간 열렸다.</p>
-<p>김수진 기자 kimjinsujin@</p>
-<p>저작권자 © 포항공대신문 무단전재 및 재배포 금지</p>
+BRIEF = '''<article class="article-veiw-body view-page"> <div class="clearfix"> </div>
+<div id="article-view-content-div" class="" itemprop="articleBody">
+<p><strong>산업경영공학과 채민우 교수, &lsquo;올해의 대한민국 통계연구자상&rsquo; 수상</strong></p>
+<p>채민우(산경) 교수가 지난달 1일 제32회 통계의 날 기념식에서 수상했다.<br /> 조아훈 기자 ahooncho@</p> <hr />
+<p><strong>우리대학에서 즐기는 캐나다, 2026 PAF 개최</strong></p>
+<p>지난달 29일부터 30일 이틀간 열렸다.<br /> 김수진 기자 kimjinsujin@</p> <hr />
+<p><strong>포항경주공항 김포 노선, 10월부터 운항 중단</strong></p>
+<p>운항을 중단한다.</p>
+<p>김태린 기자 lucykim@</p>
+<div class="view-copyright">저작권자 &copy; 포항공대신문 무단전재 및 재배포 금지</div>
+<div class="view-editors"><p>가나다라마바사</p></div>
 </article>'''
 
 class ParserTests(unittest.TestCase):
@@ -60,9 +63,10 @@ class ParserTests(unittest.TestCase):
 
     def test_briefs(self):
         b = pa.parse_briefs(BRIEF)
-        self.assertEqual(len(b), 2)
-        self.assertEqual(b[0]["reporter"], "조아훈 기자")
-        self.assertEqual(b[1]["title"], "우리대학에서 즐기는 캐나다, 2026 PAF 개최")
+        self.assertEqual(len(b), 3)
+        self.assertEqual([x["reporter"] for x in b], ["조아훈 기자", "김수진 기자", "김태린 기자"])
+        self.assertEqual(b[0]["title"], "산업경영공학과 채민우 교수, ‘올해의 대한민국 통계연구자상’ 수상")
+        self.assertEqual(b[0]["paragraphs"], ["채민우(산경) 교수가 지난달 1일 제32회 통계의 날 기념식에서 수상했다."])
 
     def test_issue_numbering(self):
         def art(i, day, title, edition="ko", code="S1N1"):
