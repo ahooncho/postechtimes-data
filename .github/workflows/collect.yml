@@ -1,0 +1,52 @@
+# 포항공대신문 기사 목록 수집.
+# 15분마다 RSS 피드의 ETag·Last-Modified로 "사이트가 바뀌었나"만 묻고(평소엔 304 응답 하나),
+# 바뀌었을 때만 새 기사 목록을 받아 data/를 갱신해 커밋합니다.
+name: Collect
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"     # 15분마다(정각을 피해 서버 몰림을 줄임)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "watch: 바뀌었을 때만 갱신 / update: 새 기사 바로 확인 / backfill: 전체 목록 처음부터(이어받기)"
+        type: choice
+        options: [watch, update, backfill]
+        default: watch
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect          # 수집은 한 번에 하나만(겹치면 기다림)
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run
+        run: |
+          MODE="${{ github.event.inputs.mode || 'watch' }}"
+          case "$MODE" in
+            watch)    python3 tools/archive/ptimes_archive.py watch --once ;;
+            update)   python3 tools/archive/ptimes_archive.py update ;;
+            backfill) python3 tools/archive/ptimes_archive.py backfill ;;
+          esac
+      - name: Commit changes
+        if: always()             # 중간에 막혀도 받은 데까지는 남깁니다(backfill 이어받기)
+        run: |
+          git config user.name "postechtimes-collector"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -q -m "data: $(date -u +%Y-%m-%dT%H:%MZ) ${{ github.event.inputs.mode || 'watch' }}"
+            git push
+          fi
