@@ -364,6 +364,11 @@ def write_issue_files(articles: list[dict], briefs: dict[str, list], config: dic
             entries.append({"number": it["number"], "published": payload["published"],
                             "lastUpload": payload["lastUpload"], "count": len(group)})
         index[edition] = entries
+        # 호수가 바뀌어 더는 없는 호의 파일은 지웁니다(색인과 파일이 늘 일치하도록).
+        current = {f"{e['number']}.json" for e in entries}
+        for stale in (DATA / "issues" / edition).glob("*.json"):
+            if stale.name not in current:
+                stale.unlink()
     save_json(DATA / "issues" / "index.json", index)
     print(f"호 파일: 국문 {len(index['ko'])}개, 영문 {len(index['en'])}개")
 
