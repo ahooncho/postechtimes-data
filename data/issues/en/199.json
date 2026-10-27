@@ -1,0 +1,248 @@
+{
+ "edition": "en",
+ "number": 199,
+ "published": "2026-10-07T12:00:00+09:00",
+ "lastUpload": "2026-10-07T20:45:00+09:00",
+ "articles": [
+  {
+   "id": 24313,
+   "title": "At Long Last, DAWN: Dramatic Victory of 2026 KAIST-POSTECH Science War",
+   "published": "2026-10-07T20:45:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Choi Ji-hun",
+    "Sohn Ye-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24313_28616_844.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24312,
+   "title": "POSTECH’s Journey Toward a Sustainable Campus",
+   "published": "2026-10-07T20:43:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24312_28581_430.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24311,
+   "title": "AI-Designed Quasisymmetric Protein Nanocages: Enabling New Paths to Molecular Design",
+   "published": "2026-10-07T20:42:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Hong Seung-hye"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24311_28621_360.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24310,
+   "title": "Tackling a Top 10 Future Challenge with Stable, High-Performance p-Type Perovskite Transistors",
+   "published": "2026-10-07T20:40:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Hong Seung-hye"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24310_28579_3944.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24309,
+   "title": "Ending Seven Years of Legislative Inaction: Korea Launches Mifegyne, Used for Pregnancy Termination",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24309_28578_3729.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24308,
+   "title": "Postechian’s Lab Note: Decoding the Brain Through Coding",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24308_28577_3353.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24307,
+   "title": "POSTECH Dining Services Expands Menu Options Amid Operational Changes",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Hong Seung-hye"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24307_28576_3140.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24306,
+   "title": "Bringing POSTECH’s 40th Anniversary into Everyday Lives",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park Hyo-rin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24306_28575_2930.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24305,
+   "title": "Repair in Progress: Rebuilding the 78 Stairs",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Choi Ji-hun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24305_28574_2725.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24304,
+   "title": "Gene Editing: Ending Disease or Coding Inequality?",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24304_28620_341.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24302,
+   "title": "A Fresh Foreign Lens on POSTECH",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24302_28572_186.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24301,
+   "title": "Is Objectivity Worth Sacrificing Quality?",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24301_28571_1224.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24300,
+   "title": "The Human Cost of AI Data Labeling",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Sohn Ye-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24300_28570_1137.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24299,
+   "title": "35-Year-Old RSA Puzzle Solved, Followed by Bigger Record",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24299_28568_92.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24298,
+   "title": "The Endless Battle Against Ticket Scalping",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Park Hyo-rin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24298_28619_3030.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24297,
+   "title": "Tesla’s Ground Break in Korean Car Market",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24297_28566_325.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24295,
+   "title": "Postechian's Pick: If We Cannot Go at the Speed of Light (2026)",
+   "published": "2026-10-07T12:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24295_28618_305.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

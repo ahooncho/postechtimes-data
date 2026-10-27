@@ -1,0 +1,261 @@
+{
+ "edition": "en",
+ "number": 134,
+ "published": "2019-10-18T15:02:00+09:00",
+ "lastUpload": "2019-10-18T15:19:00+09:00",
+ "articles": [
+  {
+   "id": 21018,
+   "title": "Fall Typhoons Slam South Korea",
+   "published": "2019-10-18T15:19:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21018_25934_1851.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21017,
+   "title": "Ring the Golden Bell",
+   "published": "2019-10-18T15:18:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21017_25933_186.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21016,
+   "title": "POSTECH Selected as AI Graduate School",
+   "published": "2019-10-18T15:17:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21016_25932_1718.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21015,
+   "title": "Thermally Stable Organic Solar Cell Under Extreme Condition",
+   "published": "2019-10-18T15:16:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21015_25931_1636.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21014,
+   "title": "Korean Jets Fired Warning Shots at Russian Military Aircraft",
+   "published": "2019-10-18T15:15:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21014_25930_1549.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21013,
+   "title": "The 2019 Kawamura Awardee",
+   "published": "2019-10-18T15:15:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21013_25929_1457.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21012,
+   "title": "18th PKSW Victory Celebration Ceremony",
+   "published": "2019-10-18T15:14:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21012_25928_147.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21011,
+   "title": "After 35 Days, Cho Kuk Quits the Cabinet",
+   "published": "2019-10-18T15:13:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21011_25927_1324.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21010,
+   "title": "Are Postechians Drinking Safely?",
+   "published": "2019-10-18T15:12:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21010_25926_129.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21009,
+   "title": "POSTECH Microscope: Security Guard in Tae-joon Park Digital Library",
+   "published": "2019-10-18T15:11:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21009_25925_1051.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21008,
+   "title": "The Importance of Coding Education in the Fourth Industrial Revolution",
+   "published": "2019-10-18T15:09:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Prof. Lee Tae-wuk"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21008_25924_950.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21007,
+   "title": "The Evolution Behind Our Tendency to Make Patterns",
+   "published": "2019-10-18T15:08:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Jung Kang-min (EEE 18)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21007_25923_841.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21006,
+   "title": "Clothes That Fit Me",
+   "published": "2019-10-18T15:07:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21006_25922_738.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21005,
+   "title": "Tokyo 2020 Summer Olympics and its Controversies",
+   "published": "2019-10-18T15:06:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21005_25921_633.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21004,
+   "title": "Autonomous Delivery Robots",
+   "published": "2019-10-18T15:05:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21004_25919_519.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21003,
+   "title": "Trump’s War Against Drug Prices",
+   "published": "2019-10-18T15:04:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21003_25918_415.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21002,
+   "title": "Protein Source Alternatives on the Rise",
+   "published": "2019-10-18T15:03:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21002_25917_315.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21001,
+   "title": "Postechian’s Pick : Anna Karenina",
+   "published": "2019-10-18T15:02:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201910/21001_25916_227.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

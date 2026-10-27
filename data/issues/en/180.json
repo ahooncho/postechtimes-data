@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 180,
+ "published": "2024-10-30T13:00:00+09:00",
+ "lastUpload": "2024-10-30T13:00:00+09:00",
+ "articles": [
+  {
+   "id": 23329,
+   "title": "Second in THE World’s Best Small Universities",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23329_27770_2317.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23328,
+   "title": "A Successful Start of POSTECH AutumnFest",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23328_27771_2613.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23327,
+   "title": "No More Overheating Electronics with Spin Wave Technology",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23327_27772_2737.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23326,
+   "title": "Illuminating Life with Fluorescent Dye",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23326_27773_286.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23325,
+   "title": "Can AI Digital Textbooks Be a Game Changer in School Education?",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23325_27774_2833.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23324,
+   "title": "The Birth of Korea’s First Nobel Prize in Literature",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23324_27775_291.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23322,
+   "title": "Town Hall Meeting with U.S. Ambassador to Korea, Philip S. Goldberg",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23322_27776_2928.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23321,
+   "title": "POSTECH Reader’s Club: Expanding Horizons through Reading",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23321_27777_2952.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23320,
+   "title": "POSTECH Microscope: How General Affairs Support the POSCO International Center",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23320_27778_3035.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23319,
+   "title": "Clean Air for All: Pioneering a Career in Air Pollution",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Assistant Professor Hyungjoo Lee (DESE)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23319_27779_3113.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23318,
+   "title": "Postechian Column: Behind of the 2024 KPSW AI Competition",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Lee Yoon-hyeok (CSE 22)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23318_27780_3142.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23317,
+   "title": "Reporter Column: Climbing, Solving Problems",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23317_27781_3216.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23316,
+   "title": "K-Defense",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23316_27782_3255.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23315,
+   "title": "YouTube Under Investigation for Tie-in Sale",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23315_27783_3329.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23314,
+   "title": "Busan International Film Festival",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23314_27784_340.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23313,
+   "title": "The Flame of the Fire Garden No Longer Burns",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23313_27785_3444.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23312,
+   "title": "Postechian’s Pick: Horizons",
+   "published": "2024-10-30T13:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202410/23312_27786_3513.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

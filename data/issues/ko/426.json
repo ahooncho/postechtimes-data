@@ -1,0 +1,364 @@
+{
+ "edition": "ko",
+ "number": 426,
+ "published": "2021-09-06T00:31:00+09:00",
+ "lastUpload": "2021-09-06T01:38:00+09:00",
+ "articles": [
+  {
+   "id": 21695,
+   "title": "치솟는 확진자 수, 이번 학기도 ‘텅 빈’ 강의실",
+   "published": "2021-09-06T01:38:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21695_26440_387.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21694,
+   "title": "우리대학 의과학대학원 설립",
+   "published": "2021-09-06T01:36:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21693,
+   "title": "우리대학-중앙대, ‘동주공제(同舟共濟)’형 협력 나선다",
+   "published": "2021-09-06T01:35:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21692,
+   "title": "초임계 유체의 비평형 상분리 현상 관측",
+   "published": "2021-09-06T01:34:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21691,
+   "title": "분자 한층 두께의 테트라센 결정 최초 구현",
+   "published": "2021-09-06T01:33:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21690,
+   "title": "우리대학-이집트 정부 DEBI 협약 체결",
+   "published": "2021-09-06T01:33:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21690_26439_3323.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21689,
+   "title": "군 휴학생도 MOOC 학점 인정",
+   "published": "2021-09-06T01:32:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21688,
+   "title": "VISION 2036, 최정상을 향한 발걸음",
+   "published": "2021-09-06T01:30:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "소예린",
+    "안윤겸",
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21688_26438_3017.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21687,
+   "title": "의과학 발전 위한 첫 발걸음 내딛다",
+   "published": "2021-09-06T01:28:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21686,
+   "title": "입시 홍보도 비대면으로, ‘포아저씨의 노벨상 참 쉽죠?’",
+   "published": "2021-09-06T01:27:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "소예린",
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21686_26437_2728.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21685,
+   "title": "틱톡, 왕좌 지킬 수 있을까 … 숏폼 콘텐츠 시장 과열 양상",
+   "published": "2021-09-06T01:26:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21685_26436_264.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21684,
+   "title": "별점 노예로 전락한 플랫폼 노동자",
+   "published": "2021-09-06T01:24:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21684_26435_2429.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21681,
+   "title": "Humans of POSTECH",
+   "published": "2021-09-06T01:18:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "장유진",
+    "안윤겸",
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21681_26432_1535.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21680,
+   "title": "질소 헤테로고리 카빈을 이용한 생체 내 안정한 유기 라디칼 합성",
+   "published": "2021-09-06T01:11:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "이은성(화학과 부교수) / 정구윤(화학과 석사 과정)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21680_26429_1038.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21679,
+   "title": "낭만 기자",
+   "published": "2021-09-06T01:01:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21679_26428_138.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21678,
+   "title": "텍스트를 향한 열망",
+   "published": "2021-09-06T01:00:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "박승아 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21678_26427_034.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21677,
+   "title": "의미를 눌러 담은 기사",
+   "published": "2021-09-06T00:59:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21677_26426_5924.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21676,
+   "title": "기자로서의 사명감",
+   "published": "2021-09-06T00:50:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "박준우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21676_26425_5046.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21675,
+   "title": "성장 위한 한 걸음",
+   "published": "2021-09-06T00:49:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21675_26424_4920.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21674,
+   "title": "원했던 곳에서 원하는 일을 한다는 건",
+   "published": "2021-09-06T00:48:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21674_26423_4821.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21673,
+   "title": "꼰대와 철부지의 대화 없는 대결",
+   "published": "2021-09-06T00:42:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21672,
+   "title": "규칙적인 삶이 주는 행복",
+   "published": "2021-09-06T00:41:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21671,
+   "title": "코로나 이후 사회로의 움틈",
+   "published": "2021-09-06T00:40:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21670,
+   "title": "퍼시픽 밸리를 꿈꾸며, 체인지업 그라운드 개관",
+   "published": "2021-09-06T00:39:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21670_26420_3739.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21668,
+   "title": "제426호 형산만평",
+   "published": "2021-09-06T00:31:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202109/21668_26419_3141.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

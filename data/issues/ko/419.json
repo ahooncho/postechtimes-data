@@ -1,0 +1,458 @@
+{
+ "edition": "ko",
+ "number": 419,
+ "published": "2020-07-14T19:05:00+09:00",
+ "lastUpload": "2020-07-14T19:54:00+09:00",
+ "articles": [
+  {
+   "id": 21311,
+   "title": "2019학년도 학위수여식 전면 취소···‘대학 구성원 안전이 최우선’",
+   "published": "2020-07-14T19:54:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21311_26160_5329.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21310,
+   "title": "코로나19 확산, 2학기 학사일정도 변경",
+   "published": "2020-07-14T19:52:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21309,
+   "title": "우리대학-SK, ICT·AI 분야 발전 위한 업무협약 체결",
+   "published": "2020-07-14T19:50:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21308,
+   "title": "우리대학, ‘당당한 워킹맘-秀Su경단’ 참여기관 모집",
+   "published": "2020-07-14T19:49:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21307,
+   "title": "친환경 양자점의 비밀을 밝혀내다",
+   "published": "2020-07-14T19:49:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21306,
+   "title": "대학혁신지원사업 연차평가 A등급 획득",
+   "published": "2020-07-14T19:48:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21305,
+   "title": "인공지능대학원과 인공지능연구원 개원식 열려",
+   "published": "2020-07-14T19:48:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21305_26159_4734.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21304,
+   "title": "우리대학, K-MOOC 선도 대학 되다",
+   "published": "2020-07-14T19:45:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21303,
+   "title": "우리대학 의료기기혁신센터, 대학중점연구소지원사업 선정",
+   "published": "2020-07-14T19:44:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21303_26158_4432.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21302,
+   "title": "새로워진 교내 매장, GS25로 즐기기",
+   "published": "2020-07-14T19:43:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21302_26157_4318.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21301,
+   "title": "무은재학부생, 각자의 꿈을 찾아 떠나다",
+   "published": "2020-07-14T19:39:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21301_26163_3510.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21300,
+   "title": "등록금 반환 요구, 우리대학은 어떻게?",
+   "published": "2020-07-14T19:38:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "최수영 기자",
+    "문병필 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21299,
+   "title": "끊임없는 열정으로 계속 도전해 나가길",
+   "published": "2020-07-14T19:36:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21299_26155_364.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21298,
+   "title": "본인만의 가치를 가진 좋은 과학자가 되길",
+   "published": "2020-07-14T19:34:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21298_26154_3418.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21297,
+   "title": "자신의 능력을 통해 사회를 빛내는 인물이 되길",
+   "published": "2020-07-14T19:33:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21297_26153_3241.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21296,
+   "title": "끝까지 노력해 좋은 결실을 거둬 나가길",
+   "published": "2020-07-14T19:31:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21296_26152_3121.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21295,
+   "title": "도전과 책임",
+   "published": "2020-07-14T19:29:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21295_26151_2856.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21294,
+   "title": "꿈을 향한 한 발짝의 도전",
+   "published": "2020-07-14T19:28:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21294_26150_2818.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21293,
+   "title": "신문이 갖는 올바른 가치 찾기",
+   "published": "2020-07-14T19:27:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "박은하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21293_26149_2624.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21292,
+   "title": "우리가 가진 가능성",
+   "published": "2020-07-14T19:25:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21292_26148_2512.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21291,
+   "title": "좋은 글을 쓴다는 것",
+   "published": "2020-07-14T19:23:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21291_26147_2258.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21290,
+   "title": "삶의 원동력, 신문사에서 찾겠다",
+   "published": "2020-07-14T19:22:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21290_26146_225.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21289,
+   "title": "포항공대신문 34기 수습기자를 소개합니다",
+   "published": "2020-07-14T19:21:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21289_26145_2050.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 21288,
+   "title": "당신은 AI시대를 맞이할 준비가 됐는가?",
+   "published": "2020-07-14T19:14:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21288_26144_1244.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21287,
+   "title": "다들 어려운데, 나만 이렇게 즐거워도 되나",
+   "published": "2020-07-14T19:12:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "이건홍 / 화공 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21286,
+   "title": "여러분의 집콕생활은 안녕하신가요?",
+   "published": "2020-07-14T19:11:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "박종호 / 수학 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21285,
+   "title": "제418호 ‘우리대학까지 덮친 공포, 코로나바이러스’를 읽고",
+   "published": "2020-07-14T19:10:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "권민재 / 무은재 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21284,
+   "title": "기득권과 학벌주의",
+   "published": "2020-07-14T19:09:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21283,
+   "title": "작은 창문 너머",
+   "published": "2020-07-14T19:09:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21282,
+   "title": "비대면 교육 경험을 발전적으로 승화시키자",
+   "published": "2020-07-14T19:08:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21281,
+   "title": "철강대학원이 준비한 따뜻한 도시락",
+   "published": "2020-07-14T19:07:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21281_26143_727.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21280,
+   "title": "제419호 형산만평",
+   "published": "2020-07-14T19:05:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21280_26142_451.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

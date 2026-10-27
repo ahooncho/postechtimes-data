@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 166,
+ "published": "2023-06-15T08:45:00+09:00",
+ "lastUpload": "2023-06-15T09:00:00+09:00",
+ "articles": [
+  {
+   "id": 22632,
+   "title": "POSTECH Buddy Starts Under the New Name of PBUD",
+   "published": "2023-06-15T09:00:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22632_27184_45.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22631,
+   "title": "POSTECH Initiates Remodeling of Jigok Pond and Campus Facilities",
+   "published": "2023-06-15T08:59:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22631_27185_69.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22630,
+   "title": "Path of Light Reveals the Path to Solution",
+   "published": "2023-06-15T08:58:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22630_27186_755.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22629,
+   "title": "3D Printing of DNAs and Proteins",
+   "published": "2023-06-15T08:57:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22629_27187_920.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22628,
+   "title": "Malicious Comments – The Invisible Wounds­",
+   "published": "2023-06-15T08:56:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22628_27189_1132.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22627,
+   "title": "Controversy Over Expanding the Medical Student Quota",
+   "published": "2023-06-15T08:56:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22627_27188_1039.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22625,
+   "title": "Reportage – Uncover the Dreamy Archipelago",
+   "published": "2023-06-15T08:53:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22625_27190_1420.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22624,
+   "title": "Reportage – Exploring the future of Vietnam",
+   "published": "2023-06-15T08:51:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22624_27191_1534.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22623,
+   "title": "POSTECH Microscope: POSTECH Rowing Team",
+   "published": "2023-06-15T08:51:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22623_27192_1621.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22622,
+   "title": "Column: Why Should I Learn English When ChatGPT Can Do My Work?",
+   "published": "2023-06-15T08:50:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Soo-Ok Kweon (HSS)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22622_27193_1723.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22621,
+   "title": "Postechian Column: Exchange Abroad - A Brief Retrospective",
+   "published": "2023-06-15T08:49:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Won John (CSE 21)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22621_27194_1814.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22620,
+   "title": "Reporter Column: Doing the Job You Hate: Unveiling the Hidden Value",
+   "published": "2023-06-15T08:49:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22620_27195_1927.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22619,
+   "title": "Multi-Modal Model - Next Step towards Artificial General Intelligence",
+   "published": "2023-06-15T08:47:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22619_27196_2015.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22618,
+   "title": "Increasing the Use of Recycled Material in Smartphones",
+   "published": "2023-06-15T08:47:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Yoon Joo-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22618_27197_218.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22617,
+   "title": "Do Not Be Fooled by Advertorials",
+   "published": "2023-06-15T08:46:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22617_27198_2159.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22616,
+   "title": "Koreans Are in Love with Overseas Travel",
+   "published": "2023-06-15T08:45:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22616_27199_2242.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22615,
+   "title": "Postechian's Pick: Me Before You",
+   "published": "2023-06-15T08:45:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22615_27200_2332.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

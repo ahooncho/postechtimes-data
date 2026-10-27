@@ -1,0 +1,249 @@
+{
+ "edition": "en",
+ "number": 125,
+ "published": "2019-01-05T00:00:00+09:00",
+ "lastUpload": "2019-01-05T00:41:00+09:00",
+ "articles": [
+  {
+   "id": 20594,
+   "title": "2019 New Year Message from the President of POSTECH",
+   "published": "2019-01-05T00:41:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Doh-Yeon Kim",
+    "President of POSTECH"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20594_25505_4012.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20593,
+   "title": "The Postech ‘TMI’es",
+   "published": "2019-01-05T00:38:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20593_25504_3752.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20592,
+   "title": "How a Single Faculty Gene Can Lead to Lupus",
+   "published": "2019-01-05T00:36:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20592_25521_638.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20591,
+   "title": "World’s First Graduate Textbook in Statistical Physics",
+   "published": "2019-01-05T00:35:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20591_25501_3439.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20590,
+   "title": "Cell Cluster Improves Animal Testing Conditions",
+   "published": "2019-01-05T00:33:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20590_25500_3324.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20589,
+   "title": "Prefoldin-6 and Life Extension Discovered",
+   "published": "2019-01-05T00:32:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20589_25499_3215.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20588,
+   "title": "Two-Faced Nanocube to Solve Water Pollution",
+   "published": "2019-01-05T00:31:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20588_25498_313.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20587,
+   "title": "The 4th Univer+City Forum Held",
+   "published": "2019-01-05T00:30:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20587_25497_2924.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20586,
+   "title": "Outsourcing of Dangers",
+   "published": "2019-01-05T00:28:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20586_25496_2815.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20585,
+   "title": "The Postech ‘TMI’es",
+   "published": "2019-01-05T00:26:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Chae Seung-hyun et al."
+   ],
+   "photo": null,
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20584,
+   "title": "POSTECH Microscope: Reporters of The Postech Times",
+   "published": "2019-01-05T00:22:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20584_25495_215.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20583,
+   "title": "Entrepreneurial University: Benefits of Entrepreneurship Education for Engineering Students",
+   "published": "2019-01-05T00:20:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Seo Ri-bin (Assistant Professor",
+    "IME)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20583_25494_1927.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20582,
+   "title": "Is Denuclearization on the Korean peninsula All Right?",
+   "published": "2019-01-05T00:17:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Yeon Je-won (Mueunjae 18)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20582_25492_1623.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20581,
+   "title": "Gap inside me",
+   "published": "2019-01-05T00:15:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20581_25491_159.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20580,
+   "title": "Racism in the 21st Century",
+   "published": "2019-01-05T00:14:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20580_25490_1247.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20578,
+   "title": "KT Fire Incident Reveals Internet-Dependent Society",
+   "published": "2019-01-05T00:01:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20578_25489_125.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20577,
+   "title": "Double Sidedness of E Petition system",
+   "published": "2019-01-05T00:00:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201901/20577_25488_5925.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

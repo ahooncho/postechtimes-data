@@ -1,0 +1,233 @@
+{
+ "edition": "en",
+ "number": 118,
+ "published": "2018-05-10T09:49:00+09:00",
+ "lastUpload": "2018-05-10T10:29:00+09:00",
+ "articles": [
+  {
+   "id": 20206,
+   "title": "‘Beom-In’ Will Be the First MUC",
+   "published": "2018-05-10T10:29:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20206_25107_2824.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20204,
+   "title": "Earthquake Drill Conducted",
+   "published": "2018-05-10T10:27:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Jun-yong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20204_25106_278.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20203,
+   "title": "Unsavory Occurrence in the Graduate Student’s Apt.",
+   "published": "2018-05-10T10:26:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Ha-jun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20203_25105_2547.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20202,
+   "title": "POSTECH Data Intelligence Lab Nominated as 2018 SW StarLab",
+   "published": "2018-05-10T10:25:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20202_25104_2434.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20201,
+   "title": "A Talk Concert Held at POSTECH",
+   "published": "2018-05-10T10:23:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20201_25103_2332.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20200,
+   "title": "‘Communication Helmet’ Developed For Firefighters",
+   "published": "2018-05-10T10:22:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20200_25102_229.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20199,
+   "title": "POSTECH and Gyeongsangbuk Province Collaborate with AI Industries",
+   "published": "2018-05-10T10:21:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20199_25101_2058.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20198,
+   "title": "Gold Nanostructures Gain Chiral Properties through Directed Growth",
+   "published": "2018-05-10T10:20:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20198_25100_1933.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20197,
+   "title": "Reputation Manipulation by ‘Druking’",
+   "published": "2018-05-10T10:18:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20197_25099_1836.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20196,
+   "title": "Beom-In Elected as the First MUC",
+   "published": "2018-05-10T10:17:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Assistant Reporter"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20196_25098_165.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20194,
+   "title": "The Happiness of an Independent Life",
+   "published": "2018-05-10T10:01:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Park Sung-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20194_25095_043.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20193,
+   "title": "Success Determining Conditions",
+   "published": "2018-05-10T09:58:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kim Do-yeong (IME 17)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20193_25093_5824.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20192,
+   "title": "What Is Morality For?",
+   "published": "2018-05-10T09:56:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20192_25090_5515.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20191,
+   "title": "People Who Have Stopped After April 16, 2014",
+   "published": "2018-05-10T09:53:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20191_25089_5252.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20190,
+   "title": "Is PyeongChang Truly Finished?",
+   "published": "2018-05-10T09:51:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Jun-yong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20190_25088_5039.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20189,
+   "title": "2018 Inter-Korean Summit",
+   "published": "2018-05-10T09:49:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Ha-jun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20189_25087_4749.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

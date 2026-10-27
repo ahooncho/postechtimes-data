@@ -1,0 +1,248 @@
+{
+ "edition": "en",
+ "number": 121,
+ "published": "2018-10-10T17:59:00+09:00",
+ "lastUpload": "2018-10-10T19:28:00+09:00",
+ "articles": [
+  {
+   "id": 20383,
+   "title": "POSTECH IME, Beyond the Korean Best",
+   "published": "2018-10-10T19:28:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20383_25320_3113.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20382,
+   "title": "No More Sweating and Gasping",
+   "published": "2018-10-10T19:23:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20382_25319_2135.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20381,
+   "title": "1st Hyun-Eun Lecture Held in POSTECH",
+   "published": "2018-10-10T19:20:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20381_25318_1953.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20380,
+   "title": "Way to Hamper Gunpowder Aging",
+   "published": "2018-10-10T19:18:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20380_25317_1730.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20379,
+   "title": "The World First Textbook about Cucurbiturils has been Published",
+   "published": "2018-10-10T19:16:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20379_25316_1556.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20378,
+   "title": "University of Stuttgart Orchestra performs with POSTECH Orchestra",
+   "published": "2018-10-10T19:14:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20378_25315_1319.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20377,
+   "title": "Human Muscle Like In Vitro Muscle Regeneration Developed",
+   "published": "2018-10-10T19:07:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20377_25314_78.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20376,
+   "title": "Doping Two-Dimensional Semiconductors with Light Illumination",
+   "published": "2018-10-10T19:05:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20376_25313_523.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20375,
+   "title": "Should People See Wild Animals Beyond the Bars?",
+   "published": "2018-10-10T19:04:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20375_25312_353.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20372,
+   "title": "Applications in POSTECH",
+   "published": "2018-10-10T18:36:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Seung-Joo",
+    "Song Seung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20372_25308_3647.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20371,
+   "title": "POSTECH Microscope: an Exchange Student’s life in POSTECH",
+   "published": "2018-10-10T18:33:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20371_25307_3311.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20370,
+   "title": "A Blessing",
+   "published": "2018-10-10T18:23:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "SPENDIT Founder and CEO Danny Song"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20370_25306_2313.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20369,
+   "title": "Between the Future and Fate",
+   "published": "2018-10-10T18:21:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Lee Joon-hee (IME 17)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20369_25305_2121.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20368,
+   "title": "As a reporter",
+   "published": "2018-10-10T18:18:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20368_25304_192.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20366,
+   "title": "Controversy Over Yemeni Refugees in Jeju Island",
+   "published": "2018-10-10T18:12:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20366_25303_1154.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20365,
+   "title": "Stress in What’s Supposed To be a Healing Holiday",
+   "published": "2018-10-10T18:03:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20365_25302_413.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20364,
+   "title": "The Safety Blind spot of Electricity Mobility",
+   "published": "2018-10-10T17:59:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201810/20364_25301_055.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

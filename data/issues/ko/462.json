@@ -1,0 +1,334 @@
+{
+ "edition": "ko",
+ "number": 462,
+ "published": "2025-02-07T00:25:00+09:00",
+ "lastUpload": "2025-02-07T00:36:00+09:00",
+ "articles": [
+  {
+   "id": 23507,
+   "title": "담대한 도전의 끝과 새로운 시작, 더 넓은 세상으로 첫발을 내딛다",
+   "published": "2025-02-07T00:36:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23507_27904_599.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23506,
+   "title": "새로운 학위복, 우리대학의 비전과 가치를 담다",
+   "published": "2025-02-07T00:35:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23506_27903_5613.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23505,
+   "title": "김종환 교수팀, 단원자를 통한 양자 LED 광원 기술 개발",
+   "published": "2025-02-07T00:34:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23504,
+   "title": "생분해성 고분자로 차세대 mRNA 백신 전달체 개발",
+   "published": "2025-02-07T00:34:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23503,
+   "title": "임근배 교수팀, 혁신적인 수중 붕소 제거 시스템 개발",
+   "published": "2025-02-07T00:34:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23502,
+   "title": "2024 대한민국 창업우수대학 평가 종합대상 수상",
+   "published": "2025-02-07T00:34:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23502_27902_5127.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23501,
+   "title": "우리대학, 2024년 ‘이달의 과학기술인상’ 최다 선정",
+   "published": "2025-02-07T00:34:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23500,
+   "title": "이사장 치사",
+   "published": "2025-02-07T00:34:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23500_27901_4720.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 23499,
+   "title": "총장 식사",
+   "published": "2025-02-07T00:34:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23499_27899_4414.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 23498,
+   "title": "후반기에 들어선 BK21 사업, 우리대학 현황은",
+   "published": "2025-02-07T00:34:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "정유현",
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23498_27898_3628.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23497,
+   "title": "나의 가장 큰 원동력은 ‘호기심’",
+   "published": "2025-02-07T00:33:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23497_27896_3255.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23496,
+   "title": "과학과 국가와 미래를 선도하는 연구자를 향해",
+   "published": "2025-02-07T00:25:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "양지윤 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23496_27895_3115.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23495,
+   "title": "끊임없는 배움이 만들어낸 존재의 발자취",
+   "published": "2025-02-07T00:33:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "양지윤 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23495_27905_154.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23494,
+   "title": "긍정적인 마음과 폭넓은 소통을 바탕으로 한 연구의 길",
+   "published": "2025-02-07T00:33:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23494_27893_1538.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23492,
+   "title": "받은 만큼 베푸는 삶",
+   "published": "2025-02-07T00:33:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23492_27891_1313.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23491,
+   "title": "자신의 속도를 유지하며 천천히",
+   "published": "2025-02-07T00:33:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23491_27892_1339.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23490,
+   "title": "자신의 잠재력을 믿고 나아가길",
+   "published": "2025-02-07T00:33:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23490_27890_850.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23489,
+   "title": "12·29 제주항공 여객기 참사, 사고 원인과 재발 방지 대책은",
+   "published": "2025-02-07T00:33:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김윤철",
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23489_27889_5919.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23488,
+   "title": "색다른 문화로 자리 잡은 K-집회",
+   "published": "2025-02-07T00:32:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "양지윤",
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23488_27888_5411.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23487,
+   "title": "불완전한 이해",
+   "published": "2025-02-07T00:32:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "손도원 / 컴공 석사"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 23486,
+   "title": "제461호 ‘지속가능캠퍼스를 향한 우리대학의 첫걸음’을 읽고",
+   "published": "2025-02-07T00:32:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김순호 / 컴공 20"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 23485,
+   "title": "주인의식을 가지는 포스테키안",
+   "published": "2025-02-07T00:32:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 23484,
+   "title": "제462호 형산만평",
+   "published": "2025-02-07T00:31:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23484_27887_4137.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

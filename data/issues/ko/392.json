@@ -1,0 +1,247 @@
+{
+ "edition": "ko",
+ "number": 392,
+ "published": "2018-02-09T13:01:00+09:00",
+ "lastUpload": "2018-02-09T14:18:00+09:00",
+ "articles": [
+  {
+   "id": 10112,
+   "title": "세상으로 뻗어나가는 포스테키안의 첫걸음",
+   "published": "2018-02-09T14:18:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김윤식 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10112_24870_3811.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 10111,
+   "title": "포항공대신문이 이렇게 바뀝니다",
+   "published": "2018-02-09T14:13:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "김건창 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10111_24885_2847.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10110,
+   "title": "2018학년도 학위수여식 총장 식사",
+   "published": "2018-02-09T14:12:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "김도연 총장"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10110_24869_1217.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 10109,
+   "title": "2018학년도 학위수여식 이사장 치사",
+   "published": "2018-02-09T14:11:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "권오준 이사장"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10109_24868_1148.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 10108,
+   "title": "우리대학, 포항 방사광가속기 위탁운영기관으로 최종 선정",
+   "published": "2018-02-09T14:11:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "박준현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10108_24873_4554.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10107,
+   "title": "낭비의 최소화, 나아가 우리대학의 가치 높인다",
+   "published": "2018-02-09T14:08:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10107_24875_4851.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10106,
+   "title": "2017년을 되돌아보며",
+   "published": "2018-02-09T14:07:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10106_24876_5328.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10105,
+   "title": "포기하지 않고 노력한다면 그 진가는 드러난다",
+   "published": "2018-02-09T14:05:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10105_24867_531.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10104,
+   "title": "스스로에 대해 믿음 가지고 행복하게 나아가길",
+   "published": "2018-02-09T14:01:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김휘 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10104_24866_154.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10102,
+   "title": "하고 싶은 일을 하며 찾은 나만의 가치(Value)",
+   "published": "2018-02-09T13:53:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10102_24865_5346.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10101,
+   "title": "항상 준비하는 마음가짐으로 다가올 기회에 부응하기를",
+   "published": "2018-02-09T13:53:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10101_24864_5316.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10100,
+   "title": "남을 진심으로 돕거나 배려하면 내 삶은 더 풍요로워져",
+   "published": "2018-02-09T13:52:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10100_24863_5237.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10099,
+   "title": "자연적인 것이 최고인가",
+   "published": "2018-02-09T13:48:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 10098,
+   "title": "불이 꺼지지 않는 지식의 전당",
+   "published": "2018-02-09T13:48:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김희진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 10097,
+   "title": "393호 형산만평",
+   "published": "2018-02-09T13:48:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201802/10097_24871_4049.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 10095,
+   "title": "원망과 이해",
+   "published": "2018-02-09T13:37:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "강한솔 / 생명 15"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 10094,
+   "title": "제392호 '퍼스널 컬러 알고 얼굴에 생기 되찾자!'를 읽고",
+   "published": "2018-02-09T13:01:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김기환 / 기계 15"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  }
+ ],
+ "briefs": {}
+}

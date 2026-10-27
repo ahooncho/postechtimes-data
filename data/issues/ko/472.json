@@ -1,0 +1,331 @@
+{
+ "edition": "ko",
+ "number": 472,
+ "published": "2026-02-26T14:44:00+09:00",
+ "lastUpload": "2026-02-26T16:13:00+09:00",
+ "articles": [
+  {
+   "id": 24084,
+   "title": "기업혁신파크, 지방 도시의 재도약 이끌까? 포항으로 알아보는 지방 도시성장의 현주소",
+   "published": "2026-02-26T15:36:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202603/24084_28397_2222.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24083,
+   "title": "다시 시작된 원전시대? 신규 원전 2기 신설 결정",
+   "published": "2026-02-26T15:35:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202603/24083_28396_1150.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24079,
+   "title": "과학의 날개를 달고 비상하자, 포스테키안 875인의 첫 발돋움",
+   "published": "2026-02-26T16:13:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24079_28395_1324.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24078,
+   "title": "우리대학 기념품 출시, 올해 안으로 본격화 예정",
+   "published": "2026-02-26T16:10:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24078_28394_949.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24077,
+   "title": "연구를 위해 국경을 넘은 물리학자, 왜 그는 중국을 택했는가",
+   "published": "2026-02-26T16:08:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24077_28393_725.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 24076,
+   "title": "100년 전의 대한민국, 상하이 임시정부에 가다",
+   "published": "2026-02-26T16:06:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24076_28392_526.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 24075,
+   "title": "서울대 물리천문학부 강민구 교수 - 수석 졸업을 넘어 세계 무대로",
+   "published": "2026-02-26T16:04:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24075_28391_35.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24074,
+   "title": "KAIST 신소재공학과 조힘찬 교수 - 총동창회장상을 발판으로 신소재의 지평을 열다",
+   "published": "2026-02-26T16:01:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24074_28390_595.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24073,
+   "title": "메타버스·몰입형 기술 교육 확대, 현장 반응은",
+   "published": "2026-02-26T15:57:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24073_28389_5717.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24072,
+   "title": "활발한 국내 대학 학점교류, 그 이유와 장점은",
+   "published": "2026-02-26T15:54:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24071,
+   "title": "관리 사각지대에 놓인 캠퍼스 내 게시판과 포교 활동",
+   "published": "2026-02-26T15:53:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24071_28387_5142.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24070,
+   "title": "제473호 형산만평",
+   "published": "2026-02-26T15:45:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24070_28386_4514.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 24069,
+   "title": "포항공대신문 기자의 상하이 미식 탐방기",
+   "published": "2026-02-26T15:41:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24069_28384_4211.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24067,
+   "title": "단순한 숙박이 아닌 경험을, 우리나라의 펜션에 대해",
+   "published": "2026-02-26T15:34:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24067_28383_3343.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24066,
+   "title": "지능과 함께 오르는 전기세, AI 시대 전력 소비라는 과제",
+   "published": "2026-02-26T15:32:00+09:00",
+   "category": "과학",
+   "bylines": [
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24066_28382_3112.jpg",
+   "sectionCode": "S1N31",
+   "sectionName": "과학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24065,
+   "title": "계산 환경 변화 속에서의 알고리즘 이론",
+   "published": "2026-02-26T15:17:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "오은진 / 컴공 부교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24065_28378_1318.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24064,
+   "title": "다양성은 시혜가 아니라, 대학의 안전장치다",
+   "published": "2026-02-26T15:09:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "신훈철 / 인문 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 24062,
+   "title": "SF, 우리의 책임 있는 한 걸음",
+   "published": "2026-02-26T15:08:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "김영재 / 생명 24"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 24060,
+   "title": "제472호 “1,500원을 바라보는 원·달러 환율, 그 이유와 정부의 대응은”을 읽고",
+   "published": "2026-02-26T15:00:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "박단아 / 반도체 25"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 24059,
+   "title": "박제된 표본에 먼지가 쌓이듯",
+   "published": "2026-02-26T14:59:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24059_28377_5735.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 24058,
+   "title": "관성에 저항하는 법",
+   "published": "2026-02-26T14:55:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 24056,
+   "title": "소통하는 과학자의 의미",
+   "published": "2026-02-26T14:44:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 24055,
+   "title": "기자의 태도",
+   "published": "2026-02-26T14:47:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "한정우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  }
+ ],
+ "briefs": {}
+}

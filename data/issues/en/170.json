@@ -1,0 +1,248 @@
+{
+ "edition": "en",
+ "number": 170,
+ "published": "2023-12-05T20:30:00+09:00",
+ "lastUpload": "2023-12-05T20:45:00+09:00",
+ "articles": [
+  {
+   "id": 22811,
+   "title": "POSTECH’s Game-Changing Vision: Glocal University",
+   "published": "2023-12-05T20:45:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22811_27375_451.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22810,
+   "title": "POSTECH Triumphs: Seizing Victory at STadium",
+   "published": "2023-12-05T20:44:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22810_27374_4434.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22809,
+   "title": "Drops of Artistic Sense on Semiconductors",
+   "published": "2023-12-05T20:44:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22809_27373_4340.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22808,
+   "title": "Smart Operation of Dams with AI",
+   "published": "2023-12-05T20:42:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22808_27372_422.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22807,
+   "title": "Consumer Spending Rises Unexpectedly",
+   "published": "2023-12-05T20:41:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22807_27371_4129.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22806,
+   "title": "SAG – AFTRA : What We Need to Know About the Hollywood Strike",
+   "published": "2023-12-05T20:41:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22806_27370_4055.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22805,
+   "title": "Voices Over RC Renovation",
+   "published": "2023-12-05T20:40:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22805_27369_4018.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22804,
+   "title": "Election of a New Student President and the Voting Process",
+   "published": "2023-12-05T20:37:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22804_27368_3730.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22803,
+   "title": "POSTECH Microscope: Apple Developer Academy",
+   "published": "2023-12-05T20:37:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Yim O-Jung",
+    "Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22803_27366_3613.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22802,
+   "title": "Column: Complex Systems",
+   "published": "2023-12-05T20:35:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Woo-Sung Jung (PHYS&IME)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22802_27365_3539.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22801,
+   "title": "Postechian Column: Challenging Korea’s Age Hierarchy",
+   "published": "2023-12-05T20:35:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kim Yu-min (PHYS 22)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22801_27364_353.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22800,
+   "title": "Reporter Column: Behind Every Great Player- Another Great Player",
+   "published": "2023-12-05T20:34:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22800_27363_3415.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22799,
+   "title": "Deregulation of Disposable Products, What Will It Bring",
+   "published": "2023-12-05T20:33:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22799_27362_3320.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22798,
+   "title": "Megacity: The Seoul Expansion Debate",
+   "published": "2023-12-05T20:32:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22798_27359_3210.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22797,
+   "title": "Brutalism: Unveiling the Beauty in Bold Simplicity",
+   "published": "2023-12-05T20:31:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22797_27358_3127.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22796,
+   "title": "Why Northern Lights are Becoming More Common",
+   "published": "2023-12-05T20:30:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22796_27357_3049.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22795,
+   "title": "Postechian’s Pick: How to Stop Time",
+   "published": "2023-12-05T20:30:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22795_27356_3013.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

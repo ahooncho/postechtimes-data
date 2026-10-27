@@ -1,0 +1,393 @@
+{
+ "edition": "ko",
+ "number": 435,
+ "published": "2022-06-19T23:50:00+09:00",
+ "lastUpload": "2022-06-20T00:33:00+09:00",
+ "articles": [
+  {
+   "id": 22168,
+   "title": "테크니온-이스라엘 공과대와 실질적 교류 위한 발걸음을 떼다",
+   "published": "2022-06-20T00:33:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22168_26809_3849.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22167,
+   "title": "우리대학-양산부산대병원, 마이크로바이옴 연구 MOU 체결",
+   "published": "2022-06-20T00:32:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22166,
+   "title": "우리대학, KT와 인공지능 전문 인력 양성 나서",
+   "published": "2022-06-20T00:32:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22165,
+   "title": "기존 대비 수소 생산효율 12배 높은 광촉매 개발",
+   "published": "2022-06-20T00:32:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22164,
+   "title": "물리식 접목해 배터리 용량 예측하는 AI 기술 개발",
+   "published": "2022-06-20T00:31:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22163,
+   "title": "감종훈 교수팀, 러시아 이상기후의 이유 밝히다",
+   "published": "2022-06-20T00:31:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22162,
+   "title": "우리대학 연합체, 가속기 전문인력 양성 사업 참여",
+   "published": "2022-06-20T00:31:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22162_26808_3821.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22161,
+   "title": "우리대학 상담센터, 마음낙락 DAY 행사 진행",
+   "published": "2022-06-20T00:31:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22161_26807_3736.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22160,
+   "title": "3단계 산학연협력 선도대학 육성사업 선정",
+   "published": "2022-06-20T00:30:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22159,
+   "title": "장애 학생의 불편에 귀 기울이기 위한 노력",
+   "published": "2022-06-20T00:30:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22159_26806_3652.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22158,
+   "title": "봉사로 사회적 가치 실현하는 우리대학",
+   "published": "2022-06-20T00:29:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "손유민",
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22158_26805_2520.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22157,
+   "title": "시험철 어김없는 ‘족보 구합니다’ … 관습인가 악습인가",
+   "published": "2022-06-20T00:29:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "안윤겸",
+    "이태훈",
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22157_26804_2426.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22156,
+   "title": "우리대학 컴퓨터 비전 분야, 새로운 기록을 쓰다",
+   "published": "2022-06-20T00:19:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "박준우",
+    "이태훈",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22156_26800_217.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22155,
+   "title": "활기찬 문화생활이 돌아왔다",
+   "published": "2022-06-20T00:18:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22155_26799_1757.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22154,
+   "title": "개콘 종영 후 2년, 한국 코미디는 어떻게 달라졌을까",
+   "published": "2022-06-20T00:15:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22154_26798_1735.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22153,
+   "title": "팔수록 손해 … 한전 역대 최악 적자",
+   "published": "2022-06-20T00:14:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22153_26797_1658.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22152,
+   "title": "패권과 허상의 경계, 스테이블 코인",
+   "published": "2022-06-20T00:14:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22152_26795_152.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22151,
+   "title": "메타 표면 기반의 차세대 초박막 광학기기",
+   "published": "2022-06-20T00:13:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "노준석 / 기계공학과",
+    "화학공학과 부교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22151_26790_1028.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22150,
+   "title": "꾸밈없이 한껏 빛났던 청춘들의 이야기",
+   "published": "2022-06-20T00:12:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "박준우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22150_26789_922.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22149,
+   "title": "다시 포항에 돌아오기까지",
+   "published": "2022-06-20T00:12:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "김종환 / 신소재 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22148,
+   "title": "게임 개발을 통한 알찬 방학",
+   "published": "2022-06-20T00:11:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "하주원 / 무은재 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22147,
+   "title": "제434호 ‘학생 정식 5년 만에 가격 인상’을 읽고",
+   "published": "2022-06-20T00:11:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김지우 / 컴공 20"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22146,
+   "title": "반려견과 식용견, 양립할 수 있을까",
+   "published": "2022-06-20T00:10:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22145,
+   "title": "3년 만에 돌아온 대학 축제",
+   "published": "2022-06-20T00:05:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22144,
+   "title": "디지털 전환의 가속화, 숙고가 필요하다",
+   "published": "2022-06-20T00:05:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22143,
+   "title": "RC 탈출! 경주 월드에 가다",
+   "published": "2022-06-20T00:04:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22143_26788_828.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22142,
+   "title": "제435호 형산만평",
+   "published": "2022-06-19T23:50:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22142_26787_5558.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,276 @@
+{
+ "edition": "en",
+ "number": 196,
+ "published": "2026-04-29T09:30:00+09:00",
+ "lastUpload": "2026-04-29T09:30:00+09:00",
+ "articles": [
+  {
+   "id": 24154,
+   "title": "Privacy vs Policy: Re-Evaluating POSTECH Dormitory Regulations",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Tae Jong-hyeok",
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24154_28463_513.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24153,
+   "title": "K-BIGHEART: Vision for a New Paradigm in Biomedical Engineering",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24153_28462_355.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24152,
+   "title": "Development of Metalens Technology Switching Modes with a Single Switch",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24151,
+   "title": "No More Deleting Photos: Extremely High-Density Light-Based Storage Technology",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24150,
+   "title": "Postechian’s Lab Note: The Need for Human Verification",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Seongyun KIM (EE PhD. Candidate)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24150_28461_09.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24149,
+   "title": "Campus & AI: How Is POSTECH AI Being Utilized?",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24149_28460_5543.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24148,
+   "title": "Tax Relief Ends, Housing Market Wobbles",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Hyo-rin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24148_28459_2913.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24147,
+   "title": "The World Through Sonder",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24147_28458_217.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24146,
+   "title": "What I Picked Up with the Trash",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park Hyo-rin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24146_28457_1535.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24145,
+   "title": "Keeping My Lenses Polished",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Hong Seung-hye"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24145_28456_135.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24143,
+   "title": "POSTECH 40th Anniversary Lecture Series Begins by Designing the Future",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24143_28455_98.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24142,
+   "title": "Can AI Chatbots Replace Psychological Therapists?",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24142_28453_5335.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24141,
+   "title": "Postechian Column: Preparing for a Semester at UC Berkeley",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Chaehyeon CHUNG (CSE 23)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24141_28452_4736.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24140,
+   "title": "Reporter Column: The Reason Why I Went to the U.S. Before Midterms",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24140_28451_4229.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24139,
+   "title": "Investment FOMO Syndrome: Why Korean Investors are Falling into the Trap",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24139_28450_4030.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24138,
+   "title": "The Naphtha Shock: How Middle East Conflict Is Squeezing Global Supply Chains",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24138_28449_3546.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24137,
+   "title": "May: A Month That Represents Family",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24137_28448_3135.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24136,
+   "title": "The Rise of Korean Fine Dining: Reinterpretation of Traditions",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Hong Seung-hye"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24136_28447_2955.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24135,
+   "title": "Postechian's Pick: Project Hail Mary (2026)",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24135_28446_2720.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 150,
+ "published": "2021-12-14T00:33:00+09:00",
+ "lastUpload": "2021-12-14T01:29:00+09:00",
+ "articles": [
+  {
+   "id": 21804,
+   "title": "11th “Guamegi Startup Competition” Held at CHANGeUP Ground",
+   "published": "2021-12-14T01:29:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21804_26534_2918.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21803,
+   "title": "Domestic Student Exchange Programs at POSTECH",
+   "published": "2021-12-14T01:27:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21803_26533_2749.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21802,
+   "title": "Micromoter Drug Delivery System Targets Gastric Mucosa",
+   "published": "2021-12-14T01:26:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21802_26532_267.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21801,
+   "title": "7th “Introducing My Research” Held Online",
+   "published": "2021-12-14T01:23:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21801_26531_2257.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21800,
+   "title": "POSTECH Signs a Contract with Samsung Electronics to Establish Department of Semiconductor Engineering",
+   "published": "2021-12-14T01:21:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21800_26530_2147.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21799,
+   "title": "Netflix Experiencing Financial Disputes in Korea",
+   "published": "2021-12-14T01:11:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21799_26529_1110.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21798,
+   "title": "Bill of Rights for Graduate Students at POSTECH Declared",
+   "published": "2021-12-14T00:59:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21798_26528_5925.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21797,
+   "title": "President Moo Hwan Kim’s Third Year Since Inauguration",
+   "published": "2021-12-14T00:54:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21797_26527_5432.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21796,
+   "title": "POSTECH Microscope: Professor Kim Myung Soo",
+   "published": "2021-12-14T00:51:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21796_26526_5134.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21795,
+   "title": "How Cold is Ultracold?",
+   "published": "2021-12-14T00:49:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Jee Woo Park"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21795_26525_4859.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21794,
+   "title": "Is Rock Music Really in Crisis?",
+   "published": "2021-12-14T00:47:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Hong Seok-yun (PHYS 19)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21794_26524_478.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21793,
+   "title": "This is Not an Article about Climate Change",
+   "published": "2021-12-14T00:45:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim san"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21793_26523_4558.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21792,
+   "title": "Workplace Bullying in South Korea",
+   "published": "2021-12-14T00:41:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21792_26522_4142.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21791,
+   "title": "Shortage: Enemy within the Industry",
+   "published": "2021-12-14T00:39:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21791_26521_3952.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21790,
+   "title": "Offline Cultural Consumption and Related Support Programs",
+   "published": "2021-12-14T00:38:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21790_26520_383.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21789,
+   "title": "Reading Amidst the Pandemic",
+   "published": "2021-12-14T00:35:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21789_26519_3541.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21788,
+   "title": "Postechian’s Pick: Jojo Rabbit",
+   "published": "2021-12-14T00:33:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21788_26518_3342.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

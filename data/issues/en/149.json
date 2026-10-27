@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 149,
+ "published": "2021-11-13T22:41:00+09:00",
+ "lastUpload": "2021-11-14T00:25:00+09:00",
+ "articles": [
+  {
+   "id": 21759,
+   "title": "Living with COVID-19: Face-to-Face Classes Resume",
+   "published": "2021-11-14T00:25:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21759_26499_2452.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21758,
+   "title": "Apple Developer Academy and Manufacturing R&D Support Center to be Established at POSTECH",
+   "published": "2021-11-14T00:07:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21758_26498_2239.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21757,
+   "title": "Cactus-Spine-Inspired Sweat Collection Patch Developed",
+   "published": "2021-11-14T00:06:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21757_26497_651.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21756,
+   "title": "Magnetically Guidable Microparticles for Therapeutics Delivery Based on Mussel Adhesive Protein",
+   "published": "2021-11-14T00:05:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21756_26496_531.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21755,
+   "title": "The Korean Wave Means More Than Itself",
+   "published": "2021-11-13T23:51:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21755_26495_513.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21754,
+   "title": "South Korea Starts to Apply the “Vaccine Pass”",
+   "published": "2021-11-13T23:41:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21754_26494_4135.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21753,
+   "title": "Virtual Student Exchange Program Proceeds this Fall",
+   "published": "2021-11-13T23:34:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21753_26493_3359.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21752,
+   "title": "Academic Misconduct in Online Classes Prompts Preventative Measures",
+   "published": "2021-11-13T23:32:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21752_26492_3241.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21751,
+   "title": "POSTECH Microscope: The Counselling Center",
+   "published": "2021-11-13T23:31:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Lee Ji-hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21751_26491_3133.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21750,
+   "title": "My Research and Work at NINT",
+   "published": "2021-11-13T23:29:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Hoon-Kyu Shin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21750_26490_2937.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21747,
+   "title": "Do You Receive a “Proper” Education?",
+   "published": "2021-11-13T22:57:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Park Kyung-soo (EE 19)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21747_26489_5653.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21746,
+   "title": "Love Yourself",
+   "published": "2021-11-13T22:53:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21746_26488_536.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21745,
+   "title": "Recent Increase in Internet Bot Usage",
+   "published": "2021-11-13T22:48:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Ji-hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21745_26487_4838.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21744,
+   "title": "Nuri: South Korea’s First Homegrown Launch Vehicle",
+   "published": "2021-11-13T22:47:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21744_26485_4657.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21743,
+   "title": "Car Camping Aggravates Ocean Pollution",
+   "published": "2021-11-13T22:45:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21743_26484_4510.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21742,
+   "title": "A New Troubleshooter, Anonymity-based Applications",
+   "published": "2021-11-13T22:43:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21742_26483_4332.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21741,
+   "title": "Postechian’s Pick: Arrival",
+   "published": "2021-11-13T22:41:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21741_26482_4059.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

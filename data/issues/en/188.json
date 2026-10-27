@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 188,
+ "published": "2025-09-02T21:13:00+09:00",
+ "lastUpload": "2025-09-02T21:41:00+09:00",
+ "articles": [
+  {
+   "id": 23758,
+   "title": "Beyond the Lab, Across Borders : POSTECH Expands Study-Abroad Programs",
+   "published": "2025-09-02T21:41:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23758_28129_4040.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23757,
+   "title": "Toward an AI-Native University : POSTECH-MS Partnership Reshapes the System",
+   "published": "2025-09-02T21:39:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23757_28128_3927.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23756,
+   "title": "Battery Lifespan Enhancement with Cathode Dopant Control Technology",
+   "published": "2025-09-02T21:38:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23756_28125_3749.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23755,
+   "title": "Bridging Flexibility and Strength : A Pneumatic Robot Skin Actuator",
+   "published": "2025-09-02T21:36:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23755_28123_3453.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23754,
+   "title": "Issues Surrounding “HD Map Data” Reemerge",
+   "published": "2025-09-02T21:33:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23754_28122_3332.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23752,
+   "title": "Tariff Negotiations Reduce Uncertainty Advantage Disappears",
+   "published": "2025-09-02T21:32:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23752_28121_322.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23751,
+   "title": "The City of Steel Broadens Its Industrial Fields",
+   "published": "2025-09-02T21:31:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23751_28120_3054.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23750,
+   "title": "POSTECH Rowing Team brings Glorious Achievements",
+   "published": "2025-09-02T21:30:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23750_28119_2948.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23749,
+   "title": "POSTECH Introduces Innovative Tenure Extension Program for Outstanding Faculty",
+   "published": "2025-09-02T21:28:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23749_28118_2836.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23748,
+   "title": "The Special Act on Management of High-Level Waste : Remaining Challenges for Korea",
+   "published": "2025-09-02T21:25:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23748_28117_2536.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23747,
+   "title": "Postechian Column: How to Find Happiness in a Student Club",
+   "published": "2025-09-02T21:22:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Noh Ha-eun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23747_28114_2236.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23746,
+   "title": "Reporter Column: Navigating the Game Industry in Korea",
+   "published": "2025-09-02T21:21:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23746_28112_2044.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23745,
+   "title": "The Age of Drone Warfare and the Fall of Humanity",
+   "published": "2025-09-02T21:19:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23745_28111_1927.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23744,
+   "title": "Made in Korea, Loved Worldwide : Korea's Formula for Global Fame",
+   "published": "2025-09-02T21:18:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23744_28110_1749.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23743,
+   "title": "What We Can Expect of the Livelihood Recovery Consumption Coupons",
+   "published": "2025-09-02T21:16:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23743_28108_1611.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23742,
+   "title": "Jeonse : The Promise and Perils of Korea’s Unique Housing System",
+   "published": "2025-09-02T21:15:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23742_28107_1451.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23741,
+   "title": "Postechian’s Pick: The Subtle Art of Not Giving a F*ck",
+   "published": "2025-09-02T21:13:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23741_28105_1313.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

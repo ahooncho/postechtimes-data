@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 148,
+ "published": "2021-10-12T05:05:00+09:00",
+ "lastUpload": "2021-10-12T05:40:00+09:00",
+ "articles": [
+  {
+   "id": 21713,
+   "title": "POSTECH Victorious in PKSW by 3:2",
+   "published": "2021-10-12T05:40:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21713_26458_4019.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21712,
+   "title": "POSTECH Undergraduates Meet the President Online",
+   "published": "2021-10-12T05:39:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": null,
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21711,
+   "title": "Professor Junsuk Rho as New Associate Editor of Microsystems & Nanoengineering",
+   "published": "2021-10-12T05:38:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21711_26456_3841.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21710,
+   "title": "Novel Photocatalysis Method for Denitrification Developed",
+   "published": "2021-10-12T05:35:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21710_26455_3545.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21709,
+   "title": "New Upgrade in Stock Market: Trading in Decimal Points",
+   "published": "2021-10-12T05:33:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21709_26454_339.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21708,
+   "title": "Korean Government’s Regulations on Big-Tech Companies",
+   "published": "2021-10-12T05:26:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21708_26453_2614.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21707,
+   "title": "Seat Booking System Implemented in Tae-Joon Park Library",
+   "published": "2021-10-12T05:25:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21707_26452_2514.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21706,
+   "title": "Graduate Students Rest and Recharge Policy Enacted",
+   "published": "2021-10-12T05:22:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21706_26450_2251.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21705,
+   "title": "POSTECH Microscope: The Story of Exchange Students",
+   "published": "2021-10-12T05:21:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21705_26449_2054.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21704,
+   "title": "Broaden Your Intellectual Horizons",
+   "published": "2021-10-12T05:17:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Eunjin Oh"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21704_26448_1655.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21703,
+   "title": "Useful Tips for Your School Life",
+   "published": "2021-10-12T05:15:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21702,
+   "title": "Tips for Reading the News, Told by a Reporter",
+   "published": "2021-10-12T05:14:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21702_26447_147.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21701,
+   "title": "Taliban Take Over Afghanistan",
+   "published": "2021-10-12T05:11:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21701_26446_118.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21700,
+   "title": "South Korea Passes Bill to Restrict Compulsory In-app Payments",
+   "published": "2021-10-12T05:09:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21700_26445_859.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21699,
+   "title": "Consider the Gimmick",
+   "published": "2021-10-12T05:08:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21699_26444_754.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21698,
+   "title": "Inspiration4 Opens a New Era of Private Space Travel",
+   "published": "2021-10-12T05:06:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21698_26443_618.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21697,
+   "title": "Postechian’s Pick: The Big Short",
+   "published": "2021-10-12T05:05:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21697_26442_53.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

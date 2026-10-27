@@ -1,0 +1,310 @@
+{
+ "edition": "ko",
+ "number": 470,
+ "published": "2026-01-01T11:40:00+09:00",
+ "lastUpload": "2026-01-01T12:24:00+09:00",
+ "articles": [
+  {
+   "id": 23976,
+   "title": "2026년 신년사",
+   "published": "2026-01-01T12:24:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23976_28317_246.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 23974,
+   "title": "제471호 형산만평",
+   "published": "2026-01-01T12:15:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23974_28316_1536.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 23973,
+   "title": "미리 보는 우리대학의 2026년 주요 변화",
+   "published": "2026-01-01T12:13:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "양지윤 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23973_28314_1315.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23972,
+   "title": "미래를 맞는 자세: 두 개의 그림을 통한 대비",
+   "published": "2026-01-01T12:11:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "김성근 총장"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23972_28311_833.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 23970,
+   "title": "2026년 신년사: 불혹의 나이에 서서, 다시 길을 묻는 포스텍 2026",
+   "published": "2026-01-01T12:06:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "교수평의회 의장 김성지(화학)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23970_28310_555.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 23969,
+   "title": "2026년 신년사: 개교 40주년을 축하하며, 새로운 40년의 도약을 함께 합니다",
+   "published": "2026-01-01T12:05:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "직장발전협의회 의장 김복자(재무회계팀)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23969_28309_448.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 23968,
+   "title": "2026년 신년사: 개교 40주년, ‘포스텍 2.0’의 도약과 동창회의 혁신적 동행",
+   "published": "2026-01-01T12:04:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "총동창회장 박종훈 (기계 학88·석92·박94)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23968_28308_343.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 23967,
+   "title": "2026년 신년사: 공감과 화합으로 여는 새해",
+   "published": "2026-01-01T12:02:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "대학원총학생회 의장 임효경(전자 통합)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23967_28307_230.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 23966,
+   "title": "2026년 신년사: 내일, 다시 이륙할 우리",
+   "published": "2026-01-01T12:01:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "총학생회장 윤준하(융공 24)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23966_28306_12.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 23965,
+   "title": "전국 곳곳에 위치한 우리대학 협력 연구단",
+   "published": "2026-01-01T11:58:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "양지윤",
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23965_28305_5645.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23964,
+   "title": "누리호 4차 발사 성공의 주역, 박종찬 동문을 만나다",
+   "published": "2026-01-01T11:55:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김태린",
+    "유영주",
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23964_28304_550.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23963,
+   "title": "대학가에 스며든 생성형 AI, 슬기로운 사용법은",
+   "published": "2026-01-01T11:52:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김수진",
+    "최진현",
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23963_28302_5217.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23962,
+   "title": "K-스틸법 통과, 철강 산업의 새로운 분기점 되나",
+   "published": "2026-01-01T11:51:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "정혜정",
+    "송명빈",
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23962_28301_5017.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23961,
+   "title": "불기(不器)의 마음가짐, 그릇을 넘어서는 사람",
+   "published": "2026-01-01T11:49:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "최규하 / 생명 부교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 23960,
+   "title": "불안을 넘어, 나만의 행복과 미래를 디자인하는 법",
+   "published": "2026-01-01T11:48:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "이윤석 / 화공 24"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 23959,
+   "title": "자연의 시선으로 찍은 영화의 미학적 성취: 영화 ‘악은 존재하지 않는다’",
+   "published": "2026-01-01T11:48:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "송명빈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23959_28300_4751.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 23958,
+   "title": "제470호 ‘학식 가격 인상을 앞두고: 학식 가격 인상이 드러낸 진짜 쟁점은 ‘가격’과 ‘가치’의 조화’를 읽고",
+   "published": "2026-01-01T11:47:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "서연우 / 물리 24"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 23957,
+   "title": "불순물과 산란",
+   "published": "2026-01-01T11:45:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김범준 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 23956,
+   "title": "교수님과 함께 창업해도 될까",
+   "published": "2026-01-01T11:42:00+09:00",
+   "category": "독자기고",
+   "bylines": [
+    "정인오 / 기계공학과 학 06 / 파트너스라운지(유) 이사"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N42",
+   "subSectionName": "독자기고"
+  },
+  {
+   "id": 23955,
+   "title": "쉬지 못하는 포스테키안들에게",
+   "published": "2026-01-01T11:40:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 23954,
+   "title": "인공지능이 작곡한 국악의 세계 속으로",
+   "published": "2026-01-01T11:40:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23954_28299_406.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  }
+ ],
+ "briefs": {}
+}

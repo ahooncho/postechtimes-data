@@ -1,0 +1,381 @@
+{
+ "edition": "ko",
+ "number": 477,
+ "published": "2026-09-09T06:05:00+09:00",
+ "lastUpload": "2026-09-09T06:05:00+09:00",
+ "articles": [
+  {
+   "id": 24290,
+   "title": "첫 외국인·후기 전형 학부생 19명 입학… 글로벌 대학에 한 걸음 더",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24290_28564_5949.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24289,
+   "title": "인간·사회·과학기술을 하나로, 인문사회과학부 대학원 신설",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24288,
+   "title": "제477호 단신보도",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 24287,
+   "title": "‘과학기술특성화대학’으로서의 우리대학 지위 법적 근거 마련돼… 국가 지원 확대 기대",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 24286,
+   "title": "이길호, 서준호 교수 연구팀, 한국 첫 국제 양자 연구 프로그램 ‘QuantERA’ 공모 선정",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김범준 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 24284,
+   "title": "창단 10주년을 맞은 조정부, 국내외 대회서 잇단 성과",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24284_28563_5152.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 24283,
+   "title": "셔틀버스 노선 전면 개편…캠퍼스 안팎을 잇다",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "유영주 기자",
+    "조준혁 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24283_28562_3823.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24282,
+   "title": "우리대학의 정체성을 굿즈에 담다, 새롭게 문 연 ‘POSTECH Campus Store’",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "한정우 기자",
+    "박단아 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24282_28561_3549.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24281,
+   "title": "10대 1로 벌어진 수요 공급 비율, 자취생 울린 인근 원룸가 ‘포스텍 프리미엄’",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김태린 기자",
+    "조아훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24281_28560_340.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24280,
+   "title": "제477호 형산만평",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24280_28559_3255.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 24279,
+   "title": "[노벨이 탐구일지] 노벨이 건강 이상설, 현재 상태는?",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24279_28558_3040.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24277,
+   "title": "70년 만의 형사 사법 체계 전면 개편, 어떻게 달라지나",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "조유현 기자",
+    "김민하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24277_28557_2656.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24276,
+   "title": "전 세계적인 폭염, 늘어나는 냉방… 에어컨의 딜레마",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "한정우 기자",
+    "박단아 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24276_28556_2537.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24275,
+   "title": "이번 주말, 전시 보러 경주 어떤가요?",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "최진현 기자",
+    "조아훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24275_28555_232.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24274,
+   "title": "알파고 10년 후, AI를 꺾은 신진서 9단이 제시한 인간의 경쟁력",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "과학",
+   "bylines": [
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24274_28554_1934.jpg",
+   "sectionCode": "S1N31",
+   "sectionName": "과학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24273,
+   "title": "수의학도 유라 씨의 기계공학과 연구실 인턴 체험기",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24273_28553_179.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24272,
+   "title": "인턴으로 접한 기후변화 연구에서 환경공학 통합과정으로… 정수정 씨를 만나다",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24272_28552_153.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24271,
+   "title": "표현과 계산, AI 컴퓨팅을 다시 생각하다",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "김예성 / 전자 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24271_28550_1111.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24270,
+   "title": "나선형의 시간",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "서동우 / 환경 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 24269,
+   "title": "자만과 좌절은 반대가 아니다",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "정준호 / 무은재 26"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 24268,
+   "title": "‘바다 위에서 뜨거운 여름을!’ 영일만 비치스프린트 전국조정대회 개최",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24268_28549_252.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 24267,
+   "title": "제476호 ‘서버 안정성 얻고 편의성 놓쳤나, 새 주문 앱 ‘잇츠미’의 기대와 숙제’를 읽고",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김나경 / 산경 25"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 24266,
+   "title": "몰입을 위한 시간",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24266_28548_5957.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 24265,
+   "title": "도파민에 뺏긴 통제권",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "박단아 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 24264,
+   "title": "보편성에 갇힌 우리는",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "조준혁 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 24263,
+   "title": "학생들은 떠난 그라운드, 계속 싸우는 어른들",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {
+  "24288": []
+ }
+}

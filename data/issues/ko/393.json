@@ -1,0 +1,471 @@
+{
+ "edition": "ko",
+ "number": 393,
+ "published": "2018-03-07T13:45:00+09:00",
+ "lastUpload": "2018-03-07T14:28:00+09:00",
+ "articles": [
+  {
+   "id": 20065,
+   "title": "897명의 샛별, 우리대학 입학하다",
+   "published": "2018-03-07T14:28:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이승호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20065_24937_2817.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20064,
+   "title": "제32대 총학생회장단 선거, ‘Better Together’ 선본 출마",
+   "published": "2018-03-07T14:27:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20063,
+   "title": "78계단 졸업 기념석 행사 무산돼",
+   "published": "2018-03-07T14:27:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김희진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20063_24936_2658.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20062,
+   "title": "2018학년도 입학식사",
+   "published": "2018-03-07T14:26:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "김도연 총장"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20062_24935_2615.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 20061,
+   "title": "응급처치 강사, 강의 중 일부 발언 논란에 사과",
+   "published": "2018-03-07T14:25:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20061_24934_2531.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20060,
+   "title": "총학생회 산하 학생·소수자인권위원회 모담 설립",
+   "published": "2018-03-07T14:24:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20059,
+   "title": "박태준학술정보관, BookZip 지식 DB 서비스 개시",
+   "published": "2018-03-07T14:24:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20058,
+   "title": "포항가속기연구소장 취임식 열려",
+   "published": "2018-03-07T14:23:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20057,
+   "title": "우리대학 글쓰기센터 개소식",
+   "published": "2018-03-07T14:23:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20056,
+   "title": "2018 연구관리 가이드북 발간",
+   "published": "2018-03-07T14:22:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20055,
+   "title": "제5회 박태준미래전략연구소 포럼 개최",
+   "published": "2018-03-07T14:22:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20054,
+   "title": "‘결혼은 언제 하니?’에 대한 우리의 대답",
+   "published": "2018-03-07T14:21:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "공환석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20054_24933_2057.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20053,
+   "title": "답답한 생활관 신청, 이제는 바뀌어야 할 때",
+   "published": "2018-03-07T14:18:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박준현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20053_24928_1517.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20052,
+   "title": "[홍콩 명문대 탐방] 홍콩대학교 김지태 교수 인터뷰",
+   "published": "2018-03-07T14:14:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20052_24927_1415.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 20051,
+   "title": "[홍콩 명문대 탐방] 홍콩과학기술대학교 김동범 한인학생회장 인터뷰",
+   "published": "2018-03-07T14:13:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "공환석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20051_24926_1213.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 20050,
+   "title": "[홍콩 명문대 탐방] 홍콩과학기술대학교 생활 들여다보기",
+   "published": "2018-03-07T14:11:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20050_24923_109.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 20049,
+   "title": "팝콘 브레인(Popcorn Brain)이란?",
+   "published": "2018-03-07T14:09:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20048,
+   "title": "‘가즈아’ 외치는 암호화폐, 어디로 가고 있나",
+   "published": "2018-03-07T14:08:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20048_24921_726.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20047,
+   "title": "최저임금 인상 100일, 아직은 캄캄한 새 정부의 소득주도성장",
+   "published": "2018-03-07T14:06:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "이승호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20047_24919_631.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20046,
+   "title": "인공지능 시스템에 대한 수학적인 분석과 한계, 그리고 전망",
+   "published": "2018-03-07T14:05:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "김덕태 디티웨어 대표"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20046_24942_4644.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20045,
+   "title": "[대학원생 인권] 대학원생 인권 문제를 파헤치다",
+   "published": "2018-03-07T14:02:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "김건창 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20045_24912_5930.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20044,
+   "title": "[대학원생 인권] 대학원생 부당대우에 대한 타 대학원 총학생회의 대응",
+   "published": "2018-03-07T13:58:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20044_24911_580.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20043,
+   "title": "[대학원생 인권] 다른 대학원 사회의 연구환경 실태 현황",
+   "published": "2018-03-07T13:57:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20043_24940_3129.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20042,
+   "title": "[대학원생 인권] 앞으로 우리대학은 어떤 방향을 추구해야 하는가",
+   "published": "2018-03-07T13:55:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20041,
+   "title": "입학식에 포닉스가 떴다",
+   "published": "2018-03-07T13:54:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20041_24908_5345.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 20040,
+   "title": "우리는 리더로 성장하고 있는가",
+   "published": "2018-03-07T13:53:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "이건홍 / 화공 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 20039,
+   "title": "‘퀴어 문학’이 나에게 던진 물음",
+   "published": "2018-03-07T13:52:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "이슬기 / 화학 16"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 20038,
+   "title": "아무도 믿지 마, 그리고 반드시 살아남아",
+   "published": "2018-03-07T13:51:00+09:00",
+   "category": "여론",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20038_24907_5110.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20037,
+   "title": "제393호 ‘불이 꺼지지 않는 지식의 전당’을 읽고",
+   "published": "2018-03-07T13:50:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "신동민 / 화학 17"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 20036,
+   "title": "학과 행사와 무은재새내기학부",
+   "published": "2018-03-07T13:49:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "박준현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 20034,
+   "title": "느린 걸음",
+   "published": "2018-03-07T13:46:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 20033,
+   "title": "394호 형산만평",
+   "published": "2018-03-07T13:46:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20033_24906_463.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 20032,
+   "title": "포스트모던 과학기술",
+   "published": "2018-03-07T13:45:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {}
+}

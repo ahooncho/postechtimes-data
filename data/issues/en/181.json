@@ -1,0 +1,248 @@
+{
+ "edition": "en",
+ "number": 181,
+ "published": "2024-11-27T13:57:00+09:00",
+ "lastUpload": "2024-11-27T14:18:00+09:00",
+ "articles": [
+  {
+   "id": 23379,
+   "title": "Undergraduate Town Hall Recap",
+   "published": "2024-11-27T14:18:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23379_27803_2428.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23378,
+   "title": "Interdisciplinary Harmony of Music, Science, and Creativity",
+   "published": "2024-11-27T14:17:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23378_27804_2526.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23377,
+   "title": "Intelligent Nets Tailor Sunlight and Keep Cool",
+   "published": "2024-11-27T14:17:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23377_27805_2613.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23376,
+   "title": "A Game Changer for High-Temperature Alloys",
+   "published": "2024-11-27T14:16:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23376_27806_2711.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23375,
+   "title": "Foreign Workers in Korea: A Long-Term Solution or a Temporary Fix",
+   "published": "2024-11-27T14:15:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23375_27807_2747.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23374,
+   "title": "Google Loses the Lawsuit",
+   "published": "2024-11-27T14:15:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23374_27808_2822.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23373,
+   "title": "Learn Safety Rules with Pew Pew Safety Arcade",
+   "published": "2024-11-27T14:14:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23373_27809_3212.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23372,
+   "title": "Renowned CGT Researchers Assembled at POSTECH",
+   "published": "2024-11-27T14:13:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23372_27810_3248.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23371,
+   "title": "POSTECH Microscope: Dr. Jaemin Kim, a researcher at the ICP",
+   "published": "2024-11-27T14:13:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23371_27811_3358.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23370,
+   "title": "Breaking Walls of Semiconductors: Next-generation Amorphous p-type Metal Oxides",
+   "published": "2024-11-27T14:12:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Noh Yong-young",
+    "Dr. Reo You-jin(CE)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23370_27812_2959.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23369,
+   "title": "Postechian Column: Post Postech Reflection",
+   "published": "2024-11-27T14:11:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kim San (CSE 21)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23369_27815_046.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23368,
+   "title": "Reporter Column: Can We Love Another Being?",
+   "published": "2024-11-27T14:10:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23368_27817_233.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23367,
+   "title": "Tattooing by Non-medical Professionals: Unsafe or Acceptable?",
+   "published": "2024-11-27T14:03:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23367_27816_120.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23366,
+   "title": "Trump’s Landslide Victory: A Mandate for Four More Years",
+   "published": "2024-11-27T14:02:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23366_27818_319.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23365,
+   "title": "Guryongpo Japanese House Street: A Walk into the Past",
+   "published": "2024-11-27T13:58:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23365_27820_50.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23364,
+   "title": "Voyager 1: NASA Revives Communication with Humanity",
+   "published": "2024-11-27T13:58:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23364_27821_646.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23363,
+   "title": "Postechian’s Pick: On Liberty",
+   "published": "2024-11-27T13:57:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23363_27822_726.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

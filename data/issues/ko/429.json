@@ -1,0 +1,380 @@
+{
+ "edition": "ko",
+ "number": 429,
+ "published": "2021-12-14T01:45:00+09:00",
+ "lastUpload": "2021-12-14T03:04:00+09:00",
+ "articles": [
+  {
+   "id": 21830,
+   "title": "故 박태준 설립이사장 서거 10주기 추모 심포지엄 열리다",
+   "published": "2021-12-14T03:04:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21830_26552_357.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21829,
+   "title": "단계적 일상회복 전환 … 돌아온 대면 면접",
+   "published": "2021-12-14T03:03:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21829_26551_254.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21828,
+   "title": "약물 전달 후 완전히 배출되는 초미세 약물 전달체 만들다",
+   "published": "2021-12-14T02:51:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21827,
+   "title": "DNA 염색체 응축 비밀 밝히다",
+   "published": "2021-12-14T02:49:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21826,
+   "title": "인공심장 근육 패치 개발",
+   "published": "2021-12-14T02:48:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21825,
+   "title": "연세대와 교육과정 공동 개발 운영 협약 체결",
+   "published": "2021-12-14T02:47:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21825_26550_4718.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21824,
+   "title": "대학원생 권리장전 선언식 개최",
+   "published": "2021-12-14T02:45:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21824_26549_4549.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21823,
+   "title": "동문 문화, 위기를 발판삼아 더욱 발전하길",
+   "published": "2021-12-14T02:43:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박준우",
+    "이태훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21822,
+   "title": "2년 만에 재개된 동아리 공연, 동아리 문화행사 주간",
+   "published": "2021-12-14T02:42:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은",
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21822_26548_4051.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21821,
+   "title": "“Webex 버벅거리는 영상과 잦은 오류 불편해” 학생들 불만··· 내년 Zoom으로 바꾼다",
+   "published": "2021-12-14T02:34:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21821_26547_3430.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21820,
+   "title": "선거에 대한 무관심, 학생 민주주의 기틀 흔들린다",
+   "published": "2021-12-14T02:32:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "장유진",
+    "최대현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21819,
+   "title": "세계로 뻗어 나가는 한국의 미디어 산업",
+   "published": "2021-12-14T02:30:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "탁영채",
+    "조민석"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21819_26546_2959.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21818,
+   "title": "코로나19 끝나도 재택근무 유지될까?",
+   "published": "2021-12-14T02:28:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21818_26545_2827.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21817,
+   "title": "‘빚투’에 ‘영끌’ … MZ세대 자산 격차 역대 최대",
+   "published": "2021-12-14T02:24:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21817_26544_2447.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21816,
+   "title": "22년 걸린 스토킹 처벌법, 살인 못 막아",
+   "published": "2021-12-14T02:22:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "박승아",
+    "박지우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21816_26543_2226.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21815,
+   "title": "인간 뇌 모방한 실리콘 소자 기반 뉴로모픽 반도체",
+   "published": "2021-12-14T02:18:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "최양규 / KAIST 전기 및 전자 공학부 교수",
+    "한준규 / KAIST 전기 및 전자 공학부"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21815_26540_1737.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21814,
+   "title": "“구성원들의 행복이 가장 좋은 대학 홍보입니다”",
+   "published": "2021-12-14T02:10:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김종은",
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21814_26538_934.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21813,
+   "title": "추신, 나도 네 꿈을 꿔",
+   "published": "2021-12-14T02:06:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21813_26537_555.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21812,
+   "title": "감사와 겸손",
+   "published": "2021-12-14T02:03:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "이준민 / 신소재 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21811,
+   "title": "나의 인생 수업, 버거킹 아르바이트",
+   "published": "2021-12-14T02:02:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "박형창 / 화공 20"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21810,
+   "title": "제428호 ‘플라스틱에서 탈출하다’를 읽고",
+   "published": "2021-12-14T02:01:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "윤황 / 무은재 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21809,
+   "title": "이게 제 감성입니다만 ···",
+   "published": "2021-12-14T01:54:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21808,
+   "title": "잊혀져가는 분반의 의미",
+   "published": "2021-12-14T01:52:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21807,
+   "title": "포스텍의 하늘, 그리고 ‘그 너머’",
+   "published": "2021-12-14T01:50:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21806,
+   "title": "제12회 김욱 특별한 식사의 날",
+   "published": "2021-12-14T01:48:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21806_26536_4827.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21805,
+   "title": "제429호 형산만평",
+   "published": "2021-12-14T01:45:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202112/21805_26535_4532.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

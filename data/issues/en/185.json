@@ -1,0 +1,261 @@
+{
+ "edition": "en",
+ "number": 185,
+ "published": "2025-03-26T17:03:00+09:00",
+ "lastUpload": "2025-03-26T18:03:00+09:00",
+ "articles": [
+  {
+   "id": 23593,
+   "title": "Future Planning for College Life 2.0",
+   "published": "2025-03-26T18:03:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23593_27996_336.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23592,
+   "title": "NST and KIRD Host Research Career Fair for Students",
+   "published": "2025-03-26T18:02:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23592_27995_150.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23591,
+   "title": "Reportage - Kyoto University (Part II)",
+   "published": "2025-03-26T18:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23591_27994_5810.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23590,
+   "title": "Reportage - The Geography of Energy: Energy Transition in Southeast Asia",
+   "published": "2025-03-26T17:56:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23590_27993_5622.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23589,
+   "title": "Reportage - Jiyū no Gakufū, Unique Culture at Kyoto University",
+   "published": "2025-03-26T17:53:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23589_27992_5437.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23588,
+   "title": "Take a Break in Pohang’s Urban Forests",
+   "published": "2025-03-26T17:50:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23588_27991_5028.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23586,
+   "title": "Cryogenic Temperatures Strengthen Metals: The Secret Unveiled",
+   "published": "2025-03-26T17:49:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23586_27989_482.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23585,
+   "title": "Combining Light and Ultrasound for Stroke Treatment",
+   "published": "2025-03-26T17:46:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23585_27986_4325.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23584,
+   "title": "Rising “Rested” Population",
+   "published": "2025-03-26T17:35:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23584_27985_3533.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23583,
+   "title": "Apple Faces Backlash Over Siri AI Delay and Misleading Ads",
+   "published": "2025-03-26T17:29:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23583_27984_2855.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23582,
+   "title": "Synthetic Biology: Biology meets Engineering",
+   "published": "2025-03-26T17:27:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Associate Professor Jongmin Kim (LIFE)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23582_27982_2235.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23581,
+   "title": "Postechian Column: Why not a Triple-Major?",
+   "published": "2025-03-26T17:21:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Dong-hyuk Kim"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23581_27981_2125.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23580,
+   "title": "Reporter Column: How Cities in UAE Thrive",
+   "published": "2025-03-26T17:13:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23580_27980_1249.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23579,
+   "title": "Korea is Falling Behind the Tech Race",
+   "published": "2025-03-26T17:11:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23579_27979_1052.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23578,
+   "title": "“New Space”: the Evolving Partnership of Space Exploration",
+   "published": "2025-03-26T17:10:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23578_27978_951.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23577,
+   "title": "The Reality of Korean Journalists Covering Conflict Zones",
+   "published": "2025-03-26T17:07:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23577_27977_713.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23576,
+   "title": "Overtourism: More is Just as Bad as Less",
+   "published": "2025-03-26T17:06:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23576_27976_558.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23575,
+   "title": "Postechian’s Pick: Cinema Paradiso",
+   "published": "2025-03-26T17:03:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23575_27975_26.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

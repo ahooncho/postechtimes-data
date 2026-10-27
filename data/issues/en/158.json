@@ -1,0 +1,219 @@
+{
+ "edition": "en",
+ "number": 158,
+ "published": "2022-10-03T01:40:00+09:00",
+ "lastUpload": "2022-10-03T01:49:00+09:00",
+ "articles": [
+  {
+   "id": 22257,
+   "title": "POSTECH Campus Heated with 2022 KPSW",
+   "published": "2022-10-03T01:49:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22257_26870_1744.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22256,
+   "title": "The Eve Festival of the 2022 KPSW",
+   "published": "2022-10-03T01:49:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22256_26868_1617.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22255,
+   "title": "Digging into ‘250 Years’ of Drought in Korea",
+   "published": "2022-10-03T01:49:00+09:00",
+   "category": "News",
+   "bylines": [
+    "양서연 Reporter"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22255_26867_1557.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22254,
+   "title": "Development of Artificial Cancer Model using 3D Bioprinting",
+   "published": "2022-10-03T01:48:00+09:00",
+   "category": "News",
+   "bylines": [
+    "정혜윤 Reporter"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22254_26866_1526.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22253,
+   "title": "Rising Prices and Exchange Rates",
+   "published": "2022-10-03T01:48:00+09:00",
+   "category": "News",
+   "bylines": [
+    "김진성 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22253_26865_155.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22252,
+   "title": "Super Typhoon Hinnamnor - Many More To Come",
+   "published": "2022-10-03T01:47:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22252_26863_1436.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22251,
+   "title": "POSTECH Offers CES 2023 Experience to Class of 2024",
+   "published": "2022-10-03T01:47:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22251_26862_1413.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22250,
+   "title": "Street Startup Fighter",
+   "published": "2022-10-03T01:45:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22250_26861_1339.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22249,
+   "title": "POSTECH Microscope: Chief of the KPSW Advisory Committee",
+   "published": "2022-10-03T01:44:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "윤주환 Reporter"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22249_26859_115.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22248,
+   "title": "Science and Life Stories for Postechians",
+   "published": "2022-10-03T01:44:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Associate Professor Gil-Ho Lee (PHYS)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22248_26860_1255.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22247,
+   "title": "Postechian Column: Carpe Diem - Seize the Day",
+   "published": "2022-10-03T01:43:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Jung Hye-in"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22247_26858_633.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22246,
+   "title": "Reporter Column: Travelling Solo",
+   "published": "2022-10-03T01:42:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22246_26857_559.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22245,
+   "title": "Legislators Propose Bill to Ban Unconsented Phone Call Recordings",
+   "published": "2022-10-03T01:41:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22245_26856_531.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22244,
+   "title": "A World of Discrimination for Migrant Workers",
+   "published": "2022-10-03T01:41:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "정혜윤 Reporter"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22244_26855_512.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22243,
+   "title": "IRA and How It Affects Korean Companies",
+   "published": "2022-10-03T01:40:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202210/22243_26854_445.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

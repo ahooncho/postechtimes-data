@@ -1,0 +1,292 @@
+{
+ "edition": "ko",
+ "number": 468,
+ "published": "2025-10-01T10:24:00+09:00",
+ "lastUpload": "2025-10-01T11:12:00+09:00",
+ "articles": [
+  {
+   "id": 23824,
+   "title": "비가 와도 우렁차게, 뜨거운 열기의 제22회 포카전",
+   "published": "2025-10-01T11:12:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23824_28197_1245.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23823,
+   "title": "지원자의 잠재력을 다각도로 평가하다, 2026학년도 심층다면면접 도입",
+   "published": "2025-10-01T11:12:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23822,
+   "title": "제468호 단신보도",
+   "published": "2025-10-01T11:10:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "조유현",
+    "최진현",
+    "송명빈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23821,
+   "title": "생활 속 과학을 쉽게 만나요! 포항 시민과 함께하는 ‘생활과학교실’",
+   "published": "2025-10-01T11:07:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이주형",
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23821_28196_739.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23820,
+   "title": "우리대학-가톨릭대 국내 첫 공동학위제 도입",
+   "published": "2025-10-01T11:07:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "정혜정",
+    "김범준 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23819,
+   "title": "기후 변화 대응의 최전선으로, 우리대학 교수 IPCC 평가보고서 주저자 선정",
+   "published": "2025-10-01T11:06:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "유영주",
+    "최진현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23818,
+   "title": "제468호 형산만평",
+   "published": "2025-10-01T11:05:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23818_28194_59.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 23817,
+   "title": "대학생 ‘정신건강’ 전국적 적신호, 우리대학은?",
+   "published": "2025-10-01T11:04:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김수진",
+    "유영주",
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23817_28193_344.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23816,
+   "title": "투표 끝에 총여학생회 폐지 결정, 양측의 입장은",
+   "published": "2025-10-01T10:58:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김태린",
+    "송명빈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23816_28190_5454.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23815,
+   "title": "너무 빨리 정해진 시간표, 수강신청 일정과 시스템 개편되나?",
+   "published": "2025-10-01T10:51:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "양지윤",
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23815_28189_5147.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23814,
+   "title": "우리 주변의 숨겨진 유네스코 세계유산을 찾아서",
+   "published": "2025-10-01T10:50:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이주형",
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23814_28188_4949.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23813,
+   "title": "역대 최악의 강릉 가뭄, 과학은 재난을 예측하고 막을 수 있는가",
+   "published": "2025-10-01T10:49:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "송명빈",
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23813_28187_4843.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23812,
+   "title": "미국 비자 제도 변경, 우리나라 학생들의 대응방법과 해결책은",
+   "published": "2025-10-01T10:48:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "유영주",
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23812_28186_4740.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23811,
+   "title": "[우리대학 졸업생은 무엇을 하고 있을까] - 김초엽 SF 작가",
+   "published": "2025-10-01T10:46:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "양지윤",
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23811_28185_460.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23810,
+   "title": "[우리대학 졸업생은 무엇을 하고 있을까] - 아우토크립트 이석우 대표",
+   "published": "2025-10-01T10:44:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김윤철",
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23810_28184_4437.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23809,
+   "title": "포카전의 한복판에서 만난 사람들",
+   "published": "2025-10-01T10:40:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "한정우",
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23809_28183_3950.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23808,
+   "title": "뜨거운 열기의 제22회 포카전",
+   "published": "2025-10-01T10:30:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23808_28174_2657.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 23807,
+   "title": "몰랐다고 해서 책임이 사라지진 않는다",
+   "published": "2025-10-01T10:26:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 23806,
+   "title": "광학 현미경의 과거, 현재, 그리고 기대되는 미래",
+   "published": "2025-10-01T10:24:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "김기현 / 기계 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23806_28171_2246.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {
+  "23822": []
+ }
+}

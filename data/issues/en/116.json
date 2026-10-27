@@ -1,0 +1,261 @@
+{
+ "edition": "en",
+ "number": 116,
+ "published": "2018-03-28T12:50:00+09:00",
+ "lastUpload": "2018-03-28T13:10:00+09:00",
+ "articles": [
+  {
+   "id": 20090,
+   "title": "POSTECH and Yonsei University Unite",
+   "published": "2018-03-28T13:10:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Jun-yong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20090_24963_107.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20089,
+   "title": "POSTECH Fund No.1 Established",
+   "published": "2018-03-28T13:09:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Do-yeong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20089_24962_917.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20088,
+   "title": "Heo Jin-gyu Receives an Honorary Doctorate Degree",
+   "published": "2018-03-28T13:08:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Gwak Jun-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20088_24961_834.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20087,
+   "title": "Industrial-Educational Cooperation Agreement of POSTECH-GS Retail",
+   "published": "2018-03-28T13:07:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Do-yeong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20087_24960_733.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20086,
+   "title": "Development of Bio-mimicking Actuator",
+   "published": "2018-03-28T13:07:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Ha-jun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20086_24959_631.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20085,
+   "title": "The Stability of Fragile ‘Quantum’ States Increased",
+   "published": "2018-03-28T13:06:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20085_24958_551.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20084,
+   "title": "Ilju Math School by PMI",
+   "published": "2018-03-28T13:05:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20084_24957_443.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20083,
+   "title": "Overcoming Conventional Methods of Diagnosing Cancer",
+   "published": "2018-03-28T13:04:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20083_24956_347.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20082,
+   "title": "Chronic Shortage of Nurses: Is There a Solution?",
+   "published": "2018-03-28T13:03:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Gwak Jun-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20082_24955_249.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20081,
+   "title": "New Undergraduate System to Settle Down",
+   "published": "2018-03-28T13:01:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20081_24954_126.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20080,
+   "title": "TOEFL- Now Accepted",
+   "published": "2018-03-28T13:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Jun-yong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20080_24953_021.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20079,
+   "title": "POSTECH Microscope: a Graduate Student",
+   "published": "2018-03-28T12:59:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim Do-yeong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20079_24952_5851.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20078,
+   "title": "What is Going On Beneath the Earth’s Surface in South Korea?",
+   "published": "2018-03-28T12:57:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Kim Young-hee(Seoul National University)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20078_24950_5720.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20077,
+   "title": "For The More Feminism – Looking Back On ‘POSTECH Feminism’",
+   "published": "2018-03-28T12:56:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Jee Eun-kyoung (CHEM 12)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20077_24949_5536.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20076,
+   "title": "So Many Emergency Planning Committees",
+   "published": "2018-03-28T12:54:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20076_24948_5433.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20075,
+   "title": "The Silence Breakers",
+   "published": "2018-03-28T12:53:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20075_24947_5326.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20074,
+   "title": "Fine Dust: Is It Really Fine?",
+   "published": "2018-03-28T12:52:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Ha-jun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20074_24946_529.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20072,
+   "title": "An EBS Program and Null Curriculum",
+   "published": "2018-03-28T12:50:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201803/20072_24945_5024.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,248 @@
+{
+ "edition": "en",
+ "number": 142,
+ "published": "2020-11-27T14:34:00+09:00",
+ "lastUpload": "2020-11-27T15:15:00+09:00",
+ "articles": [
+  {
+   "id": 21380,
+   "title": "Student Leadership Election Results",
+   "published": "2020-11-27T15:15:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21380_26221_159.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21379,
+   "title": "Partial Conversion to Face-to-Face Classes",
+   "published": "2020-11-27T15:14:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21379_26220_145.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21378,
+   "title": "A.I. Accelerates the Development of New High-Entropy Alloy",
+   "published": "2020-11-27T15:12:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21378_26219_1230.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21377,
+   "title": "Dynamic Switching Hologram Images with a Finger Touch",
+   "published": "2020-11-27T15:11:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21377_26218_1128.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21376,
+   "title": "2020 U.S. Presidential Election",
+   "published": "2020-11-27T15:09:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21376_26217_918.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21375,
+   "title": "Lee Kun-hee and Inheritance Tax",
+   "published": "2020-11-27T15:07:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21375_26216_750.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21374,
+   "title": "Online Student Events Successfully Held",
+   "published": "2020-11-27T15:05:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21374_26215_541.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21373,
+   "title": "Admissions Interview to be Held Non-Face-to-Face",
+   "published": "2020-11-27T15:05:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21373_26214_445.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21372,
+   "title": "POSTECH Microscope: Chairman of the Student Committee on Pedagogy & Education",
+   "published": "2020-11-27T15:02:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21372_26213_235.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21371,
+   "title": "Quantum Computers in POSTECH",
+   "published": "2020-11-27T15:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Jae-Yoon Sim",
+    "Professor"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21371_26212_5953.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21370,
+   "title": "From Developer to Entrepreneur",
+   "published": "2020-11-27T14:56:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Park Won-bin (CiTE 18)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21370_26208_5352.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21369,
+   "title": "Lessons from Quarantine",
+   "published": "2020-11-27T14:51:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21369_26206_5039.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21368,
+   "title": "French Secularism, Laïcité, on Trial",
+   "published": "2020-11-27T14:49:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21368_26205_4911.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21367,
+   "title": "COVID-19 and its Impact on the Environment",
+   "published": "2020-11-27T14:44:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21367_26201_4438.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21366,
+   "title": "Woowahan Youths Improves Riders’ Working Conditions",
+   "published": "2020-11-27T14:38:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21366_26204_4731.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21365,
+   "title": "Stock Investment During COVID-19",
+   "published": "2020-11-27T14:36:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21365_26203_4623.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21364,
+   "title": "Postechian’s Pick : Hidden Figures",
+   "published": "2020-11-27T14:34:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21364_26202_4535.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,262 @@
+{
+ "edition": "en",
+ "number": 164,
+ "published": "2023-04-17T19:16:00+09:00",
+ "lastUpload": "2023-04-17T19:28:00+09:00",
+ "articles": [
+  {
+   "id": 22539,
+   "title": "The Policy of Accommodating All Postechians Still Holds",
+   "published": "2023-04-17T19:28:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22539_27124_919.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22538,
+   "title": "Undergraduate Research Program, From an Idea to a Product",
+   "published": "2023-04-17T19:27:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22538_27123_840.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22537,
+   "title": "Cellular Band-Aid that can be Transplanted into Wounds",
+   "published": "2023-04-17T19:27:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22537_27122_819.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22536,
+   "title": "IGZO-Based Synaptic Device: A Seed for Artificial Intelligence Brain",
+   "published": "2023-04-17T19:26:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22536_27121_749.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22535,
+   "title": "TikTok’s Action of Limiting",
+   "published": "2023-04-17T19:26:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22535_27120_725.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22534,
+   "title": "Cutting-Edge Forms of Theft, Illegal Streaming",
+   "published": "2023-04-17T19:25:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22534_27119_74.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22533,
+   "title": "Blank Space for Your Thoughts",
+   "published": "2023-04-17T19:24:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22533_27118_639.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22532,
+   "title": "Laying the First Building Block",
+   "published": "2023-04-17T19:23:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22532_27116_530.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22531,
+   "title": "Embracing Globalization and Inspiring Readers",
+   "published": "2023-04-17T19:23:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22531_27115_447.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22530,
+   "title": "A New Road Taken",
+   "published": "2023-04-17T19:22:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22530_27114_348.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22529,
+   "title": "Column: How Much Are You?",
+   "published": "2023-04-17T19:20:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Jung-Ah Woo (HSS)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22529_27113_328.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22528,
+   "title": "Postechian Column: Being a Pioneer Instead of a Follower",
+   "published": "2023-04-17T19:19:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Ali Abdi (CiTE",
+    "Master's programe)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22528_27112_240.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22527,
+   "title": "Reporter Column: Miracle Morning",
+   "published": "2023-04-17T19:19:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22527_27111_23.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22526,
+   "title": "National Pension - Then and Now",
+   "published": "2023-04-17T19:18:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22526_27110_135.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22525,
+   "title": "An Era of Pervasive Technology",
+   "published": "2023-04-17T19:18:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22525_27108_048.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22524,
+   "title": "Increasing Digital Carbon Footprint Via Data Centers",
+   "published": "2023-04-17T19:18:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22524_27098_37.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22523,
+   "title": "Literacy Issues in Adults",
+   "published": "2023-04-17T19:18:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22523_27097_223.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22522,
+   "title": "Postechian's Pick: Physics and Beyond",
+   "published": "2023-04-17T19:16:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22522_27096_1624.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

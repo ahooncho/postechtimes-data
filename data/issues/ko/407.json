@@ -1,0 +1,375 @@
+{
+ "edition": "ko",
+ "number": 407,
+ "published": "2019-04-24T13:30:00+09:00",
+ "lastUpload": "2019-04-24T17:40:00+09:00",
+ "articles": [
+  {
+   "id": 20836,
+   "title": "11·15 포항지진 인재(人災)로 판명… 그 후",
+   "published": "2019-04-24T17:40:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20836_25726_404.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20835,
+   "title": "포스텍-연세대, 국내 최초 블록체인 캠퍼스 구축",
+   "published": "2019-04-24T17:39:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20835_25725_3910.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20834,
+   "title": "강유전체 물질 도입해 고성능 아날로그 메모리 특성 구현",
+   "published": "2019-04-24T17:38:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20833,
+   "title": "자동 불소 도핑기술로 폴더블 디스플레이 향상 기술 개발",
+   "published": "2019-04-24T17:37:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20832,
+   "title": "말미잘 실크 단백질로 물성과 생체적합성 다 잡는다",
+   "published": "2019-04-24T17:37:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이민우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20831,
+   "title": "배터리 성능, 해조류 추출 한천으로 높인다",
+   "published": "2019-04-24T17:36:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20830,
+   "title": "일진그룹, 우리대학 리빙랩 구축 위해 10억 원 기부",
+   "published": "2019-04-24T17:36:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20830_25724_3557.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20829,
+   "title": "도레이첨단소재, 우리대학에 명예교수실 개설",
+   "published": "2019-04-24T17:35:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20829_25723_3451.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20828,
+   "title": "우리대학 3인, ‘아시아의 영향력 있는 젊은 리더’ 선정",
+   "published": "2019-04-24T17:33:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20828_25719_2737.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20827,
+   "title": "마술사의 삶 엿보기, 최현우의 Magic Speech",
+   "published": "2019-04-24T17:19:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김영현",
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20827_25718_2617.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20826,
+   "title": "더 나은 수강신청을 위한 첫걸음",
+   "published": "2019-04-24T17:18:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김성민",
+    "백다현"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20826_25717_1752.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20825,
+   "title": "학생회관은 하나인데, 수요는 계속해서 늘어나다니요",
+   "published": "2019-04-24T17:14:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20825_25713_1214.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20822,
+   "title": "초고속, 초저지연, 초연결, 5G가 이끌어나갈 미래",
+   "published": "2019-04-24T17:05:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20822_25711_428.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20820,
+   "title": "408호 Humans of POSTECH",
+   "published": "2019-04-24T13:52:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20820_25708_5156.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20819,
+   "title": "‘마약 청정국’에서 ‘마약 오염국’ 된 대한민국",
+   "published": "2019-04-24T13:47:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20819_25707_4716.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20818,
+   "title": "수제 향초 만들어 선물하는 것이 불법이라고?",
+   "published": "2019-04-24T13:46:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20818_25704_450.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20817,
+   "title": "전 지구 이상기후의 주범, 엘니뇨",
+   "published": "2019-04-24T13:41:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "국종성 / 환경공학부 부교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20817_25703_4054.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20816,
+   "title": "우리 몸을 지켜주는 세포 이야기",
+   "published": "2019-04-24T13:39:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20816_25702_3850.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 20815,
+   "title": "현대사회 ‘현수’들의 고민거리 잔혹사",
+   "published": "2019-04-24T13:37:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "정대영 / 인문 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 20814,
+   "title": "인생에 정답은 없었다",
+   "published": "2019-04-24T13:36:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "마준석 / 전자 16"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 20813,
+   "title": "제407호 ‘무너져가는 학생사회에 ‘안녕들 하십니까’’를 읽고",
+   "published": "2019-04-24T13:35:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "양세라 / 무은재 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 20812,
+   "title": "5월을 위한 찬가",
+   "published": "2019-04-24T13:34:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김상수 객원"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 20811,
+   "title": "파란색 크레파스",
+   "published": "2019-04-24T13:33:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 20810,
+   "title": "대학의 낭만, 다시 생각하자",
+   "published": "2019-04-24T13:32:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 20809,
+   "title": "만우절 맞이 벚꽃교복제",
+   "published": "2019-04-24T13:31:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20809_25701_3142.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 20808,
+   "title": "408호 형산만평",
+   "published": "2019-04-24T13:30:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20808_25700_3021.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

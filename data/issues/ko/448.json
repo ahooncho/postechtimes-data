@@ -1,0 +1,396 @@
+{
+ "edition": "ko",
+ "number": 448,
+ "published": "2023-11-07T20:31:00+09:00",
+ "lastUpload": "2023-11-07T20:49:00+09:00",
+ "articles": [
+  {
+   "id": 22792,
+   "title": "올해도 총학생회장단 선거 출마자 나와",
+   "published": "2023-11-07T20:49:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22792_27355_4853.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22791,
+   "title": "우리대학 ‘THE 소규모 대학평가’서 세계 2위",
+   "published": "2023-11-07T20:46:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22791_27354_4648.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22790,
+   "title": "이충형 교수, 철학자 연감 ‘2022년 최고의 논문’ 선정",
+   "published": "2023-11-07T20:46:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22789,
+   "title": "재밌고 실속있게 배우는 안전, 2023 POSTECH 안전마블 개최",
+   "published": "2023-11-07T20:45:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22788,
+   "title": "노준석 교수팀, 초점 위치 자유롭게 조절하는 메타렌즈 개발",
+   "published": "2023-11-07T20:45:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정유현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22787,
+   "title": "한지훈 교수, 에너지와 환경과학 학술지 내 피인용 수 상위 10% 논문 선정",
+   "published": "2023-11-07T20:45:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22786,
+   "title": "주한 스웨덴 대사 초청 특강, 빠르게 변화하는 세상 속 한국과 스웨덴의 역할은",
+   "published": "2023-11-07T20:45:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "고평강",
+    "강호연 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22786_27353_450.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22785,
+   "title": "내 손으로 지역 문제 해결해보자, 리빙랩 활동단",
+   "published": "2023-11-07T20:44:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22784,
+   "title": "기술로 더 생생한 교육을, ‘혼합현실 수업사례 발표회’",
+   "published": "2023-11-07T20:44:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22784_27352_4410.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22783,
+   "title": "대학에서 본가까지... 우리대학 구성원들은 ‘이것’ 타고 간다",
+   "published": "2023-11-07T20:43:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "고평강",
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22783_27350_4310.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22782,
+   "title": "구성원과 총장이 소통하는 장, ‘총장과의 대화’",
+   "published": "2023-11-07T20:42:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "조원준",
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22782_27349_4213.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22781,
+   "title": "우리대학 청소용역업체와 노동자 간 갈등 벌어져",
+   "published": "2023-11-07T20:41:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "최대현",
+    "강호연",
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22781_27348_4129.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22780,
+   "title": "다양한 교류행사 통해 성장하는 운동 동아리를 만나보다",
+   "published": "2023-11-07T20:40:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강민영",
+    "김윤철",
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22780_27345_3944.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22779,
+   "title": "소비자의 마음을 훔치는 데카르트 마케팅",
+   "published": "2023-11-07T20:39:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22779_27344_3856.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22778,
+   "title": "미디어·콘텐츠 사업도 피해 가지 못한 인플레이션",
+   "published": "2023-11-07T20:38:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "조원준",
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22778_27343_3821.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22777,
+   "title": "메디컬 열풍과 이공계 기피 현상, 어떻게 받아들여야 하는가",
+   "published": "2023-11-07T20:37:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22777_27342_3741.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22776,
+   "title": "땅의 주인을 찾아라, 이스라엘-하마스 전쟁",
+   "published": "2023-11-07T20:37:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "조원준",
+    "정원형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22776_27341_3715.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22775,
+   "title": "식물 유전체 디자인 시대",
+   "published": "2023-11-07T20:36:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "최규하 / 생명 부교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22775_27339_3543.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22774,
+   "title": "지나온 것들에 대한 미안함과 그리움",
+   "published": "2023-11-07T20:34:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22774_27338_3451.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22773,
+   "title": "환원 불가능한 삶",
+   "published": "2023-11-07T20:34:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "조민수 / 컴공 부교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22772,
+   "title": "인권에 대하여",
+   "published": "2023-11-07T20:33:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "최세현 / 물리 22"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22771,
+   "title": "제447호 ‘뜨거웠던 제20회 포카전, 졌지만 잘 싸웠다’를 읽고",
+   "published": "2023-11-07T20:33:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "장익진 / 무은재 23"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22770,
+   "title": "우리가 정치에 기대하지 않는 이유",
+   "published": "2023-11-07T20:32:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22769,
+   "title": "‘서푼앓이’를 아시나요?",
+   "published": "2023-11-07T20:32:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22768,
+   "title": "기술 패권 시대의 전환점에서",
+   "published": "2023-11-07T20:32:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22767,
+   "title": "세상을 더 따뜻하게, 포스테키안과 함께하는 바자회 및 물품 기증 캠페인",
+   "published": "2023-11-07T20:31:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22767_27337_3147.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22766,
+   "title": "제448호 형산만평",
+   "published": "2023-11-07T20:31:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22766_27336_3110.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

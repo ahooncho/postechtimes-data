@@ -1,0 +1,317 @@
+{
+ "edition": "ko",
+ "number": 416,
+ "published": "2020-01-05T19:14:00+09:00",
+ "lastUpload": "2020-01-05T19:43:00+09:00",
+ "articles": [
+  {
+   "id": 21174,
+   "title": "새해를 맞이하는 우리대학의 아침",
+   "published": "2020-01-05T19:43:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202001/21174_26053_4249.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21173,
+   "title": "POSTECH 위대한 미래, 우리 함께 만들어 갑시다",
+   "published": "2020-01-05T19:42:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "총장 김무환"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 21172,
+   "title": "당신의 좋은 하루를 위해",
+   "published": "2020-01-05T19:41:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "총학생회장 노진우"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 21171,
+   "title": "화학공학과 김영걸 명예교수, 2019 과학기술유공자 선정",
+   "published": "2020-01-05T19:40:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21170,
+   "title": "POSCO O&M, 대학발전기금 5억 원 기부",
+   "published": "2020-01-05T19:40:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21169,
+   "title": "우리대학 2인, 한국공학한림원 차세대 공학 리더상 수상",
+   "published": "2020-01-05T19:39:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21168,
+   "title": "나노융합기술원, 소재·부품·장비 분야 국가연구시설 지정",
+   "published": "2020-01-05T19:39:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21167,
+   "title": "AI 대학원 첫 입시, 압도적 경쟁률 보여",
+   "published": "2020-01-05T19:38:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21166,
+   "title": "확장형 양자컴퓨터 기술융합 플랫폼 센터 개소",
+   "published": "2020-01-05T19:37:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21165,
+   "title": "바람직한 연구문화, 내 연구실을 소개합니다!",
+   "published": "2020-01-05T19:34:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202001/21165_26052_3418.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21164,
+   "title": "총학생회칙, 6년 만에 전부 개정",
+   "published": "2020-01-05T19:33:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202001/21164_26051_3259.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21163,
+   "title": "한정판 제품 사고파는 리셀(Resell) 문화",
+   "published": "2020-01-05T19:32:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이민우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202001/21163_26050_3147.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21162,
+   "title": "사재기로 얼룩진 실시간 음원 차트, 폐지가 답일까",
+   "published": "2020-01-05T19:30:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202001/21162_26049_315.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21161,
+   "title": "지쳤거나 좋아하는 게 없는 당신에게",
+   "published": "2020-01-05T19:29:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "손도원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202001/21161_26048_2850.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21160,
+   "title": "장사리의 무지개",
+   "published": "2020-01-05T19:28:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "노승욱 / 인문 대우부교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21159,
+   "title": "LUCKY TO MEET YOU, CHEERO",
+   "published": "2020-01-05T19:27:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "이서영 / 화학 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21158,
+   "title": "제414호 ‘영화 보고 따라 하면 어쩌죠?’를 읽고",
+   "published": "2020-01-05T19:26:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "이지선 / 무은재 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21157,
+   "title": "나의 워라밸 도전기",
+   "published": "2020-01-05T19:25:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21155,
+   "title": "누구나 한땐 어린이였다",
+   "published": "2020-01-05T19:25:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21154,
+   "title": "2020년을 맞아 우리대학의 더욱 큰 발전을 바라며",
+   "published": "2020-01-05T19:24:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21153,
+   "title": "박태준학술정보관에 찾아온 크리스마스",
+   "published": "2020-01-05T19:23:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202001/21153_26046_2326.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21152,
+   "title": "제416호 형산만평",
+   "published": "2020-01-05T19:14:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202001/21152_26045_1348.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

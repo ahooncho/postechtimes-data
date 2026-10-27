@@ -1,0 +1,357 @@
+{
+ "edition": "ko",
+ "number": 467,
+ "published": "2025-09-02T21:42:00+09:00",
+ "lastUpload": "2025-09-02T22:40:00+09:00",
+ "articles": [
+  {
+   "id": 23785,
+   "title": "개교 후 처음으로 외국인 학부 신입생 선발 전형 시작",
+   "published": "2025-09-02T22:40:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "유영주",
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23785_28153_3734.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23784,
+   "title": "국내 최초 ‘정년연장 조기결정’ 교수 4인 선정",
+   "published": "2025-09-02T22:37:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23784_28152_3648.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23780,
+   "title": "제467호 단신보도",
+   "published": "2025-09-02T22:33:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "양지윤",
+    "김태린",
+    "최진현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23779,
+   "title": "미국 워싱턴 D.C.에 국내 스타트업 지원을 위한 공유 오피스 구축",
+   "published": "2025-09-02T22:30:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23779_28151_2930.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23778,
+   "title": "우리대학 경영과학전공 신설 및 한국수력원자력과 업무 협약 체결",
+   "published": "2025-09-02T22:28:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23778_28150_285.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23777,
+   "title": "마이크로소프트와 국내 최초 ‘AI-Native University’ 협약",
+   "published": "2025-09-02T22:27:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23777_28149_270.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23776,
+   "title": "다가온 외국인 학부생 입학, 우리대학의 계획과 일정은",
+   "published": "2025-09-02T22:26:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "유영주",
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23776_28148_2526.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23775,
+   "title": "학생회관이 포화 상태가 되기 직전이라고요?",
+   "published": "2025-09-02T22:24:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이주형",
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23775_28147_2347.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23774,
+   "title": "제467호 형산만평",
+   "published": "2025-09-02T22:22:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23774_28146_2141.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 23773,
+   "title": "우리대학 곳곳 침수 피해 발생, 재발 방지 대책은",
+   "published": "2025-09-02T22:21:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김태린",
+    "송명빈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23773_28143_1718.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23772,
+   "title": "상법 개정안, 소액 주주 권익 강화의 신호탄",
+   "published": "2025-09-02T22:15:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김윤철",
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23772_28142_159.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23771,
+   "title": "첫발을 내디딘 민생회복 소비쿠폰, 그 효과는",
+   "published": "2025-09-02T22:13:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김수진",
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23771_28141_1242.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23770,
+   "title": "절에서 찾은 쉼표, 문화로 채운 템플스테이",
+   "published": "2025-09-02T22:11:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23770_28140_1138.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23769,
+   "title": "강아지의 대변신, AI 시대 의료 탐지견의 미래는?",
+   "published": "2025-09-02T22:10:00+09:00",
+   "category": "과학",
+   "bylines": [
+    "양지윤",
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23769_28139_106.jpg",
+   "sectionCode": "S1N31",
+   "sectionName": "과학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23768,
+   "title": "[우리대학 졸업생은 무엇을 하고 있을까] 인문사회편",
+   "published": "2025-09-02T22:08:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "양지윤",
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23768_28138_825.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23767,
+   "title": "장내 마이크로바이옴 - 과거의, 오늘의, 미래의 나?",
+   "published": "2025-09-02T22:01:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "고아라 / 생명 조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23767_28133_5932.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23766,
+   "title": "AI혁명, 운명을 바꾸는 또 하나의 변곡점",
+   "published": "2025-09-02T21:58:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "전상민 / 화공 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 23765,
+   "title": "해변의 사색",
+   "published": "2025-09-02T21:57:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "강태민 / 신소재 24"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 23764,
+   "title": "국제관에서 학식을",
+   "published": "2025-09-02T21:51:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23764_28131_5118.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 23763,
+   "title": "제466호 ‘우리대학 대학원생 국내 최초 우승팀··· 국제 벤처 투자 대회 도전’을 읽고",
+   "published": "2025-09-02T21:48:00+09:00",
+   "category": "독자논단",
+   "bylines": [
+    "김원호 / 융공 23"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N25",
+   "subSectionName": "독자논단"
+  },
+  {
+   "id": 23762,
+   "title": "불안에 잠식된 사회",
+   "published": "2025-09-02T21:44:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202509/23762_28130_4543.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 23761,
+   "title": "시선의 감옥",
+   "published": "2025-09-02T21:44:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 23760,
+   "title": "조용해지면 보이는 것",
+   "published": "2025-09-02T21:42:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 23759,
+   "title": "배제 없는 사회와 함께할 때, 과학기술은 미래가 된다",
+   "published": "2025-09-02T21:42:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {
+  "23780": []
+ }
+}

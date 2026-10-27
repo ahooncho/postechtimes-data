@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 178,
+ "published": "2024-09-06T13:28:00+09:00",
+ "lastUpload": "2024-09-06T18:24:00+09:00",
+ "articles": [
+  {
+   "id": 23244,
+   "title": "GPS: A Journey from Pohang to the World",
+   "published": "2024-09-06T18:24:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23244_27694_438.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23243,
+   "title": "POSTECH’s First Step Toward Smart Campus Environment",
+   "published": "2024-09-06T17:42:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23243_27695_557.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23242,
+   "title": "Personalizing Children’s Language Education by GAI Storybook",
+   "published": "2024-09-06T17:41:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23242_27696_729.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23241,
+   "title": "New Artificial Lung Advances Drug Testing for Respiratory Diseases",
+   "published": "2024-09-06T17:40:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23241_27697_1056.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23240,
+   "title": "Sudden Unintended Acceleration: The Truth under the Veil",
+   "published": "2024-09-06T17:40:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23240_27698_125.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23239,
+   "title": "Global Stock Market Crash: Lessons from Black Monday",
+   "published": "2024-09-06T17:39:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23239_27699_1238.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23238,
+   "title": "New Academic Initiatives for 2024 Unveiled",
+   "published": "2024-09-06T17:38:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23238_27700_1452.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23237,
+   "title": "Pioneers of POSTECH: From Scientific Field to Beyond It",
+   "published": "2024-09-06T17:38:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23237_27701_1543.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23236,
+   "title": "POSTECH Microscope: Tech-Review",
+   "published": "2024-09-06T17:37:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23236_27702_1726.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23235,
+   "title": "Exploring the Infinite Potential of Functional Materials",
+   "published": "2024-09-06T17:36:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Associate Professor Sunah Park (CHEM)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23235_27703_1822.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23234,
+   "title": "Postechian Column: A Summer Escape: Discovering Haok Valley",
+   "published": "2024-09-06T17:36:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Lee Seung-min (EE 19)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23234_27705_2013.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23233,
+   "title": "Reporter Column: Can Our Lives be Happy?",
+   "published": "2024-09-06T17:35:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23233_27706_211.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23232,
+   "title": "Team Korea Excels in the Paris 2024 Olympics",
+   "published": "2024-09-06T17:34:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23232_27707_2146.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23231,
+   "title": "Mercedes EV Fire Accident Intrigues EV-phobia",
+   "published": "2024-09-06T17:33:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23231_27708_2240.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23230,
+   "title": "Harris Steals Trump’s Convention Bounce",
+   "published": "2024-09-06T13:29:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23230_27709_2337.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23229,
+   "title": "Staying Safe with Air Conditioning",
+   "published": "2024-09-06T13:29:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23229_27710_2630.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23228,
+   "title": "Postechian's Pick: Memento",
+   "published": "2024-09-06T13:28:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23228_27711_2748.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,301 @@
+{
+ "edition": "ko",
+ "number": 476,
+ "published": "2026-05-27T14:03:00+09:00",
+ "lastUpload": "2026-05-27T14:37:00+09:00",
+ "articles": [
+  {
+   "id": 24227,
+   "title": "성과급을 둘러싼 노사 갈등... 기업의 이익은 어떻게 분배돼야 하는가",
+   "published": "2026-05-27T14:20:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "조유현 기자",
+    "조아훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24227_28523_87.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24226,
+   "title": "제476호 형산만평",
+   "published": "2026-05-27T14:22:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김민하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24226_28522_3916.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 24225,
+   "title": "공정한 주차·안전한 캠퍼스를 위해, 주차관제 시스템 도입",
+   "published": "2026-05-27T14:37:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "양지윤 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24225_28521_3734.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24224,
+   "title": "다름을 품는 대학을 꿈꾸며… 우리대학 다양성위원회 발족",
+   "published": "2026-05-27T14:36:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "한정우 기자",
+    "오현준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24224_28520_3610.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24223,
+   "title": "제476호 단신보도",
+   "published": "2026-05-27T14:34:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 24222,
+   "title": "오아시스 업체 변경, 식사 선택지의 폭 늘려줄까",
+   "published": "2026-05-27T14:31:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "최진현 기자",
+    "김민하 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 24221,
+   "title": "‘5년 간 총 216억 투자’ 우리대학·포항시 펩타이드 의약품 개발 사업 공모 당선",
+   "published": "2026-05-27T14:30:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "유영주 기자",
+    "박단아 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 24220,
+   "title": "융합의 이름에서 의공학의 이름으로… IT융합공학과, 의공학과로 전환",
+   "published": "2026-05-27T14:29:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 24219,
+   "title": "올해로 3주년을 맞은 재학생 모교방문단, 우리대학과 고등학교를 잇다",
+   "published": "2026-05-27T14:28:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "한정우 기자",
+    "조준혁 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24219_28518_273.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24218,
+   "title": "서버 안정성 얻고 편의성 놓쳤나, 새 주문 앱 ‘잇츠미’의 기대와 숙제",
+   "published": "2026-05-27T14:25:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24218_28517_2431.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24217,
+   "title": "축제 세 개가 열리는 2026년, 준비 과정과 남은 과제는",
+   "published": "2026-05-27T14:23:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김수진 기자",
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24217_28516_2259.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24216,
+   "title": "방학의 시작은 도구해수욕장에서",
+   "published": "2026-05-27T14:21:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24216_28514_204.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24215,
+   "title": "제10차 개헌 시도와 무산, 의미와 쟁점",
+   "published": "2026-05-27T14:19:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김범준 기자",
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24215_28513_1836.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24214,
+   "title": "노준석 교수, 국내 최초 네이처 한 호에 논문 두 편 동시 게재 ... 세계를 주도하는 메타물질 연구",
+   "published": "2026-05-27T14:17:00+09:00",
+   "category": "과학",
+   "bylines": [
+    "김범준"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24214_28512_1624.jpg",
+   "sectionCode": "S1N31",
+   "sectionName": "과학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24213,
+   "title": "두쫀쿠, 버터떡, 우베… 끊임없이 바뀌는 유행 음식",
+   "published": "2026-05-27T14:15:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "유영주 기자",
+    "오현준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24213_28511_1512.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24212,
+   "title": "6·3 지방선거, 포항시장 후보 3인에게 듣는다",
+   "published": "2026-05-27T14:12:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김태린 기자",
+    "박단아 기자",
+    "조아훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24212_28510_1128.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24211,
+   "title": "거대 AI의 시대, ‘구조’의 힘을 묻다",
+   "published": "2026-05-27T14:09:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "모상우 / 산경 조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24211_28507_720.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24210,
+   "title": "문제를 적는다는 것 - AI 시대에 다시 생각하는 파인만 알고리즘",
+   "published": "2026-05-27T14:05:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "김용준 / 전자 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 24209,
+   "title": "낭만을 찾아서",
+   "published": "2026-05-27T14:04:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김민하 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 24208,
+   "title": "과학기술의 도시에서 묻는 지방선거의 의미",
+   "published": "2026-05-27T14:03:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {
+  "24223": []
+ }
+}

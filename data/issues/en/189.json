@@ -1,0 +1,249 @@
+{
+ "edition": "en",
+ "number": 189,
+ "published": "2025-10-01T09:50:00+09:00",
+ "lastUpload": "2025-10-01T10:14:00+09:00",
+ "articles": [
+  {
+   "id": 23803,
+   "title": "Let’s Flip! PKSW 2025 : A New Hope",
+   "published": "2025-10-01T10:14:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Tae-hee",
+    "Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23803_28170_1321.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23802,
+   "title": "A Reflection of Diversity in POSTECH : POSTECH AutumnFest Hungary",
+   "published": "2025-10-01T10:12:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23802_28169_1212.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23801,
+   "title": "Another Formula for Air Pollution: Droughts + Wildfires",
+   "published": "2025-10-01T10:11:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23800,
+   "title": "Afraid of Needles? Measure the Blood Sugar Level with Your Sweat",
+   "published": "2025-10-01T10:10:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23799,
+   "title": "Korean Military Lacks System to Support Multicultural Soldiers",
+   "published": "2025-10-01T10:09:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23799_28168_930.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23798,
+   "title": "Government Reorganization: The New Administration’s Direction",
+   "published": "2025-10-01T10:08:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23798_28167_841.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23797,
+   "title": "An Unkept Promise?: The State of Academic Support for Serving Students",
+   "published": "2025-10-01T10:08:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23797_28166_753.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23796,
+   "title": "Serving with Knowledge Instead of Arms: How Postechians Fulfill Military Services",
+   "published": "2025-10-01T10:07:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23796_28165_73.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23795,
+   "title": "End of the Female Student Union at POSTECH",
+   "published": "2025-10-01T10:06:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23795_28164_621.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23794,
+   "title": "Disability and Admissions at POSTECH : Academic Competence or Exclusion?",
+   "published": "2025-10-01T10:05:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "POSTECH Admissions",
+    "Park Seunga (LIFE 21)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23794_28163_517.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23793,
+   "title": "Postechian Column : Diving into Research Life with SEMI Fast Track",
+   "published": "2025-10-01T10:04:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kim Woo-seok (SEMI 23)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23793_28162_36.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23792,
+   "title": "Reporter Column : The Right Belongs Where It Is Sought",
+   "published": "2025-10-01T10:02:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23792_28161_28.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23791,
+   "title": "How AI is Reshaping Korea : Writing, Hiring, and Messaging with AI",
+   "published": "2025-10-01T10:01:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23791_28160_050.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23790,
+   "title": "The AI Data Center : Electricity-Devouring Monster",
+   "published": "2025-10-01T10:00:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23790_28158_5851.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23789,
+   "title": "Where Hangul Stands In The Digital Age",
+   "published": "2025-10-01T09:56:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23789_28157_5626.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23788,
+   "title": "Korea’s Food Culture: From Traditions to Marketing",
+   "published": "2025-10-01T09:55:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23788_28156_5535.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23787,
+   "title": "Postechian Frontiers : A Glimpse of the Next Industrial Revolution—Apple Smart Manufacturing Forum",
+   "published": "2025-10-01T09:50:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202510/23787_28155_4954.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

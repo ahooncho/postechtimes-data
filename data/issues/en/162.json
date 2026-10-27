@@ -1,0 +1,205 @@
+{
+ "edition": "en",
+ "number": 162,
+ "published": "2023-02-17T22:09:00+09:00",
+ "lastUpload": "2023-02-17T22:23:00+09:00",
+ "articles": [
+  {
+   "id": 22438,
+   "title": "Commencement Ceremony for the 2022 Academic Year",
+   "published": "2023-02-17T22:23:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202308/22438_27222_5541.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22437,
+   "title": "POSTECH at CES 2023",
+   "published": "2023-02-17T22:18:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22437_27031_710.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22436,
+   "title": "Eco-Friendly Semiconductors Created by Thermal Evaporation",
+   "published": "2023-02-17T22:17:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22436_27029_527.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22435,
+   "title": "Treating ‘Corneal Ulcers’ by Filling with Diagnostic Light",
+   "published": "2023-02-17T22:16:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22435_27028_254.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22434,
+   "title": "HIV Vaccine Failure in Clinical Trial",
+   "published": "2023-02-17T22:16:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22434_27027_223.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22433,
+   "title": "Peculiar Concentration of Particulate Matter",
+   "published": "2023-02-17T22:15:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22433_27026_21.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22432,
+   "title": "Interviews with Award-Winning Graduates",
+   "published": "2023-02-17T22:15:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22432_27019_5639.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22431,
+   "title": "POSTECH Microscope: Change-Over to Offline Freshmen Orientation",
+   "published": "2023-02-17T22:13:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22431_27018_560.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22430,
+   "title": "Continuous Struggles of Tech Companies",
+   "published": "2023-02-17T22:11:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22430_27017_5452.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22429,
+   "title": "Computer Graphics: Invite Us to The New World",
+   "published": "2023-02-17T22:10:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22429_27016_5416.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22428,
+   "title": "Call Phobia: Fear of Phone Calls",
+   "published": "2023-02-17T22:10:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22428_27015_5350.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22427,
+   "title": "Reporter Column: A Small Glimpse into a Different World",
+   "published": "2023-02-17T22:10:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22427_27013_5327.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22426,
+   "title": "Reporter Column: A Very Special 10-day Experience",
+   "published": "2023-02-17T22:09:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22426_27012_5240.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22425,
+   "title": "Postechian Column: My Memoir of CES 2023",
+   "published": "2023-02-17T22:09:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kim Seo-jin (IME 20)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22425_27010_499.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

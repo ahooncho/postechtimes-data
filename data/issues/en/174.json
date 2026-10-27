@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 174,
+ "published": "2024-03-20T17:05:00+09:00",
+ "lastUpload": "2024-03-21T23:44:00+09:00",
+ "articles": [
+  {
+   "id": 23029,
+   "title": "Graduate Students’ Open Forum with the President",
+   "published": "2024-03-21T23:44:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23029_27537_4436.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23028,
+   "title": "Transformation of the RC Experience: Post-Renovation Insights",
+   "published": "2024-03-21T15:15:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23028_27536_1529.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23027,
+   "title": "Underwater Proposal with Photonic Display",
+   "published": "2024-03-21T15:14:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23027_27535_1355.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23026,
+   "title": "Atomic Layer Semiconductor Processing & Hydrogen Technology",
+   "published": "2024-03-21T15:13:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23026_27534_1147.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23025,
+   "title": "Carving Today on a Glass",
+   "published": "2024-03-21T15:10:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23025_27532_109.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23024,
+   "title": "Bungee Jumping Blind Spot",
+   "published": "2024-03-21T15:09:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23024_27531_92.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23023,
+   "title": "Hoping for Barrier-Free Campus",
+   "published": "2024-03-21T15:07:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23023_27530_742.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23022,
+   "title": "POSTECH Michelin Guide",
+   "published": "2024-03-21T15:06:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23022_27529_637.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23021,
+   "title": "POSTECH Microscope: Wake up Start up! POSTECH Student Entrepreneurship Team",
+   "published": "2024-03-21T15:05:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23021_27527_54.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23020,
+   "title": "Column: Breaking Barriers: Medical Science and Engineering in Neuroimmunology",
+   "published": "2024-03-21T15:04:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Assistant Professor Jongshin Kim (MED)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23020_27526_40.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23019,
+   "title": "Postechian Column: Journey of AI: The Path AI Has Walked",
+   "published": "2024-03-21T15:03:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Jaehyun Choi (EE 20)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23019_27525_30.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23018,
+   "title": "Reporter Column: Life at an International School",
+   "published": "2024-03-21T15:02:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23018_27524_144.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23017,
+   "title": "Acne: Isotretinoin ambivalence",
+   "published": "2024-03-21T14:59:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202411/23017_27787_5939.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23014,
+   "title": "Rise of the C-commerce Online Shopping Platform",
+   "published": "2024-03-21T14:58:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23014_27520_5327.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23013,
+   "title": "From the Vandals’ Sack of Rome to Modern Graffiti",
+   "published": "2024-03-21T14:58:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23013_27519_524.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23012,
+   "title": "Korean Wave Embedding in Global Market",
+   "published": "2024-03-20T17:06:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23012_27518_514.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23011,
+   "title": "Postechian's Pick: Only Yesterday",
+   "published": "2024-03-20T17:05:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/23011_27517_4544.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,391 @@
+{
+ "edition": "ko",
+ "number": 436,
+ "published": "2022-09-14T20:12:00+09:00",
+ "lastUpload": "2022-09-14T20:27:00+09:00",
+ "articles": [
+  {
+   "id": 22228,
+   "title": "2024학년도 대입부터 수능 최저학력기준 도입",
+   "published": "2022-09-14T20:27:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22228_26853_3540.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22227,
+   "title": "우리대학-육군, 첨단 과학 기술군 발전 도모",
+   "published": "2022-09-14T20:27:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22226,
+   "title": "홍석봉 교수 아시아 최초 브렉상 단독 수상",
+   "published": "2022-09-14T20:27:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22225,
+   "title": "원하는 빛만 반사하는 만능거울 개발",
+   "published": "2022-09-14T20:26:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22224,
+   "title": "수학 모델로 몸속 세포 활성화의 비밀을 밝혀내다",
+   "published": "2022-09-14T20:26:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22223,
+   "title": "우리대학, 차세대 철강업 이끌 금속적층제조 소재부품 연구센터 개소",
+   "published": "2022-09-14T20:26:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22222,
+   "title": "포스텍-이스라엘 조인트 콘퍼런스 성료",
+   "published": "2022-09-14T20:25:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22222_26852_3452.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22221,
+   "title": "박태준학술정보관 1층 편의점 및 카페 완공",
+   "published": "2022-09-14T20:25:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22220,
+   "title": "우리대학-요기요 물류 산업 최적화 MOU 체결",
+   "published": "2022-09-14T20:25:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22220_26851_3421.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22219,
+   "title": "개교 후 첫 교수진 세대교체, 진행 상황은?",
+   "published": "2022-09-14T20:25:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22219_26850_3350.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22218,
+   "title": "안전한 캠퍼스가 될 수 있도록",
+   "published": "2022-09-14T20:24:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박준우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22217,
+   "title": "우리대학 강의평가 제도를 돌아보다",
+   "published": "2022-09-14T20:24:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22217_26849_3255.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22216,
+   "title": "“과학은 교과서를 믿는 것이 아니라 다시 쓰는 것”",
+   "published": "2022-09-14T20:22:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "안윤겸",
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22216_26847_3137.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22215,
+   "title": "무지출 챌린지, 고물가 시대 MZ세대의 생존법",
+   "published": "2022-09-14T20:21:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22215_26846_3048.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22214,
+   "title": "코로나19 사태 전후 식생활 트렌드 변화",
+   "published": "2022-09-14T20:21:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "고평강",
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22214_26845_3020.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22213,
+   "title": "누리호 발사 성공, 우주 강국으로의 길 열려",
+   "published": "2022-09-14T20:21:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "이재현",
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22213_26844_2930.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22212,
+   "title": "경기침체·인플레이션·전쟁, 퍼펙트 스톰의 전초",
+   "published": "2022-09-14T20:20:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "이재현",
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22212_26843_290.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22211,
+   "title": "실생활에 사용할 수 있는 분광학 센서의 개발",
+   "published": "2022-09-14T20:20:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "장영태 / 화학과 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22211_26839_2716.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22210,
+   "title": "기술의 민주화",
+   "published": "2022-09-14T20:19:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "장수영 / 산경 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22209,
+   "title": "조금은 다른, 그러나 여전히 사랑스러운 이의 이야기",
+   "published": "2022-09-14T20:18:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22209_26838_2429.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22208,
+   "title": "기록적인 폭우로 미뤄 본 위기의 기후",
+   "published": "2022-09-14T20:18:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "남현동 / 신소재 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22207,
+   "title": "제435호 ‘활기찬 문화생활이 돌아왔다’를 읽고",
+   "published": "2022-09-14T20:18:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "박채원 / 수학 20"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22206,
+   "title": "혁신과 피로 사이, 구독 경제",
+   "published": "2022-09-14T20:17:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22205,
+   "title": "클래식을 감상하는 방식에 대해",
+   "published": "2022-09-14T20:17:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22204,
+   "title": "음식물 쓰레기를 에너지원으로",
+   "published": "2022-09-14T20:16:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22203,
+   "title": "체인지업 그라운드와 포스텍을 잇는 체인지업 에비뉴 오픈",
+   "published": "2022-09-14T20:16:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22203_26834_2344.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22202,
+   "title": "제436호 형산만평",
+   "published": "2022-09-14T20:12:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202308/22202_27228_244.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

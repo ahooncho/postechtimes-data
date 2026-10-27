@@ -1,0 +1,221 @@
+{
+ "edition": "en",
+ "number": 193,
+ "published": "2026-02-13T14:29:00+09:00",
+ "lastUpload": "2026-02-15T13:48:00+09:00",
+ "articles": [
+  {
+   "id": 24007,
+   "title": "Commencement Ceremony for the 2025 Academic Year",
+   "published": "2026-02-15T13:48:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Seong Keun KIM President",
+    "POSTECH"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24007_28338_248.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24006,
+   "title": "From Headlines to Hands-On: CES 2026",
+   "published": "2026-02-13T18:50:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24006_28337_500.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24004,
+   "title": "Mapping the Liver: Precise Steatotic Liver Disease Assessment Using Three-Dimensional Ultrafast Vascular Ultrasound Imaging",
+   "published": "2026-02-13T18:47:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24003,
+   "title": "Breaking the Stereotype: A New Paradigm for Dual-Ion Batteries",
+   "published": "2026-02-13T18:47:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24002,
+   "title": "[Editorial] Postechian’s Lab Note: Backstage of Grand Research",
+   "published": "2026-02-13T18:44:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24002_28336_4357.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23999,
+   "title": "Campus & AI: A Perfect Replacement for Human Engineers?",
+   "published": "2026-02-15T13:48:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/23999_28335_4222.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23998,
+   "title": "Tariffs, Turbulence, and a Flight to Gold",
+   "published": "2026-02-15T13:48:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/23998_28334_334.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23996,
+   "title": "Interviews with Award-Winning Graduates",
+   "published": "2026-02-13T14:29:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/23996_28328_2433.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23993,
+   "title": "POSTECH Launches “POSTECH AI,” a Multi-LLM Generative AI Service",
+   "published": "2026-02-15T13:48:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/23993_28327_5329.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23992,
+   "title": "To Pause or To Persist: Redefining the Value of a College Leave of Absence",
+   "published": "2026-02-15T13:48:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Victoria ELLIOTT",
+    "KIM Taelim"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/23992_28325_4813.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23991,
+   "title": "Elite League 3: Better an Imperfect Choice Than a Perfect Regret",
+   "published": "2026-02-15T13:48:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "PARK Seoyeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/23991_28324_4312.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23989,
+   "title": "What is Next for AI?: The Field of Physical AI",
+   "published": "2026-02-15T13:48:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/23989_28320_3045.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23987,
+   "title": "“Koreanization”: Survival Strategy Seen Through “Dujjonku”",
+   "published": "2026-02-15T13:48:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/23987_28319_1714.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23986,
+   "title": "Postechian’s Pick: The Metamorphosis",
+   "published": "2026-02-15T13:48:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/23986_28318_1315.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23981,
+   "title": "Reporter’s Column: My Experience at the Korean Conference on Semiconductors",
+   "published": "2026-02-15T13:48:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/23981_28323_387.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

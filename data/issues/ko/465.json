@@ -1,0 +1,367 @@
+{
+ "edition": "ko",
+ "number": 465,
+ "published": "2025-04-23T17:42:00+09:00",
+ "lastUpload": "2025-04-23T18:32:00+09:00",
+ "articles": [
+  {
+   "id": 23679,
+   "title": "우리대학 ‘QS 세계 대학평가’서 우수한 성과 거둬",
+   "published": "2025-04-23T18:32:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23679_28060_3216.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23678,
+   "title": "우리대학의 새 이동수단, ‘포링이’ 시범운영 시작",
+   "published": "2025-04-23T18:31:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "유영주",
+    "송명빈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23678_28059_3118.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23677,
+   "title": "노준석 교수 연구팀, 100년간 풀리지 않은 물리학 난제 실험적으로 입증",
+   "published": "2025-04-23T18:30:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23676,
+   "title": "김철홍 교수, AIMBE 펠로우 선정",
+   "published": "2025-04-23T18:29:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23675,
+   "title": "김형섭 교수, 미국 외 기관 연구진 최초로 TMS 학술대회서 최우수논문상 수상",
+   "published": "2025-04-23T18:29:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23674,
+   "title": "올해 첫 SME Week 개최⋯ 중소기업에 스마트 제조 지원",
+   "published": "2025-04-23T18:28:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23674_28058_281.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23673,
+   "title": "산불 위협에 대비하는 법, 우리대학의 안전 시스템을 살펴보다",
+   "published": "2025-04-23T18:26:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23672,
+   "title": "우리대학 학생들의 수면 패턴, 지켜지고 있나요?",
+   "published": "2025-04-23T18:25:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김태린",
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23672_28057_2358.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23671,
+   "title": "대학원아파트 4동 리모델링 소음 문제, 지금까지의 경과는",
+   "published": "2025-04-23T18:23:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김태린",
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23671_28056_2259.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23670,
+   "title": "홈플러스의 기습 회생 신청, 책임의 화살은 누구에게로",
+   "published": "2025-04-23T18:21:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김윤철",
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23670_28055_2053.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23669,
+   "title": "고교학점제 전면 도입, 달라지는 입시제도",
+   "published": "2025-04-23T18:20:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "정혜정",
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23669_28054_1947.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23668,
+   "title": "영화관의 색다른 매력을 찾아, 얼터콘텐츠를 톺아보다",
+   "published": "2025-04-23T18:18:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "양지윤",
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23668_28053_1836.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23667,
+   "title": "스스로 읽는 요즘 세대, 텍스트힙 트렌드",
+   "published": "2025-04-23T18:17:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23667_28052_1642.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23666,
+   "title": "[우리대학 졸업생은 무엇을 하고 있을까] 창업편",
+   "published": "2025-04-23T18:14:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "이주형",
+    "이이수",
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23666_28051_1423.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23665,
+   "title": "인공지능과 함께 발전하는 고체역학과 구조 설계",
+   "published": "2025-04-23T18:01:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "신동일 / 기계 조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23665_28048_052.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23664,
+   "title": "포항공대신문 39기 수습기자를 소개합니다",
+   "published": "2025-04-23T17:57:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23664_28045_578.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 23663,
+   "title": "경험이 나를 만든다",
+   "published": "2025-04-23T17:56:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23663_28044_5550.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 23662,
+   "title": "고프다",
+   "published": "2025-04-23T17:55:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "송명빈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23662_28043_5517.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 23661,
+   "title": "시작을 위한 도전",
+   "published": "2025-04-23T17:54:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23661_28042_5327.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 23659,
+   "title": "글을 배달하는 일",
+   "published": "2025-04-23T17:52:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23659_28047_5854.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 23658,
+   "title": "독자였던 내가, 이제는 쓰는 사람으로",
+   "published": "2025-04-23T17:49:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23658_28041_5242.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 23657,
+   "title": "제464호 ‘최신 에너지 기술의 중심으로, 2025 ARPA-E Energy Innovation Summit 학생 파견단’을 읽고",
+   "published": "2025-04-23T17:46:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김채원 / 화공 23"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 23656,
+   "title": "우리대학의 브랜드 가치 전략",
+   "published": "2025-04-23T17:45:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "김성지 / 포스텍 교수평의회 의장"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 23655,
+   "title": "불안한 삶을 살아가는 용기(勇氣)",
+   "published": "2025-04-23T17:43:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 23654,
+   "title": "제465호 형산만평",
+   "published": "2025-04-23T17:42:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23654_28039_4212.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

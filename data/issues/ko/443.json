@@ -1,0 +1,375 @@
+{
+ "edition": "ko",
+ "number": 443,
+ "published": "2023-04-17T19:32:00+09:00",
+ "lastUpload": "2023-04-17T19:49:00+09:00",
+ "articles": [
+  {
+   "id": 22567,
+   "title": "반도체공학과, 최정예 위한 첫 발 내딛다",
+   "published": "2023-04-17T19:49:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22567_27137_1653.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22566,
+   "title": "모두에게 더 나은 방향으로, 변화해가는 근로 시스템",
+   "published": "2023-04-17T19:48:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22565,
+   "title": "친환경 유기 소재 기반 수분해 광촉매 개발",
+   "published": "2023-04-17T19:48:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22564,
+   "title": "메타 표면을 활용한 자외선 광학 소용돌이 빔 개발",
+   "published": "2023-04-17T19:47:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정유현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22563,
+   "title": "반창고 대신 살아있는 세포 스티커 제작",
+   "published": "2023-04-17T19:47:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22562,
+   "title": "빛나는 연구 성과 … 우리대학, 휴먼테크논문대상서 대거 수상",
+   "published": "2023-04-17T19:47:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22561,
+   "title": "우리대학 - LG전자 ‘데이터 사이언스 트랙’ 협약",
+   "published": "2023-04-17T19:46:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22561_27134_1557.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22559,
+   "title": "올해도 여전히 전원 기숙사 제공",
+   "published": "2023-04-17T19:45:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22559_27138_1823.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22558,
+   "title": "점점 줄어드는 총학생회비 납부 … 위기의 총학생회",
+   "published": "2023-04-17T19:44:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22558_27133_1439.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22557,
+   "title": "반도체공학과 첫 시작을 함께한 구성원들을 만나다",
+   "published": "2023-04-17T19:43:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강민영",
+    "손유민",
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22557_27130_1221.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22555,
+   "title": "식품업계에 불어닥친 제로 열풍",
+   "published": "2023-04-17T19:40:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202305/22555_27183_4841.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22554,
+   "title": "나이 듦을 부정하는 ‘네버랜드 신드롬’",
+   "published": "2023-04-17T19:39:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22554_27128_1135.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22553,
+   "title": "게임법 개정안으로 확률형 아이템 막는다",
+   "published": "2023-04-17T19:39:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22553_27129_1158.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22552,
+   "title": "리튬 전쟁, 총성 없는 세계 전쟁",
+   "published": "2023-04-17T19:38:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22552_27125_1020.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22551,
+   "title": "텍스트 해석에서 역사의 재구성까지",
+   "published": "2023-04-17T19:38:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "박상준 / 인문 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22551_27126_1042.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22550,
+   "title": "도전을 먹고 자라는 사람",
+   "published": "2023-04-17T19:37:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22550_27107_638.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 22549,
+   "title": "기자로서 할 수 있는 일, 얻을 수 있는 것",
+   "published": "2023-04-17T19:37:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22549_27106_620.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 22548,
+   "title": "세상을 담고 우리대학을 펼치겠다는 다짐",
+   "published": "2023-04-17T19:36:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22548_27105_62.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 22547,
+   "title": "세상을 알리는 기자",
+   "published": "2023-04-17T19:36:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22547_27104_539.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 22546,
+   "title": "너무 들뜨지 않고",
+   "published": "2023-04-17T19:36:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "정원형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22546_27103_515.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 22545,
+   "title": "기자라는 꿈",
+   "published": "2023-04-17T19:35:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22545_27102_456.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 22544,
+   "title": "‘글’이 좋다는 것은",
+   "published": "2023-04-17T19:35:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202402/22544_27471_2224.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 22543,
+   "title": "사회 속에서 잊혀 가는 ‘나’",
+   "published": "2023-04-17T19:34:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22542,
+   "title": "아이돌에 영혼을 불어넣는 힘, 브랜딩의 가치",
+   "published": "2023-04-17T19:33:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22541,
+   "title": "4차 산업 시대의 환경 기술",
+   "published": "2023-04-17T19:33:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22540,
+   "title": "제443호 형산만평",
+   "published": "2023-04-17T19:32:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202304/22540_27139_190.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

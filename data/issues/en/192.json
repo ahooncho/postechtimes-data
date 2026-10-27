@@ -1,0 +1,221 @@
+{
+ "edition": "en",
+ "number": 192,
+ "published": "2026-01-01T11:03:00+09:00",
+ "lastUpload": "2026-01-01T11:31:00+09:00",
+ "articles": [
+  {
+   "id": 23952,
+   "title": "2026 New Year’s Message Facing the Future: A Tale of Two Paintings",
+   "published": "2026-01-01T11:31:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Seong Keun KIM President",
+    "POSTECH"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23952_28296_2957.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23951,
+   "title": "40 Years of Excellence at POSTECH",
+   "published": "2026-01-01T11:28:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23951_28295_283.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23950,
+   "title": "Mercury in Your Favorite Tuna Cans Comes From Asia",
+   "published": "2026-01-01T11:27:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23949,
+   "title": "Catching the Most Subtle Signals : Wearable Tech That “Feels” Inhalation",
+   "published": "2026-01-01T11:27:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23948,
+   "title": "Stories Passed from Fire to Screen",
+   "published": "2026-01-01T11:26:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23948_28294_2617.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23947,
+   "title": "Coupang Data Breach Puts 33.7 Million Users at Risk",
+   "published": "2026-01-01T11:24:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23947_28293_2414.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23946,
+   "title": "Northeast Asia on Edge: The Growing China-Japan Conflict",
+   "published": "2026-01-01T11:23:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23946_28292_2331.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23945,
+   "title": "Meal Price Increases to 4,500 KRW",
+   "published": "2026-01-01T11:22:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23945_28291_227.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23944,
+   "title": "Understanding Information Society: It is More Than Convenience",
+   "published": "2026-01-01T11:21:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23944_28290_2132.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23943,
+   "title": "Convergence IT Design: Designing Your Own Path in Engineering",
+   "published": "2026-01-01T11:20:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23943_28289_2030.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23942,
+   "title": "Lecture vs. Engagement : Rethinking the University Classroom",
+   "published": "2026-01-01T11:19:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Hyeongkwan KIM (MATH)",
+    "Jordan SCHAUER (H"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23942_28288_1930.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23941,
+   "title": "Postechian Column : Gradually Breaking the Lab Behind the Professor’s Back",
+   "published": "2026-01-01T11:11:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "@grad_slave06"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23941_28285_1059.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23940,
+   "title": "Reporter Column : Be Right Back",
+   "published": "2026-01-01T11:09:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23940_28284_918.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23939,
+   "title": "Nuri’s 4th Launch Advances Korea’s Journey and Ambition Toward Space",
+   "published": "2026-01-01T11:07:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23939_28282_359.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23938,
+   "title": "How Talent is Valued : China vs Korea",
+   "published": "2026-01-01T11:03:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202601/23938_28281_256.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

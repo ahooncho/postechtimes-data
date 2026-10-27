@@ -1,0 +1,219 @@
+{
+ "edition": "en",
+ "number": 182,
+ "published": "2025-01-06T09:00:00+09:00",
+ "lastUpload": "2025-01-06T09:00:00+09:00",
+ "articles": [
+  {
+   "id": 23438,
+   "title": "2025 New Year’s Address",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "President Seong Keun Kim"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23438_27843_187.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23437,
+   "title": "Closing the End of the Year with International Members",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23437_27844_1845.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23436,
+   "title": "Semiconductor + Hydrogen, the Secret Code of the Energy Revolution",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23436_27845_2010.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23435,
+   "title": "Visualizing Vasoconstrictive Effects of Corticosteroids",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23435_27846_2035.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23434,
+   "title": "Could Have Been Worse",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23434_27847_2123.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23433,
+   "title": "Autonomous Buses in Seoul Benefit Early Commuters",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23433_27848_2146.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23432,
+   "title": "Hwan-Donghae Academy Symposium: Imagining the Ocean Through SF",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23432_27849_2224.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23431,
+   "title": "Apple Developer Academy SHOWCASE24",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23431_27850_2350.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23430,
+   "title": "POSTECH Microscope: 2024 Introducing My Research Excellence Award Winner",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23430_27851_2511.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23429,
+   "title": "Smart Soft Materials: Broad Possibilities Across Many Fields",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Associate Professor Youn-soo Kim (MSE)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23429_27854_2636.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23428,
+   "title": "Postechian Column: Unforgettable First Year in POSTECH",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Lee Ju-young (Muenjae 24)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23428_27855_2721.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23427,
+   "title": "Reporter Column: Goodbye, The Postech Times!",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23427_27856_2752.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23426,
+   "title": "Is a Less Painful Death Possible?",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23426_27857_2833.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23425,
+   "title": "Climate Refugees: People Displaced by Climate Change",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23425_27858_2910.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23424,
+   "title": "Cuteness Opens Wallets: Character Collaboration Marketing",
+   "published": "2025-01-06T09:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202501/23424_27859_2940.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

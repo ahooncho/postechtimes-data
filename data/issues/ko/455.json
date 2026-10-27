@@ -1,0 +1,264 @@
+{
+ "edition": "ko",
+ "number": 455,
+ "published": "2024-05-22T15:43:00+09:00",
+ "lastUpload": "2024-05-22T16:39:00+09:00",
+ "articles": [
+  {
+   "id": 23169,
+   "title": "‘SPARK’를 일으켜, 2024년도 해맞이한마당",
+   "published": "2024-05-22T16:39:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23169_27598_3914.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23167,
+   "title": "무은재 정신을 되새기며, 故 김호길 초대총장 30주기 추모행사 개최",
+   "published": "2024-05-22T16:16:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23167_27599_4058.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23164,
+   "title": "노용영 교수, 비정질 p형 산화물 반도체 개발",
+   "published": "2024-05-22T16:14:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23163,
+   "title": "민승기 교수 ‘Frontiers Planet Prize 2024’ 내셔널 챔피언 선정",
+   "published": "2024-05-22T16:13:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23162,
+   "title": "우리대학 소속 대학원생 16인 ‘제1기 대학원 대통령과학장학금’ 선정",
+   "published": "2024-05-22T16:12:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23161,
+   "title": "노르딕 토크 코리아 개최, 녹색 전환의 길로",
+   "published": "2024-05-22T16:12:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "정유현",
+    "양지윤 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23161_27600_4241.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23160,
+   "title": "포항가속기연구소-포항시, 산업과학지원센터 개편",
+   "published": "2024-05-22T16:11:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23160_27601_4317.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23159,
+   "title": "생동감 있는 교육의 현장, 애플아카데미에 들어가보다",
+   "published": "2024-05-22T16:09:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "오유진",
+    "강호연",
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23159_27602_4743.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23158,
+   "title": "2024 해맞이한마당 사진기사",
+   "published": "2024-05-22T16:06:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23158_27605_5349.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 23157,
+   "title": "못생긴 마음이 읽힐 때가 좋다",
+   "published": "2024-05-22T16:01:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23157_27619_626.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 23156,
+   "title": "Extraordinary Case에 잠기자",
+   "published": "2024-05-22T15:59:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "강대환 / 반도체 기금교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 23155,
+   "title": "일상을 유지하는 법",
+   "published": "2024-05-22T15:52:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "김용담 / 생명 22"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 23154,
+   "title": "제454호 ‘대학 당국과 학생 간의 격의 없는 소통...’을 읽고",
+   "published": "2024-05-22T15:51:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "박승아 / 생명 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 23153,
+   "title": "세계화를 향한 제언",
+   "published": "2024-05-22T15:50:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 23152,
+   "title": "확신은 못 해도",
+   "published": "2024-05-22T15:49:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 23151,
+   "title": "대한민국 모범(인)생의 종말을 고대하며",
+   "published": "2024-05-22T15:48:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 23150,
+   "title": "‘포스텍 한 스푼’ 어떠세요?",
+   "published": "2024-05-22T15:47:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23150_27620_722.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 23148,
+   "title": "제 455호 형산만평",
+   "published": "2024-05-22T15:43:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23148_27972_5924.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

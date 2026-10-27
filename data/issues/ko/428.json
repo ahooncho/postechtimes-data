@@ -1,0 +1,367 @@
+{
+ "edition": "ko",
+ "number": 428,
+ "published": "2021-11-14T00:35:00+09:00",
+ "lastUpload": "2021-11-14T01:42:00+09:00",
+ "articles": [
+  {
+   "id": 21786,
+   "title": "위드 코로나, 위드 포스텍",
+   "published": "2021-11-14T01:42:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21786_26517_4238.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21785,
+   "title": "온라인에서도 빛난 승리의 축제, 열광의 현장",
+   "published": "2021-11-14T01:41:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21785_26516_4133.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21784,
+   "title": "두 가지 파장대에서 작용하는 강력한 보안 기술 개발",
+   "published": "2021-11-14T01:40:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21783,
+   "title": "홍합 단백질과 자석 이용한 접착성 마이크로 입자 개발",
+   "published": "2021-11-14T01:39:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21782,
+   "title": "선인장 가시 모사해 땀 포집 패치 개발",
+   "published": "2021-11-14T01:39:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21781,
+   "title": "애플, 우리대학과 손잡고 제조업 리더·개발자 양성한다",
+   "published": "2021-11-14T01:38:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21780,
+   "title": "비대면 상황 속 함께 성장하다, 랜선 러닝커뮤니티",
+   "published": "2021-11-14T01:38:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21779,
+   "title": "이제는 기업과 쌍방향 소통한다, 팬슈머",
+   "published": "2021-11-14T01:37:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "박지우",
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21779_26515_3736.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21778,
+   "title": "플라스틱에서 탈출하다",
+   "published": "2021-11-14T01:34:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "박승아",
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21778_26514_3442.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21777,
+   "title": "이제야 알게 된 나의 병명, 성인 ADHD",
+   "published": "2021-11-14T01:31:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "안윤겸",
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21777_26513_3152.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21776,
+   "title": "‘실효성 논란’ 강제적 게임 셧다운제, 10년 만에 폐지",
+   "published": "2021-11-14T01:30:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김지원",
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21776_26512_302.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21775,
+   "title": "운동, 열심히 하시나요?",
+   "published": "2021-11-14T01:27:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "유민재",
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21775_26509_2554.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21774,
+   "title": "그린캠퍼스를 향하여",
+   "published": "2021-11-14T01:17:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은",
+    "박준우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21774_26508_172.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21773,
+   "title": "문자 상자와 인류의 발전",
+   "published": "2021-11-14T01:15:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "최원일 / GIST 기초교육학부 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21773_26507_1521.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21772,
+   "title": "효자시장 상인들의 애환을 담다, ‘효자동 브루스’",
+   "published": "2021-11-14T01:13:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "박지우 기자",
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21772_26505_1114.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 21771,
+   "title": "연극 동아리 ‘애드립(ADLIB)’ 회장 인터뷰",
+   "published": "2021-11-14T01:06:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "박지우",
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21771_26503_644.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 21770,
+   "title": "올림픽이 끝나도 이어지는 선수들 이야기",
+   "published": "2021-11-14T01:04:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21770_26502_427.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21769,
+   "title": "다시 읽은 교과서",
+   "published": "2021-11-14T00:58:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "오은진 / 컴공 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21768,
+   "title": "보다 나은 대학 생활을 위한 정보",
+   "published": "2021-11-14T00:57:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "오경택 / 화학 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21767,
+   "title": "제426호 ‘치솟는 확진자 수, 이번 학기도 텅 빈 강의실’을 읽고",
+   "published": "2021-11-14T00:56:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "이경훈 / 무은재 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21766,
+   "title": "당신의 정보는 안녕하신가요",
+   "published": "2021-11-14T00:55:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21764,
+   "title": "인생 마스터플랜을 향한 첫걸음",
+   "published": "2021-11-14T00:51:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "박준우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21763,
+   "title": "우리대학의 재도약을 꿈꾸며",
+   "published": "2021-11-14T00:50:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21762,
+   "title": "테라로사 포스텍점 개점",
+   "published": "2021-11-14T00:50:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21762_26501_502.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21760,
+   "title": "제428호 형산만평",
+   "published": "2021-11-14T00:35:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202111/21760_26500_3448.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

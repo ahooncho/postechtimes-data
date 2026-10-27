@@ -1,0 +1,349 @@
+{
+ "edition": "ko",
+ "number": 405,
+ "published": "2019-02-28T02:56:00+09:00",
+ "lastUpload": "2019-02-28T18:33:00+09:00",
+ "articles": [
+  {
+   "id": 20716,
+   "title": "667인의 포스테키안, 도약 위한 첫 발걸음 내딛다",
+   "published": "2019-02-28T18:33:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20716_25617_3323.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20715,
+   "title": "창업과 기업가정신 교육 위한 가치창출융합학부 신설",
+   "published": "2019-02-28T18:31:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20714,
+   "title": "최문영 미주리대 총장, 우리대학 명예 공학박사 학위 수여",
+   "published": "2019-02-28T18:30:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20713,
+   "title": "더 나은 한국 사회 위한 비상구를 찾다",
+   "published": "2019-02-28T18:30:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20712,
+   "title": "유연하지만 강한 웨어러블 디바이스용 젤 전해질 개발",
+   "published": "2019-02-28T18:29:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20711,
+   "title": "신입생 영어 캠프, POSPREP 올해 첫 시행",
+   "published": "2019-02-28T18:29:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20711_25616_2919.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20710,
+   "title": "SES 개선 위한 참여 학생 간담회 개최",
+   "published": "2019-02-28T18:28:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20710_25615_285.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20709,
+   "title": "새학기를 맞은 포스테키안들을 찾아서",
+   "published": "2019-02-28T18:25:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "국현호",
+    "김상수",
+    "이신범 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20709_25626_4618.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20708,
+   "title": "POSTECH 벚꽃탐방",
+   "published": "2019-02-28T18:07:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20708_25608_739.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20707,
+   "title": "대학생이 무슨 양주냐고? 모르는 소리!",
+   "published": "2019-02-28T18:06:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20707_25606_68.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20706,
+   "title": "공유경제 시대, 카풀은 왜 안 되나요?",
+   "published": "2019-02-28T18:03:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20706_25604_253.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20705,
+   "title": "식어버린 암호화폐 열풍, 미래는 어디에",
+   "published": "2019-02-28T18:02:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20705_25602_124.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20703,
+   "title": "딥러닝을 통한 인공지능의 이해",
+   "published": "2019-02-28T17:59:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "곽수하 / 컴공 조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20703_25623_341.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20702,
+   "title": "열정 가득한 학문의 장, 도쿄대학교 탐방",
+   "published": "2019-02-28T17:54:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "김주희",
+    "국현호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20702_25593_5244.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 20699,
+   "title": "130여 년 역사의 명문, 도쿄공업대학교 탐방",
+   "published": "2019-02-28T03:14:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "김성민",
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20699_25583_1148.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 20698,
+   "title": "우리대학 교정을 산책하며 자연과 생명을 생각한다",
+   "published": "2019-02-28T03:03:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "이승우 / 생명 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 20697,
+   "title": "한국 교육의 목표는 ‘대학’이다",
+   "published": "2019-02-28T03:02:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "정혜일 / 무은재 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 20696,
+   "title": "제405호 ‘기업가정신으로 차별화된 삶의 가치 실현’을 읽고",
+   "published": "2019-02-28T03:02:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "최은수 / 무은재 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 20695,
+   "title": "소확횡을 규제해야 하는 이유",
+   "published": "2019-02-28T03:01:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 20694,
+   "title": "소소(燒少)한 삶을 살고 싶다",
+   "published": "2019-02-28T03:01:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 20693,
+   "title": "POSTECH의 Visibility",
+   "published": "2019-02-28T03:00:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 20692,
+   "title": "여자도 ‘여장’을 한다",
+   "published": "2019-02-28T03:00:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20692_25581_5939.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 20691,
+   "title": "학생회관 1층이 달라졌어요",
+   "published": "2019-02-28T02:58:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20691_25620_3916.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 20690,
+   "title": "406호 형산만평",
+   "published": "2019-02-28T02:56:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20690_25621_4022.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

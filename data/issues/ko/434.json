@@ -1,0 +1,278 @@
+{
+ "edition": "ko",
+ "number": 434,
+ "published": "2022-05-15T01:57:00+09:00",
+ "lastUpload": "2022-05-15T02:37:00+09:00",
+ "articles": [
+  {
+   "id": 22123,
+   "title": "실질 문맹률과 모래 위의 성",
+   "published": "2022-05-15T02:37:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22122,
+   "title": "다양한 조각으로 그린 그림",
+   "published": "2022-05-15T02:36:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22121,
+   "title": "대면으로 진행하는 2021학년도 학위수여식",
+   "published": "2022-05-15T02:34:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22121_26764_3433.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22120,
+   "title": "학생 정식 5년 만에 가격 인상",
+   "published": "2022-05-15T02:33:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22120_26763_3315.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22119,
+   "title": "이사장 치사",
+   "published": "2022-05-15T02:32:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22119_26762_3231.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22118,
+   "title": "총장 식사",
+   "published": "2022-05-15T02:31:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22118_26761_3135.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22116,
+   "title": "목표를 향해 끊임없이 달려가라",
+   "published": "2022-05-15T02:22:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22116_26758_2157.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22115,
+   "title": "풍부한 경험과 넓은 시야를 가져라",
+   "published": "2022-05-15T02:21:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22115_26757_211.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22114,
+   "title": "재충전 통해 긴 시간 달려 나갈 수 있는 원동력 얻길",
+   "published": "2022-05-15T02:20:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22114_26756_1953.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22113,
+   "title": "한 계단씩 산 정상을 향해 나아가길",
+   "published": "2022-05-15T02:19:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22113_26755_1859.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22112,
+   "title": "미래와 꿈의 크기를 자기 주도적으로 정하길",
+   "published": "2022-05-15T02:18:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22112_26754_182.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22111,
+   "title": "포기하지 않는 것이 문제를 극복하는 것이다",
+   "published": "2022-05-15T02:17:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22111_26753_171.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22110,
+   "title": "시련보다 추억이 강하다",
+   "published": "2022-05-15T02:16:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22110_26752_164.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22108,
+   "title": "프로스포츠 인기 하락, 신세대 마음 사로잡으려면",
+   "published": "2022-05-15T02:14:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22108_26751_1417.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22107,
+   "title": "파편화된 개인, 나노 사회",
+   "published": "2022-05-15T02:12:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22107_26750_1252.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22106,
+   "title": "우리대학의 정체성 무은재학부, 5주년을 맞이하다",
+   "published": "2022-05-15T02:28:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "강민영",
+    "고평강",
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22106_26759_2450.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22105,
+   "title": "우리네 이야기 한잔하러 ‘혼저 옵서예’",
+   "published": "2022-05-15T02:10:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "안윤겸",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22105_26745_86.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 22104,
+   "title": "과학기술과 미래",
+   "published": "2022-05-15T02:01:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22103,
+   "title": "제434호 형산만평",
+   "published": "2022-05-15T01:57:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22103_26744_5743.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

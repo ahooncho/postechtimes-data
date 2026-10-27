@@ -1,0 +1,353 @@
+{
+ "edition": "ko",
+ "number": 454,
+ "published": "2024-04-22T17:30:00+09:00",
+ "lastUpload": "2024-04-22T18:37:00+09:00",
+ "articles": [
+  {
+   "id": 23113,
+   "title": "대학 당국과 학생 간의 격의 없는 소통, 총장님께 건의드립니다",
+   "published": "2024-04-22T18:37:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23113_27557_1716.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23112,
+   "title": "세계화의 물결 속에서, 5년 만에 부활한 대외협력처 국제협력팀",
+   "published": "2024-04-22T18:35:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23111,
+   "title": "우리대학 권경환 명예교수 별세",
+   "published": "2024-04-22T18:34:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23110,
+   "title": "리튬 정제 과정의 간소화를 통한 이차전지 단가 인하 가능성 확인",
+   "published": "2024-04-22T18:33:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23109,
+   "title": "청각 연구의 새로운 지평 열다",
+   "published": "2024-04-22T18:30:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23108,
+   "title": "지곡회관, 보다 쾌적한 공간으로 거듭나다",
+   "published": "2024-04-22T18:28:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "정유현",
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23108_27558_2115.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23107,
+   "title": "특허 교육 힘쓰는 우리대학",
+   "published": "2024-04-22T18:11:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23106,
+   "title": "SA·RA·SMP, 우리대학 멘토링 어떻게 운영되고 있나요",
+   "published": "2024-04-22T18:09:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "손유민",
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23106_27595_059.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23105,
+   "title": "지식의 보고, 도서관을 지키는 사람들",
+   "published": "2024-04-22T18:08:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강민영",
+    "이이수",
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23105_27559_3121.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23104,
+   "title": "사라지는 꿀벌에 ‘벌벌’ 떠는 양봉업계",
+   "published": "2024-04-22T17:54:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "오유진",
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23104_27562_3749.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23103,
+   "title": "우리 모두가 겪을 수 있는 기후 우울증",
+   "published": "2024-04-22T17:53:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이주형",
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23103_27563_3837.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23102,
+   "title": "홍콩 ELS, 모두의 부주의가 문제를 키웠다",
+   "published": "2024-04-22T17:52:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김윤철",
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23100,
+   "title": "국내 건설업계의 해외 진출, 마냥 기뻐할 일일까",
+   "published": "2024-04-22T17:51:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "오유진",
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23100_27565_404.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23099,
+   "title": "이머징 리스크에 의한 기업의 경영 악화... 결국은 리스크 관리가 핵심",
+   "published": "2024-04-22T17:49:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "정광민 / 산경 부교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23099_27596_219.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23098,
+   "title": "타불라 라사(Tabula Rasa)",
+   "published": "2024-04-22T17:48:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "양지윤 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23098_27566_4448.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 23097,
+   "title": "후회를 남기지 않는 사람",
+   "published": "2024-04-22T17:47:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23097_27567_4541.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 23096,
+   "title": "우리는 바꿀 수 있다",
+   "published": "2024-04-22T17:46:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23096_27568_4625.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 23093,
+   "title": "텍스트 숲 사이 사색의 공간",
+   "published": "2024-04-22T17:44:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23093_27569_4739.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 23092,
+   "title": "성실함이 주는 가치",
+   "published": "2024-04-22T17:43:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23092_27570_4823.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 23091,
+   "title": "삶과 닮은 체스",
+   "published": "2024-04-22T17:40:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "Joshua Prigge / 인문 대우강사"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 23090,
+   "title": "음악으로 우울을 마주하는 법",
+   "published": "2024-04-22T17:37:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 23089,
+   "title": "일상에 조그마한 변주를",
+   "published": "2024-04-22T17:37:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 23088,
+   "title": "故 김호길 초대 총장과 제2의 건학",
+   "published": "2024-04-22T17:35:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 23086,
+   "title": "제454호 형산만평",
+   "published": "2024-04-22T17:30:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23086_27556_3027.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

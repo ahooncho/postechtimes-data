@@ -1,0 +1,233 @@
+{
+ "edition": "en",
+ "number": 132,
+ "published": "2019-09-05T19:14:00+09:00",
+ "lastUpload": "2019-09-05T19:34:00+09:00",
+ "articles": [
+  {
+   "id": 20947,
+   "title": "8th President Moo Hwan Kim",
+   "published": "2019-09-05T19:34:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20947_25849_3410.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20946,
+   "title": "New Landmarks - Haedong 78 Tower and Alumni Road",
+   "published": "2019-09-05T19:33:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20946_25848_3231.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20945,
+   "title": "POSTECH, Ranked Third, in World’s Best Small Universities",
+   "published": "2019-09-05T19:31:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20945_25847_3130.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20944,
+   "title": "Korea’s First Extensible Quantum Computing Technology",
+   "published": "2019-09-05T19:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20944_25846_3038.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20943,
+   "title": "POSTECH Professors Play a Relief Role in Company’s Crisis",
+   "published": "2019-09-05T19:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20943_25845_300.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20942,
+   "title": "Society Where Justice Lives on",
+   "published": "2019-09-05T19:29:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20942_25844_295.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20941,
+   "title": "Department Selection Results for Mueunjae Undergraduates",
+   "published": "2019-09-05T19:28:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20941_25843_285.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20940,
+   "title": "Inaugural Address by 8th President Moo Hwan Kim",
+   "published": "2019-09-05T19:27:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20940_25842_2657.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20939,
+   "title": "Organelle Network and ONRC",
+   "published": "2019-09-05T19:25:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20939_25841_253.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20938,
+   "title": "SPECIFIED: An Undercover Report from Muggle World",
+   "published": "2019-09-05T19:23:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20938_25840_2318.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20937,
+   "title": "To Escape from Being a Frog in a Well",
+   "published": "2019-09-05T19:21:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20937_25839_2145.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20936,
+   "title": "WHO Defined Game Addiction as Official Medical Condition",
+   "published": "2019-09-05T19:19:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20936_25838_1945.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20935,
+   "title": "Hong Kong Protests - Why?",
+   "published": "2019-09-05T19:18:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20935_25837_1837.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20934,
+   "title": "The Dark Side of Delivery Apps",
+   "published": "2019-09-05T19:16:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20934_25836_1633.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20933,
+   "title": "Loophole in the Companion Animal Law",
+   "published": "2019-09-05T19:15:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20933_25835_1530.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20932,
+   "title": "Postechian’s Pick : The Lion King — A Wild Journey Back to Childhood",
+   "published": "2019-09-05T19:14:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20932_25834_1412.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

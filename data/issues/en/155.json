@@ -1,0 +1,207 @@
+{
+ "edition": "en",
+ "number": 155,
+ "published": "2022-05-15T01:04:00+09:00",
+ "lastUpload": "2022-05-15T01:55:00+09:00",
+ "articles": [
+  {
+   "id": 22102,
+   "title": "Commencement Address for the 2021 Academic Year",
+   "published": "2022-05-15T01:55:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Moo Hwan Kim",
+    "President of POSTECH"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22102_26743_5422.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22101,
+   "title": "POSCO and POSTECH’s Effort to Commercialize Meta Lens",
+   "published": "2022-05-15T01:53:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22101_26740_4230.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22100,
+   "title": "Waste Cooking Oil Detection Sensor Using Fluorescent Material",
+   "published": "2022-05-15T01:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22100_26739_3038.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22099,
+   "title": "Novel Video Recognition Technology Robust to Foggy Conditions",
+   "published": "2022-05-15T01:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22099_26766_406.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22098,
+   "title": "The Big Streaming Race",
+   "published": "2022-05-15T01:29:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22098_26737_2917.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22097,
+   "title": "Delivery Costs - Why so High?",
+   "published": "2022-05-15T01:28:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22097_26736_2847.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22096,
+   "title": "Interviews with Award-Winning Graduates",
+   "published": "2022-05-15T01:28:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22096_26730_2447.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22095,
+   "title": "POSTECH Microscope: “T-Time with Tasha and Tori”",
+   "published": "2022-05-15T01:23:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim San",
+    "Yang Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22095_26729_2225.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22092,
+   "title": "Avoid Boring People",
+   "published": "2022-05-15T01:10:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Sungjune Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22092_26728_104.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22091,
+   "title": "Postechian Column: Is MBTI Science?",
+   "published": "2022-05-15T01:09:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Joe Sung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22091_26727_94.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22090,
+   "title": "Commemorating the End of Outdoor Mask Mandate",
+   "published": "2022-05-15T01:08:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22090_26726_756.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22089,
+   "title": "The Current Reality of Journalism in Korea",
+   "published": "2022-05-15T01:06:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22089_26723_558.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22088,
+   "title": "Microplastics—Invading Everywhere",
+   "published": "2022-05-15T01:05:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22088_26722_53.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22087,
+   "title": "\"K-Semiconductors\"—Present and Future",
+   "published": "2022-05-15T01:04:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22087_26720_327.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

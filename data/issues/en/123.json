@@ -1,0 +1,261 @@
+{
+ "edition": "en",
+ "number": 123,
+ "published": "2018-11-29T11:03:00+09:00",
+ "lastUpload": "2018-11-29T11:16:00+09:00",
+ "articles": [
+  {
+   "id": 20493,
+   "title": "Elections for the Student Union Held",
+   "published": "2018-11-29T11:16:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20493_25428_4349.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20492,
+   "title": "Wartime Operational Control to Be Transferred to Korea",
+   "published": "2018-11-29T11:16:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20492_25429_4444.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20491,
+   "title": "Event to Explain the Nobel Prize in Chemistry 2018",
+   "published": "2018-11-29T11:15:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20491_25430_473.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20490,
+   "title": "Sensing Leaks of Toxic Substances in Five Seconds is Possible",
+   "published": "2018-11-29T11:14:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20490_25431_4815.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20489,
+   "title": "2018 POSTECH Hackathon Held",
+   "published": "2018-11-29T11:14:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20489_25432_492.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20488,
+   "title": "Battery Capable of Being Charged in Six Minutes Invented",
+   "published": "2018-11-29T11:13:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20488_25433_4958.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20487,
+   "title": "Sensitive Sensor Based on ITO Nanosprings Developed",
+   "published": "2018-11-29T11:13:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20487_25434_5240.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20486,
+   "title": "POSTECH ranked 1st in ‘Innoversity’ and ‘Engineering Department’",
+   "published": "2018-11-29T11:12:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20486_25435_5324.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20485,
+   "title": "Measures to Combat Fine Dust Implemented",
+   "published": "2018-11-29T11:11:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20485_25436_5429.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20484,
+   "title": "Remodeling of the Student Union Building",
+   "published": "2018-11-29T11:09:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20484_25437_5529.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20483,
+   "title": "Pioneer: TEDx POSTECH",
+   "published": "2018-11-29T11:08:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20483_25438_567.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20482,
+   "title": "POSTECH Microscope: Organizers of the STadium",
+   "published": "2018-11-29T11:08:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20482_25439_5658.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20481,
+   "title": "A Zealous Basket",
+   "published": "2018-11-29T11:07:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kim Sang-uk Professor Department of Life Science"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20481_25440_5732.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20480,
+   "title": "We Are Not Equal",
+   "published": "2018-11-29T11:06:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Yoon Cho-hyun (Mueunjae 18)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20480_25441_5818.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20479,
+   "title": "Applicants From Across the Ocean",
+   "published": "2018-11-29T11:06:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20479_25447_248.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20478,
+   "title": "Stance Postechians Should Have towards the Inter-Korean Peace Treaty",
+   "published": "2018-11-29T11:05:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20478_25446_217.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20477,
+   "title": "Pepero or War Veteran?",
+   "published": "2018-11-29T11:04:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20477_25445_124.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20476,
+   "title": "The Korean Women’s General Consumption Strike",
+   "published": "2018-11-29T11:03:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20476_25444_028.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,221 @@
+{
+ "edition": "en",
+ "number": 187,
+ "published": "2025-05-28T15:05:00+09:00",
+ "lastUpload": "2025-05-28T15:34:00+09:00",
+ "articles": [
+  {
+   "id": 23710,
+   "title": "The Efforts Behind the Sunrise Festival: Student-Led Clubs and the Advisory Committee",
+   "published": "2025-05-28T15:34:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Seo Ji-woo",
+    "Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23710_28079_3352.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23709,
+   "title": "Jigok Community Center Renovation : Changes to Campus Dining",
+   "published": "2025-05-28T15:33:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Tae Jong-hyeok",
+    "Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23709_28078_3246.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23708,
+   "title": "POstick: An Innovation in Industrial Haptic Robotics",
+   "published": "2025-05-28T15:31:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23708_28076_3113.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23707,
+   "title": "How Dams Changed the Sea",
+   "published": "2025-05-28T15:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23707_28074_2848.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23706,
+   "title": "The Recent Pension Reform: Not Enough for the Young Generations",
+   "published": "2025-05-28T15:28:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23706_28073_2756.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23705,
+   "title": "From the Light for All to the Eternal: Pope Francis’ Final Journey",
+   "published": "2025-05-28T15:27:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23705_28072_2651.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23704,
+   "title": "Beyond the Switch: Campus Energy Consumption",
+   "published": "2025-05-28T15:25:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23704_28071_2514.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23703,
+   "title": "VR Education Initiative Taking Hold in POSTECH",
+   "published": "2025-05-28T15:24:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23703_28070_2346.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23702,
+   "title": "POSTECH Microscope: POSTECH Creators — Plans and Visions",
+   "published": "2025-05-28T15:22:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23702_28069_2133.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23701,
+   "title": "The 21st Presidential Election : Candidates' Visions for the Future of Korea",
+   "published": "2025-05-28T15:18:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23701_28068_1613.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23700,
+   "title": "Cloned Phones and False Promises : SKT USIM Data Leakage Situation Explained",
+   "published": "2025-05-28T15:09:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23700_28067_941.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23699,
+   "title": "LEO Satellite Communication Enables Internet Access Everywhere",
+   "published": "2025-05-28T15:09:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23699_28066_854.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23698,
+   "title": "“Draw Me in Ghibli Style”: Art in the Age of AI",
+   "published": "2025-05-28T15:08:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23698_28065_748.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23697,
+   "title": "How Do We Say Goodbye to Our Loved Ones?",
+   "published": "2025-05-28T15:07:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23697_28064_645.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23696,
+   "title": "Postechian’s Pick: The Fault in Our Stars",
+   "published": "2025-05-28T15:05:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23696_28063_28.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

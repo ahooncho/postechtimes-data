@@ -1,0 +1,262 @@
+{
+ "edition": "en",
+ "number": 175,
+ "published": "2024-04-22T16:27:00+09:00",
+ "lastUpload": "2024-04-22T17:22:00+09:00",
+ "articles": [
+  {
+   "id": 23085,
+   "title": "Hungry for Change",
+   "published": "2024-04-22T17:22:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23085_27571_5652.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23084,
+   "title": "Shared Electric Kickboards: The Outlaws of Campus Roads",
+   "published": "2024-04-22T17:21:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23084_27572_5732.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23083,
+   "title": "A Breakthrough for All-Solid-State Battery",
+   "published": "2024-04-22T17:17:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23083_27573_5958.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23082,
+   "title": "The New Catalyst for Producing Hydrogen from Wastewater",
+   "published": "2024-04-22T17:15:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23082_27574_052.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23081,
+   "title": "EU Sets Global Precedent with Comprehensive AI Regulation",
+   "published": "2024-04-22T17:14:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23081_27575_135.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23080,
+   "title": "How Much Will You Tolerate? Abuse of Personal Information",
+   "published": "2024-04-22T17:13:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23080_27576_226.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23079,
+   "title": "My Reporting Journey at The Postech Times",
+   "published": "2024-04-22T17:12:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23079_27577_37.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23078,
+   "title": "My Childhood Dream",
+   "published": "2024-04-22T17:10:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23078_27578_343.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23077,
+   "title": "Challenges and Developments",
+   "published": "2024-04-22T17:08:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23077_27579_414.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23076,
+   "title": "Like a Steadfast Compass Needle",
+   "published": "2024-04-22T17:03:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23076_27580_446.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23075,
+   "title": "Interdisciplinary Fusion of Fields for Innovation",
+   "published": "2024-04-22T16:56:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Prof. Dohoung Kim",
+    "Prof. Yong Joo Ahn (MED)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23075_27581_536.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23074,
+   "title": "Postechian Column: My Journey of Competitive Programming",
+   "published": "2024-04-22T16:36:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Lee Yu Dam (CSE 22)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23074_27583_752.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23073,
+   "title": "Reporter Column: No Dream Lasts Forever",
+   "published": "2024-04-22T16:33:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23073_27584_830.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23072,
+   "title": "Unraveling Social Brainwashing on the Consumption",
+   "published": "2024-04-22T16:32:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23072_27585_1158.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23071,
+   "title": "Jupiter’s Moon, Europa",
+   "published": "2024-04-22T16:31:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23071_27586_1250.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23070,
+   "title": "Curitiba: Origin of BRT System",
+   "published": "2024-04-22T16:30:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23070_27587_1336.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23069,
+   "title": "Devolution of Quality",
+   "published": "2024-04-22T16:29:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23069_27589_1546.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23068,
+   "title": "Postechian's Pick: Life as a way of Harnessing Inferiority",
+   "published": "2024-04-22T16:27:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202404/23068_27590_1625.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

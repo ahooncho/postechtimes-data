@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 156,
+ "published": "2022-06-19T23:40:00+09:00",
+ "lastUpload": "2022-06-19T23:49:00+09:00",
+ "articles": [
+  {
+   "id": 22141,
+   "title": "2022 POSTECH Culture Day – First Student Festival in Three Years",
+   "published": "2022-06-19T23:49:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22141_26786_5255.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22140,
+   "title": "Official Ceremony Held to Nurture Future MD-PhDs",
+   "published": "2022-06-19T23:49:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22140_26785_5233.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22139,
+   "title": "Prof. Lee’s Team Improves Battery Capacity Prediction",
+   "published": "2022-06-19T23:47:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22139_26784_5157.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22138,
+   "title": "Self-Powered, ‘One-Terminal’ Tactile Sensor for Wearables",
+   "published": "2022-06-19T23:47:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22138_26783_5132.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22137,
+   "title": "iPhone Abandons Lightning Port—Era of Unified Charger Arrives",
+   "published": "2022-06-19T23:47:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22137_26782_512.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22136,
+   "title": "The Crash of Terra and Luna",
+   "published": "2022-06-19T23:46:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22136_26781_5028.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22135,
+   "title": "Save Energy, Postechians!",
+   "published": "2022-06-19T23:46:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22135_26780_4955.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22134,
+   "title": "How COVID-19 was Managed Since Face-to-face Transition",
+   "published": "2022-06-19T23:46:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22134_26779_4921.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22133,
+   "title": "POSTECH Microscope: “Halal Lunchboxes at POSTECH\"",
+   "published": "2022-06-19T23:45:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22133_26776_4731.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22132,
+   "title": "Inclusion in Korean Society",
+   "published": "2022-06-19T23:45:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22132_26774_4545.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22131,
+   "title": "Postechian Column: Prophet of Delphi",
+   "published": "2022-06-19T23:44:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kang Tae-won (Muenjae 21)"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22130,
+   "title": "Reporter Column: Winter Break and Skiing",
+   "published": "2022-06-19T23:43:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22130_26773_4422.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22129,
+   "title": "Food Shortage Endangering Food Security Worldwide",
+   "published": "2022-06-19T23:42:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22129_26772_4128.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22128,
+   "title": "The Subscription Economy: Its Definition and Features",
+   "published": "2022-06-19T23:42:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22128_26770_4034.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22127,
+   "title": "SMRs - Solution to Environmental Pollution?",
+   "published": "2022-06-19T23:41:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22127_26769_3959.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22126,
+   "title": "Living on the Moon",
+   "published": "2022-06-19T23:41:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22126_26768_3936.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22125,
+   "title": "Postechian’s Pick: Man’s Search for Meaning",
+   "published": "2022-06-19T23:40:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202206/22125_26767_3856.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

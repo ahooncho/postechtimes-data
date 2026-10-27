@@ -1,0 +1,277 @@
+{
+ "edition": "en",
+ "number": 129,
+ "published": "2019-04-24T13:08:00+09:00",
+ "lastUpload": "2019-04-24T13:26:00+09:00",
+ "articles": [
+  {
+   "id": 20807,
+   "title": "The First Block Chain Campus",
+   "published": "2019-04-24T13:26:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20807_25727_3520.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20806,
+   "title": "Postechians Experience the 5·18 Democratic Movement",
+   "published": "2019-04-24T13:26:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Seo-yeon",
+    "Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20806_25729_749.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20805,
+   "title": "The Artificial Organ from Sea Anemone Silk Protein",
+   "published": "2019-04-24T13:25:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20805_25730_854.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20804,
+   "title": "Three Postechians as ‘Forbes 30 Under 30’ this year",
+   "published": "2019-04-24T13:24:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20804_25732_1037.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20803,
+   "title": "Organic Transistors Enhancing Spontaneous Polymer-Doping",
+   "published": "2019-04-24T13:24:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20803_25731_950.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20802,
+   "title": "Conference for Course Registration System Improvement",
+   "published": "2019-04-24T13:23:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20801,
+   "title": "Scream at the Library!",
+   "published": "2019-04-24T13:22:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20801_25733_1218.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20800,
+   "title": "Not Forgotten",
+   "published": "2019-04-24T13:22:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20800_25734_133.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20798,
+   "title": "No Rooms Available for Female Juniors in POSTECH",
+   "published": "2019-04-24T13:20:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20798_25735_1348.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20797,
+   "title": "Are You Leaderphobic?",
+   "published": "2019-04-24T13:19:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20797_25736_1424.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20796,
+   "title": "POTECH Microscope: Postechian’s Vacation",
+   "published": "2019-04-24T13:18:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20796_25737_1519.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20795,
+   "title": "The Social Network Theory of the Hyper-connected Society",
+   "published": "2019-04-24T13:16:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Former Research Professor",
+    "Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20795_25738_166.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20794,
+   "title": "Why Procrastinate?",
+   "published": "2019-04-24T13:14:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Chae Ji-song (CHEM 15)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20794_25739_1631.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20793,
+   "title": "Postechians, Be Happy",
+   "published": "2019-04-24T13:13:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20793_25740_1657.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20792,
+   "title": "Just a Slap on the Wrist",
+   "published": "2019-04-24T13:12:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20792_25741_1744.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20791,
+   "title": "Self-Determination with the Abolishment of Anti-Abortion Law",
+   "published": "2019-04-24T13:11:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20791_25742_1848.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20790,
+   "title": "Media Galapagos",
+   "published": "2019-04-24T13:10:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20790_25743_1928.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20789,
+   "title": "Behind the Boeing 737 Max Crash",
+   "published": "2019-04-24T13:09:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20789_25744_2016.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20788,
+   "title": "Postechian’s Pick : The Start of Something New",
+   "published": "2019-04-24T13:08:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201904/20788_25745_214.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

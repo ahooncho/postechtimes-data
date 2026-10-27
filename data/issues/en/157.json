@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 157,
+ "published": "2022-09-14T20:04:00+09:00",
+ "lastUpload": "2022-09-14T20:12:00+09:00",
+ "articles": [
+  {
+   "id": 22201,
+   "title": "Dept. of Semiconductor Engineering Recruiting Students",
+   "published": "2022-09-14T20:12:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22201_26832_2140.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22200,
+   "title": "Tae-Joon Park Library Renovation",
+   "published": "2022-09-14T20:11:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22200_26830_2117.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22199,
+   "title": "Visualizing Single-molecules: Breakthrough In Treating Incurable Diseases",
+   "published": "2022-09-14T20:11:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22199_26828_1917.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22198,
+   "title": "Can the Protein that Defeats Metabolic Diseases Conquer Dementia?",
+   "published": "2022-09-14T20:10:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22198_26827_1853.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22197,
+   "title": "Pet Tax - What Do You Think?",
+   "published": "2022-09-14T20:10:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22197_26826_1822.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22196,
+   "title": "China-Taiwan Relations After Nancy Pelosi’s Visit",
+   "published": "2022-09-14T20:10:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22196_26824_1714.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22195,
+   "title": "Interview With Nobel Prize Laureate, Dan Shechtman",
+   "published": "2022-09-14T20:09:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22195_26822_1610.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22194,
+   "title": "SES Enters Stability and Highly Advanced Operations",
+   "published": "2022-09-14T20:09:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22194_26821_1534.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22193,
+   "title": "POSTECH Microscope: Admissions Officer",
+   "published": "2022-09-14T20:08:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22193_26820_150.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22192,
+   "title": "Materials Development for Hydrogen Society",
+   "published": "2022-09-14T20:08:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22192_26819_1413.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22191,
+   "title": "Postechian Column: Summer Break - Chance to See the Wider World",
+   "published": "2022-09-14T20:07:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22191_26818_1155.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22190,
+   "title": "Reporter Column: Extremely Dangerous & Incredibly Dull",
+   "published": "2022-09-14T20:06:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22190_26816_111.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22189,
+   "title": "Space Race Reignited Around the World",
+   "published": "2022-09-14T20:05:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22189_26815_1030.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22188,
+   "title": "Inequality is a Disaster",
+   "published": "2022-09-14T20:05:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22188_26813_947.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22187,
+   "title": "Fields Medal: Similar to the Nobel Prize but Different",
+   "published": "2022-09-14T20:04:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22187_26812_910.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22186,
+   "title": "Post COVID Travel, How will Tourism Change?",
+   "published": "2022-09-14T20:04:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22186_26811_50.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22185,
+   "title": "Postechian’s Pick: Birdman",
+   "published": "2022-09-14T20:04:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202209/22185_26810_427.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

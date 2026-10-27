@@ -1,0 +1,234 @@
+{
+ "edition": "en",
+ "number": 152,
+ "published": "2022-02-26T20:30:00+09:00",
+ "lastUpload": "2022-02-26T21:25:00+09:00",
+ "articles": [
+  {
+   "id": 21893,
+   "title": "Online 2022 Orientation Welcomes Freshmen",
+   "published": "2022-02-26T21:25:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21893_26596_2510.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21892,
+   "title": "POSTECH’s First Korean Speech Contest Held",
+   "published": "2022-02-26T21:22:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21892_26595_2418.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21891,
+   "title": "Guidelines to Exploring Nanoscale Flexoelectricity via AFM Tip Pressing",
+   "published": "2022-02-26T21:20:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21891_26594_2037.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21890,
+   "title": "Prodrug That Hides Like an Assassin to Kill Cancer Cells",
+   "published": "2022-02-26T21:18:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21890_26593_1844.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21889,
+   "title": "Can Electronic Voting be a Viable Option?",
+   "published": "2022-02-26T21:17:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21889_26592_1626.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21888,
+   "title": "The Great Resignation",
+   "published": "2022-02-26T20:54:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Ji-hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21888_26591_5455.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21887,
+   "title": "An Island Filled With Subtle Joy and Serenity",
+   "published": "2022-02-26T20:50:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21887_26590_5043.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21886,
+   "title": "Jeju Island: Museum of Volcanic Creations",
+   "published": "2022-02-26T20:47:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park Eu-gene",
+    "Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21886_26589_477.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21884,
+   "title": "From Hobbies to Entrepreneurship",
+   "published": "2022-02-26T20:41:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Lee Jeong-rak (ME 15)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21884_26588_418.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21883,
+   "title": "How Exactly the Essence of Physics is in its Freedom",
+   "published": "2022-02-26T20:39:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Son Tak-il (PHYS 20)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21883_26587_3941.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21882,
+   "title": "Even If Reality is Inevitable",
+   "published": "2022-02-26T20:38:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21882_26586_3821.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21880,
+   "title": "Xenotransplantation: Towards Immortality",
+   "published": "2022-02-26T20:35:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21880_26585_3538.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21879,
+   "title": "COVID-19 Vaccine Pass Policies in Korea and Around the World",
+   "published": "2022-02-26T20:34:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21879_26583_3412.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21878,
+   "title": "Bidirectional Communication for Safe Transportation, C-ITS",
+   "published": "2022-02-26T20:32:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21878_26582_3252.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21877,
+   "title": "The Next Direction in Display Technology",
+   "published": "2022-02-26T20:31:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Ji-hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21877_26581_3153.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21876,
+   "title": "Postechian’s Pick: Brave New World",
+   "published": "2022-02-26T20:30:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21876_26580_3045.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

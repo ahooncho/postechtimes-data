@@ -1,0 +1,219 @@
+{
+ "edition": "en",
+ "number": 176,
+ "published": "2024-05-20T17:29:00+09:00",
+ "lastUpload": "2024-05-22T15:37:00+09:00",
+ "articles": [
+  {
+   "id": 23147,
+   "title": "The Sunrise Festival Sparks Community Spirit and Joy",
+   "published": "2024-05-22T15:37:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23147_27622_920.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23146,
+   "title": "POSTECH and Mahidol University Forge Strategic Workshop for Entrepreneurship",
+   "published": "2024-05-22T15:36:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23146_27623_1011.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23145,
+   "title": "Towards Safer Kidney Operations",
+   "published": "2024-05-22T15:35:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23145_27624_1049.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23144,
+   "title": "Dissecting Obesity-Induced Inflammation and Metabolic Dysfunction",
+   "published": "2024-05-22T15:34:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23144_27625_1132.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23143,
+   "title": "UK Advances Bold Tobacco Bill: Aiming for a Smoke-Free Generation",
+   "published": "2024-05-22T15:33:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23143_27626_1338.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23142,
+   "title": "Copyright Guideline for University Students",
+   "published": "2024-05-22T15:33:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23142_27627_1427.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23140,
+   "title": "Convergence of Fields Brings Innovation",
+   "published": "2024-05-22T11:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Assistant Professor Junmin Lee (MSE)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23140_27628_1518.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23139,
+   "title": "Postechian Column: Encircle the Earth: One Revolution",
+   "published": "2024-05-22T10:58:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Yoon Ju-hwan (PHYS 21)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23139_27629_178.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23138,
+   "title": "Reporter Column: Reporter’s Virtue by Focusing on the Impartial Coverage",
+   "published": "2024-05-22T10:56:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23138_27630_1744.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23137,
+   "title": "Sparks With Passion and Youth of Postechians",
+   "published": "2024-05-22T10:55:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23137_27631_1949.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23134,
+   "title": "Sunrise Festival’s Diverse Booths",
+   "published": "2024-05-20T18:14:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23134_27632_2029.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23133,
+   "title": "Recent Management of Campus Facilities",
+   "published": "2024-05-20T18:13:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23133_27633_2156.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23128,
+   "title": "Can We Have Personal Robots?",
+   "published": "2024-05-20T17:30:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23128_27634_2240.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23127,
+   "title": "Fruit-flation: An Apple Every Morning Becomes a Luxury",
+   "published": "2024-05-20T17:29:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23127_27635_2347.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23126,
+   "title": "Unveiling the Magic: The Enchantment of Fragrances",
+   "published": "2024-05-20T17:29:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202405/23126_27636_2435.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

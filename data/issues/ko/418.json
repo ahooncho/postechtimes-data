@@ -1,0 +1,430 @@
+{
+ "edition": "ko",
+ "number": 418,
+ "published": "2020-07-06T21:41:00+09:00",
+ "lastUpload": "2020-07-06T22:20:00+09:00",
+ "articles": [
+  {
+   "id": 21257,
+   "title": "우리대학까지 덮친 공포, 코로나바이러스",
+   "published": "2020-07-06T22:20:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21257_26119_2025.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21256,
+   "title": "코로나19가 바꾼 우리대학 학사일정과 온라인 강의",
+   "published": "2020-07-06T22:19:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21255,
+   "title": "실리콘마이터스 허염 대표, 포스코청암상 상금 1억 원 기부",
+   "published": "2020-07-06T22:18:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21254,
+   "title": "전자전기공학과 조성민 박사, IEEE APS/URSI 2020서 수상",
+   "published": "2020-07-06T22:18:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21253,
+   "title": "한세광 교수팀, 당뇨병 진단·치료하는 콘택트렌즈 개발",
+   "published": "2020-07-06T22:17:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21252,
+   "title": "컴퓨터공학과, 제1회 ‘CSE Awards’ 시상식 개최",
+   "published": "2020-07-06T22:17:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21252_26118_168.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21251,
+   "title": "15분 안에 전염병 진단할 수 있는 신속 진단법 개발",
+   "published": "2020-07-06T22:15:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21250,
+   "title": "17살 맞는 박태준학술정보관, 레노베이션 계획 공개",
+   "published": "2020-07-06T22:14:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김상수 객원기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21249,
+   "title": "인문사회학부, ‘포스테키안을 위한 글쓰기 가이드' 시리즈 발간",
+   "published": "2020-07-06T22:13:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21248,
+   "title": "대학원 혁신사업 아이디어 공모전 시상식 개최",
+   "published": "2020-07-06T22:13:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김상수 객원기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21248_26117_1311.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21247,
+   "title": "변경된 생활관 신청 방식과 논란이 된 생활관운영팀",
+   "published": "2020-07-06T22:11:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "손도원 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21246,
+   "title": "우리대학은 지금... 코로나19와 전쟁 중",
+   "published": "2020-07-06T22:10:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21246_26114_815.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21245,
+   "title": "15초짜리 재미 ‘밈’, 광고계를 뒤집어 놓으셨다",
+   "published": "2020-07-06T22:07:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21245_26113_649.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21244,
+   "title": "‘K-movie’로 세계를 ‘move’",
+   "published": "2020-07-06T22:06:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21244_26112_545.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21243,
+   "title": "디지털 사회가 낳은 괴물, n번방",
+   "published": "2020-07-06T22:04:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21243_26111_446.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21242,
+   "title": "군 복무 경험 학점인정, 서울대서도 시행",
+   "published": "2020-07-06T22:03:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21242_26110_349.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21241,
+   "title": "“가능한 다양한 경험을 쌓으세요”",
+   "published": "2020-07-06T22:01:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21241_26109_115.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 21240,
+   "title": "자유로운 분위기 속 배움에 대한 열정, 싱가포르 국립대 탐방",
+   "published": "2020-07-06T22:00:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21240_26108_5954.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 21239,
+   "title": "난양공대 Manojit Pramanik 교수 인터뷰",
+   "published": "2020-07-06T21:58:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "백다현 기자",
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21239_26105_5750.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 21238,
+   "title": "난양공대 Sourav Saha Bhowmick 교수 인터뷰",
+   "published": "2020-07-06T21:56:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21238_26104_5619.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 21237,
+   "title": "특집 - 해외르포",
+   "published": "2020-07-06T21:52:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 21236,
+   "title": "엄동설한 속에서도 피어나는 인간성",
+   "published": "2020-07-06T21:51:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21236_26103_5048.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21235,
+   "title": "완벽한 대체품은 없다",
+   "published": "2020-07-06T21:49:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "임수연 / 씨네21 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21234,
+   "title": "포항에서 추억으로 떠난 여행",
+   "published": "2020-07-06T21:48:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "이상원 / 무은재 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21233,
+   "title": "제417호 ‘세상 모든 혁신이 모이는 곳, CES로 떠나보자!’를 읽고",
+   "published": "2020-07-06T21:47:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "이동혁 / 무은재 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21232,
+   "title": "당신은 대한민국을 안다고 자부할 수 있는가",
+   "published": "2020-07-06T21:46:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21231,
+   "title": "잊혀가는 사람들",
+   "published": "2020-07-06T21:46:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21230,
+   "title": "책임감 있는 과학자가 되자",
+   "published": "2020-07-06T21:45:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21229,
+   "title": "우리 분수대가 달라졌어요!",
+   "published": "2020-07-06T21:45:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "손도원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21229_26102_4427.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21228,
+   "title": "제418호 형산만평",
+   "published": "2020-07-06T21:41:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202007/21228_26101_410.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

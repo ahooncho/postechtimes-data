@@ -1,0 +1,323 @@
+{
+ "edition": "ko",
+ "number": 466,
+ "published": "2025-05-28T15:49:00+09:00",
+ "lastUpload": "2025-05-28T16:27:00+09:00",
+ "articles": [
+  {
+   "id": 23734,
+   "title": "공약으로 보는 제21대 대선",
+   "published": "2025-05-28T16:27:00+09:00",
+   "category": "특집",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23734_28104_275.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23733,
+   "title": "폭발적인 열정의 이틀, ‘RUSH’와 함께한 해맞이한마당",
+   "published": "2025-05-28T16:20:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23733_28103_1843.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23732,
+   "title": "글로벌 포스텍의 첫걸음, 포스텍 언어문화원 개원 기념 간담회 개최",
+   "published": "2025-05-28T16:18:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23732_28102_1735.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23731,
+   "title": "최규하 교수 연구팀, 식물의 ‘유전 장벽’ 무너뜨렸다",
+   "published": "2025-05-28T16:17:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "최진현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23730,
+   "title": "우리대학 컨소시엄, 100억 원 규모 ‘수소 국제공동연구’ 사업에 선정",
+   "published": "2025-05-28T16:16:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "송명빈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23729,
+   "title": "우리대학 교수 4명, ‘2025년 과학·정보통신의 날’ 수상 쾌거",
+   "published": "2025-05-28T16:15:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김범준 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23728,
+   "title": "우리대학 대학원생 국내 최초 우승팀··· 국제 벤처 투자 대회 도전",
+   "published": "2025-05-28T16:15:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "유영주",
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23728_28101_1411.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23726,
+   "title": "문화를 먹다, Culture Muncher!",
+   "published": "2025-05-28T16:13:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "송명빈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23726_28100_1243.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 23725,
+   "title": "‘SNS에서 학생 시선의 홍보를 만나다’ POSTECH Creators 공식 출범",
+   "published": "2025-05-28T16:12:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이이수",
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23725_28099_1154.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23724,
+   "title": "제466호 형산만평",
+   "published": "2025-05-28T16:10:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23724_28098_1026.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 23722,
+   "title": "교환학생의 우당탕탕 포항 생존기",
+   "published": "2025-05-28T16:07:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이주형",
+    "김태린",
+    "송명빈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23722_28095_329.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23721,
+   "title": "AI에 공손한 표현을 추가해야 할까?",
+   "published": "2025-05-28T16:02:00+09:00",
+   "category": "과학",
+   "bylines": [
+    "정혜정",
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23721_28094_130.jpg",
+   "sectionCode": "S1N31",
+   "sectionName": "과학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23720,
+   "title": "음악과 함께 지구를 지키다, 그린 투어링",
+   "published": "2025-05-28T16:00:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "유영주",
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23720_28093_017.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23719,
+   "title": "RE100: 기업 전략 100% 재생에너지 전환의 과제와 전략",
+   "published": "2025-05-28T15:59:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "최동구 / 산경 부교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23719_28092_5850.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23718,
+   "title": "진흙탕 속으로 들어가라",
+   "published": "2025-05-28T15:56:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "오명철 / 반도체 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 23717,
+   "title": "평범함에 대한 특별한 감사",
+   "published": "2025-05-28T15:56:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "신요섭 / 무은재 23"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 23716,
+   "title": "제466호 ‘우리대학 학생들의 수면 패턴, 지켜지고 있나요?’를 읽고",
+   "published": "2025-05-28T15:55:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김소이 / 반도체 25"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 23715,
+   "title": "아직도 끝나지 않은 ‘하늘의 왕국’ 이야기",
+   "published": "2025-05-28T15:54:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23715_28091_549.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 23714,
+   "title": "작전명 청-춘!",
+   "published": "2025-05-28T15:53:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "양지윤 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 23713,
+   "title": "현장감의 가치",
+   "published": "2025-05-28T15:51:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "한정우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 23712,
+   "title": "‘차가운 머리와 따뜻한 가슴’, 이성과 배려가 공존하는 사회를 위해",
+   "published": "2025-05-28T15:50:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 23711,
+   "title": "열정으로 가득한 질주, 2025 해맞이한마당 'RUSH'",
+   "published": "2025-05-28T15:49:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202505/23711_28080_4059.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  }
+ ],
+ "briefs": {}
+}

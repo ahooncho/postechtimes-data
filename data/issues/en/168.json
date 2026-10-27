@@ -1,0 +1,219 @@
+{
+ "edition": "en",
+ "number": 168,
+ "published": "2023-09-27T06:56:00+09:00",
+ "lastUpload": "2023-09-27T07:10:00+09:00",
+ "articles": [
+  {
+   "id": 22732,
+   "title": "Enthusiastic Times at PKSW",
+   "published": "2023-09-27T07:10:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22732_27287_1027.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22731,
+   "title": "PKSW Eve Festival: Igniting the Spirit of Unity and Passion",
+   "published": "2023-09-27T07:10:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22731_27286_946.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22730,
+   "title": "Water Harvesting from Thin Air in Death Valley",
+   "published": "2023-09-27T07:09:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22730_27285_91.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22729,
+   "title": "Uncertainty Reveals the Security Level",
+   "published": "2023-09-27T07:07:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22729_27283_637.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22728,
+   "title": "Spring in Syria, Once Again",
+   "published": "2023-09-27T07:06:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22728_27282_550.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22727,
+   "title": "Meta vs X: Roll the Dice in the SNS Market",
+   "published": "2023-09-27T07:05:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22727_27281_517.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22726,
+   "title": "POSTECH Dining - Then and Now",
+   "published": "2023-09-27T07:04:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22726_27280_426.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22725,
+   "title": "Dormitory Hygiene Issues",
+   "published": "2023-09-27T07:04:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22725_27279_353.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22724,
+   "title": "POSTECH Microscope: Endeavors of LINC 3.0 -Leading Innovation",
+   "published": "2023-09-27T07:03:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22724_27278_36.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22723,
+   "title": "Column: Topological Materials: New Quantum Materials and New Opportunities",
+   "published": "2023-09-27T07:01:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Kim Jun Sung (PHYS)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22723_27277_138.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22722,
+   "title": "Postechian Column: A Place for Art-Loving Postechians",
+   "published": "2023-09-27T07:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Lee Si-hyeong (PHYS 22)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22722_27276_043.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22721,
+   "title": "Reporter Column: Attitudes Towards Discrimination",
+   "published": "2023-09-27T06:59:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22721_27275_5858.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22720,
+   "title": "A Thorough Consideration of Korea’s R&D Funding Deduction",
+   "published": "2023-09-27T06:58:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22720_27274_5741.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22719,
+   "title": "Overcoming Post-Vacation Blues",
+   "published": "2023-09-27T06:57:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22719_27273_571.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22718,
+   "title": "Wearing Bluetooth Earbuds is Causing Hearing Loss",
+   "published": "2023-09-27T06:56:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22718_27272_5626.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

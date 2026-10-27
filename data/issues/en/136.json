@@ -1,0 +1,261 @@
+{
+ "edition": "en",
+ "number": 136,
+ "published": "2019-12-05T12:28:00+09:00",
+ "lastUpload": "2019-12-05T12:47:00+09:00",
+ "articles": [
+  {
+   "id": 21106,
+   "title": "STadium Held at POSTECH",
+   "published": "2019-12-05T12:47:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21106_26010_472.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21105,
+   "title": "Course Registration System Revised Starting 2020",
+   "published": "2019-12-05T12:45:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21105_26009_4537.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21104,
+   "title": "POSTECH Ranked First in the 2019 University Rankings",
+   "published": "2019-12-05T12:44:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21104_26008_4440.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21103,
+   "title": "Guamegi Startup Competition Held",
+   "published": "2019-12-05T12:44:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21103_26007_4346.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21102,
+   "title": "Imaging Method of Conjunctival Goblet Cells",
+   "published": "2019-12-05T12:41:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21102_26006_4143.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21101,
+   "title": "Wireless Underwater Camera System for Salmon Observation",
+   "published": "2019-12-05T12:41:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21101_26005_4058.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21100,
+   "title": "Rally for Hong Kong Protests in Korea",
+   "published": "2019-12-05T12:40:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21100_26004_401.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21099,
+   "title": "The 5th \"Introducing My Research\" Held",
+   "published": "2019-12-05T12:39:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21099_26003_3917.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21098,
+   "title": "Spend the Night with Books",
+   "published": "2019-12-05T12:38:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21098_26002_3827.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21097,
+   "title": "POSTECH Microscope: Head Organizer of The Graduation Party",
+   "published": "2019-12-05T12:37:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": null,
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21096,
+   "title": "An Introductory Manual for Those Who Have Not Yet Become Feminists",
+   "published": "2019-12-05T12:36:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Lecturer Oh Hye-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21096_26001_3628.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21095,
+   "title": "Is Abolishing Autonomous High Schools Right?",
+   "published": "2019-12-05T12:35:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Seo Hwak-young (CE 18)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21095_26000_3529.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21094,
+   "title": "On Becoming an Adult",
+   "published": "2019-12-05T12:34:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21094_25999_3450.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21093,
+   "title": "The Demographic Cliff Crisis",
+   "published": "2019-12-05T12:34:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21093_25998_340.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21092,
+   "title": "To Sleep, or Not to Sleep, That Is the Question",
+   "published": "2019-12-05T12:33:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21092_25997_338.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21091,
+   "title": "Murder By Fingertips",
+   "published": "2019-12-05T12:32:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21091_25996_3210.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21090,
+   "title": "Re-launching Flow in Korean Market",
+   "published": "2019-12-05T12:31:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21090_25995_3126.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21089,
+   "title": "Postechian’s Pick : The Pursuit of Happiness",
+   "published": "2019-12-05T12:28:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21089_25994_2819.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

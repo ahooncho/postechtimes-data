@@ -1,0 +1,277 @@
+{
+ "edition": "ko",
+ "number": 417,
+ "published": "2020-02-13T23:13:00+09:00",
+ "lastUpload": "2020-02-13T23:39:00+09:00",
+ "articles": [
+  {
+   "id": 21210,
+   "title": "신종코로나바이러스 확산 우려··· 대학 행사 잇따라 취소",
+   "published": "2020-02-13T23:39:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202002/21210_26063_3937.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21209,
+   "title": "우리대학-DGIST 뇌 신경망 지도 구축 연구 MOU 체결",
+   "published": "2020-02-13T23:37:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202002/21209_26062_389.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21208,
+   "title": "최영주 교수, 수학 전공서 잇달아 발간",
+   "published": "2020-02-13T23:36:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21207,
+   "title": "제15회 일주수학학교 개최",
+   "published": "2020-02-13T23:36:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이민우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21206,
+   "title": "고용량·고속충전 배터리용 ‘천연 고분자 바인더’ 개발",
+   "published": "2020-02-13T23:36:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이민우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21205,
+   "title": "생활관 사용료, 2020년부터 인하",
+   "published": "2020-02-13T23:35:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21204,
+   "title": "우리대학 송상원 팀장, 대학혁신포럼 표창받아",
+   "published": "2020-02-13T23:35:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202002/21204_26061_3337.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21203,
+   "title": "POSCO, 스타트업 육성 위한 ‘인큐베이팅 센터’ 건설",
+   "published": "2020-02-13T23:32:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은 기자",
+    "손도원 기자",
+    "최수영기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202002/21203_26060_3112.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21202,
+   "title": "세상 모든 혁신이 모이는 곳, CES로 떠나보자!",
+   "published": "2020-02-13T23:30:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202002/21202_26058_2830.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21201,
+   "title": "급속히 확산하는 신종코로나바이러스, 전 세계의 ‘우환’으로",
+   "published": "2020-02-13T23:27:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202002/21201_26057_2722.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21200,
+   "title": "각하, 제가 어찌하길 바라시나요",
+   "published": "2020-02-13T23:26:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202002/21200_26056_2422.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21199,
+   "title": "선생과 교수 사이",
+   "published": "2020-02-13T23:23:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "권창규 / 인문 대우조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21198,
+   "title": "배반의 겨울",
+   "published": "2020-02-13T23:22:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "박세현 / 화공 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21197,
+   "title": "제416호 ‘사재기로 얼룩진 음원 차트’를 읽고",
+   "published": "2020-02-13T23:21:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "진영서 / 무은재 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21196,
+   "title": "현혹되기 쉬운 논리적 오류",
+   "published": "2020-02-13T23:21:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21195,
+   "title": "내가 좋아하는 심연과 하늘 그리고 나",
+   "published": "2020-02-13T23:20:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21194,
+   "title": "좋은 연구자가 되기 위한 조언",
+   "published": "2020-02-13T23:19:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21193,
+   "title": "학위수여식 연기, 아쉽지만 사진 한 장",
+   "published": "2020-02-13T23:17:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "손도원"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202002/21193_26055_1724.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21192,
+   "title": "제417호 형산만평",
+   "published": "2020-02-13T23:13:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202002/21192_26054_1310.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

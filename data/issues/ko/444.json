@@ -1,0 +1,238 @@
+{
+ "edition": "ko",
+ "number": 444,
+ "published": "2023-05-19T10:16:00+09:00",
+ "lastUpload": "2023-05-19T10:36:00+09:00",
+ "articles": [
+  {
+   "id": 22609,
+   "title": "2023년도 해맞이한마당, 다시 피어오르다",
+   "published": "2023-05-19T10:36:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202305/22609_27166_1514.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22608,
+   "title": "우리대학-포항시, 올해의 책 선포식으로 상호 협력 강화해",
+   "published": "2023-05-19T10:35:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202305/22608_27165_1449.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22607,
+   "title": "광도파로를 이용한 극성반도체입자 능동 제어 성공",
+   "published": "2023-05-19T10:35:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정원형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22606,
+   "title": "페로브스카이트 태양전지의 성능과 안정성 향상을 돕는 첨가제 개발",
+   "published": "2023-05-19T10:34:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22605,
+   "title": "우리대학 임지순 교수, 삼성호암상 수상",
+   "published": "2023-05-19T10:34:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22604,
+   "title": "환경 민원 감소시킨 코로나19 사태",
+   "published": "2023-05-19T10:33:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22603,
+   "title": "다양한 대면 활동, 축제와 함께 꽃 피운다",
+   "published": "2023-05-19T10:33:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "고평강",
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202305/22603_27164_1411.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22602,
+   "title": "새로운 오래된 것, 부활한 통집 2.0",
+   "published": "2023-05-19T10:32:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "정원형",
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202305/22602_27163_1336.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22601,
+   "title": "우리대학-시프트업 오프캠퍼스 구축 협약 체결",
+   "published": "2023-05-19T10:32:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김윤철",
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202305/22601_27162_1254.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22598,
+   "title": "해맞이한마당을 빛낸 주역들을 만나다",
+   "published": "2023-05-19T10:29:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강민영",
+    "손유민",
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202305/22598_27159_1057.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22597,
+   "title": "2023 해맞이한마당 사진기사",
+   "published": "2023-05-19T10:26:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202305/22597_27167_1856.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 22594,
+   "title": "김초엽과 윤하, 그리고 포스테키안",
+   "published": "2023-05-19T10:21:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "백지혜 / 인문 대우부교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22593,
+   "title": "아름다운 이별을 믿나요?",
+   "published": "2023-05-19T10:20:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "류나은 / 무은재 22"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22592,
+   "title": "제443호 ‘올해도 여전히 전원 기숙사 제공’을 읽고",
+   "published": "2023-05-19T10:20:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "홍람기 / 무은재 22"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22591,
+   "title": "대학 교육과 연구의 다양성",
+   "published": "2023-05-19T10:18:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22590,
+   "title": "제444호 형산만평",
+   "published": "2023-05-19T10:16:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202305/22590_27158_629.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

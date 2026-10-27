@@ -1,0 +1,390 @@
+{
+ "edition": "ko",
+ "number": 463,
+ "published": "2025-02-26T20:33:00+09:00",
+ "lastUpload": "2025-02-26T21:42:00+09:00",
+ "articles": [
+  {
+   "id": 23562,
+   "title": "846인의 포스테키안, 새로운 도전의 문을 열다",
+   "published": "2025-02-26T21:42:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23562_27957_4153.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23561,
+   "title": "생동감 넘치는 우리대학의 새 홈페이지",
+   "published": "2025-02-26T21:41:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23560,
+   "title": "기상 조건 변화의 오존 대기오염에 대한 영향 규명",
+   "published": "2025-02-26T21:40:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23559,
+   "title": "사중 코돈 기반의 생물자원 보안 기술 ‘QCODE’ 개발",
+   "published": "2025-02-26T21:39:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23558,
+   "title": "수계 리튬이온배터리의 상용화 가능성을 높이다",
+   "published": "2025-02-26T21:39:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23557,
+   "title": "3D 바이오프린팅 기술로 약물 반응 평가 및 예측 모델 개발",
+   "published": "2025-02-26T21:38:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23556,
+   "title": "제2 건학 핵심, 교육지구 건립 본격화",
+   "published": "2025-02-26T21:37:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23556_27956_3647.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23555,
+   "title": "우리대학, SNT다이내믹스와 MOU 체결",
+   "published": "2025-02-26T21:36:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23554,
+   "title": "다섯 번째 포스텍 SF 어워드, 올해의 수상자는",
+   "published": "2025-02-26T21:35:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23554_27955_3437.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23553,
+   "title": "우리대학 발전의 숨겨진 조력자",
+   "published": "2025-02-26T21:30:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23553_27954_3011.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23551,
+   "title": "종신교수직 제도와 우리대학 정년 연장의 움직임",
+   "published": "2025-02-26T21:27:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23551_27953_2712.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23550,
+   "title": "우리대학의 학부 교육 만족도는",
+   "published": "2025-02-26T21:25:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이이수",
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23550_27952_2440.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23548,
+   "title": "서부지법 불법 폭력 점거 사태, 도를 넘어선 법치주의 훼손",
+   "published": "2025-02-26T21:22:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23548_27951_2219.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23547,
+   "title": "재수 필수, 삼수는 선택?",
+   "published": "2025-02-26T21:21:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "양지윤 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23547_27950_212.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23545,
+   "title": "설레는 개강을 향한 첫 발, 우리대학의 새 식구를 맞이하다",
+   "published": "2025-02-26T21:23:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김윤철",
+    "김태린",
+    "양지윤 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23545_27947_615.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23544,
+   "title": "포항의 문화·예술을 찾아서",
+   "published": "2025-02-26T21:04:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23544_27945_339.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23543,
+   "title": "AI 시대를 견인하는 GPU 기술",
+   "published": "2025-02-26T21:02:00+09:00",
+   "category": "과학",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23543_27944_04.jpg",
+   "sectionCode": "S1N31",
+   "sectionName": "과학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23541,
+   "title": "심화하는 기후 재난 위험 속에서 사회 전반의 회복탄력성과 지속가능성을 유지하기 위한 전략",
+   "published": "2025-02-26T20:57:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "정광민 / 산경 부교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23541_27940_4813.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23540,
+   "title": "우릴 인도해 시라노여!",
+   "published": "2025-02-26T20:46:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23540_27939_4450.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 23539,
+   "title": "온라인 민주주의",
+   "published": "2025-02-26T20:43:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "장수영 / 산경 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 23538,
+   "title": "새내기들에게",
+   "published": "2025-02-26T20:42:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "문영진 / 전자 20"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 23537,
+   "title": "제462호 ‘12·29 제주항공 여객기 참사, 사고 원인과 재발 방지 대책은’을 읽고",
+   "published": "2025-02-26T20:41:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김우석 / 반도체 23"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 23536,
+   "title": "더 나아가기 위한 쉼표",
+   "published": "2025-02-26T20:39:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 23535,
+   "title": "반전의 묘미",
+   "published": "2025-02-26T20:39:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 23534,
+   "title": "민주주의 위기와 과학기술인의 사회적 책임",
+   "published": "2025-02-26T20:37:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 23533,
+   "title": "분반의 자존심을 건 대결, 그 결과는",
+   "published": "2025-02-26T20:36:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23533_27938_3556.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 23532,
+   "title": "제463호 형산만평",
+   "published": "2025-02-26T20:33:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23532_27937_3336.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

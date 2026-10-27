@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 169,
+ "published": "2023-11-07T19:43:00+09:00",
+ "lastUpload": "2023-11-07T20:27:00+09:00",
+ "articles": [
+  {
+   "id": 22765,
+   "title": "POSTECH’s Annual Trip to CES and Nobel Week",
+   "published": "2023-11-07T20:27:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22765_27335_2744.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22764,
+   "title": "Meeting with the President: A Vigorous Q&A Blossoms",
+   "published": "2023-11-07T20:27:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22764_27334_271.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22763,
+   "title": "POSTECH as the Sherpa of the Upcoming Hydrogen Era",
+   "published": "2023-11-07T20:26:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22763_27333_2622.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22762,
+   "title": "“I Am Not the Zygote I Came From”",
+   "published": "2023-11-07T20:25:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22762_27332_2521.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22761,
+   "title": "Unraveling the Israel-Palestine Conflict",
+   "published": "2023-11-07T20:25:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22761_27331_2457.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22760,
+   "title": "LK-99 - Failures and Groundbreaking Discoveries",
+   "published": "2023-11-07T20:24:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22760_27330_2419.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22759,
+   "title": "Facilities Management – Dealing with Campus Water Quality",
+   "published": "2023-11-07T20:23:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22759_27328_238.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22758,
+   "title": "Special Lecture by Swedish Ambassador, Daniel Wolvén",
+   "published": "2023-11-07T20:21:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22758_27327_2124.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22757,
+   "title": "POSTECH Microscope: The POSTECH Counseling Center",
+   "published": "2023-11-07T20:21:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22757_27326_2055.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22756,
+   "title": "Column: AI and Medical Imaging: Odyssey into a New Era of Healthcare",
+   "published": "2023-11-07T20:19:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Associate Professor Won Hwa Kim (CSE)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22756_27325_1940.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22755,
+   "title": "Postechian Column: Watching Movies - My Way",
+   "published": "2023-11-07T20:19:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Yoo Chan (Muenjae 23)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22755_27324_1911.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22754,
+   "title": "Reporter Column: Gruesome Curiosity",
+   "published": "2023-11-07T20:18:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22754_27323_1818.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22753,
+   "title": "Emerging Ethical Breaches in Science",
+   "published": "2023-11-07T20:17:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22753_27322_177.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22752,
+   "title": "Watch Out for the Spread of Fake News",
+   "published": "2023-11-07T19:46:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22752_27320_4543.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22751,
+   "title": "Speedsters of the Screen",
+   "published": "2023-11-07T19:44:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22751_27319_4438.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22750,
+   "title": "The Reappearance of Bedbugs in France",
+   "published": "2023-11-07T19:44:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22750_27318_4410.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22749,
+   "title": "Postechian’s Pick : The Laws of Human Nature",
+   "published": "2023-11-07T19:43:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202311/22749_27317_439.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

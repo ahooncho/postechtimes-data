@@ -1,0 +1,158 @@
+{
+ "보도": {
+  "code": "S1N1",
+  "parent": null
+ },
+ "전체": {
+  "code": "S1N1",
+  "parent": null
+ },
+ "TOP/준TOP": {
+  "code": "S2N9",
+  "parent": "S1N1"
+ },
+ "중형보도": {
+  "code": "S2N11",
+  "parent": "S1N1"
+ },
+ "단신보도": {
+  "code": "S2N34",
+  "parent": "S1N1"
+ },
+ "현장포착": {
+  "code": "S2N38",
+  "parent": "S1N1"
+ },
+ "대학": {
+  "code": "S1N26",
+  "parent": null
+ },
+ "사회": {
+  "code": "S1N20",
+  "parent": null
+ },
+ "문화": {
+  "code": "S1N6",
+  "parent": null
+ },
+ "과학": {
+  "code": "S1N31",
+  "parent": null
+ },
+ "인터뷰": {
+  "code": "S1N22",
+  "parent": null
+ },
+ "학술": {
+  "code": "S1N5",
+  "parent": null
+ },
+ "기자의시선": {
+  "code": "S1N32",
+  "parent": null
+ },
+ "78오름돌": {
+  "code": "S2N39",
+  "parent": "S1N32"
+ },
+ "78내림돌": {
+  "code": "S2N40",
+  "parent": "S1N32"
+ },
+ "포스테키안의픽": {
+  "code": "S2N41",
+  "parent": "S1N32"
+ },
+ "여론": {
+  "code": "S1N27",
+  "parent": null
+ },
+ "사설": {
+  "code": "S2N23",
+  "parent": "S1N27"
+ },
+ "노벨동산": {
+  "code": "S2N24",
+  "parent": "S1N27"
+ },
+ "독자논단": {
+  "code": "S2N25",
+  "parent": "S1N27"
+ },
+ "지곡골목소리": {
+  "code": "S2N26",
+  "parent": "S1N27"
+ },
+ "독자리뷰": {
+  "code": "S2N27",
+  "parent": "S1N27"
+ },
+ "형산만평": {
+  "code": "S2N29",
+  "parent": "S1N27"
+ },
+ "독자기고": {
+  "code": "S2N42",
+  "parent": "S1N27"
+ },
+ "특집": {
+  "code": "S1N25",
+  "parent": null
+ },
+ "축사/식사/치사": {
+  "code": "S2N30",
+  "parent": "S1N25"
+ },
+ "수습기자의 다짐": {
+  "code": "S2N31",
+  "parent": "S1N25"
+ },
+ "르포": {
+  "code": "S2N32",
+  "parent": "S1N25"
+ },
+ "기획/사진": {
+  "code": "S2N37",
+  "parent": "S1N25"
+ },
+ "Headlines": {
+  "code": "S1N28",
+  "parent": null
+ },
+ "News": {
+  "code": "S1N9",
+  "parent": null
+ },
+ "Campus": {
+  "code": "S1N10",
+  "parent": null
+ },
+ "Postech Microscope": {
+  "code": "S1N24",
+  "parent": null
+ },
+ "Opinion": {
+  "code": "S1N13",
+  "parent": null
+ },
+ "Feature": {
+  "code": "S1N14",
+  "parent": null
+ },
+ "Culture": {
+  "code": "S1N30",
+  "parent": null
+ },
+ "만화/만평": {
+  "code": "S2N29",
+  "parent": "S1N27"
+ },
+ "포스텍SF공모전": {
+  "code": "S2N33",
+  "parent": "S1N25"
+ },
+ "기획": {
+  "code": "S2N37",
+  "parent": "S1N25"
+ }
+}

@@ -1,0 +1,368 @@
+{
+ "edition": "ko",
+ "number": 425,
+ "published": "2021-06-27T19:54:00+09:00",
+ "lastUpload": "2021-06-27T20:57:00+09:00",
+ "articles": [
+  {
+   "id": 21641,
+   "title": "코로나19에도 무은재학부생의 아름다운 꽃은 피었다",
+   "published": "2021-06-27T20:57:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21641_26396_5738.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21640,
+   "title": "개인위생의 중요성 일깨운 방역 캠페인",
+   "published": "2021-06-27T20:56:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21640_26395_5626.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21639,
+   "title": "AI가 들려주는 전통 소리의 향연",
+   "published": "2021-06-27T20:55:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21638,
+   "title": "전자정렬 상태와 공존하는 2차원 초전도 상태 발견",
+   "published": "2021-06-27T20:54:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21637,
+   "title": "녹지와 행복지수의 상관관계 분석",
+   "published": "2021-06-27T20:54:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "박은하 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21636,
+   "title": "메타버시티를 향한 도약, VR/AR 수업",
+   "published": "2021-06-27T20:53:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손도원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21636_26394_5154.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21635,
+   "title": "새롭게 변화할 캠퍼스, 대학 구성원들이 바라는 점",
+   "published": "2021-06-27T20:51:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21634,
+   "title": "PAMS, 지난 3년을 돌아보다",
+   "published": "2021-06-27T20:47:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박지우",
+    "유민재",
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21634_26392_4859.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21633,
+   "title": "비대면 학생 사회의 현주소",
+   "published": "2021-06-27T20:46:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은",
+    "안윤겸",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21633_26391_4611.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21632,
+   "title": "성공적인 창업 위한 발판, 교내 창업 생태계",
+   "published": "2021-06-27T20:44:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박은하",
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21632_26390_4430.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21631,
+   "title": "스타벅스가 불붙인 여름 ‘굿즈 대전’ 개막",
+   "published": "2021-06-27T20:39:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21631_26389_3911.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21630,
+   "title": "액티브 시니어로부터 태동하는 새로운 문화·소비 생활",
+   "published": "2021-06-27T20:38:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "문병필",
+    "박지우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21630_26388_3824.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21629,
+   "title": "논란의 중심에 선 사실적시 명예훼손죄",
+   "published": "2021-06-27T20:35:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21629_26387_3536.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21628,
+   "title": "‘비싸서 삽니다’, MZ세대의 명품 소비",
+   "published": "2021-06-27T20:34:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21628_26385_349.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21627,
+   "title": "홍합은 어떻게 접착을 하는가: 아미노산 배열에 비밀이 있다",
+   "published": "2021-06-27T20:24:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "차형준 / 화학공학과 교수",
+    "신민철 / 화학공학과 통합"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21627_26383_2336.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21626,
+   "title": "Humans of POSTECH",
+   "published": "2021-06-27T20:16:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "박지우",
+    "손도원",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21626_26379_1329.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21625,
+   "title": "아직 우리는 사람 냄새가 필요하다",
+   "published": "2021-06-27T20:11:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21625_26378_1114.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21624,
+   "title": "내 곁의 커피",
+   "published": "2021-06-27T20:10:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "윤건수 / 물리 부교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21623,
+   "title": "어느 어리석은 가짜 흡혈귀 이야기",
+   "published": "2021-06-27T20:09:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "김성아 / 컴공 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21622,
+   "title": "제423호 ‘물 마시기에 돈 걸기, 그런 거 왜 하냐 물으신다면’을 읽고",
+   "published": "2021-06-27T20:08:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김대호 / 컴공 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21620,
+   "title": "당신의 ‘존버’를 응원합니다",
+   "published": "2021-06-27T19:58:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21619,
+   "title": "노력의 벡터",
+   "published": "2021-06-27T19:57:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21618,
+   "title": "포스텍 의학전문대학원 유치를 기대하며",
+   "published": "2021-06-27T19:56:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21616,
+   "title": "학생회관 아우터 리모델링",
+   "published": "2021-06-27T19:55:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "박은하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21616_26377_5510.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21615,
+   "title": "제425호 형산만평",
+   "published": "2021-06-27T19:54:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202106/21615_26376_549.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

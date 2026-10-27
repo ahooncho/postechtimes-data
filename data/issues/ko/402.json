@@ -1,0 +1,475 @@
+{
+ "edition": "ko",
+ "number": 402,
+ "published": "2018-12-12T14:17:00+09:00",
+ "lastUpload": "2018-12-12T14:50:00+09:00",
+ "articles": [
+  {
+   "id": 20575,
+   "title": "우리대학, 공군과 군사과학기술 분야 협력 합의서 체결",
+   "published": "2018-12-12T14:50:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20575_25450_011.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20574,
+   "title": "개교 32주년 기념식 개최",
+   "published": "2018-12-12T14:50:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20574_25451_055.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20573,
+   "title": "대학원총학생회장 선거, 역대 최초 경선 치러",
+   "published": "2018-12-12T14:49:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20572,
+   "title": "광음향 영상, 더 깊숙이 본다",
+   "published": "2018-12-12T14:49:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20571,
+   "title": "우리대학 김광수 교수, 제32회 정헌학술대상 수상",
+   "published": "2018-12-12T14:48:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20570,
+   "title": "암세포를 실시간 관찰하는 광음향 현미경",
+   "published": "2018-12-12T14:48:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "권재영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20569,
+   "title": "풍전비철, 우리대학에 5억 원 기부",
+   "published": "2018-12-12T14:47:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20568,
+   "title": "인권주간 성공적으로 마무리",
+   "published": "2018-12-12T14:47:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20567,
+   "title": "포항시 대학생의 열정 가득한 축제, 2018 POP 열려",
+   "published": "2018-12-12T14:46:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20567_25452_224.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20566,
+   "title": "내 연구를 소개합니다, 나의 꿈을 펼치는 특별한 3분",
+   "published": "2018-12-12T14:46:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20566_25453_311.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20565,
+   "title": "학우들과 함께 지진대피 안내 시스템 구축에 나선 우리대학",
+   "published": "2018-12-12T14:45:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "권재영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20564,
+   "title": "좋은 수업, 그리고 학생 인권",
+   "published": "2018-12-12T14:44:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20564_25454_42.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20563,
+   "title": "‘내일로’와 함께하는 국토 기행, 이젠 안녕",
+   "published": "2018-12-12T14:43:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20563_25456_539.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20562,
+   "title": "지난 1년간 무은재와 함께한 SA람들",
+   "published": "2018-12-12T14:40:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "국현호",
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20562_25457_722.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20561,
+   "title": "‘에~오!’, 영화관에서 떼창을",
+   "published": "2018-12-12T14:38:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20561_25459_948.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20560,
+   "title": "너도나도 스마트폰, 게임 시장을 삼킨 모바일 게임 돌풍",
+   "published": "2018-12-12T14:37:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20560_25460_1027.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20559,
+   "title": "음주와 운전은 분리돼야 한다, 윤창호 법",
+   "published": "2018-12-12T14:36:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20559_25461_1159.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20558,
+   "title": "피해자의 눈물 위에 지어진 범죄 조직, ‘웹하드 카르텔’",
+   "published": "2018-12-12T14:35:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20558_25462_1330.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20557,
+   "title": "세상을 움직이는 물류",
+   "published": "2018-12-12T14:34:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "김병인 / 산경 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20557_25463_1432.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20556,
+   "title": "GET READY WITH US, 함께 준위 해 봐요!",
+   "published": "2018-12-12T14:33:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "정유진",
+    "권재영",
+    "김성민",
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20556_25465_1537.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20555,
+   "title": "19학번을 위해, 2019 새준위 위원장 김정원(생명 14) 학우",
+   "published": "2018-12-12T14:32:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20555_25466_1647.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20554,
+   "title": "학기 중에 준위를, 2018 축준위 위원장 이호형(신소재 14) 학우",
+   "published": "2018-12-12T14:31:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20554_25467_1826.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20553,
+   "title": "포카전의 승리를 위해, 2018 포준위 위원장 오민정(산경 16) 학우",
+   "published": "2018-12-12T14:29:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "권재영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20553_25468_1910.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20550,
+   "title": "준위의 그랜드슬램을 달성하다, 이택상(생명 17) 학우",
+   "published": "2018-12-12T14:25:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20550_25469_204.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20549,
+   "title": "1997년, 외환위기 속 우리의 모습",
+   "published": "2018-12-12T14:23:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20549_25470_2035.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 20548,
+   "title": "포스텍-연세대 개방·공유 캠퍼스 - 블록체인캠퍼스 분과",
+   "published": "2018-12-12T14:23:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "심재윤(전자) / 산학처장"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 20547,
+   "title": "우리대학 학생들의 학업부담",
+   "published": "2018-12-12T14:22:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "정혜일 / 무은재 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 20546,
+   "title": "제402호 ‘모두가 즐거운 식사 시간을 위해’를 읽고",
+   "published": "2018-12-12T14:22:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김치성 / 산경 17"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 20545,
+   "title": "힐링 에세이의 범람",
+   "published": "2018-12-12T14:21:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 20544,
+   "title": "상동(賞冬)",
+   "published": "2018-12-12T14:20:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 20543,
+   "title": "역사 속의 창의적 인재 조건",
+   "published": "2018-12-12T14:19:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 20542,
+   "title": "RC에서 미리 맞는 크리스마스",
+   "published": "2018-12-12T14:18:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20542_25471_2148.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 20541,
+   "title": "403호 형산만평",
+   "published": "2018-12-12T14:17:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20541_25472_2216.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

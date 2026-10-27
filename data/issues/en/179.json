@@ -1,0 +1,222 @@
+{
+ "edition": "en",
+ "number": 179,
+ "published": "2024-09-25T21:46:00+09:00",
+ "lastUpload": "2024-09-25T21:58:00+09:00",
+ "articles": [
+  {
+   "id": 23292,
+   "title": "Blasting KPSW 2024",
+   "published": "2024-09-25T21:58:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23292_27726_1311.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23291,
+   "title": "KPSW Eve Festival: A Night of Unity and Anticipation",
+   "published": "2024-09-25T21:57:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23291_27725_124.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23290,
+   "title": "The LEGO of Biology: Customized Sensor Technology",
+   "published": "2024-09-25T21:57:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23290_27724_1133.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23289,
+   "title": "EV Batteries with Outstanding Capacity and Charging Speed",
+   "published": "2024-09-25T21:56:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23289_27723_1054.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23288,
+   "title": "Young Adults are No Longer Free from Drug Hazards",
+   "published": "2024-09-25T21:56:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23288_27722_1019.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23287,
+   "title": "The Bucheon Hotel Fire: The Importance of Fire Safety Systems",
+   "published": "2024-09-25T21:55:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23287_27721_910.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23286,
+   "title": "Starting Off the New Semester with Classical Music",
+   "published": "2024-09-25T21:52:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23286_27720_828.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23285,
+   "title": "Welcome Session for International Exchange Students",
+   "published": "2024-09-25T21:52:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23285_27719_740.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23284,
+   "title": "POSTECH Microscope: Chief of the KPSW Advisory Committee",
+   "published": "2024-09-25T21:51:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23284_27718_74.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23283,
+   "title": "New Medical Imaging: from Lab to Clinics and Markets",
+   "published": "2024-09-25T21:51:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Chulhong Kim (EEE",
+    "ITCE",
+    "IBIO",
+    "and ME)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23283_27717_3411.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23282,
+   "title": "Postechian Column : Breakthrough the Commonness of POSTECHIAN",
+   "published": "2024-09-25T21:50:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Ryu Na-eun (CE 22)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23282_27716_262.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23281,
+   "title": "Reporter Column : Great Persuasion Skills of Great Speeches",
+   "published": "2024-09-25T21:48:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23281_27715_2533.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23280,
+   "title": "Deepfake Technology, a Double-Edged Sword",
+   "published": "2024-09-25T21:47:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23280_27714_2452.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23278,
+   "title": "Smart Diet Strategies Through Blood Sugar Balance",
+   "published": "2024-09-25T21:46:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23278_27713_2329.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23277,
+   "title": "The Cultural Divergence in Firing Employees: Korea vs USA",
+   "published": "2024-09-25T21:46:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202409/23277_27712_5122.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

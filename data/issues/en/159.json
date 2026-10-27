@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 159,
+ "published": "2022-11-13T01:01:00+09:00",
+ "lastUpload": "2022-11-13T01:11:00+09:00",
+ "articles": [
+  {
+   "id": 22306,
+   "title": "Pohang City Opens Pohang Big Data AI Innovation Center",
+   "published": "2022-11-13T01:11:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22306_26921_4152.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22305,
+   "title": "Symposium with the Fields Medal Winner",
+   "published": "2022-11-13T01:10:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22305_26920_4131.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22304,
+   "title": "Development of COVID-19 Neutralizer for All Kinds of Variants",
+   "published": "2022-11-13T01:10:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22304_26919_412.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22303,
+   "title": "Activating Brain Immune Cells by Treating Gossypetin",
+   "published": "2022-11-13T01:09:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22303_26941_5951.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22302,
+   "title": "Tragedy Caused by Negligence of Safety Management",
+   "published": "2022-11-13T01:09:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22302_26918_3945.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22301,
+   "title": "Our Dependency On Kakaotalk",
+   "published": "2022-11-13T01:08:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Jung Hye-Yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22301_26917_3923.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22300,
+   "title": "Lectures by PICE",
+   "published": "2022-11-13T01:08:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22300_26916_3855.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22299,
+   "title": "Postechians’ Thoughts on POSTECH-Related Mobile Apps",
+   "published": "2022-11-13T01:08:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22299_26915_3834.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22298,
+   "title": "POSTECH Microscope: Administrative Staff of the Department of Food Services",
+   "published": "2022-11-13T01:07:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22298_26914_3732.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22297,
+   "title": "Column: My Story as a New Professor",
+   "published": "2022-11-13T01:06:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Assistant Professor Park Kyoung-Duck (PHYS)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22297_26910_3531.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22296,
+   "title": "Postechian Column: Challenging Circumstances Lead to Positive Actions",
+   "published": "2022-11-13T01:04:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Choi Sung-min (Mueunjae 22)"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22295,
+   "title": "Reporter Column: An Optimistic Dejection",
+   "published": "2022-11-13T01:04:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22295_26909_3449.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22294,
+   "title": "Be Aware of Ransomware!",
+   "published": "2022-11-13T01:03:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22294_26908_3412.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22293,
+   "title": "Government Announces Plan to Lower Age of Law Breaching Minors",
+   "published": "2022-11-13T01:03:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22293_26906_337.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22292,
+   "title": "Increasing Pollution On Jeju Island",
+   "published": "2022-11-13T01:02:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Jung Hye-Yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22292_26905_3234.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22291,
+   "title": "War Against Illegal Sharing of Webtoons and Web novels",
+   "published": "2022-11-13T01:02:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22291_26904_329.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22290,
+   "title": "Postechian’s Pick: Liking What You See : A Documentary",
+   "published": "2022-11-13T01:01:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202211/22290_26903_3136.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

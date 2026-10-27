@@ -1,0 +1,263 @@
+{
+ "edition": "en",
+ "number": 163,
+ "published": "2023-03-01T21:03:00+09:00",
+ "lastUpload": "2023-03-01T21:16:00+09:00",
+ "articles": [
+  {
+   "id": 22486,
+   "title": "2023 Orientation: Face-to-Face Welcoming of Freshmen",
+   "published": "2023-03-01T21:16:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22486_27071_4653.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22485,
+   "title": "Towards the Establishment of POSTECH Medical School",
+   "published": "2023-03-01T21:15:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22485_27094_1229.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22484,
+   "title": "New System to Prevent Reverse-Current in Water Electrolyzer",
+   "published": "2023-03-01T21:15:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22484_27095_139.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22483,
+   "title": "Synthesizing Polymers Instead of Proteins Using Cellular Materials",
+   "published": "2023-03-01T21:13:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22483_27068_4535.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22482,
+   "title": "Big Wave of Change Approaching Korea's Mobile Payment Market",
+   "published": "2023-03-01T21:13:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22482_27067_4513.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22481,
+   "title": "7.8- Magnitude Earthquake Strikes Northeast Türkiye",
+   "published": "2023-03-01T21:11:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22481_27066_4450.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22480,
+   "title": "Reportage - VinUniversity",
+   "published": "2023-03-01T21:11:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22480_27065_4411.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22479,
+   "title": "Advice for Future Leaders of the World",
+   "published": "2023-03-01T21:10:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22479_27064_4346.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22478,
+   "title": "Interesting Research on User-data System at VinUniversity",
+   "published": "2023-03-01T21:10:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Yang Seo-Yeon",
+    "Kim Jin Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22478_27063_4310.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22477,
+   "title": "A Journey of Academic Excellence and Personal Growth",
+   "published": "2023-03-01T21:09:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Yim O-Jung",
+    "Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22477_27061_417.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22476,
+   "title": "Column: A Story about Financial Economics",
+   "published": "2023-03-01T21:08:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Assistant Professor Keeyoung Rhee (HSS)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22476_27060_4035.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22475,
+   "title": "Postechian Column: AI and Morals: Ethical Challenges in Training Models",
+   "published": "2023-03-01T21:07:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kim Seong-joo (Mueunjae 22)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22475_27059_3919.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22474,
+   "title": "Reporter Column: UGRP Experience as a Freshman",
+   "published": "2023-03-01T21:06:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22474_27057_3742.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22473,
+   "title": "Increasing Heating Bills and Energy Issues",
+   "published": "2023-03-01T21:06:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22473_27056_3659.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22472,
+   "title": "ChatGPT in a Nutshell",
+   "published": "2023-03-01T21:06:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22472_27054_3617.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22471,
+   "title": "Reasons Why Masks Remain Common",
+   "published": "2023-03-01T21:03:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22471_27052_3548.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22470,
+   "title": "Lack of Caution with Private Information",
+   "published": "2023-03-01T21:03:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22470_27051_3457.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22469,
+   "title": "Postechian’s Pick: After Yang",
+   "published": "2023-03-01T21:03:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202303/22469_27050_3423.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

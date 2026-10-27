@@ -1,0 +1,362 @@
+{
+ "edition": "ko",
+ "number": 421,
+ "published": "2020-11-27T16:43:00+09:00",
+ "lastUpload": "2020-11-27T17:28:00+09:00",
+ "articles": [
+  {
+   "id": 21433,
+   "title": "2학기 후반부, 일부 교과목 대면 수업 전환",
+   "published": "2020-11-27T17:28:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손도원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21433_26240_2724.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21432,
+   "title": "코로나19, 교내 매장 문까지 걸어 잠그다",
+   "published": "2020-11-27T17:26:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21432_26239_2622.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21431,
+   "title": "이길호 교수팀, 초고감도 마이크로파 검출기 개발",
+   "published": "2020-11-27T17:20:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21430,
+   "title": "우리대학 3인, 대한민국 반도체설계대전서 ETRI 원장상 수상",
+   "published": "2020-11-27T17:19:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21429,
+   "title": "서석환 교수, 스마트 3D 프린팅 시스템 ISO 국제표준안 채택",
+   "published": "2020-11-27T17:18:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21428,
+   "title": "철강·에너지소재대학원 강의 Coursera서 인기",
+   "published": "2020-11-27T17:18:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21427,
+   "title": "교내 설치된 공유 전동 킥보드, 득인가 실인가",
+   "published": "2020-11-27T17:17:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21427_26238_1722.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21426,
+   "title": "새로운 대학원, SDS 대학원",
+   "published": "2020-11-27T17:15:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21424,
+   "title": "다사다난한 한 해, 총학생회는 어떻게 지냈나",
+   "published": "2020-11-27T17:11:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21424_26236_1112.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21423,
+   "title": "성원 속에 마무리된 천원의 아침밥",
+   "published": "2020-11-27T17:09:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은",
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21423_26235_919.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21422,
+   "title": "코로나19도 막지 못한 우리대학 봉사 열기",
+   "published": "2020-11-27T17:07:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21422_26234_735.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21421,
+   "title": "문화 동북공정, 끝나지 않은 역사 왜곡",
+   "published": "2020-11-27T17:04:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21421_26233_358.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21420,
+   "title": "나를 표현합니다, 미닝아웃",
+   "published": "2020-11-27T17:02:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21420_26232_235.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21419,
+   "title": "택배 노동자 처우 개선, 모두의 노력이 필요할 때",
+   "published": "2020-11-27T17:01:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21419_26231_112.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21418,
+   "title": "답답함·무기력증, 혹시 나도 코로나 블루?",
+   "published": "2020-11-27T17:00:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "박지우",
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21418_26230_017.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21417,
+   "title": "새로운 폼 팩터의 끝판왕: 연신성 전자 소자",
+   "published": "2020-11-27T16:58:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "정운룡 / 신소재공학과 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21417_26227_5748.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21416,
+   "title": "제421호 Humans of POSTECH: 비대면 동아리 활동을 빛낸 사람들",
+   "published": "2020-11-27T16:55:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21416_26224_5518.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21415,
+   "title": "행복한 포스테키안, 무엇을 할 것인가",
+   "published": "2020-11-27T16:50:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "박상준 / 인문 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21414,
+   "title": "문학은 어떻게 삶이 될까?",
+   "published": "2020-11-27T16:50:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "기민정 / 화학 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21413,
+   "title": "제420호 ‘코로나19가 바꾼 일상, 새로운 사회 만들다’를 읽고",
+   "published": "2020-11-27T16:49:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "조혜인 / 화공 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21412,
+   "title": "이 세상 모든 ‘영웅’들에게",
+   "published": "2020-11-27T16:48:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21411,
+   "title": "가족, 가장 익숙하지만 가장 소중한 사람들",
+   "published": "2020-11-27T16:47:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "손도원"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21410,
+   "title": "대학 본부에 바란다",
+   "published": "2020-11-27T16:47:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21409,
+   "title": "새로 단장한 학생회관 카페를 찾은 학생들",
+   "published": "2020-11-27T16:45:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21409_26223_4537.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21408,
+   "title": "제421호 형산만평",
+   "published": "2020-11-27T16:43:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202011/21408_26222_4332.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

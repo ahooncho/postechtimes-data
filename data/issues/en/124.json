@@ -1,0 +1,261 @@
+{
+ "edition": "en",
+ "number": 124,
+ "published": "2018-12-12T12:07:00+09:00",
+ "lastUpload": "2018-12-12T13:44:00+09:00",
+ "articles": [
+  {
+   "id": 20539,
+   "title": "Postech’s 32-Year Anniversary Ceremony Celebrated",
+   "published": "2018-12-12T13:44:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20539_25473_4813.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20538,
+   "title": "4th ‘Introducing my research’ Held",
+   "published": "2018-12-12T13:43:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20538_25474_4917.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20537,
+   "title": "General Strike against CJ Korea Express",
+   "published": "2018-12-12T13:42:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20537_25475_5335.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20536,
+   "title": "POSTECH – KIST Discovers Protein Decomposition Signal",
+   "published": "2018-12-12T13:41:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20536_25476_5428.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20535,
+   "title": "Photoacoustic Microscope Opens Possibility of Pathological Analysis",
+   "published": "2018-12-12T13:41:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20535_25477_5536.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20534,
+   "title": "Donation to Foster Humanities and Social Sciences Education Made",
+   "published": "2018-12-12T13:40:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20533,
+   "title": "Observe Deep Inside the Body with a Nanoplate Contrast Agent",
+   "published": "2018-12-12T13:40:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20533_25478_5851.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20532,
+   "title": "Interpretation of Classical Pieces by Gum Nan-se",
+   "published": "2018-12-12T13:37:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20532_25479_03.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20531,
+   "title": "Eggs Finally Break the Rock",
+   "published": "2018-12-12T13:37:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20531_25480_118.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20530,
+   "title": "POSTECH Human Rights Week",
+   "published": "2018-12-12T13:36:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20530_25481_149.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20529,
+   "title": "What Is Happening with PAM?",
+   "published": "2018-12-12T13:35:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20529_25487_745.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20528,
+   "title": "POSTECH Microscope: Campus Police",
+   "published": "2018-12-12T13:35:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20528_25483_449.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20527,
+   "title": "A Professional’s Advice on Studying Abroad",
+   "published": "2018-12-12T13:33:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kim Jong-min Assistant Professor"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20526,
+   "title": "Does Having a Choice Makes Us Happier?",
+   "published": "2018-12-12T13:33:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Jeong Gang-min (Mueunjae 18)"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20525,
+   "title": "Call Out To All TCKs",
+   "published": "2018-12-12T13:31:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20523,
+   "title": "Insanity Defense's Purpose in Question",
+   "published": "2018-12-12T12:08:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20523_25484_534.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20522,
+   "title": "Is the Hospital 'Safe'?",
+   "published": "2018-12-12T12:08:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20522_25485_615.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20521,
+   "title": "The fall of Silicon Valley? - Foreshadowing the Fall",
+   "published": "2018-12-12T12:07:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201812/20521_25486_643.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

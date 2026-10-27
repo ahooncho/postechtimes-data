@@ -1,0 +1,337 @@
+{
+ "edition": "ko",
+ "number": 427,
+ "published": "2021-10-12T05:49:00+09:00",
+ "lastUpload": "2021-10-12T06:42:00+09:00",
+ "articles": [
+  {
+   "id": 21738,
+   "title": "우려가 현실로, 교내 코로나19 확진자 발생",
+   "published": "2021-10-12T06:42:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21738_26481_4153.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21737,
+   "title": "우리대학 THE 소규모 대학평가 3년 연속 세계 3위",
+   "published": "2021-10-12T06:40:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21737_26480_4017.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21736,
+   "title": "태양광으로 녹조 주범 질산 없애는 광촉매 소재 개발",
+   "published": "2021-10-12T06:39:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "박승아 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21735,
+   "title": "융털까지 모사하는 인공 장 모델 개발",
+   "published": "2021-10-12T06:38:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "박준우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21734,
+   "title": "POSTECH-지멘스, 디지털 트랜스포메이션 전문 인력 양성 함께 나선다",
+   "published": "2021-10-12T06:38:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21733,
+   "title": "연골재생 위한 초자연골 분화 촉진 플랫폼 개발",
+   "published": "2021-10-12T06:37:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21732,
+   "title": "코로나19 백신 휴가제도 도입",
+   "published": "2021-10-12T06:36:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21731,
+   "title": "군 복무 중 원격수업 학점 인정 제도 시행",
+   "published": "2021-10-12T06:36:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21731_26479_3617.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21730,
+   "title": "박태준학술정보관, 좌석예약시스템 도입",
+   "published": "2021-10-12T06:35:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21729,
+   "title": "전공과목과 같은 3학점, 우리대학 교양 과목 실태",
+   "published": "2021-10-12T06:34:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은",
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21729_26478_346.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21728,
+   "title": "학내 근로자 권익 개선, 우리대학 근로자들 근무 환경은 (1)",
+   "published": "2021-10-12T06:30:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "안윤겸",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21728_26475_2843.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21727,
+   "title": "학내 근로자 권익 개선, 우리대학 근로자들 근무 환경은 (2)",
+   "published": "2021-10-12T06:27:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "안윤겸",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21727_26477_325.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21726,
+   "title": "‘나도 작가다’… 일반인 글쓰기 열풍",
+   "published": "2021-10-12T06:20:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21726_26471_2044.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21725,
+   "title": "일상에 녹아드는 서비스 로봇",
+   "published": "2021-10-12T06:13:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "소예린",
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21725_26470_1347.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21724,
+   "title": "NFT가 뭐길래, 훈민정음이 팔린다고?",
+   "published": "2021-10-12T06:12:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21724_26469_1238.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21723,
+   "title": "관계의 빈곤, 고독사 사회",
+   "published": "2021-10-12T06:11:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21723_26468_113.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21722,
+   "title": "양자적 상관관계에 대해",
+   "published": "2021-10-12T06:09:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "함병승 / GIST 전기전자컴퓨터공학부 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21722_26466_919.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21720,
+   "title": "Humans of POSTECH",
+   "published": "2021-10-12T06:06:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "유민재",
+    "박지우",
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21720_26463_135.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21718,
+   "title": "당신은 공인입니까?",
+   "published": "2021-10-12T05:54:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21717,
+   "title": "어차피 덕질할 거, 행복하게 당당하게 건강하게",
+   "published": "2021-10-12T05:53:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21716,
+   "title": "지금 지구온난화를 막지 않으면 안되는 이유",
+   "published": "2021-10-12T05:53:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21715,
+   "title": "교내 확진자 발생, 일주일간 RC 전체 이동 금지 조치",
+   "published": "2021-10-12T05:52:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21715_26460_522.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21714,
+   "title": "제427호 형산만평",
+   "published": "2021-10-12T05:49:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202110/21714_26459_4947.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

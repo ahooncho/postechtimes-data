@@ -1,0 +1,369 @@
+{
+ "edition": "ko",
+ "number": 445,
+ "published": "2023-06-15T09:28:00+09:00",
+ "lastUpload": "2023-06-15T10:20:00+09:00",
+ "articles": [
+  {
+   "id": 22658,
+   "title": "제9대 총장 선출 임박, 학생들이 원하는 학교의 모습은",
+   "published": "2023-06-15T10:20:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22658_27220_1938.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22657,
+   "title": "3년 만에 돌아온 제3대 무은재학생회장단 ‘한울’",
+   "published": "2023-06-15T10:15:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22656,
+   "title": "해조류를 활용한 고해상도 바이오잉크 개발",
+   "published": "2023-06-15T10:14:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22655,
+   "title": "제25회 포스텍 프로그래밍 경진대회 개최",
+   "published": "2023-06-15T10:13:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22654,
+   "title": "박태호 교수팀, 태양전지 효율을 높이는 새로운 정공 수송체 개발",
+   "published": "2023-06-15T10:12:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22653,
+   "title": "우리대학-RIST-경북대, 3D 프린팅 신기술 개발을 위한 협약 체결",
+   "published": "2023-06-15T10:12:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22653_27219_1154.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22652,
+   "title": "다가오는 2학기, ‘환경융합부전공’ 프로그램 신설",
+   "published": "2023-06-15T10:11:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이주형",
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22652_27218_1050.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22651,
+   "title": "우리대학 교통편의 시설, 잘 이용하고 있나요?",
+   "published": "2023-06-15T10:09:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "고평강",
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22651_27215_618.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22650,
+   "title": "개인정보 유출 사고, 아픔 딛고 더 나아갈 계기되길",
+   "published": "2023-06-15T10:00:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "고평강",
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22650_27214_043.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22649,
+   "title": "배달 음식 쓰레기로 뒤덮인 우리대학, 분리배출 문제 심각",
+   "published": "2023-06-15T09:59:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "정유현",
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22649_27213_5923.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22648,
+   "title": "글로벌 캠퍼스를 위해 앞장서는 PBUD",
+   "published": "2023-06-15T09:57:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강민영",
+    "이주형",
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22648_27210_5438.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22647,
+   "title": "떠오르는 새로운 산업, ‘슬립테크’",
+   "published": "2023-06-15T09:52:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "오유진",
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22647_27209_5219.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22646,
+   "title": "불황에 빠진 배달업계와 떠나가는 소비자층",
+   "published": "2023-06-15T09:50:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김윤철",
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22646_27208_5111.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22645,
+   "title": "법으로 금지해야 할까, 근로 아닌 근로",
+   "published": "2023-06-15T09:48:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "강민영",
+    "강호연 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22645_27207_4928.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22644,
+   "title": "달러화와 위안화의 대결, 패권 경쟁의 승자는?",
+   "published": "2023-06-15T09:47:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "이재현",
+    "정원형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22644_27206_4751.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22643,
+   "title": "시맨틱 통신, 정보 전송을 넘어서",
+   "published": "2023-06-15T09:45:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "김용준 / 전자 조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22643_27204_4351.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22642,
+   "title": "인간으로 산다는 것",
+   "published": "2023-06-15T09:37:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22642_27203_4028.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22641,
+   "title": "생성형 인공지능 기술과 삶의 태도",
+   "published": "2023-06-15T09:36:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "옥정슬 / 컴공 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22640,
+   "title": "포항에서 낭만 찾기",
+   "published": "2023-06-15T09:35:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "조영찬 / 무은재 22"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22639,
+   "title": "제444호 ‘새로운 오래된 것, 부활한 통집 2.0’을 읽고",
+   "published": "2023-06-15T09:34:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김태윤 / 무은재 23"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22638,
+   "title": "낮말도 밤말도 모두 듣는 사회",
+   "published": "2023-06-15T09:33:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22637,
+   "title": "전공 선택의 자유는 행복한 고민일 뿐",
+   "published": "2023-06-15T09:32:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22636,
+   "title": "포스텍의 또 다른 도전",
+   "published": "2023-06-15T09:31:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22634,
+   "title": "언제나 안전이 먼저! 보호구 착용 안전교육",
+   "published": "2023-06-15T09:31:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "정원형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22634_27202_2927.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22633,
+   "title": "제445호 형산만평",
+   "published": "2023-06-15T09:28:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202306/22633_27201_2756.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

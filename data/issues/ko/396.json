@@ -1,0 +1,388 @@
+{
+ "edition": "ko",
+ "number": 396,
+ "published": "2018-05-30T21:51:00+09:00",
+ "lastUpload": "2018-05-31T00:39:00+09:00",
+ "articles": [
+  {
+   "id": 20303,
+   "title": "일상에 짜릿함을 선사한 ‘벼락치기’",
+   "published": "2018-05-31T00:39:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20303_25233_393.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20298,
+   "title": "블록 공중합체 이용 메타물질 제작법 개발",
+   "published": "2018-05-31T00:33:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20297,
+   "title": "자살 예방 교육을 위한 정신건강홍보캠페인 실시",
+   "published": "2018-05-31T00:33:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20296,
+   "title": "빅데이터 분석으로 정확한 질병 동물모델 제작",
+   "published": "2018-05-31T00:32:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20295,
+   "title": "코드박스 블록체인 세미나 개최",
+   "published": "2018-05-31T00:32:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20294,
+   "title": "동문 기업 뉴로메카 우리대학에 5,000만 원 기부",
+   "published": "2018-05-31T00:32:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20293,
+   "title": "우리대학, 고교교육 기여대학 지원사업 대상서 탈락",
+   "published": "2018-05-31T00:31:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201806/20293_25240_3527.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20292,
+   "title": "졸업앨범 제작 무산, 대안은?",
+   "published": "2018-05-31T00:30:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20291,
+   "title": "학과탐색 박람회 개최",
+   "published": "2018-05-31T00:29:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "권재영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20291_25231_2845.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20290,
+   "title": "포항 지진, 지열발전소가 일으켰나?",
+   "published": "2018-05-31T00:28:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20290_25230_2733.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20289,
+   "title": "마른하늘에 날벼락 맞은 대학 축제 주점",
+   "published": "2018-05-31T00:26:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20288,
+   "title": "텔레비전에 POSTECH 나왔으면 정말 좋겠네~",
+   "published": "2018-05-31T00:25:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김희진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201806/20288_25241_3630.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20287,
+   "title": "사람 냄새 나는 효자시장 이야기",
+   "published": "2018-05-31T00:18:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201806/20287_25242_3752.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20285,
+   "title": "소화제 ‘버블’로 막힌 혈관 촬영하고 뚫는 스텐트 개발",
+   "published": "2018-05-31T00:02:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "한세광 / 신소재 교수",
+    "금도희 / 신소재 통합"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20285_25214_139.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20284,
+   "title": "[포항시장 후보자 인터뷰] - 기호 1번 더불어민주당 허대만 후보 인터뷰",
+   "published": "2018-05-31T00:00:00+09:00",
+   "category": "특집",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20284_25237_4129.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20283,
+   "title": "[포항시장 후보자 인터뷰] - 기호 2번 자유한국당 이강덕 후보 인터뷰",
+   "published": "2018-05-30T23:56:00+09:00",
+   "category": "특집",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20283_25238_428.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20281,
+   "title": "[포항시장 후보자 인터뷰] - 기호 3번 바른미래당 이창균 후보 인터뷰",
+   "published": "2018-05-30T23:47:00+09:00",
+   "category": "특집",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20281_25239_4241.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20280,
+   "title": "20세기 대중문화에 바치는 러브레터",
+   "published": "2018-05-30T23:12:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20280_25210_1147.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 20279,
+   "title": "398호 형산만평",
+   "published": "2018-05-30T23:10:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20279_25209_106.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 20278,
+   "title": "온몸이 짜릿짜릿! 2018년도 해맞이 한마당",
+   "published": "2018-05-30T22:32:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201806/20278_25243_3828.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20275,
+   "title": "5월 총학’s week",
+   "published": "2018-05-30T22:08:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김건창 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201805/20275_25177_757.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 20274,
+   "title": "우리대학-연세대 개방/공유 캠퍼스의 의미",
+   "published": "2018-05-30T21:56:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "정완균(기계) 부총장"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 20273,
+   "title": "영화를 어떻게 볼 것인가",
+   "published": "2018-05-30T21:55:00+09:00",
+   "category": "여론",
+   "bylines": [
+    "박재현 / 전자 17"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20272,
+   "title": "제396호 ‘웰 다잉, 품위있는 죽음을 준비하다’를 읽고",
+   "published": "2018-05-30T21:55:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "이민경 / 신소재 15"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 20271,
+   "title": "통보와 소통, 그 미묘한 경계를 넘어",
+   "published": "2018-05-30T21:54:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "박준현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 20270,
+   "title": "시시피안의 휴가",
+   "published": "2018-05-30T21:53:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "공환석 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 20269,
+   "title": "대학의 역사를 통해 본 포스텍의 전략",
+   "published": "2018-05-30T21:51:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {}
+}

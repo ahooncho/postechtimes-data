@@ -1,0 +1,361 @@
+{
+ "edition": "ko",
+ "number": 432,
+ "published": "2022-03-27T15:06:00+09:00",
+ "lastUpload": "2022-03-27T22:11:00+09:00",
+ "articles": [
+  {
+   "id": 21985,
+   "title": "의사과학자 양성을 위한 움직임에 박차를 가하다",
+   "published": "2022-03-27T22:11:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21985_26648_1135.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21984,
+   "title": "개강 8주 차부터 대면 수업으로 전환",
+   "published": "2022-03-27T22:06:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21983,
+   "title": "양자얽힘 없이 양자 측정 정확도를 높일 수 있는 기술 개발",
+   "published": "2022-03-27T21:55:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21982,
+   "title": "자외선 경화형 필름 이용한 무용매 포토리소그래피 기술 개발",
+   "published": "2022-03-27T21:54:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "박준우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21981,
+   "title": "독감 바이러스 막는 ‘보이지 않는 손’ 찾았다",
+   "published": "2022-03-27T21:53:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21980,
+   "title": "갑질 문화 근절한다, 제1회 갑질 월드컵 실시",
+   "published": "2022-03-27T21:52:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21980_26647_5228.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21979,
+   "title": "제11대 대학원총학생회, 대표자운영위원회 체제로",
+   "published": "2022-03-27T21:51:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21978,
+   "title": "코로나19 사태 속 우리대학 찾은 교환학생들",
+   "published": "2022-03-27T21:47:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21977,
+   "title": "24시간 편의 시설과 가까이, 커뮤니티센터 열린다",
+   "published": "2022-03-27T21:46:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21977_26646_4518.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21976,
+   "title": "산학협력단, POSCO 산학연 협력을 이끌다",
+   "published": "2022-03-27T21:44:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21976_26645_449.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21975,
+   "title": "대학 순혈주의 논란, 우리대학은?",
+   "published": "2022-03-27T21:42:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박준우",
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21975_26644_4218.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21974,
+   "title": "따뜻한 SF를 그리는 작가, 김초엽을 만나다",
+   "published": "2022-03-27T21:40:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김종은",
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21974_26642_399.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21973,
+   "title": "MZ세대를 파고든 패션 버티컬 커머스 플랫폼",
+   "published": "2022-03-27T21:36:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21973_26670_1921.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21972,
+   "title": "사주·타로도 비대면으로 … 온라인 운세 서비스 뜬다",
+   "published": "2022-03-27T21:35:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21972_26640_3511.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21971,
+   "title": "소액주주가 움직인다, K-주주운동 전개",
+   "published": "2022-03-27T21:34:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21971_26637_3358.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21968,
+   "title": "끊이지 않는 논쟁, GMO",
+   "published": "2022-03-27T21:29:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21968_26636_3012.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21964,
+   "title": "인공지능에게 뇌영상이란?",
+   "published": "2022-03-27T21:17:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "김원화 / 컴퓨터공학과 조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21964_26631_1539.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21930,
+   "title": "마음에 귀를 기울이면",
+   "published": "2022-03-27T17:13:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21930_26630_039.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21929,
+   "title": "새로운 무대에서의 시작",
+   "published": "2022-03-27T16:38:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "백승환 / 컴퓨터공학과 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21928,
+   "title": "울산 토박이, 강남에 회사를 차리다",
+   "published": "2022-03-27T16:37:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "심민섭 / 19 컴공"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21927,
+   "title": "제431호 ‘수면 장애 인구 70만...현대인 건강 적신호’를 읽고",
+   "published": "2022-03-27T16:35:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "곽승준 / 무은재 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21925,
+   "title": "위기의 K-방역",
+   "published": "2022-03-27T16:34:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21924,
+   "title": "일단 작은 일부터 고쳐 나가볼까요",
+   "published": "2022-03-27T15:17:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21922,
+   "title": "대면 수업 대비 강의실 칸막이 설치",
+   "published": "2022-03-27T15:11:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21922_26615_1059.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21921,
+   "title": "제432호 형산만평",
+   "published": "2022-03-27T15:06:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21921_26614_64.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

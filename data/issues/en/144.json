@@ -1,0 +1,236 @@
+{
+ "edition": "en",
+ "number": 144,
+ "published": "2021-02-27T23:15:00+09:00",
+ "lastUpload": "2021-02-28T01:55:00+09:00",
+ "articles": [
+  {
+   "id": 21506,
+   "title": "2021 Orientation Held Online",
+   "published": "2021-02-28T01:55:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21506_26294_1050.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21505,
+   "title": "Changes for the 2021 Spring Semester",
+   "published": "2021-02-28T01:54:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21505_26293_460.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21504,
+   "title": "Throwing Intestinal Bacteria Off Track",
+   "published": "2021-02-28T01:33:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21504_26292_337.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21503,
+   "title": "Battery Production in Ambient Air is Enabled",
+   "published": "2021-02-28T00:33:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21503_26291_3340.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21502,
+   "title": "Lee Jae-yong Sentenced 2.5 years for Bribery",
+   "published": "2021-02-28T00:27:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21502_26290_274.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21501,
+   "title": "Anti-Putin Russian Leader Alexei Navalny Arrested",
+   "published": "2021-02-28T00:24:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21501_26289_1812.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21500,
+   "title": "POSTECH Tech-Review Hosts its First Techaton Online",
+   "published": "2021-02-27T23:46:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21500_26288_4648.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21499,
+   "title": "How Has Postechians’ Winter Recess Changed With COVID-19?",
+   "published": "2021-02-27T23:45:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Han Sang-yun",
+    "Lee Seung-joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21499_26287_4519.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21498,
+   "title": "What do Machine Learning Scientists do?",
+   "published": "2021-02-27T23:42:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Hyokun Yun (Machine Learning Scientist)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21498_26286_4237.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21497,
+   "title": "Will AI “Dominate” Humans?",
+   "published": "2021-02-27T23:41:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Han Ju-wan (ME 18)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21497_26283_4036.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21494,
+   "title": "POSTECH Microscope: Professor Park Ju-hong",
+   "published": "2021-02-27T23:35:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Professor Park Ju-hong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21494_26282_3459.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21492,
+   "title": "Tragic Death of Child Abuse Victim Prompts New Child Protection Measures",
+   "published": "2021-02-27T23:30:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Park Eu-gene",
+    "Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21492_26279_305.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21491,
+   "title": "The Online Trap House of Korea",
+   "published": "2021-02-27T23:21:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Seung-ah",
+    "Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21491_26277_1955.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21490,
+   "title": "Creative Tourism Business Ideas During the Pandemic",
+   "published": "2021-02-27T23:17:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21490_26276_1726.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21489,
+   "title": "Representing Minorities for a Better Society",
+   "published": "2021-02-27T23:16:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21489_26275_1621.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21488,
+   "title": "Postechian’s Pick : Blown Away",
+   "published": "2021-02-27T23:15:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21488_26296_5813.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,387 @@
+{
+ "edition": "ko",
+ "number": 415,
+ "published": "2019-12-05T12:49:00+09:00",
+ "lastUpload": "2019-12-05T13:18:00+09:00",
+ "articles": [
+  {
+   "id": 21133,
+   "title": "제34대 총학생회장단, ‘행복연구소’ 당선",
+   "published": "2019-12-05T13:18:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21133_26031_1814.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21132,
+   "title": "스타로 거듭나는 우리대학, STadium 종합 우승",
+   "published": "2019-12-05T13:17:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21132_26030_1713.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21131,
+   "title": "POSCO-우리대학-RIST 산학연 체계, 최초 넘어 최고로",
+   "published": "2019-12-05T13:16:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손도원 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21130,
+   "title": "‘AI 시대, 포스텍의 혁신을 논한다’ 공동 심포지엄 개최",
+   "published": "2019-12-05T13:15:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21129,
+   "title": "우리대학 경북씨그랜트센터, 태풍 피해 어촌 후원",
+   "published": "2019-12-05T13:15:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21128,
+   "title": "RIST 내 산(酸) 증기 유출 사건 발생",
+   "published": "2019-12-05T13:14:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김상수 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21127,
+   "title": "‘행복연구소’가 만들어갈 행복한 우리대학",
+   "published": "2019-12-05T13:13:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21126,
+   "title": "제1회 과학기술특성화대학 토론대회 개최",
+   "published": "2019-12-05T13:12:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21125,
+   "title": "2019 PAMTIP 장학금 수여식 진행",
+   "published": "2019-12-05T13:12:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21125_26029_128.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21124,
+   "title": "“연구와 생활의 선순환이 일어나면 좋겠어요”, 서종철 교수 인터뷰",
+   "published": "2019-12-05T13:11:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21124_26027_943.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21123,
+   "title": "대학혁신지원사업팀, “대학혁신지원사업의 성공적 수행을 위해 노력할 것”",
+   "published": "2019-12-05T13:08:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "최은정 / 미래기획팀"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21123_26026_811.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21122,
+   "title": "새롭게 태어난 수강신청 제도, 무엇이 달라질까",
+   "published": "2019-12-05T13:07:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21122_26025_656.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21121,
+   "title": "요즘 옛날, ‘뉴트로 신드롬’",
+   "published": "2019-12-05T13:06:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21121_26024_65.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21120,
+   "title": "하나뿐인 210cm 자이언트 펭귄, ‘펭수’",
+   "published": "2019-12-05T13:05:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21120_26023_524.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21119,
+   "title": "위기의 타다(TADA), 돌파구는 어디에",
+   "published": "2019-12-05T13:04:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21119_26021_417.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21118,
+   "title": "온라인상의 내가 잊힐 권리",
+   "published": "2019-12-05T13:03:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21118_26020_325.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21117,
+   "title": "극한환경용 무선 수중카메라 시스템 개발",
+   "published": "2019-12-05T13:02:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21117_26019_151.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21116,
+   "title": "제415호 Humans of POSTECH",
+   "published": "2019-12-05T13:01:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21116_26015_5910.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21115,
+   "title": "중요한 건 네 인생이야, 에바 호프",
+   "published": "2019-12-05T12:57:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21115_26013_5712.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21114,
+   "title": "Down a Rabbit Hole",
+   "published": "2019-12-05T12:55:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "John Latzo / 인문사회학부 대우강사"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21113,
+   "title": "과장 없이, 모든 영혼을 이 작품에 쏟아 넣었다",
+   "published": "2019-12-05T12:53:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "홍채린 / 기계 17"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21112,
+   "title": "제414호 ‘먹는 것만 채식주의가 아니다… 비건 패션 유행’을 읽고",
+   "published": "2019-12-05T12:53:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "남태현 / 무은재 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21111,
+   "title": "세상의 사각지대가 무너지기 전에",
+   "published": "2019-12-05T12:52:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21110,
+   "title": "당신의 생일을 축하합니다",
+   "published": "2019-12-05T12:52:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21109,
+   "title": "국내외 학점 교류와 SES에 대해",
+   "published": "2019-12-05T12:51:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21108,
+   "title": "학부 생활의 에필로그",
+   "published": "2019-12-05T12:50:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "이민우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21108_26012_509.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21107,
+   "title": "제415호 형산만평",
+   "published": "2019-12-05T12:49:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201912/21107_26011_4857.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

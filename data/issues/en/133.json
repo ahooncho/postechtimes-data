@@ -1,0 +1,191 @@
+{
+ "edition": "en",
+ "number": 133,
+ "published": "2019-09-27T10:23:00+09:00",
+ "lastUpload": "2019-09-27T10:41:00+09:00",
+ "articles": [
+  {
+   "id": 20980,
+   "title": "Make POSTECH Great Again!",
+   "published": "2019-09-27T10:41:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20980_25881_4124.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20979,
+   "title": "POSTECH-KAIST Science War Eve Festival",
+   "published": "2019-09-27T10:40:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20979_25880_409.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20978,
+   "title": "Beloved POSTECH Cats",
+   "published": "2019-09-27T10:39:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20978_25879_3852.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20977,
+   "title": "What The ‘Illegality’ Tries to Tell Us",
+   "published": "2019-09-27T10:37:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20977_25878_3751.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20976,
+   "title": "Prof. Hwang Hyung-ju Receives Open & Innovation award",
+   "published": "2019-09-27T10:37:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20976_25877_3711.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20975,
+   "title": "Method for Extracting Lithium from Seawater Developed",
+   "published": "2019-09-27T10:36:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20975_25876_3623.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20974,
+   "title": "Hydrogen Energy-producing-Nanoleaf",
+   "published": "2019-09-27T10:35:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20974_25875_3533.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20973,
+   "title": "POSTECH of the Glory Realized at 18th PKSW",
+   "published": "2019-09-27T10:34:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20973_25871_3140.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20972,
+   "title": "The Things That Travel Has Changed",
+   "published": "2019-09-27T10:29:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20972_25870_2854.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20971,
+   "title": "Living as A Man with Long Hair in POSTECH",
+   "published": "2019-09-27T10:28:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20971_25869_2752.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20970,
+   "title": "Aladdin (2019)",
+   "published": "2019-09-27T10:26:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20970_25868_2628.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20969,
+   "title": "Why are South Korea and Japan Having Their Own Trade War?",
+   "published": "2019-09-27T10:24:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20969_25867_2432.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20968,
+   "title": "Make Yourself a Maker!",
+   "published": "2019-09-27T10:23:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201909/20968_25865_2310.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

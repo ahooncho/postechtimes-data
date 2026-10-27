@@ -1,0 +1,333 @@
+{
+ "edition": "ko",
+ "number": 430,
+ "published": "2022-01-07T01:16:00+09:00",
+ "lastUpload": "2022-01-07T01:43:00+09:00",
+ "articles": [
+  {
+   "id": 21872,
+   "title": "포항을 비추는 첫 해, 모두의 소망 이뤄지길",
+   "published": "2022-01-07T01:43:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김종은",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21872_26579_4322.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21871,
+   "title": "2022년, 새로운 도약을 위해 晨虎之勢로 달려나갑시다!",
+   "published": "2022-01-07T01:42:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "총장 김무환"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21871_26578_4220.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 21870,
+   "title": "2022년 ‘터닝 포인트’를 기대하며",
+   "published": "2022-01-07T01:39:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "교수평의회 의장 정운룡"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21870_26577_392.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 21869,
+   "title": "새로운 일상을 위한 소망과 다짐을 함께하며",
+   "published": "2022-01-07T01:38:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "직장발전협의회 근로자 대표 권진혁"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21869_26576_386.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 21868,
+   "title": "시작의 설렘을 안고",
+   "published": "2022-01-07T01:36:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "새내기새로배움터 준비위원장 최정원"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21868_26575_3623.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 21867,
+   "title": "20분 만에 오미크론 판별하는 진단 기술 개발",
+   "published": "2022-01-07T01:34:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21866,
+   "title": "초거대 각자기저항 현상 발견",
+   "published": "2022-01-07T01:34:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21865,
+   "title": "1000분의 1로 얇아진 지문인식 센서 개발",
+   "published": "2022-01-07T01:33:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21864,
+   "title": "삼성전자와 함께 반도체공학과 설립한다",
+   "published": "2022-01-07T01:33:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21863,
+   "title": "재정 지원 이끌어갈 포스텍 동문재단 비전 선포",
+   "published": "2022-01-07T01:32:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21863_26574_3219.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21862,
+   "title": "2차 성장기에 접어든 중고 거래 시장",
+   "published": "2022-01-07T01:30:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21862_26573_2957.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21861,
+   "title": "등교만 해선 졸업 못 할 수도 있다 … 고교학점제 코앞으로",
+   "published": "2022-01-07T01:29:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21861_26572_290.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21860,
+   "title": "새해에는 책 한 권의 여유를",
+   "published": "2022-01-07T01:27:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박준우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21859,
+   "title": "당신의 연구실은 안전한가요?",
+   "published": "2022-01-07T01:26:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "최대현",
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21859_26571_2633.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21858,
+   "title": "내가 아침에 눈을 뜨고 싶은 유일한 이유가 당신이란 걸",
+   "published": "2022-01-07T01:24:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21858_26569_244.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21857,
+   "title": "나의 겨울 보내는 법",
+   "published": "2022-01-07T01:22:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "이안나 / 기계 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21856,
+   "title": "당신의 MBTI는 무엇인가요?",
+   "published": "2022-01-07T01:21:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "김현지 / 화공 20"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21855,
+   "title": "제429호 ‘단계적 일상회복 전환 … 돌아온 대면 면접’을 읽고",
+   "published": "2022-01-07T01:20:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "박수영 / 무은재 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21854,
+   "title": "정치, 제대로 알고 참여하자",
+   "published": "2022-01-07T01:19:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21853,
+   "title": "스포일러 당해도 괜찮아",
+   "published": "2022-01-07T01:18:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21852,
+   "title": "과학과 의학은 결합해야 발전한다",
+   "published": "2022-01-07T01:18:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21851,
+   "title": "박태준학술정보관 방역패스 도입",
+   "published": "2022-01-07T01:17:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "박준우"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21851_26568_1714.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21850,
+   "title": "제430호 형산만평",
+   "published": "2022-01-07T01:16:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21850_26567_1636.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,389 @@
+{
+ "edition": "ko",
+ "number": 441,
+ "published": "2023-02-17T22:27:00+09:00",
+ "lastUpload": "2023-02-17T22:45:00+09:00",
+ "articles": [
+  {
+   "id": 22465,
+   "title": "754명의 포스테키안이여, 날개를 펴라",
+   "published": "2023-02-17T22:45:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22465_27049_2021.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22464,
+   "title": "우리대학의 역사를 담은 POSTECH1986 개관",
+   "published": "2023-02-17T22:44:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22464_27048_201.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22463,
+   "title": "세포 밖에서 피리다지논 올리고머 합성··· 생화학분자 수정 가능성 제시",
+   "published": "2023-02-17T22:44:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22462,
+   "title": "우리대학-건국대, 각막 이식 없이 빛을 이용한 각막궤양 치료법 개발",
+   "published": "2023-02-17T22:43:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22461,
+   "title": "우리대학서 제1회 애플 디벨로퍼 아카데미 수료식 진행",
+   "published": "2023-02-17T22:43:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22460,
+   "title": "기초과학연구원 포스텍 캠퍼스 준공",
+   "published": "2023-02-17T22:43:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "박준우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22460_27047_1939.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22459,
+   "title": "국내 유일 철강경영전공, 온라인 학위과정 개설하다",
+   "published": "2023-02-17T22:43:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22458,
+   "title": "이사장 치사",
+   "published": "2023-02-17T22:42:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22458_27046_193.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22457,
+   "title": "총장 식사",
+   "published": "2023-02-17T22:42:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22457_27045_1814.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22456,
+   "title": "전체 수석 비결은 ‘수업 시간에 공부하기’",
+   "published": "2023-02-17T22:41:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22456_27044_1613.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22455,
+   "title": "끝없는 도전은 만들어내는 것",
+   "published": "2023-02-17T22:40:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22455_27043_1542.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22454,
+   "title": "실패가 좋은 논문의 밑거름으로",
+   "published": "2023-02-17T22:38:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22454_27042_158.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22453,
+   "title": "최초이자 최고로 나아가길",
+   "published": "2023-02-17T22:38:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22453_27041_1432.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22452,
+   "title": "어려울수록 돌아가기, 휴식의 중요성",
+   "published": "2023-02-17T22:38:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22452_27040_1359.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22451,
+   "title": "끈기를 가지고 달려나가는 포스테키안이 되자",
+   "published": "2023-02-17T22:34:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22451_27039_1315.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22450,
+   "title": "학문에는 경계가 없다",
+   "published": "2023-02-17T22:33:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22450_27038_1239.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22449,
+   "title": "‘대식’에서 ‘소식’으로... 변화하는 식습관 트렌드",
+   "published": "2023-02-17T22:33:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "소예린",
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22449_27036_1213.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22448,
+   "title": "공공요금발 인상에 체감 물가 24년 만에 최고치",
+   "published": "2023-02-17T22:32:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "고평강",
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22448_27035_1152.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22447,
+   "title": "몰입감 넘치는 복수극 이야기",
+   "published": "2023-02-17T22:31:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22447_27034_1112.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22446,
+   "title": "행복해지는 법이 궁금한가요",
+   "published": "2023-02-17T22:31:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "서지현 / 인문 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22445,
+   "title": "스물셋이 인생에 대해 느낀 점",
+   "published": "2023-02-17T22:30:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "박은하 / 컴공 20"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22444,
+   "title": "제 440호 ‘올해부터 유통기한 사라진다 … 소비기한 도입’을 읽고",
+   "published": "2023-02-17T22:30:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "권도경 / 무은재 22"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22443,
+   "title": "변증법으로 우리 사회 갈등 이해하자",
+   "published": "2023-02-17T22:29:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22442,
+   "title": "대학생활이라는 마라톤의 반환점을 돌다",
+   "published": "2023-02-17T22:29:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22441,
+   "title": "불확실한 미래의 확실한 것들",
+   "published": "2023-02-17T22:28:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22440,
+   "title": "대면으로 맞이할 새내기들을 기다리며",
+   "published": "2023-02-17T22:28:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22440_27033_939.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22439,
+   "title": "제441호 형산만평",
+   "published": "2023-02-17T22:27:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202302/22439_27032_913.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,248 @@
+{
+ "edition": "en",
+ "number": 197,
+ "published": "2026-05-27T13:00:00+09:00",
+ "lastUpload": "2026-05-27T13:15:00+09:00",
+ "articles": [
+  {
+   "id": 24205,
+   "title": "Cheongam-ro New Parking Control System and Remaining Concerns",
+   "published": "2026-05-27T13:15:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Seo Ji-woo",
+    "Hong Seung-hye"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24205_28506_155.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24204,
+   "title": "The Sunrise Festival: Two Days of Flaring Energy",
+   "published": "2026-05-27T13:13:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24204_28505_139.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24202,
+   "title": "Prof. RHO Jun-seok Advances Metalens Technology from Manufacturing to Display Applications in Two Nature Papers",
+   "published": "2026-05-27T13:10:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Hyo-rin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24202_28503_99.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24201,
+   "title": "Postechian’s Lab Note: Keep Going for It",
+   "published": "2026-05-27T13:08:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24201_28502_725.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24200,
+   "title": "Campus & AI: Useful AI Tools You Didn’t Know You Had",
+   "published": "2026-05-27T13:06:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24200_28501_531.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24199,
+   "title": "“Youth Future Savings Account” Launches: Shorter Term, Higher Match",
+   "published": "2026-05-27T13:04:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Hong Seung-hye"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24199_28500_317.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24198,
+   "title": "Transition of Convergence IT Engineering to Biomedical Engineering",
+   "published": "2026-05-27T13:02:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24198_28498_117.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24197,
+   "title": "Campus Dining Culture Sparks Tensions Near Hyoja Market",
+   "published": "2026-05-27T13:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park Hyo-rin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24197_28497_5828.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24196,
+   "title": "Write Night Held by the Diversity Council: Diverse DEI Issues Shared",
+   "published": "2026-05-27T13:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24196_28496_563.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24195,
+   "title": "Launching Diversity Council",
+   "published": "2026-05-27T13:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24195_28494_4720.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24194,
+   "title": "Postechian Column: Startup Led Me Back to School",
+   "published": "2026-05-27T13:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "SHIN Gain (CSE 23)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24194_28493_4259.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24193,
+   "title": "Reporter Column: Last Letters to Reporters and Readers",
+   "published": "2026-05-27T13:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24193_28492_4032.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24192,
+   "title": "Conflict Over Bonuses: Who Gets a Share of Samsung Electronics’ Operating Profit?",
+   "published": "2026-05-27T13:00:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24192_28491_3652.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24191,
+   "title": "South Korea’s Cartel Crisis: Targeting the Collusion on Essential Goods",
+   "published": "2026-05-27T13:00:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24191_28490_3348.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24189,
+   "title": "Pohang City Tour: Seeing the Best of Pohang in a Day",
+   "published": "2026-05-27T13:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24189_28489_3120.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24188,
+   "title": "Can Health Taxes Be the Solution to Obesity and Diabetes?",
+   "published": "2026-05-27T13:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24188_28488_307.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24187,
+   "title": "Postechian's Pick: Michael (2026)",
+   "published": "2026-05-27T13:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202605/24187_28487_2619.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

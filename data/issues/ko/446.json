@@ -1,0 +1,351 @@
+{
+ "edition": "ko",
+ "number": 446,
+ "published": "2023-09-06T11:44:00+09:00",
+ "lastUpload": "2023-09-06T13:01:00+09:00",
+ "articles": [
+  {
+   "id": 22711,
+   "title": "제9대 김성근 총장 취임",
+   "published": "2023-09-06T13:01:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22711_27260_030.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22710,
+   "title": "블록 공중합체를 통한 고밀도 나노 구조 제작 성공",
+   "published": "2023-09-06T12:59:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22709,
+   "title": "인공지능을 이용한 약물 승인 예측 기술 개발",
+   "published": "2023-09-06T12:58:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22708,
+   "title": "초저전압으로 조절 가능한 고효율 컬러 필터 기술 개발",
+   "published": "2023-09-06T12:57:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22706,
+   "title": "팀으로 창업 배워 나가는 학생들",
+   "published": "2023-09-06T12:56:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22706_27259_565.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22705,
+   "title": "우리대학, 태풍 피해 예방 위해 노력하다",
+   "published": "2023-09-06T12:20:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22704,
+   "title": "우리대학 학생이 받을 수 있는 혜택",
+   "published": "2023-09-06T12:19:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이주형",
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22704_27258_1836.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22703,
+   "title": "귀여운 외모 뒤 숨겨진 불편함, 그 균형을 찾아야 할 때",
+   "published": "2023-09-06T12:18:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "고평강",
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22703_27257_1727.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22702,
+   "title": "새로운 곳에서 얻는 새로운 경험, 단기유학",
+   "published": "2023-09-06T12:15:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "고평강",
+    "손유민",
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22702_27254_1123.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22701,
+   "title": "임명사",
+   "published": "2023-09-06T12:09:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22701_27253_88.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22700,
+   "title": "취임사",
+   "published": "2023-09-06T12:07:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22699,
+   "title": "제9대 김성근 총장께 묻는다",
+   "published": "2023-09-06T12:04:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22699_27252_153.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22698,
+   "title": "범죄 온상 된 대한민국",
+   "published": "2023-09-06T12:00:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김윤철",
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22698_27251_5949.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22697,
+   "title": "제25회 세계 스카우트 잼버리, 무엇이 문제였나",
+   "published": "2023-09-06T11:59:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김윤철",
+    "오유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22697_27250_5847.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22696,
+   "title": "나노 안테나 탐침을 이용하는 초 분해능 탐침 증강 광학현미경",
+   "published": "2023-09-06T11:57:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "박경덕 / 물리 부교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22696_27249_5639.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22695,
+   "title": "어느 날 가슴에 난 구멍",
+   "published": "2023-09-06T11:54:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22695_27248_5333.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22694,
+   "title": "Hot and cool",
+   "published": "2023-09-06T11:52:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "조항진 / 기계 부교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22693,
+   "title": "꿈은 없지만",
+   "published": "2023-09-06T11:51:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "박지윤 / 전자 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22692,
+   "title": "제445호 ‘배달 음식... 분리배출 문제 심각’을 읽고",
+   "published": "2023-09-06T11:50:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "정유진 / 컴공 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22691,
+   "title": "과격함의 격류에서 살아가는 법",
+   "published": "2023-09-06T11:48:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22690,
+   "title": "자존감의 중요성",
+   "published": "2023-09-06T11:48:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22689,
+   "title": "오펜하이머의 형벌",
+   "published": "2023-09-06T11:46:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22688,
+   "title": "아름다운 안녕을 위해, 8월 교원 정년퇴임식 및 명예교수 추대식",
+   "published": "2023-09-06T11:45:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22688_27247_4532.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22687,
+   "title": "제446호 형산만평",
+   "published": "2023-09-06T11:44:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22687_27246_4348.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,219 @@
+{
+ "edition": "en",
+ "number": 171,
+ "published": "2024-01-01T19:33:00+09:00",
+ "lastUpload": "2024-01-01T19:54:00+09:00",
+ "articles": [
+  {
+   "id": 22857,
+   "title": "Year 2024, the Beginnings of POSTECH 2.0",
+   "published": "2024-01-01T19:54:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Seong Keun Kim President of POSTECH"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22857_27414_5443.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22856,
+   "title": "POSTECH’s First Journey to the Nobel Week",
+   "published": "2024-01-01T19:53:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22856_27412_5244.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22855,
+   "title": "Electrostatic Sensor Performance Advancement",
+   "published": "2024-01-01T19:51:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22855_27411_5113.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22854,
+   "title": "Green Ammonia Production for the Hydrogen Economy",
+   "published": "2024-01-01T19:49:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22854_27410_495.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22853,
+   "title": "Christmas Season Decoration as Survival Strategy",
+   "published": "2024-01-01T19:47:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22853_27409_4731.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22852,
+   "title": "The OpenAI Saga",
+   "published": "2024-01-01T19:46:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22852_27408_4630.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22851,
+   "title": "Student Voices: Questions about POSTECH Library",
+   "published": "2024-01-01T19:45:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22851_27407_4516.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22850,
+   "title": "Postechians’ Winter Vacation",
+   "published": "2024-01-01T19:44:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22850_27406_4428.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22849,
+   "title": "POSTECH Microscope: Christmas Arrives at POSTECH - Bright Lights and Winter Nights",
+   "published": "2024-01-01T19:43:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22849_27405_4322.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22848,
+   "title": "Column: Ice-free Arctic Will Accelerate the Climate Crisis",
+   "published": "2024-01-01T19:40:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Seung-Ki Min (DESE)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22848_27404_4051.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22847,
+   "title": "Postechian Column: From AI to Quantum Computing: A Wide and Deep Well",
+   "published": "2024-01-01T19:39:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kim Hwang-hee (CiTE 20)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22847_27403_3928.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22846,
+   "title": "Reporter Column: Decoding Advertising: The Psychology of Persuasion",
+   "published": "2024-01-01T19:38:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22846_27402_3812.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22845,
+   "title": "Busan’s Missed Opportunity: A Closer Look at the World Expo 2030 Bid",
+   "published": "2024-01-01T19:36:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22845_27401_3629.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22844,
+   "title": "Attention to Infringement of Portrait Rights",
+   "published": "2024-01-01T19:35:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22844_27400_3449.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22842,
+   "title": "Differentiation in Export and Import Goods",
+   "published": "2024-01-01T19:33:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22842_27399_3259.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

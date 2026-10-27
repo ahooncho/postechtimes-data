@@ -1,0 +1,430 @@
+{
+ "edition": "ko",
+ "number": 388,
+ "published": "2017-11-01T14:36:00+09:00",
+ "lastUpload": "2017-11-01T15:33:00+09:00",
+ "articles": [
+  {
+   "id": 9992,
+   "title": "사랑한다, 포스텍!",
+   "published": "2017-11-01T15:33:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "박지후 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 9991,
+   "title": "제32대 총학생회장단 후보, 등록 공고 5일 만에 사퇴",
+   "published": "2017-11-01T15:29:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김건창 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 9990,
+   "title": "우리대학 강봉구·황형주 교수 경북과학기술대상 수상",
+   "published": "2017-11-01T15:28:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9989,
+   "title": "컴퓨터공학과 대학원생 팀 'ONOS Build 2017' 해커톤 우승",
+   "published": "2017-11-01T15:28:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9988,
+   "title": "수술 상처 접합, 이제는 실 대신 '빛'",
+   "published": "2017-11-01T15:27:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 9987,
+   "title": "제3회 IBS 기하학 수리물리 연구단 수학 문화 강연 개최",
+   "published": "2017-11-01T15:25:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "박지후 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9986,
+   "title": "'2017 아시아 과학기술 혁신포럼' 국제관에서 열려",
+   "published": "2017-11-01T15:23:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9985,
+   "title": "예비 신입생들 생활관 숙박 기획 취소",
+   "published": "2017-11-01T15:19:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9984,
+   "title": "[바로잡습니다] 2017년 10월 11일자 제 398호 1면, 5면",
+   "published": "2017-11-01T15:18:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9983,
+   "title": "학부총학생회 주최 10월 토의회 열려",
+   "published": "2017-11-01T15:18:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "백승헌 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9982,
+   "title": "우리대학 군대이야기1",
+   "published": "2017-11-01T15:17:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이승호 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9981,
+   "title": "우리대학 군대이야기2",
+   "published": "2017-11-01T15:16:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이승호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201711/9981_24830_1631.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9980,
+   "title": "우리대학을 찾아온 해외자매대학 학생들",
+   "published": "2017-11-01T15:14:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김희진 기자",
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201711/9980_24827_1429.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9979,
+   "title": "부디 한국 축구의 전설로 남아주길",
+   "published": "2017-11-01T15:12:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김휘 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9978,
+   "title": "현실로 다가온 임용 대란, 절벽으로 내몰린 교대생들",
+   "published": "2017-11-01T15:11:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9977,
+   "title": "탈원전 정책과 신고리 원자력발전소 5·6호기 공론화위원회",
+   "published": "2017-11-01T15:07:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김희진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9976,
+   "title": "탈원전의 안전성·경제성·사용후핵연료 둘러싼 갑론을박",
+   "published": "2017-11-01T15:06:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "박준현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9975,
+   "title": "수술 중 각성과 의식 연구",
+   "published": "2017-11-01T15:02:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "김승환 교수/ 물리"
+   ],
+   "photo": null,
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9974,
+   "title": "[신비의 섬, 울릉도와 독도를 가다]고창근 독도수호 국제연대 독도아카데미 집행위원장 인터뷰",
+   "published": "2017-11-01T15:00:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "김희진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201711/9974_24826_17.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 9973,
+   "title": "[신비의 섬, 울릉도와 독도를 가다] \"울릉도는 삶의 터전\", 울릉도 주민을 만나다",
+   "published": "2017-11-01T15:00:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 9972,
+   "title": "[신비의 섬, 울릉도와 독도를 가다] 울릉도와 독도, 그 여정",
+   "published": "2017-11-01T14:54:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "김건창 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 9971,
+   "title": "형이 왜 거기서 나와… 예능에 몸담은 정치인",
+   "published": "2017-11-01T14:52:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이승호 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9970,
+   "title": "형이 왜 거기서 나와… 예능에 몸담은 정치인",
+   "published": "2017-11-01T14:52:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이승호 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9969,
+   "title": "16만 국외 반출 문화재, 언제쯤 환수될까",
+   "published": "2017-11-01T14:51:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "공환석 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 9968,
+   "title": "지속 가능한 성장의 동력",
+   "published": "2017-11-01T14:50:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 9967,
+   "title": "[만평]",
+   "published": "2017-11-01T14:37:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "."
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201711/9967_24825_4233.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 9966,
+   "title": "숲 속 친구들이 되지 말자",
+   "published": "2017-11-01T14:37:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김윤식 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 9965,
+   "title": "CHIP: '포스트' 자동차 미래도시의 모빌리티",
+   "published": "2017-11-01T14:37:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "이재열 / 인문 대우조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 9964,
+   "title": "빵 한 덩이",
+   "published": "2017-11-01T14:36:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "강한솔 / 생명 15"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 9963,
+   "title": "제388호 사설 '과학기술에 대한 사랑'을 읽고",
+   "published": "2017-11-01T14:36:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "이동건 / 전자 16"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  }
+ ],
+ "briefs": {}
+}

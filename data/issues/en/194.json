@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 194,
+ "published": "2026-02-26T12:31:00+09:00",
+ "lastUpload": "2026-02-26T14:20:00+09:00",
+ "articles": [
+  {
+   "id": 24052,
+   "title": "Before the Future, There Is Dare: 2026 Freshmen Orientation",
+   "published": "2026-02-26T14:20:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24052_28376_1850.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24051,
+   "title": "Raising the Bar: English Education at POSTECH",
+   "published": "2026-02-26T14:17:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24051_28375_1512.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24050,
+   "title": "Do Microbes in Your Guts Boost Vaccine Effectiveness?",
+   "published": "2026-02-26T14:13:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24049,
+   "title": "How Saving mRNAs Saves Human Lives: Concentration Technology That Boosts Therapeutic Effectiveness",
+   "published": "2026-02-26T14:11:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24048,
+   "title": "Postechian’s Lab Note: A Strategic Focus to See the Problem Clearly",
+   "published": "2026-02-26T14:07:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24048_28374_45.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24047,
+   "title": "From Margin Defense to Volume Growth: PepsiCo’s Pricing Pivot",
+   "published": "2026-02-26T14:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24047_28373_5830.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24046,
+   "title": "Reportage - Crossing Borders to Continue Research: Why a Korean Physicist Chose China",
+   "published": "2026-02-26T13:53:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24046_28372_5348.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24045,
+   "title": "Reportage - Facing China’s Duality: Technological Prowess vs Barrier of Seclusion",
+   "published": "2026-02-26T13:40:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24045_28370_3753.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24044,
+   "title": "KOSPI 5,000 vs 1,400 KRW/USD: A Tale of Two Korean Economies",
+   "published": "2026-02-26T13:36:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24044_28369_3514.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24043,
+   "title": "The National Competition of Leading AI Teams",
+   "published": "2026-02-26T13:33:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24043_28368_3159.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24042,
+   "title": "Reportage - Shanghai Through Architecture, Aroma, and Activity",
+   "published": "2026-02-26T13:51:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24042_28371_5017.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24041,
+   "title": "Where Should Universities Stand in the Semiconductor–Quantum Race?",
+   "published": "2026-02-26T13:26:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24041_28366_2115.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24039,
+   "title": "Reporter Column: From POSTECH Pathfinder to the UN",
+   "published": "2026-02-26T13:02:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24039_28363_30.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24038,
+   "title": "Korean Drinking Culture 101: How to Drink like a Korean",
+   "published": "2026-02-26T13:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24038_28362_5732.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24037,
+   "title": "Nationwide School Smartphone Ban Starting This March",
+   "published": "2026-02-26T12:33:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24037_28361_3210.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24036,
+   "title": "Postechian Column: Making Unforgettable Memories at the Winter Ski Program",
+   "published": "2026-02-26T13:10:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24036_28365_98.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24033,
+   "title": "Postechian's Pick: The Happiness of Adulthood is Quiet",
+   "published": "2026-02-26T12:31:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202602/24033_28360_351.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

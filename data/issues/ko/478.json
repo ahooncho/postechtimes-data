@@ -1,0 +1,312 @@
+{
+ "edition": "ko",
+ "number": 478,
+ "published": "2026-10-07T20:48:00+09:00",
+ "lastUpload": "2026-10-07T21:40:00+09:00",
+ "articles": [
+  {
+   "id": 24341,
+   "title": "5년 만에 되찾아 온 우승기, 짜릿했던 제23회 카포전",
+   "published": "2026-10-07T21:40:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24341_28614_3936.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24339,
+   "title": "내년 3월 인공지능학과 신설, 그 추진 배경과 내용은?",
+   "published": "2026-10-07T21:36:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김범준 기자",
+    "조아훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24339_28613_3858.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24338,
+   "title": "제478호 단신보도",
+   "published": "2026-10-07T21:35:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24337,
+   "title": "우리대학의 4번째 IBS 연구단, 양자물질 극한물성 연구단 출범",
+   "published": "2026-10-07T21:32:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24336,
+   "title": "78계단, 새 단장 나선다… 11월 말 준공 예정",
+   "published": "2026-10-07T21:31:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24335,
+   "title": "혁신적 연구에는 보호를, 연구 부정에는 강한 처벌을… 국가연구개발혁신법 개정",
+   "published": "2026-10-07T21:30:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "조준혁 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24333,
+   "title": "학생들의 부담을 줄여주는 ‘의료공제회비’, 얼마나 사용되고 있을까?",
+   "published": "2026-10-07T21:27:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "한정우 기자",
+    "조준혁 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24333_28612_279.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24332,
+   "title": "‘내 계정, 정말 안전한가요?’ 정보·보안 6문 6답",
+   "published": "2026-10-07T21:26:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김수진 기자",
+    "박단아 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24332_28610_2526.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24330,
+   "title": "제478호 형산만평",
+   "published": "2026-10-07T21:24:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김민하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24330_28609_248.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 24329,
+   "title": "담비부터 고라니까지, 캠퍼스 곳곳의 동물들",
+   "published": "2026-10-07T21:23:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24329_28608_2315.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24327,
+   "title": "청년 일자리 줄고, 장년 일자리 늘고… 고용 역전 시대, 사회와 대학의 과제는?",
+   "published": "2026-10-07T21:22:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "한정우 기자",
+    "박단아 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24327_28607_2154.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24324,
+   "title": "요금 낮추고 좌석 늘린 KTX-SRT, 10년 경쟁 끝내고 하나로",
+   "published": "2026-10-07T21:18:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김범준 기자",
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24324_28606_1731.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24323,
+   "title": "요즘 MZ들은 술 안 마셔요… 2030을 사로잡은 웰니스 열풍",
+   "published": "2026-10-07T21:16:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "조유현 기자",
+    "김민하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24323_28605_1540.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24322,
+   "title": "‘밀레니엄 문제’ 해결한 AI, 수학의 미래는 어디로?",
+   "published": "2026-10-07T21:14:00+09:00",
+   "category": "과학",
+   "bylines": [
+    "최진현 기자",
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24322_28604_1237.jpg",
+   "sectionCode": "S1N31",
+   "sectionName": "과학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24321,
+   "title": "디지털 세상에 살아있는 감각을 입히다: 햅틱스(Haptics)의 세계",
+   "published": "2026-10-07T21:11:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "최승문 / 컴공 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24321_28601_835.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24320,
+   "title": "다섯 명이 하나의 팀으로, 승리를 만든 E-sports 선수단장 김이안 학우",
+   "published": "2026-10-07T21:06:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24320_28600_547.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24319,
+   "title": "한 팀으로 열정을 다하다, 축구 선수단 MVP 박장환 씨",
+   "published": "2026-10-07T21:03:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "박단아 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24319_28599_39.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24318,
+   "title": "짜릿한 대역전승을! 야구 선수단 주장 장유승 학우",
+   "published": "2026-10-07T21:01:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24318_28598_111.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24317,
+   "title": "역전 허용 뒤 2초… 1점차 승리를 거두다, 농구 선수단장 문현규 학우",
+   "published": "2026-10-07T20:59:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "조아훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24317_28597_5916.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24316,
+   "title": "5년 만의 우승, 제23회 카포전",
+   "published": "2026-10-07T20:50:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202610/24316_28586_5145.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 24315,
+   "title": "AI 교육의 목표는 활용 너머에 있어야 한다",
+   "published": "2026-10-07T20:48:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {
+  "24338": []
+ }
+}

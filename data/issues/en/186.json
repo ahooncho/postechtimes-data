@@ -1,0 +1,262 @@
+{
+ "edition": "en",
+ "number": 186,
+ "published": "2025-04-23T16:58:00+09:00",
+ "lastUpload": "2025-04-23T17:39:00+09:00",
+ "articles": [
+  {
+   "id": 23653,
+   "title": "English-Medium Instruction at POSTECH : Voices and Visions",
+   "published": "2025-04-23T17:39:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Baek Seon-been",
+    "Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23653_28038_3914.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23652,
+   "title": "Poring: New Details are Unveiled",
+   "published": "2025-04-23T17:37:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23652_28037_3714.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23651,
+   "title": "Solving a Century-Old Physics Challenge with Simple Cylinders",
+   "published": "2025-04-23T17:36:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23651_28035_351.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23650,
+   "title": "Solar Power + Zebra Stripes = Solution to Water Scarcity",
+   "published": "2025-04-23T17:34:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23650_28033_3253.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23649,
+   "title": "K-Humanoid Alliance: What Does It Mean for Us?",
+   "published": "2025-04-23T17:32:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23649_28032_3144.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23647,
+   "title": "Communities Seeking Help in the Wake of Korea’s Deadliest Wildfires",
+   "published": "2025-04-23T17:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23647_28031_2951.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23645,
+   "title": "On the Wandering Trail",
+   "published": "2025-04-23T17:28:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23645_28030_2750.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23644,
+   "title": "Journalism as a Signpost",
+   "published": "2025-04-23T17:27:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23644_28029_2629.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23643,
+   "title": "The Pen Is Mightier than the Sword",
+   "published": "2025-04-23T17:25:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23643_28028_2451.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23642,
+   "title": "Using Words to Shine Light",
+   "published": "2025-04-23T17:24:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23642_28027_224.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23641,
+   "title": "Bridging Engineering and Social Science",
+   "published": "2025-04-23T17:13:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Assistant Professor Hoon Cheol Shin (HSS)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23641_28026_1312.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23640,
+   "title": "Postechian Column: How to Enjoy University Life with Small Escapes",
+   "published": "2025-04-23T17:11:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kim Min-seop"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23640_28025_1119.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23639,
+   "title": "Reporter Column: In a World of Sameness, Be You",
+   "published": "2025-04-23T17:09:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23639_28024_937.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23638,
+   "title": "Biological Big Data: Efficiency or Privacy?",
+   "published": "2025-04-23T17:07:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23638_28023_737.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23636,
+   "title": "Digital Dementia: Forgetfulness in the Age of Information",
+   "published": "2025-04-23T17:06:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23636_28020_424.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23635,
+   "title": "The Stories Behind Gwanghwamun’s Woldae & Name Board",
+   "published": "2025-04-23T17:03:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23635_28019_239.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23634,
+   "title": "Can’t Sleep Before 2 A.M.? You Might Have DSPS",
+   "published": "2025-04-23T17:02:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23634_28018_032.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23633,
+   "title": "Postechian’s Pick: MICKEY 17",
+   "published": "2025-04-23T16:58:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202504/23633_28017_5655.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

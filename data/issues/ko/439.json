@@ -1,0 +1,364 @@
+{
+ "edition": "ko",
+ "number": 439,
+ "published": "2022-12-10T01:36:00+09:00",
+ "lastUpload": "2022-12-10T01:55:00+09:00",
+ "articles": [
+  {
+   "id": 22378,
+   "title": "“우리대학만의 낭만과 뜨거운 청춘의 불길 돌려놓고파”",
+   "published": "2022-12-10T01:55:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "강민영",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22378_26944_29.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22377,
+   "title": "우리대학, 국내외 각종 대학평가에서 우수한 성과 거둬",
+   "published": "2022-12-10T01:54:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202308/22377_27227_333.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22376,
+   "title": "강병우 교수팀, 리시콘 구조로 전고체 전지 단점 해법 제시",
+   "published": "2022-12-10T01:54:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22375,
+   "title": "개교 36주년 맞은 우리대학, 더 큰 도약을 위한 여정",
+   "published": "2022-12-10T01:53:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22374,
+   "title": "우리대학-삼성전기, 인재 양성 위해 손잡다",
+   "published": "2022-12-10T01:53:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22373,
+   "title": "교내 구성원 편의 및 복지 시설 확충",
+   "published": "2022-12-10T01:52:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22372,
+   "title": "5대 과학기술특성화대학 하나 돼, STadium",
+   "published": "2022-12-10T01:52:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22372_26945_35.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22371,
+   "title": "변화하는 병역 제도, 이제는 군 복무 학생들에 귀 기울여야",
+   "published": "2022-12-10T01:51:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "고평강",
+    "박준우",
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22371_26947_421.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22370,
+   "title": "저작물 및 학습 윤리, 학부생도 넘겨짚어선 안 된다",
+   "published": "2022-12-10T01:51:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22370_26950_622.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22369,
+   "title": "109개 부설연구소, 다양한 분야의 연구를 주도하다",
+   "published": "2022-12-10T01:50:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22369_26948_56.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22368,
+   "title": "37대 총학생회장단, 세움이 만들어갈 학생사회를 듣다",
+   "published": "2022-12-10T01:49:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강민영",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22368_26951_72.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22367,
+   "title": "2022 롤드컵, DRX의 우승에는 낭만이 있다",
+   "published": "2022-12-10T01:46:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22367_26954_1015.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22366,
+   "title": "일은 삶의 일부분일 뿐, 조용한 사직",
+   "published": "2022-12-10T01:45:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22366_26955_1516.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22365,
+   "title": "레고랜드 사태, 채권 시장의 눈으로 바라보다",
+   "published": "2022-12-10T01:45:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22365_26956_1613.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22364,
+   "title": "사라지는 평균의 개념",
+   "published": "2022-12-10T01:44:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "이재현",
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22364_26957_1633.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22363,
+   "title": "사진에 숨겨진 3차원 모양 알아내기",
+   "published": "2022-12-10T01:44:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "박재식 / 컴공 부교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22363_26980_513.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22362,
+   "title": "행복과 성공을 좇는 열정 가득한 청년들의 이야기",
+   "published": "2022-12-10T01:43:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22362_26958_174.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22361,
+   "title": "위험사회의 도래와 위험관리의 기본",
+   "published": "2022-12-10T01:42:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "정광민 / 산경 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22360,
+   "title": "나의 이기적인 교육 봉사",
+   "published": "2022-12-10T01:42:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "홍나경 / 화학 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22359,
+   "title": "제 438호, ‘연기부터 그림까지 ··· 벽을 깨고 아티스트 돼가는 AI’를 읽고",
+   "published": "2022-12-10T01:39:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "양준영 / 컴공 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22358,
+   "title": "이태원 참사와 트라우마",
+   "published": "2022-12-10T01:39:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22357,
+   "title": "대면 수업의 효율성",
+   "published": "2022-12-10T01:38:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22356,
+   "title": "미래 바이오·의료 인재 교육은 지혜의 융합으로",
+   "published": "2022-12-10T01:38:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22355,
+   "title": "eSports COLOSSEUM, 월드컵의 뜨거운 열기를 담다",
+   "published": "2022-12-10T01:38:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22355_26959_1749.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22354,
+   "title": "제439호 형산만평",
+   "published": "2022-12-10T01:36:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202212/22354_26960_1839.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

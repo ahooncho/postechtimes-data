@@ -1,0 +1,360 @@
+{
+ "edition": "ko",
+ "number": 469,
+ "published": "2025-11-05T11:18:00+09:00",
+ "lastUpload": "2025-11-05T12:05:00+09:00",
+ "articles": [
+  {
+   "id": 23878,
+   "title": "정문·동문 차량 진출입 시스템, 2026년 1월 초 도입 예정",
+   "published": "2025-11-05T12:05:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23878_28237_519.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23877,
+   "title": "금난새 교수 필두 POSTECH Inspire Chamber Orchestra 창단",
+   "published": "2025-11-05T12:04:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23877_28236_416.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23875,
+   "title": "제469호 단신보도",
+   "published": "2025-11-05T12:02:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "최진현",
+    "한정우",
+    "김범준",
+    "송명빈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23874,
+   "title": "블록체인의 세계 속으로",
+   "published": "2025-11-05T11:58:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23874_28235_5758.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 23873,
+   "title": "첨단제조혁신테스트베드센터(FAB III) 건립",
+   "published": "2025-11-05T11:57:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "양지윤",
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23873_28234_5658.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23872,
+   "title": "채용 비리·안전사고 미보고 등 포항가속기연구소 강흥식 소장 해임",
+   "published": "2025-11-05T11:56:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23871,
+   "title": "국제관에서 이뤄진 2023년 노벨화학상 수상자 모운지 바웬디 교수와의 대화",
+   "published": "2025-11-05T11:55:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이주형",
+    "송명빈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23870,
+   "title": "안전과 편리함 사이의 딜레마, 우리대학의 PM 실태는",
+   "published": "2025-11-05T11:55:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김태린",
+    "유영주",
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23870_28233_5442.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23869,
+   "title": "에브리타임의 ‘익명1’이 하는 말, 믿어도 될까",
+   "published": "2025-11-05T11:50:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김수진",
+    "송명빈",
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23869_28230_5017.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23868,
+   "title": "AI, R&D 발전에 속도내는 정부, 우리대학은 준비돼 있는가",
+   "published": "2025-11-05T11:48:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "정혜정",
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23868_28229_482.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23867,
+   "title": "경주에서 열린 2025 APEC 정상회의, 지속가능한 내일을 논하다",
+   "published": "2025-11-05T11:47:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "이주형",
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23867_28228_478.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23866,
+   "title": "혹시, 달리기 좋아하시나요?",
+   "published": "2025-11-05T11:45:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "양지윤",
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23866_28227_4458.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23865,
+   "title": "리튬이온배터리, 안전하게 활용하는 방법은?",
+   "published": "2025-11-05T11:42:00+09:00",
+   "category": "과학",
+   "bylines": [
+    "정혜정",
+    "한정우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N31",
+   "sectionName": "과학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23863,
+   "title": "[우리대학 졸업생은 무엇을 하고 있을까] - 컴퓨터공학과 이원열 교수",
+   "published": "2025-11-05T11:39:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23863_28226_3747.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23861,
+   "title": "[우리대학 졸업생은 무엇을 하고 있을까] - 산업경영공학과 이강복 교수",
+   "published": "2025-11-05T11:36:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23861_28224_3353.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23860,
+   "title": "데이터로 읽는 금융의 질서",
+   "published": "2025-11-05T11:29:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "신민석 / 산경 조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23860_28221_2817.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23859,
+   "title": "제469호 형산만평",
+   "published": "2025-11-05T11:24:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23859_28219_2553.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 23858,
+   "title": "4차 산업혁명 시대, 포스테키안의 ‘절대 스펙’은 바로 체력!",
+   "published": "2025-11-05T11:24:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "육장수 / 인문 조교수·스포츠지원센터 센터장"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 23857,
+   "title": "새내기, 새로운 내일의 기쁨",
+   "published": "2025-11-05T11:24:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "김승현 / 반도체 25"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 23856,
+   "title": "제468호 ‘미국 비자 제도 변경, 우리나라 학생들의 대응 방법과 해결책은’을 읽고",
+   "published": "2025-11-05T11:23:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "유소은 / 전자 24"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 23855,
+   "title": "그깟 피부색이 뭐라고 : 영화 ‘그린 북’을 보고",
+   "published": "2025-11-05T11:21:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202511/23855_28218_2114.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 23854,
+   "title": "질투와 학점, 그리고 대화할 용기",
+   "published": "2025-11-05T11:20:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 23853,
+   "title": "상대는 오지 않는 링 위에서",
+   "published": "2025-11-05T11:19:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "송명빈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 23852,
+   "title": "작지만 큰 세계로의 도약을 꿈꾸며",
+   "published": "2025-11-05T11:18:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {
+  "23875": []
+ }
+}

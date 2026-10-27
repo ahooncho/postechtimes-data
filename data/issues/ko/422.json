@@ -1,0 +1,318 @@
+{
+ "edition": "ko",
+ "number": 422,
+ "published": "2021-01-02T19:35:00+09:00",
+ "lastUpload": "2021-01-02T20:04:00+09:00",
+ "articles": [
+  {
+   "id": 21486,
+   "title": "새해 소망",
+   "published": "2021-01-02T20:04:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21486_26269_332.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21485,
+   "title": "신축년(辛丑年), 함께 고시활보(高視闊步) 하는 한 해로",
+   "published": "2021-01-02T20:02:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "총장 김무환"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21485_26268_241.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 21484,
+   "title": "새로운 바람을 만들어가기 위해",
+   "published": "2021-01-02T19:59:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "새내기새로배움터 준비위원회 위원장 박하윤"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21484_26267_5931.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 21483,
+   "title": "신소재 조문호 교수팀, 2차원 ‘카멜레온 반도체’ 구현",
+   "published": "2021-01-02T19:57:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21482,
+   "title": "페로브스카이트 안정성과 효율 높이는 분자 첨가제 개발",
+   "published": "2021-01-02T19:57:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21481,
+   "title": "POSTECH 글로벌 스포츠 AIX 컨퍼런스",
+   "published": "2021-01-02T19:56:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21480,
+   "title": "인간 조직 정확히 모사하는 ‘어셈블로이드’ 개발",
+   "published": "2021-01-02T19:56:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21479,
+   "title": "과학기술특성화 대학 토론대회, 우승의 쾌거",
+   "published": "2021-01-02T19:55:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21478,
+   "title": "철강대학원, 철강·에너지소재대학원으로 확대 개편",
+   "published": "2021-01-02T19:54:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21477,
+   "title": "BOIC, 바이오산업 발전을 위한 모두의 염원 담다",
+   "published": "2021-01-02T19:54:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손도원"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21477_26266_5354.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21476,
+   "title": "복지회 이용권, 어떻게 생각하시나요?",
+   "published": "2021-01-02T19:49:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김영현 기자",
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21476_26264_4920.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21475,
+   "title": "디지털 세금 도입, 피할 수 없는 흐름인가?",
+   "published": "2021-01-02T19:46:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21475_26263_4654.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21473,
+   "title": "지속 가능한 식사",
+   "published": "2021-01-02T19:44:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21473_26262_4448.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21472,
+   "title": "가깝고도 먼 두 남자 이야기, ‘이웃사촌’",
+   "published": "2021-01-02T19:42:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "손도원"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21472_26261_4220.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21471,
+   "title": "코로나 팬데믹: 클라우드 디지털 생태계로의 전환점",
+   "published": "2021-01-02T19:41:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "서리빈 / 산경 대우조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21470,
+   "title": "언제 웃으면 돼? 지금? 지금이야?",
+   "published": "2021-01-02T19:41:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "박경수 / 전자 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21469,
+   "title": "제421호 ‘택배 노동자 처우 개선, 모두의 노력이 필요할 때’를 읽고",
+   "published": "2021-01-02T19:40:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "이아현 / 생명 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21468,
+   "title": "인문학에서 배울 선택의 비법",
+   "published": "2021-01-02T19:39:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21467,
+   "title": "따뜻하게 겨울을 나는 법",
+   "published": "2021-01-02T19:39:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "박은하 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21466,
+   "title": "위기 극복하고 새로운 변화 이루어내는 해가 되길 바라며",
+   "published": "2021-01-02T19:38:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21465,
+   "title": "오랜만에 진행된 RC 행사, 즐거운 현장 분위기!",
+   "published": "2021-01-02T19:37:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21465_26259_3713.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21464,
+   "title": "제422호 형산만평",
+   "published": "2021-01-02T19:35:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21464_26258_3455.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

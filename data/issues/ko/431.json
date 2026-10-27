@@ -1,0 +1,391 @@
+{
+ "edition": "ko",
+ "number": 431,
+ "published": "2022-02-26T21:30:00+09:00",
+ "lastUpload": "2022-02-26T22:02:00+09:00",
+ "articles": [
+  {
+   "id": 21920,
+   "title": "특별 방역 주간, 집으로 돌아가는 학생들",
+   "published": "2022-02-26T22:02:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21920_26613_221.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21919,
+   "title": "코인원과 크립토·블록체인 기술 공동 연구개발 MOU 체결",
+   "published": "2022-02-26T22:01:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21918,
+   "title": "융공·기계 장진아 교수팀, 인체 조직 대량생산 ‘3D 바이오프린팅’ 기술 개발",
+   "published": "2022-02-26T22:01:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21917,
+   "title": "자객처럼 암세포 죽이는 항암제 개발",
+   "published": "2022-02-26T22:00:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21916,
+   "title": "악성종양 진단 정확도 90% 딥러닝 모델 개발",
+   "published": "2022-02-26T22:00:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21915,
+   "title": "철 이중 원자 포함된 촉매 설계 기술 개발",
+   "published": "2022-02-26T21:59:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21914,
+   "title": "우리대학 창업 기업, CES에서 기술 선보이다",
+   "published": "2022-02-26T21:59:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21913,
+   "title": "제2회 포스텍 SF 어워드 수상작 발표",
+   "published": "2022-02-26T21:58:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21913_26612_5823.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21912,
+   "title": "제2회 POSTECH 우수성과 경진대회 행사 개최",
+   "published": "2022-02-26T21:57:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21912_26611_5711.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21911,
+   "title": "심화하는 대학생 주거 문제, 우리대학 주거 실태는",
+   "published": "2022-02-26T21:54:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "안윤겸",
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21911_26610_5431.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21910,
+   "title": "리더 잃은 학생 사회를 이끌 비상대책위원회",
+   "published": "2022-02-26T21:53:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은",
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21910_26609_5315.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21909,
+   "title": "학점 인플레이션, 우리대학은?",
+   "published": "2022-02-26T21:51:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박준우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21908,
+   "title": "한국 미술시장, 변화의 소용돌이에 놓이다",
+   "published": "2022-02-26T21:50:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21908_26608_5033.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21907,
+   "title": "게임하면서 돈 번다, P2E 게임",
+   "published": "2022-02-26T21:49:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21907_26607_4929.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21906,
+   "title": "수면 장애 인구 70만 … 현대인 건강 적신호",
+   "published": "2022-02-26T21:48:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21906_26606_4817.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21905,
+   "title": "우리의 예정된 미래, 인구 지진",
+   "published": "2022-02-26T21:47:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21905_26605_474.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21904,
+   "title": "인공지능을 통한 실생활 속 사각지대 제거",
+   "published": "2022-02-26T21:46:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "서영주 / 컴퓨터공학과 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21904_26603_4532.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21903,
+   "title": "Humans of POSTECH",
+   "published": "2022-02-26T21:44:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "장유진",
+    "안윤겸",
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21903_26600_4113.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21902,
+   "title": "‘인생을 걸어볼 만한 것이 있는가’라는 질문에 답을 찾는다면",
+   "published": "2022-02-26T21:40:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21902_26599_3953.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21901,
+   "title": "쉼",
+   "published": "2022-02-26T21:38:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "권창규 / 인문사회학부 대우조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21900,
+   "title": "포항에서 즐기는 극한의 레이스",
+   "published": "2022-02-26T21:38:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "최정윤 / 전자 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21899,
+   "title": "제430호 ‘2차 성장기에 접어든 중고 거래 시장’을 읽고",
+   "published": "2022-02-26T21:37:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "정노아 / 무은재 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21898,
+   "title": "언택트 2년의 소회",
+   "published": "2022-02-26T21:36:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21897,
+   "title": "목적성 없는 노력",
+   "published": "2022-02-26T21:36:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21896,
+   "title": "단계적 일상 회복 국면의 대학 교육",
+   "published": "2022-02-26T21:35:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21895,
+   "title": "대학원아파트 2동 리모델링",
+   "published": "2022-02-26T21:33:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21895_26598_3254.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21894,
+   "title": "제431호 형산만평",
+   "published": "2022-02-26T21:30:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202202/21894_26597_3052.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

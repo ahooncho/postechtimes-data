@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 198,
+ "published": "2026-09-09T06:00:00+09:00",
+ "lastUpload": "2026-09-09T06:05:00+09:00",
+ "articles": [
+  {
+   "id": 24262,
+   "title": "Global POSTECH: Welcoming 19 Postechians From Around the World",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24262_28547_5015.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24260,
+   "title": "POSTECH Expands Shuttle Bus Service to Improve Campus Mobility",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park Hyo-rin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24260_28546_4854.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24259,
+   "title": "The Brake on Antibodies: Key Mechanism of Tfr Cell Formation",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Choi Ji-hun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24259_28543_341.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24258,
+   "title": "The Investigative Commission on Pro-Japanese Collaborators’ Property Returns after 16 Years",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Son Ye-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24258_28542_3125.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24256,
+   "title": "Through Another Window",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Choi Ji-hun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24256_28540_2438.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24254,
+   "title": "POSTECH Rowing Team Secures Back-to-Back National Championship",
+   "published": "2026-09-09T06:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Hong Seung-hye"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24254_28538_1938.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24253,
+   "title": "For POSTECH: The Summer Behind 2026 KAIST-POSTECH Science War",
+   "published": "2026-09-09T06:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24253_28537_1411.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24252,
+   "title": "Elevating the POSTECH Brand: The New Campus Store Debuts",
+   "published": "2026-09-09T06:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24252_28536_1124.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24251,
+   "title": "Beyond the Surface of an Article",
+   "published": "2026-09-09T06:05:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Son Ye-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24251_28539_2157.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24250,
+   "title": "Autonomous Labs and the Human Researcher: Charting the Future",
+   "published": "2026-09-09T06:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24250_28533_2513.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24249,
+   "title": "Why You Should Try a Cross-Campus Game Jam",
+   "published": "2026-09-09T06:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24249_28532_2032.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24248,
+   "title": "The Power of Solidarity: Shaping Future Climate Solutions at CC26",
+   "published": "2026-09-09T06:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24248_28530_1839.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24247,
+   "title": "Exaggerated Fear or Real Risk? AI’s Godfathers Split",
+   "published": "2026-09-09T06:00:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24247_28529_1621.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24246,
+   "title": "Everyday Disaster: The Global Climate Crisis",
+   "published": "2026-09-09T06:00:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24246_28528_1445.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24245,
+   "title": "From Collecting to Comfort: The Changing Meaning of Kidult Culture",
+   "published": "2026-09-09T06:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Park Hyo-rin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24245_28527_1152.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24244,
+   "title": "Enterprise or Expense? On the Decline of Korean Football",
+   "published": "2026-09-09T06:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24244_28526_103.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24242,
+   "title": "Postechian's Pick: The Odyssey (2026)",
+   "published": "2026-09-09T06:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Hong Seung-hye"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202609/24242_28524_628.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

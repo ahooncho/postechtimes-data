@@ -1,0 +1,220 @@
+{
+ "edition": "en",
+ "number": 151,
+ "published": "2022-01-07T00:37:00+09:00",
+ "lastUpload": "2022-01-07T01:13:00+09:00",
+ "articles": [
+  {
+   "id": 21849,
+   "title": "Let us soar to new heights in 2022!",
+   "published": "2022-01-07T01:13:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Moo Hwan Kim",
+    "President of POSTECH"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21849_26566_1315.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21848,
+   "title": "Commemorating the 10th Anniversary of Tae-Joon Park’s Passing",
+   "published": "2022-01-07T01:12:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21848_26565_1225.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21847,
+   "title": "COVID-19 Variant Discrimination Assay Developed",
+   "published": "2022-01-07T01:11:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21847_26564_1116.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21846,
+   "title": "Photoacoustic Imaging Technology for Deep-Tissue Image Without Exposure Dangers Developed",
+   "published": "2022-01-07T01:09:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Ji-hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21846_26563_951.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21845,
+   "title": "2021 In a Nutshell",
+   "published": "2022-01-07T01:08:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21845_26562_847.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21844,
+   "title": "Boycott Campaign Against 2022 Beijing Olympics is Divisive",
+   "published": "2022-01-07T01:07:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21844_26561_735.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21843,
+   "title": "Changes to Restaurants On and Near Campus Due to COVID-19",
+   "published": "2022-01-07T01:06:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21843_26560_635.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21842,
+   "title": "Closing Ceremony of a Course Held on a Metaverse Platform",
+   "published": "2022-01-07T01:05:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Ji-hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21842_26559_546.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21840,
+   "title": "POSTECH Microscope: The Baristas of Coffee Nearme",
+   "published": "2022-01-07T01:04:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21840_26558_359.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21837,
+   "title": "PHI BIOMED: from POSTECH Lab to Global Market",
+   "published": "2022-01-07T00:45:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Sei Kwang Hahn (MSE)"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21836,
+   "title": "Challenge Yourself and Find Your Own Way in Life",
+   "published": "2022-01-07T00:43:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Lee Jae-woo (LIFE 19)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21836_26557_442.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21835,
+   "title": "An Undergraduate Researcher’s First-ever Conference",
+   "published": "2022-01-07T00:42:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21835_26556_4159.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21834,
+   "title": "A New Eye in the Universe",
+   "published": "2022-01-07T00:41:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21834_26555_414.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21833,
+   "title": "The Emergence of a New COVID-19 Variant: Omicron",
+   "published": "2022-01-07T00:38:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21833_26554_381.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21832,
+   "title": "How Your Diet Can Change the Course of Human History",
+   "published": "2022-01-07T00:37:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202201/21832_26553_373.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

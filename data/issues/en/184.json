@@ -1,0 +1,261 @@
+{
+ "edition": "en",
+ "number": 184,
+ "published": "2025-02-26T15:53:00+09:00",
+ "lastUpload": "2025-02-26T20:25:00+09:00",
+ "articles": [
+  {
+   "id": 23531,
+   "title": "2025 Orientation: Taking the First Step",
+   "published": "2025-02-26T20:25:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23531_27934_2449.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23530,
+   "title": "Newly Launched Eco-friendly E-bike, Poring",
+   "published": "2025-02-26T20:24:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23530_27933_2052.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23529,
+   "title": "3D Bioprinted Gastric Cancer Model for Cancer Treatment",
+   "published": "2025-02-26T20:19:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23529_27936_2847.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23528,
+   "title": "Breaking Limits of Planar Optics by Controlling Noise",
+   "published": "2025-02-26T20:17:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23528_27930_1653.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23527,
+   "title": "The Trend Has Shifted: Universities are Increasing Tuition Fees",
+   "published": "2025-02-26T20:15:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23527_27929_1443.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23526,
+   "title": "Silent Death",
+   "published": "2025-02-26T20:13:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23526_27928_1124.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23525,
+   "title": "Reportage - Kyoto University (Part I)",
+   "published": "2025-02-26T20:06:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23525_27926_721.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23523,
+   "title": "Reportage - Interview With Prof. Packwood at Kyoto University",
+   "published": "2025-02-26T16:30:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23523_27922_2843.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23520,
+   "title": "Reportage - Walking Through Kyoto, the Breath of a Thousand Years",
+   "published": "2025-02-26T16:27:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23520_27921_272.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23519,
+   "title": "POSTECH’s Class System: A Strong Support Network for Freshmen",
+   "published": "2025-02-26T16:25:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23519_27920_2444.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23518,
+   "title": "“Electrifying” Organic Synthesis",
+   "published": "2025-02-26T16:23:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23518_27918_2236.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23517,
+   "title": "Finding My Path from Uncertainty and Exploration",
+   "published": "2025-02-26T16:19:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Cho Isoo (Mueunjae 24)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23517_27917_1920.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23516,
+   "title": "Reporter Column: Change Your Life with Routines and Habits",
+   "published": "2025-02-26T16:17:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23516_27916_1727.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23515,
+   "title": "DeepSeek: The Chinese AI Disruptor Shaking Global Tech Giants",
+   "published": "2025-02-26T16:15:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23515_27915_1522.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23514,
+   "title": "Recent Airline Accidents Spark the Global Spread of Aerophobia",
+   "published": "2025-02-26T16:10:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23514_27909_829.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23513,
+   "title": "Varying Expectations of Bitcoin",
+   "published": "2025-02-26T16:07:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23513_27908_436.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23511,
+   "title": "Trump’s Executive Order over Gender Ideology",
+   "published": "2025-02-26T15:57:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23511_27907_5433.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23510,
+   "title": "Postechian’s Pick: It Ends With Us",
+   "published": "2025-02-26T15:53:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202502/23510_27906_5146.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

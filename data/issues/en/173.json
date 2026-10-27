@@ -1,0 +1,248 @@
+{
+ "edition": "en",
+ "number": 173,
+ "published": "2024-02-29T11:22:00+09:00",
+ "lastUpload": "2024-02-29T18:32:00+09:00",
+ "articles": [
+  {
+   "id": 22963,
+   "title": "2024 Orientation: POSTECH Freshmen Learning Hub",
+   "published": "2024-02-29T18:32:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22963_27492_4441.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22962,
+   "title": "POSTECH Receives 1.2 trillion KRW for POSTECH 2.0",
+   "published": "2024-02-29T18:32:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22962_27491_4143.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22961,
+   "title": "The New Organic Photodiodes Realized by Polaron Engineering",
+   "published": "2024-02-29T18:31:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22961_27490_4029.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22960,
+   "title": "Prevent and Treat the Flu and COVID-19 with One Multi-taskable Shot",
+   "published": "2024-02-29T18:30:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22960_27489_3913.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22959,
+   "title": "The Controversy of Pet Cloning",
+   "published": "2024-02-29T18:29:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22959_27488_3756.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22958,
+   "title": "GenAI’s Penetration into Our Society",
+   "published": "2024-02-29T18:28:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22958_27487_3638.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22957,
+   "title": "Reportage – TSMC",
+   "published": "2024-02-29T18:27:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22957_27486_3445.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22956,
+   "title": "Leading the Chip Revolution: Inside TSMC’s Innovative Business Strategy",
+   "published": "2024-02-29T18:27:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim San",
+    "Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22956_27485_336.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22953,
+   "title": "The Immediate Dichotomy POSTECH Faces as it Transitions to a Bi-lingual Campus",
+   "published": "2024-02-29T12:11:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22953_27484_2956.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22952,
+   "title": "Column: Pursuit of Happiness in Research",
+   "published": "2024-02-29T12:09:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Assistant Professor Jin Tae Jimmy Kim (ME)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22952_27483_2640.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22951,
+   "title": "Postechian Column: Reflecting on the Lessons of 2023: Struggles to Strids",
+   "published": "2024-02-29T12:06:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Paek Gyeong-rok (Mueunjae 23)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22951_27482_2458.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22950,
+   "title": "Reporter Column: The Last Dance: How to Face the End",
+   "published": "2024-02-29T12:05:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202403/22950_27481_2248.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22949,
+   "title": "Space Technology: Navigating the Path from the “Good Old Days” to a Galactic Future",
+   "published": "2024-02-29T12:03:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202402/22949_27480_252.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22948,
+   "title": "Elon Musk’s Neuralink Implants Brain Chip",
+   "published": "2024-02-29T11:59:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202402/22948_27478_5958.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22942,
+   "title": "Why We Still Need Handwriting",
+   "published": "2024-02-29T11:45:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202402/22942_27477_5710.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22941,
+   "title": "Overcoming Everyday Forgetfulness: Simple Strategies",
+   "published": "2024-02-29T11:43:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202402/22941_27474_4326.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22937,
+   "title": "Postechian’s Pick: Green Book",
+   "published": "2024-02-29T11:22:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202402/22937_27473_2738.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

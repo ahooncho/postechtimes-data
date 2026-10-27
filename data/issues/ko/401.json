@@ -1,0 +1,378 @@
+{
+ "edition": "ko",
+ "number": 401,
+ "published": "2018-11-29T11:23:00+09:00",
+ "lastUpload": "2018-11-29T11:57:00+09:00",
+ "articles": [
+  {
+   "id": 20520,
+   "title": "‘악보’와 ‘단비’가 함께할 2019학년도 총학생회",
+   "published": "2018-11-29T11:57:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20520_25449_5617.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20519,
+   "title": "학생회관 1층, 문화공간 조성 위한 대대적 리모델링",
+   "published": "2018-11-29T11:56:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20519_25401_124.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20518,
+   "title": "4차 산업혁명과 미래사회 변혁 교육로드쇼 개최",
+   "published": "2018-11-29T11:55:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20517,
+   "title": "대학문화, 표민홍 현대미술가 초청강연 열려",
+   "published": "2018-11-29T11:54:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20516,
+   "title": "융합문명연구원, 포항 지진 연구발표회 개최",
+   "published": "2018-11-29T11:53:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "권재영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20515,
+   "title": "인간처럼 촉감 구별하는 인공지문 센서 개발",
+   "published": "2018-11-29T11:53:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20514,
+   "title": "우리대학, 엑손모빌과 공동연구기간 연장",
+   "published": "2018-11-29T11:53:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20513,
+   "title": "PAMTIP 총동창회, PAMTIP 장학금 수여식 진행",
+   "published": "2018-11-29T11:52:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20513_25404_1518.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20512,
+   "title": "5개 과기대의 연합 행사 STadium 성황리 개최",
+   "published": "2018-11-29T11:50:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김상수 객원기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20512_25405_1551.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20511,
+   "title": "포스텍평화연구소 개소 기념 강연회·심포지엄 개최",
+   "published": "2018-11-29T11:49:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20510,
+   "title": "모두가 즐거운 식사 시간을 위해",
+   "published": "2018-11-29T11:48:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20510_25406_1642.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20509,
+   "title": "낡고 불편한 대강당, 조금씩 변화하는 중일까",
+   "published": "2018-11-29T11:48:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "권재영",
+    "이신범 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20509_25411_1913.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20508,
+   "title": "다들 모여~! 우리대학 하스스톤 스트리머",
+   "published": "2018-11-29T11:33:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "국현호",
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20508_25413_2126.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20507,
+   "title": "도마 위에 오른 불법 사이트 차단 방식, 쟁점은 ‘정부에 대한 신뢰’",
+   "published": "2018-11-29T11:32:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20507_25418_2334.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20506,
+   "title": "양심적 병역거부 논란 재점화…대체복무제 시행은 어떻게?",
+   "published": "2018-11-29T11:32:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20506_25420_257.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20505,
+   "title": "나노 크기 자동차에 항암제를 싣고 암 정복을 향해",
+   "published": "2018-11-29T11:32:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "김원종 / 화학 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20505_25421_2546.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20504,
+   "title": "함께하는 한·러, 함께 여는 미래",
+   "published": "2018-11-29T11:30:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "장호중 기자",
+    "김영현 기자",
+    "김주희 기자",
+    "이신범 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20504_25426_2840.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 20503,
+   "title": "진실과 행복 사이",
+   "published": "2018-11-29T11:28:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "권재영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20503_25427_2946.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 20502,
+   "title": "포스텍-연세대학교 개방·공유 캠퍼스 : 에너지 소재 분과",
+   "published": "2018-11-29T11:27:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "강병우 / 신소재 부교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 20501,
+   "title": "자유로운 삶을 지향하는 것의 중요성",
+   "published": "2018-11-29T11:26:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "김기환 / 기계 15"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 20500,
+   "title": "제401호 ‘반려식물, 우리의 초록색 친구’를 읽고",
+   "published": "2018-11-29T11:26:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김태리 / 화공 17"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 20499,
+   "title": "아르바이트 시장에서의 최저임금",
+   "published": "2018-11-29T11:25:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 20498,
+   "title": "지진의 추억",
+   "published": "2018-11-29T11:25:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 20497,
+   "title": "존중과 배려의 문화",
+   "published": "2018-11-29T11:24:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 20496,
+   "title": "학부생활의 끝맺음 ‘Epligoue’",
+   "published": "2018-11-29T11:24:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20496_25448_2923.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 20495,
+   "title": "402호 형산만평",
+   "published": "2018-11-29T11:23:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20495_25399_232.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

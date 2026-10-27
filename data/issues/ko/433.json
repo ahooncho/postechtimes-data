@@ -1,0 +1,421 @@
+{
+ "edition": "ko",
+ "number": 433,
+ "published": "2022-05-02T21:57:00+09:00",
+ "lastUpload": "2022-05-02T22:59:00+09:00",
+ "articles": [
+  {
+   "id": 22072,
+   "title": "제433호 형산만평",
+   "published": "2022-05-02T22:57:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22072_26713_5657.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 22067,
+   "title": "포스테키안의 메타버스 놀이터, 국내 최초 e스포츠펍 생긴다",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22067_26692_2226.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22066,
+   "title": "3년째 지속되는 축제 공백, 문화의 날로 채운다",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22065,
+   "title": "임근배 교수팀, 전기력 기반 리튬·마그네슘 이온 분리법 개발",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22064,
+   "title": "고온초전도체의 비등방 초전도성 검증",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22063,
+   "title": "속 빈 실리카 나노구조체, 금속염 틀 녹여 쉽게 만든다",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22062,
+   "title": "2년 만에 재개되는 포스텍 콘퍼런스",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22061,
+   "title": "한국폴리텍대와 함께 인공지능·데이터 산업 이끈다",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22061_26694_2436.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22060,
+   "title": "대학원생 휴식 보장을 위해, Rest and Recharge 제도",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "소예린",
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22060_26719_2441.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22059,
+   "title": "생활관 운영정책 간담회 개최",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22059_26695_2922.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22058,
+   "title": "중대재해법 시행 이후, 지금 우리 사회는?",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "소예린",
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22058_26696_3141.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22057,
+   "title": "사이버 보안 적신호, 보안 기업의 필요성",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "조원준",
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22057_26697_3217.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22056,
+   "title": "집돌이·집순이의 진화 … 재택 경제 활동 트렌드",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22056_26699_3250.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22055,
+   "title": "교육과 기술의 만남, 에듀테크",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "조민석 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22055_26700_3323.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22054,
+   "title": "Humans of POSTECH",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "고평강",
+    "김지원",
+    "박준우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22054_26702_3512.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22053,
+   "title": "성숙해지기 위한 도전",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22053_26705_4346.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 22052,
+   "title": "나의 발전을 위한 선택",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22052_26706_444.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 22049,
+   "title": "삶을 공유하는 소통",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22049_26707_4644.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 22048,
+   "title": "기사의 매력에 빠진 기자",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22048_26708_4712.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 22047,
+   "title": "머리카락보다 얇은 초박막 패치로 심혈관 건강 진단한다",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "정성준 / 신소재공학과 교수",
+    "백상훈 / IT융합공학과 통합"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22047_26709_4754.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22046,
+   "title": "말과 뼈",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "우정아 / 인문사회학부 부교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22045,
+   "title": "주사",
+   "published": "2022-05-02T21:57:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "박찬우 / 화학 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22044,
+   "title": "벚꽃이 활짝 핀 우리대학 캠퍼스",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22044_26711_4928.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22043,
+   "title": "제432호 ‘개강 8주 차부터 대면 수업으로 전환’을 읽고",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "박지영 / 생명 20"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22042,
+   "title": "죽음 없는 세상을 다독이는 문장",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202205/22042_26712_5026.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22040,
+   "title": "서울 공화국 현상과 지방의 미래",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "박준우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22039,
+   "title": "혁신은 거창한 것이 아니다",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22038,
+   "title": "중국의 과학 기술 발전과 한국의 MZ 세대",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22037,
+   "title": "소통과 화합으로 만드는 융합",
+   "published": "2022-05-02T22:59:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {}
+}

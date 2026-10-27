@@ -1,0 +1,383 @@
+{
+ "edition": "ko",
+ "number": 449,
+ "published": "2023-12-05T20:46:00+09:00",
+ "lastUpload": "2023-12-05T21:12:00+09:00",
+ "articles": [
+  {
+   "id": 22837,
+   "title": "글로컬대학30 선정, 대학 혁신의 신호탄",
+   "published": "2023-12-05T21:12:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22837_27397_1153.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22836,
+   "title": "곡면에서도 자유롭게 부착·분리하는 섀도 마스크 개발",
+   "published": "2023-12-05T21:11:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22835,
+   "title": "텅스텐 산화물을 통한 전극의 성능 향상 성공",
+   "published": "2023-12-05T21:11:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22834,
+   "title": "우리대학, 각종 창업경진대회에서 눈부신 활약 펼쳐",
+   "published": "2023-12-05T21:10:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22833,
+   "title": "애플 디벨로퍼 아카데미, 2기 쇼케이스 개최",
+   "published": "2023-12-05T21:10:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정유현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22832,
+   "title": "바이오미래기술혁신연구센터 개소",
+   "published": "2023-12-05T21:09:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22832_27396_947.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22831,
+   "title": "포항 방사광가속기, 전기료 인상으로 운영 차질",
+   "published": "2023-12-05T21:09:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이이수",
+    "정유현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22830,
+   "title": "짝꿍과 함께한 제5회 안전골든벨 성황리 마무리",
+   "published": "2023-12-05T21:08:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "강민영",
+    "강호연 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22830_27395_829.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22829,
+   "title": "흔들리는 학생사회, 이대로 괜찮은가",
+   "published": "2023-12-05T21:07:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "고평강",
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22829_27393_75.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22828,
+   "title": "주거공간을 넘어 소통의 장으로, 새롭게 변화하는 RC",
+   "published": "2023-12-05T21:02:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "고평강",
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22828_27391_239.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22827,
+   "title": "우리대학 인권·성평등 예방 교육, 잘 진행되고 있는가",
+   "published": "2023-12-05T21:02:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "최대현",
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22827_27390_158.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22826,
+   "title": "다양한 곳에서 경험을 얻은 선배들을 만나다",
+   "published": "2023-12-05T21:01:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강민영",
+    "고평강",
+    "정원형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22826_27387_5853.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22825,
+   "title": "티켓 예매의 사각지대에 선 노년층",
+   "published": "2023-12-05T20:58:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김윤철",
+    "오유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22825_27386_585.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22824,
+   "title": "팬데믹 지나니 이제 ‘빈데믹’ 시대?",
+   "published": "2023-12-05T20:56:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "강호연",
+    "정원형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22824_27384_5612.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22823,
+   "title": "국민연금, 이번 개혁은 성공할까",
+   "published": "2023-12-05T20:55:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "조원준",
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22823_27383_5521.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22822,
+   "title": "동북아 3국의 암울한 미래",
+   "published": "2023-12-05T20:54:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22822_27382_5452.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22821,
+   "title": "신뢰할 수 있는 기계 학습",
+   "published": "2023-12-05T20:54:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "박상돈 / 컴공 조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22821_27380_532.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22820,
+   "title": "우리의 모순",
+   "published": "2023-12-05T20:52:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22820_27379_520.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22819,
+   "title": "어떤 연구를 할지 모르겠어요",
+   "published": "2023-12-05T20:51:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "이재호 / 전자 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22818,
+   "title": "사라지고 있는 ‘愛’에 대하여",
+   "published": "2023-12-05T20:51:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "서우현 / 무은재 23"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22817,
+   "title": "제448호 ‘내 손으로 지역 문제 해결... 리빙랩 활동단’을 읽고",
+   "published": "2023-12-05T20:50:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김소현 / 컴공 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22816,
+   "title": "현재는 과거보다 나아졌는가",
+   "published": "2023-12-05T20:50:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22815,
+   "title": "제발 저를 군대에 보내 주세요",
+   "published": "2023-12-05T20:49:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "정원형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22814,
+   "title": "대학 교육의 종말",
+   "published": "2023-12-05T20:49:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22813,
+   "title": "다시 한번 정상의 자리로, STadium 종합우승",
+   "published": "2023-12-05T20:49:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22813_27377_491.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22812,
+   "title": "제449호 형산만평",
+   "published": "2023-12-05T20:46:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202312/22812_27376_4613.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

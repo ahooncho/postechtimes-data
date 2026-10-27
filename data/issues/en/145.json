@@ -1,0 +1,205 @@
+{
+ "edition": "en",
+ "number": 145,
+ "published": "2021-05-17T02:51:00+09:00",
+ "lastUpload": "2021-05-18T04:11:00+09:00",
+ "articles": [
+  {
+   "id": 21568,
+   "title": "Commencement Address for the 2020 Academic Year",
+   "published": "2021-05-18T04:11:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Moo Hwan Kim President of POSTECH"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21568_26338_1111.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21566,
+   "title": "Partial Conversion to Face-to-Face Classes",
+   "published": "2021-05-18T03:57:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21566_26336_5752.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21565,
+   "title": "Free Online Software for Metasurface Simulation Published",
+   "published": "2021-05-18T03:51:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21565_26335_5057.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21564,
+   "title": "Intelligent Surface Controls Bubble Motion",
+   "published": "2021-05-18T03:49:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21564_26334_4659.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21563,
+   "title": "KT in Hot Water over Internet Slowdown",
+   "published": "2021-05-18T03:43:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21563_26333_4346.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21562,
+   "title": "Youn Yuh-jung is Awarded Best Supporting Actress at the Oscars",
+   "published": "2021-05-18T03:42:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21562_26332_4213.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21561,
+   "title": "Interviews with Award-Winning Graduates",
+   "published": "2021-05-18T03:40:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21561_26326_350.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21560,
+   "title": "Tae-Joon Park Library Reopened",
+   "published": "2021-05-18T03:32:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21560_26325_3231.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21559,
+   "title": "Introduction to CoCEL",
+   "published": "2021-05-18T03:30:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Soohee Han"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21553,
+   "title": "Keep Calm and Do Science",
+   "published": "2021-05-17T02:57:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Anonymous"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21552,
+   "title": "If You Have Wings, Why Not Fly?",
+   "published": "2021-05-17T02:56:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21552_26324_5615.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21551,
+   "title": "Myanmar In Turmoil Following Military Coup",
+   "published": "2021-05-17T02:54:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21551_26323_5411.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21550,
+   "title": "The ESG Wave Stirs Businesses",
+   "published": "2021-05-17T02:53:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21550_26322_5259.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21549,
+   "title": "COVID-19 Self-Examination Kits",
+   "published": "2021-05-17T02:51:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21549_26321_5142.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

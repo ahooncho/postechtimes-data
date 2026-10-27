@@ -1,0 +1,219 @@
+{
+ "edition": "en",
+ "number": 161,
+ "published": "2023-01-06T23:58:00+09:00",
+ "lastUpload": "2023-01-07T00:05:00+09:00",
+ "articles": [
+  {
+   "id": 22397,
+   "title": "Let Us Build Greater Happiness Together in 2023",
+   "published": "2023-01-07T00:05:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22397_26999_2323.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22396,
+   "title": "Changes in Student Dormitory Rule and Regulation",
+   "published": "2023-01-07T00:04:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22396_26998_230.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22395,
+   "title": "Display Changes Holographic Images According to Humidity",
+   "published": "2023-01-07T00:04:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22395_26997_2241.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22394,
+   "title": "Development of a Cardiac Patch for Myocardial Infarction",
+   "published": "2023-01-07T00:03:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22394_26996_2220.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22393,
+   "title": "2022 in a Nutshell",
+   "published": "2023-01-07T00:03:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22393_26995_2156.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22392,
+   "title": "Japan Moves Towards Remilitarization Amidst Tensions in East Asia",
+   "published": "2023-01-07T00:03:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22392_26994_2128.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22391,
+   "title": "Department Night",
+   "published": "2023-01-07T00:02:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22391_26993_211.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22390,
+   "title": "Sudden Reduction of WI Classes... What is HSS's Response?",
+   "published": "2023-01-07T00:02:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22390_26991_2030.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22389,
+   "title": "POSTECH Microscope: How Student Affairs Support Abroad Activities",
+   "published": "2023-01-07T00:01:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22389_26990_208.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22388,
+   "title": "Column: Dark Matter",
+   "published": "2023-01-07T00:01:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Victoria Elliott"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22388_26989_1928.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22387,
+   "title": "Postechian Column: South Korea – The Fastest Shrinking Country in the World",
+   "published": "2023-01-07T00:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Filip Nilsson (PHYS)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22387_26988_1858.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22386,
+   "title": "Reporter Column: Why You Should Try a Hands-on Project",
+   "published": "2023-01-07T00:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22386_26987_1833.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22385,
+   "title": "Strike Over the Minimum Freight Rate System",
+   "published": "2023-01-06T23:59:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22385_26986_188.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22384,
+   "title": "Re-introducing Nuclear Power Plants",
+   "published": "2023-01-06T23:59:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Jung Hye-Yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22384_26985_1747.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22383,
+   "title": "Postechian’s Pick: The Greatest Showman",
+   "published": "2023-01-06T23:58:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22383_26983_1725.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

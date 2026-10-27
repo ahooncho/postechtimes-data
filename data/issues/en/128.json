@@ -1,0 +1,276 @@
+{
+ "edition": "en",
+ "number": 128,
+ "published": "2019-03-29T15:34:00+09:00",
+ "lastUpload": "2019-03-29T16:18:00+09:00",
+ "articles": [
+  {
+   "id": 20748,
+   "title": "Student Hall Renovation Finally Completed",
+   "published": "2019-03-29T16:18:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20748_25657_1840.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20747,
+   "title": "POSTECH Summer Experience in Society – SES",
+   "published": "2019-03-29T16:17:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20747_25697_725.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20746,
+   "title": "Ground-Breaking Ceremony of BOIC Held",
+   "published": "2019-03-29T16:13:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20746_25652_134.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20745,
+   "title": "Coral-Like-Silicon Charges Electric Cars Five Times Faster",
+   "published": "2019-03-29T16:12:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20745_25651_1218.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20744,
+   "title": "Orientation on 2019 SES",
+   "published": "2019-03-29T16:11:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20744_25650_1115.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20743,
+   "title": "Research Team develops High Strength Gel for Wearable Device",
+   "published": "2019-03-29T16:10:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20743_25649_1023.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20742,
+   "title": "Elevator Supplies Stockpiles Installed",
+   "published": "2019-03-29T16:09:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20742_25648_926.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20741,
+   "title": "Hope to Return Home",
+   "published": "2019-03-29T16:07:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20741_25647_748.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20740,
+   "title": "Resolution as an Assistant Reporter",
+   "published": "2019-03-29T16:03:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20740_25646_138.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20739,
+   "title": "“Literary Girl” Becomes A “Reporter”",
+   "published": "2019-03-29T16:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20739_25644_034.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20738,
+   "title": "Fresh Start as a New Reporter of The Postech Times",
+   "published": "2019-03-29T15:59:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20738_25643_5939.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20737,
+   "title": "From Reader to Reporter",
+   "published": "2019-03-29T15:58:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20737_25641_5830.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20735,
+   "title": "Me—A Professional Journalist",
+   "published": "2019-03-29T15:56:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20735_25640_5615.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20734,
+   "title": "A Real Case of Technology — Based Entrepreneurship : VUNO",
+   "published": "2019-03-29T15:49:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Jung Kyu-hwan",
+    "CTO of VUNO"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20734_25639_493.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20733,
+   "title": "A Solitary Postechian’s Life",
+   "published": "2019-03-29T15:47:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Kim Woo-seok (LIFE 17)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20733_25638_4742.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20731,
+   "title": "It Takes Two to Tango",
+   "published": "2019-03-29T15:45:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20731_25637_4518.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20730,
+   "title": "The Crisis of the Self-employed in Korea",
+   "published": "2019-03-29T15:41:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20730_25636_4049.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20729,
+   "title": "North Korea–United States Hanoi Summit",
+   "published": "2019-03-29T15:37:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20729_25634_3649.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20726,
+   "title": "Korean Fever Gripping the World",
+   "published": "2019-03-29T15:34:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201903/20726_25633_2722.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,219 @@
+{
+ "edition": "en",
+ "number": 143,
+ "published": "2021-01-02T18:28:00+09:00",
+ "lastUpload": "2021-01-02T19:04:00+09:00",
+ "articles": [
+  {
+   "id": 21451,
+   "title": "2021 New Year's Address Let us aim high and take great strides in 2021",
+   "published": "2021-01-02T19:04:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Moo Hwan Kim President of POSTECH"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21451_26257_49.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21450,
+   "title": "Student Union: A Year’s Review and What’s to Come",
+   "published": "2021-01-02T19:01:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21450_26256_138.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21449,
+   "title": "7 Most Influential Postechians 2020",
+   "published": "2021-01-02T19:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21449_26255_01.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21448,
+   "title": "The Complete Report on Postechians' Health",
+   "published": "2021-01-02T18:57:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21448_26254_5734.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21447,
+   "title": "POSTECH Microscope: Director of Infectious Disease Control",
+   "published": "2021-01-02T18:56:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21447_26253_5626.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21446,
+   "title": "Three-dimensionally Reconstituted Organoid Perfectly Mimics Human Organs",
+   "published": "2021-01-02T18:53:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Han Sang-yun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21446_26251_5329.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21445,
+   "title": "Ultrastable and Highly Active Ceria Catalyst that Survives Big Temperature Fluctuations Designed",
+   "published": "2021-01-02T18:52:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Eu-gene"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21445_26250_5212.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21444,
+   "title": "An Improvement in the Work Environment or an Escape from Reality?",
+   "published": "2021-01-02T18:47:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21444_26247_472.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21443,
+   "title": "Highly Pathogenic Avian Influenza Devastates Poultry Farms",
+   "published": "2021-01-02T18:46:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21443_26246_465.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21442,
+   "title": "COVID-19 Vaccines",
+   "published": "2021-01-02T18:44:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21442_26245_440.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21441,
+   "title": "World’s First Regulatory Approved Lab-grown Meat",
+   "published": "2021-01-02T18:40:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21441_26244_4027.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21440,
+   "title": "Growth of Mobile Securities Companies—Kakao and Toss",
+   "published": "2021-01-02T18:39:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21440_26243_3848.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21439,
+   "title": "The Equation of Life",
+   "published": "2021-01-02T18:36:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Kim Hyun Kwang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21439_26242_3630.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21438,
+   "title": "Aren’t You Burning Out?",
+   "published": "2021-01-02T18:29:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Anonymous"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21437,
+   "title": "Live Like Drive",
+   "published": "2021-01-02T18:28:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202101/21437_26241_2752.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

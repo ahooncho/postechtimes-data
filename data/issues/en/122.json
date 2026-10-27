@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 122,
+ "published": "2018-11-07T14:21:00+09:00",
+ "lastUpload": "2018-11-07T14:47:00+09:00",
+ "articles": [
+  {
+   "id": 20439,
+   "title": "Open Innovation and POSTECH",
+   "published": "2018-11-07T14:47:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20439_25371_3041.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20438,
+   "title": "Between Facts and Freedom of Expression",
+   "published": "2018-11-07T14:46:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20438_25370_300.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20437,
+   "title": "Prof. Choi Young-ju Receives KMS Academic Award",
+   "published": "2018-11-07T14:45:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": null,
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20436,
+   "title": "The Joint Speech Session of Candidates for SU and FSU Held",
+   "published": "2018-11-07T14:43:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20436_25366_286.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20435,
+   "title": "Predicting El Niño 17 Months in Advance",
+   "published": "2018-11-07T14:42:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20435_25365_2649.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20434,
+   "title": "Sprayable Adhesive Nanotherapeutics",
+   "published": "2018-11-07T14:41:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20434_25364_263.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20433,
+   "title": "GSIT Introduces the ‘Nano Master’ Program first in the Country",
+   "published": "2018-11-07T14:39:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20433_25363_2525.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20432,
+   "title": "Negative Side of SNS Marketing",
+   "published": "2018-11-07T14:38:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20432_25362_2346.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20431,
+   "title": "Controversy Over Pass/No Record Policy",
+   "published": "2018-11-07T14:36:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": null,
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20430,
+   "title": "Vegetarians in POSTECH",
+   "published": "2018-11-07T14:35:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": null,
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20429,
+   "title": "POSTECH Microscope: Feelings on the Oversea Korean Admission Being Abolished",
+   "published": "2018-11-07T14:34:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20429_25361_1758.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20428,
+   "title": "A Walk through POSTECH Campus - Appreciating the Life and Nature",
+   "published": "2018-11-07T14:32:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Professor Lee Seung-Woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20428_25360_163.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20427,
+   "title": "Life as a Foreign Exchange Student",
+   "published": "2018-11-07T14:30:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Park Ji-sang(ME 16)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20427_25359_1511.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20426,
+   "title": "Dokdo, a Beautiful Korean Island",
+   "published": "2018-11-07T14:28:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20426_25358_1424.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20425,
+   "title": "Japan’s Ludicrous Statements about Past Misdeeds",
+   "published": "2018-11-07T14:25:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20425_25357_1124.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20424,
+   "title": "Movie Subtitles - Who Makes Them?",
+   "published": "2018-11-07T14:24:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201811/20424_25356_929.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20423,
+   "title": "Revenge Pornography, a Reflection of Our Society",
+   "published": "2018-11-07T14:21:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": null,
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,205 @@
+{
+ "edition": "en",
+ "number": 138,
+ "published": "2020-02-13T19:07:00+09:00",
+ "lastUpload": "2020-02-13T19:19:00+09:00",
+ "articles": [
+  {
+   "id": 21190,
+   "title": "Corona Cancels Major Events of POSTECH",
+   "published": "2020-02-13T19:19:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21190_26064_110.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21189,
+   "title": "2019-nCoV Novel Coronavirus- A Likely Pandemic Outbreak?",
+   "published": "2020-02-13T19:19:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21189_26066_1153.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21188,
+   "title": "Korean Army Discharges Transgender Soldier",
+   "published": "2020-02-13T19:17:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21188_26073_169.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21187,
+   "title": "Disclosure of “Bad Fathers” Found Not Guilty",
+   "published": "2020-02-13T19:16:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21187_26072_1541.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21186,
+   "title": "Strong Underwater Adhesion by Synergy between Two Molecules",
+   "published": "2020-02-13T19:15:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21186_26071_1510.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21185,
+   "title": "Meta-Hologram to Send Information in Both Directions",
+   "published": "2020-02-13T19:14:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21185_26070_1442.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21184,
+   "title": "Fees for Most Dormitories Reduced",
+   "published": "2020-02-13T19:14:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21184_26069_140.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21182,
+   "title": "Generation Z",
+   "published": "2020-02-13T19:13:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21182_26067_1229.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21181,
+   "title": "POSTECH Microscope: Guamegi Startup Competition",
+   "published": "2020-02-13T19:12:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21181_26068_1313.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21180,
+   "title": "Leaving The Postech Times",
+   "published": "2020-02-13T19:11:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21180_26074_1647.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21179,
+   "title": "A Journey to CES 2020, Where Innovation Sprouts",
+   "published": "2020-02-13T19:10:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Yun Sang-bu (EEE 17)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21179_26075_178.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21178,
+   "title": "Being a Ph.D. Pursuing CEO",
+   "published": "2020-02-13T19:09:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Matt Dong-Heon Ha CEO of EDmicBio"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21178_26077_1756.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21177,
+   "title": "The Conflict between the U.S. and Iran",
+   "published": "2020-02-13T19:08:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21177_26079_1853.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21176,
+   "title": "Wildfire Devours Australia",
+   "published": "2020-02-13T19:07:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202003/21176_26078_1825.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,354 @@
+{
+ "edition": "ko",
+ "number": 423,
+ "published": "2021-02-28T03:03:00+09:00",
+ "lastUpload": "2021-02-28T05:47:00+09:00",
+ "articles": [
+  {
+   "id": 21545,
+   "title": "새내기, 비대면 새터 [Re*]로 만나다",
+   "published": "2021-02-28T05:47:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21545_26320_474.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21544,
+   "title": "타지역 방문 시 대응 방안, 자세히 살펴보다",
+   "published": "2021-02-28T05:38:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21543,
+   "title": "거울상 이성질체에 대한 백금 나노 촉매 개발",
+   "published": "2021-02-28T05:37:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "박은하 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21542,
+   "title": "액체 금속 잉크로 형태의 자유 얻다",
+   "published": "2021-02-28T05:36:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21541,
+   "title": "우리대학 SDS 전공, 기대 속 출발",
+   "published": "2021-02-28T05:36:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21540,
+   "title": "연세-포스텍 아이디어톤 개최",
+   "published": "2021-02-28T05:35:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21539,
+   "title": "우리대학, 이공계생 대상 국내 첫 SF소설 공모전 개최",
+   "published": "2021-02-28T05:34:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21539_26318_3429.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21538,
+   "title": "전면 비대면 개강, 인하되는 총학생회비",
+   "published": "2021-02-28T05:32:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은",
+    "박은하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21538_26317_3237.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21537,
+   "title": "당신의 마음 건강, 안녕하십니까?",
+   "published": "2021-02-28T04:59:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "유민재",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21537_26315_5819.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21536,
+   "title": "새 학기에는 새로운 학습관리시스템 PLMS와 함께",
+   "published": "2021-02-28T04:55:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은",
+    "안윤겸",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21536_26310_5033.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21535,
+   "title": "잘 가요, 어도비 플래시",
+   "published": "2021-02-28T04:47:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "문병필",
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21535_26309_4710.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21534,
+   "title": "‘물 마시기에 돈 걸기’, 그런 거 왜 하냐 물으신다면…",
+   "published": "2021-02-28T04:44:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김지원",
+    "박지우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21534_26308_4439.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21523,
+   "title": "아동 학대 방지를 위한 노력, 제2의 ‘정인이 사건’ 막을 수 있을까",
+   "published": "2021-02-28T04:02:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "백다현",
+    "손도원",
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21523_26305_4858.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21522,
+   "title": "싸고 흔한 니켈로 수소를 만들다",
+   "published": "2021-02-28T03:34:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "김종규/ 신소재 교수",
+    "김재림/ 신소재 통합"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21522_26303_3327.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21521,
+   "title": "제423호 Humans of POSTECH",
+   "published": "2021-02-28T03:30:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21521_26300_1955.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21519,
+   "title": "삶에 지친 영혼들을 위한 재즈 선율",
+   "published": "2021-02-28T03:15:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21519_26299_1513.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21518,
+   "title": "코로나 시대에 다시 생각해보는 교육의 본질",
+   "published": "2021-02-28T03:13:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "김정훈/ 전자 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21517,
+   "title": "감사합니다",
+   "published": "2021-02-28T03:12:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "남태현/ 화공 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21516,
+   "title": "제422호 ‘복지회 이용권, 어떻게 생각하시나요?’를 읽고",
+   "published": "2021-02-28T03:12:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "서화경 / 화공 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21515,
+   "title": "진부한 공학윤리 이야기",
+   "published": "2021-02-28T03:10:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "최수영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21514,
+   "title": "노력하는 만큼 행복해지는 가족",
+   "published": "2021-02-28T03:09:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21513,
+   "title": "사회문제 해결형 융합 교육",
+   "published": "2021-02-28T03:08:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21512,
+   "title": "집에서 만난 친구들, 온라인 입학식",
+   "published": "2021-02-28T03:06:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21512_26298_618.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21511,
+   "title": "제423호 형산만평",
+   "published": "2021-02-28T03:03:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202102/21511_26297_313.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

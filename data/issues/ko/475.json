@@ -1,0 +1,358 @@
+{
+ "edition": "ko",
+ "number": 475,
+ "published": "2026-04-29T09:30:00+09:00",
+ "lastUpload": "2026-04-29T09:40:00+09:00",
+ "articles": [
+  {
+   "id": 24184,
+   "title": "세계적 난제 ‘물의 미스터리’ 우리대학이 풀었다",
+   "published": "2026-04-29T09:38:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24184_28485_4943.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24183,
+   "title": "제475호 형산만평",
+   "published": "2026-04-29T09:36:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24183_28484_454.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 24182,
+   "title": "제475호 단신보도",
+   "published": "2026-04-29T09:37:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "박단아 기자",
+    "김태린 기자",
+    "조아훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 24181,
+   "title": "개교 40주년 기념 ‘PO-STORY’ 시리즈 및 데이비드 베이커 교수 특강 개최",
+   "published": "2026-04-29T09:37:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "최진현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24181_28483_3628.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 24180,
+   "title": "바이오 파운드리를 목표로, 의공학 연구소 K-BIGHEART 개소",
+   "published": "2026-04-29T09:37:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "유영주 기자",
+    "김민하 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 24179,
+   "title": "[우리대학의 마스코트 고양이 노벨이 탐구일지] 시험기간 노벨이의 일상",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24179_28481_310.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24177,
+   "title": "사상 첫 포준위원장 경선, 전례 없는 공개평가회의 감사 착수",
+   "published": "2026-04-29T09:40:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "양지윤 기자",
+    "김수진 기자",
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24177_28480_2819.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24176,
+   "title": "‘미래를 향한 기회’ 패스파인더제도 바우처, 잘 이용되고 있을까",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김범준 기자",
+    "조준혁 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24176_28479_2447.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24175,
+   "title": "희망자 전원 수용에 찾아온 과도기, 기숙사 공실 ‘빨간불’",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김수진 기자",
+    "박단아 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24175_28478_2242.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24174,
+   "title": "미국-이란 전쟁 장기화, 한국 경제는 왜 흔들리는가",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "최진현 기자",
+    "조아훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24174_28477_2051.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24173,
+   "title": "BTS 컴백 공연을 위한 대규모 공공 인력 투입, 적절한 조치였을까?",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "조유현 기자",
+    "한정우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24173_28476_1850.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24172,
+   "title": "‘1,000만 조회수’ 대학원생노예06호를 만나다",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김태린 기자",
+    "김민하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24172_28475_1651.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24171,
+   "title": "인류가 우주로 향하는 여정을 이끌다, 이정락 동문을 만나다",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김범준 기자",
+    "김민하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24171_28474_150.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24170,
+   "title": "양자컴퓨터: 과장과 기대 사이에서",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "이문주 / 전자 부교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24170_28472_1241.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24169,
+   "title": "포항공대신문 40기 수습기자를 소개합니다",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24169_28470_545.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 24168,
+   "title": "각주를 다는 일",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "김민하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24168_28469_5937.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 24167,
+   "title": "편견 없는 수용이 기자가 되기까지",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "박단아 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24167_28468_5849.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 24166,
+   "title": "독자를 위한 글의 여백",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "조준혁 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24166_28467_5549.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 24165,
+   "title": "어지러움",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "오현준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24165_28466_5251.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 24164,
+   "title": "이어폰을 뺀다",
+   "published": "2026-04-29T09:35:00+09:00",
+   "category": "수습기자의 다짐",
+   "bylines": [
+    "조아훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202604/24164_28465_5041.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N31",
+   "subSectionName": "수습기자의 다짐"
+  },
+  {
+   "id": 24162,
+   "title": "현대인에게 종교는 어떤 의미를 갖는가?",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "김준희/수학 22"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 24161,
+   "title": "제474호 ‘책과 AI의 공존, 출판 업계에 새로운 봄이 올까?’를 읽고",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김준영/반도체 25"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 24160,
+   "title": "모두가 자기계발서를 쓰고 싶어 하지",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 24159,
+   "title": "QS 랭킹으로 보는 우리대학 40주년의 과제",
+   "published": "2026-04-29T09:30:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {
+  "24182": []
+ }
+}

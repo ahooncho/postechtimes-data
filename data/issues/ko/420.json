@@ -1,0 +1,392 @@
+{
+ "edition": "ko",
+ "number": 420,
+ "published": "2020-09-03T15:48:00+09:00",
+ "lastUpload": "2020-09-03T16:23:00+09:00",
+ "articles": [
+  {
+   "id": 21363,
+   "title": "재확산하는 코로나19, 결국 2학기도 비대면 개강",
+   "published": "2020-09-03T16:23:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21363_26200_2317.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21362,
+   "title": "이월되는 총학생회비, 다음 학기에 어떻게 사용될까",
+   "published": "2020-09-03T16:22:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "문병필",
+    "최수영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21362_26199_2221.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21361,
+   "title": "암세포 ‘표적 단백질’ 분해제 개발",
+   "published": "2020-09-03T16:20:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21360,
+   "title": "우리대학-CJ제일제당 산학협력 맺어",
+   "published": "2020-09-03T16:20:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21359,
+   "title": "원자구조 이미징 통해 물질 합성의 근원 밝혀",
+   "published": "2020-09-03T16:19:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21358,
+   "title": "전자전기공학과 박준호 박사, IEEE 전파 분야서 수상",
+   "published": "2020-09-03T16:18:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21357,
+   "title": "우리대학 ICT혁신인재4.0사업 선정",
+   "published": "2020-09-03T16:18:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21357_26198_1754.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21356,
+   "title": "포항시 버스 노선 개편으로 편해진 이동",
+   "published": "2020-09-03T16:16:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김상수 객원기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21355,
+   "title": "우리대학 기초연구지원 리더연구 4명, 우수연구센터 1개 선정",
+   "published": "2020-09-03T16:15:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21355_26197_1444.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21354,
+   "title": "전례 없는 비대면 수업, 변화하는 우리대학",
+   "published": "2020-09-03T16:14:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김종은",
+    "손도원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21354_26196_1350.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21353,
+   "title": "우리대학에서 발생하는 쓰레기, 어떻게 처리하고 있을까?",
+   "published": "2020-09-03T16:12:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "손도원",
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21353_26195_1217.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21352,
+   "title": "생활관 새로운 2인실 운영정책 논란, 앞으로의 방침은?",
+   "published": "2020-09-03T16:11:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이태훈",
+    "최수영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21351,
+   "title": "코로나19가 바꾼 일상, 새로운 사회 만들다",
+   "published": "2020-09-03T16:10:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21351_26194_933.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21350,
+   "title": "새로운 소비문화, 구독경제",
+   "published": "2020-09-03T16:09:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21350_26193_829.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21349,
+   "title": "제420호 Humans of POSTECH",
+   "published": "2020-09-03T16:03:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21349_26191_527.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21348,
+   "title": "코로나19보다 빠르게 퍼지는 전염병 ‘인포데믹’과의 전쟁",
+   "published": "2020-09-03T16:02:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김지원 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21348_26189_219.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21347,
+   "title": "수돗물을 둘러싼 논란, 그 과정을 살펴보다",
+   "published": "2020-09-03T16:01:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21347_26188_116.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21346,
+   "title": "자연모사 에너지 소재 개발: 나뭇잎 모사 물 분해 나노촉매",
+   "published": "2020-09-03T16:00:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "용기중 / 화공 교수",
+    "김도경 / 화공 통합"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21346_26187_05.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21345,
+   "title": "때로는 이성이 아닌 감성으로",
+   "published": "2020-09-03T15:58:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21345_26186_5748.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 21344,
+   "title": "글쓰기 스승 ‘백일홍 나무’",
+   "published": "2020-09-03T15:56:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "남궁 덕 / 교육혁신센터 대우교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 21343,
+   "title": "대기업 인턴의 하루",
+   "published": "2020-09-03T15:56:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "이유진 / 화공 18"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 21342,
+   "title": "제419호 ‘등록금 반환 요구, 우리대학은 어떻게?’를 읽고",
+   "published": "2020-09-03T15:55:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "조용빈 / 무은재 19"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 21341,
+   "title": "상식이라는 기준 앞에서",
+   "published": "2020-09-03T15:54:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21340,
+   "title": "흘러가는 삶",
+   "published": "2020-09-03T15:53:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21339,
+   "title": "교육과 방역, 포기할 수 없는 두 과제",
+   "published": "2020-09-03T15:52:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21338,
+   "title": "코로나19 예방을 위한 모두의 노력",
+   "published": "2020-09-03T15:52:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21338_26185_523.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 21337,
+   "title": "제420호 형산만평",
+   "published": "2020-09-03T15:48:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202009/21337_26184_4833.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

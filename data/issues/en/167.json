@@ -1,0 +1,220 @@
+{
+ "edition": "en",
+ "number": 167,
+ "published": "2023-09-06T11:12:00+09:00",
+ "lastUpload": "2023-09-06T11:40:00+09:00",
+ "articles": [
+  {
+   "id": 22685,
+   "title": "Inauguration of the New President, Seong Keun Kim",
+   "published": "2023-09-06T11:40:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22685_27261_1930.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22684,
+   "title": "New Semester, New Campus, New Service",
+   "published": "2023-09-06T11:39:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22684_27262_5619.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22683,
+   "title": "Replicating the Internal Environment of a Lung Cancer Patient’s Body",
+   "published": "2023-09-06T11:37:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Jeong Ye-ji"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22683_27263_019.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22682,
+   "title": "Stretchable Electronic Skin with Chameleon-like Properties",
+   "published": "2023-09-06T11:35:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22681,
+   "title": "Affirmative Action",
+   "published": "2023-09-06T11:33:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22681_27265_350.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22680,
+   "title": "Jamboree in Korea - Global Controversy",
+   "published": "2023-09-06T11:32:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22680_27264_39.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22679,
+   "title": "Interview with the New President: His Vision and Prioritizing Values",
+   "published": "2023-09-06T11:31:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Jeong Ye-ji",
+    "Yim O-jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22679_27238_2857.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22678,
+   "title": "General Affairs and Safety – Prioritizing Safety at POSTECH",
+   "published": "2023-09-06T11:28:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22678_27266_440.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22677,
+   "title": "Column: Connections — Small, Medium, Large, and Special",
+   "published": "2023-09-06T11:26:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Brent Myers (HSS)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22677_27267_552.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22676,
+   "title": "Inaugural Address by President Seong Keun Kim",
+   "published": "2023-09-06T11:23:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "President Seong Keun Kim"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22676_27268_719.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22675,
+   "title": "Opinions on Japanese Nuclear-Treated Water Release",
+   "published": "2023-09-06T11:20:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Jin-Seong"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22675_27269_1315.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22674,
+   "title": "Disclosure of Criminal Information and Problems",
+   "published": "2023-09-06T11:18:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Yang Seo-Yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22674_27232_1739.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22673,
+   "title": "Minerva Blowing Innovation into K-Education",
+   "published": "2023-09-06T11:16:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Yoon Ju-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22673_27231_1517.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22672,
+   "title": "Tipping Culture's Emergence and Impact",
+   "published": "2023-09-06T11:14:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Jin-ho"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22672_27270_1455.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22671,
+   "title": "Postechian’s Pick: Verity",
+   "published": "2023-09-06T11:12:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22671_27271_1533.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

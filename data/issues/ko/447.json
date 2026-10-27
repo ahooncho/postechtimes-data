@@ -1,0 +1,226 @@
+{
+ "edition": "ko",
+ "number": 447,
+ "published": "2023-09-27T07:12:00+09:00",
+ "lastUpload": "2023-09-27T08:52:00+09:00",
+ "articles": [
+  {
+   "id": 22748,
+   "title": "뜨거웠던 제20회 포카전, 졌지만 잘 싸웠다",
+   "published": "2023-09-27T08:52:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "강호연",
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22748_27316_5455.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22747,
+   "title": "2023 포카전 사진기사(1)",
+   "published": "2023-09-27T07:40:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22747_27311_3853.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 22746,
+   "title": "2023 포카전 사진기사(2)",
+   "published": "2023-09-27T07:38:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22746_27308_3739.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 22745,
+   "title": "2023 포카전 사진기사(3)",
+   "published": "2023-09-27T07:37:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22745_27304_3555.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 22743,
+   "title": "“과학자들에게 존중을” R&D 예산 삭감 성명 우리대학 참여",
+   "published": "2023-09-27T07:31:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22743_27301_3056.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22742,
+   "title": "‘글로벌 반도체 차세대 리더 육성’ 반도체공학과 개소식",
+   "published": "2023-09-27T07:30:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22741,
+   "title": "오승수 교수팀, 특정 이온 선택적 투과 가능 막 개발",
+   "published": "2023-09-27T07:29:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정원형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22740,
+   "title": "컴퓨터공학과 통합과정생, APNOMS 2023 최우수논문상 수상",
+   "published": "2023-09-27T07:29:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "정유현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22739,
+   "title": "우리대학 나노융합기술원, 독일 프라운호퍼 IISB 연구소 간 MOA 체결",
+   "published": "2023-09-27T07:28:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이주형",
+    "정원형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22738,
+   "title": "친환경소재대학원 개소",
+   "published": "2023-09-27T07:28:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22738_27300_280.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22737,
+   "title": "그날을 위해 흘렸던 땀방울",
+   "published": "2023-09-27T07:27:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강호연",
+    "고평강",
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22737_27297_2519.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22736,
+   "title": "한 수 한 수, 침착하게",
+   "published": "2023-09-27T07:24:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "강민영",
+    "김윤철",
+    "이이수",
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22736_27293_220.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22735,
+   "title": "4차원 현미경 기술, 페로브스카이트의 비밀을 파헤치다",
+   "published": "2023-09-27T07:17:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "조창순 / 신소재 조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22735_27289_162.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22734,
+   "title": "세상을 바로잡는 과학적인 방법",
+   "published": "2023-09-27T07:13:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22733,
+   "title": "제447호 형산만평",
+   "published": "2023-09-27T07:12:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202309/22733_27288_129.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

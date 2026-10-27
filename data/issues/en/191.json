@@ -1,0 +1,248 @@
+{
+ "edition": "en",
+ "number": 191,
+ "published": "2025-12-03T10:33:00+09:00",
+ "lastUpload": "2025-12-03T10:52:00+09:00",
+ "articles": [
+  {
+   "id": 23902,
+   "title": "Two choices for Academic Recovery : Drop or Retake",
+   "published": "2025-12-03T10:52:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23902_28254_5250.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23901,
+   "title": "Translating Research into Three-Minute Language : Let Me Introduce My Research",
+   "published": "2025-12-03T10:52:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23901_28253_5143.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23900,
+   "title": "Self-Restoring Battery Unveiled",
+   "published": "2025-12-03T10:51:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23899,
+   "title": "Self-Healing Bacteria Uncovered : Paving the Way for Next-Gen Antibiotics",
+   "published": "2025-12-03T10:50:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Do-yoon"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23898,
+   "title": "Cloudflare Error Triggers Global Internet Outage",
+   "published": "2025-12-03T10:49:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23898_28252_4941.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23897,
+   "title": "Heritage vs Redevelopment: Is There a Middle Ground?",
+   "published": "2025-12-03T10:49:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23897_28251_4859.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23896,
+   "title": "Considering Studying Abroad? The Study Abroad Fair is Now Here for You",
+   "published": "2025-12-03T10:48:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Ri-ahn"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23896_28250_4816.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23895,
+   "title": "Just STARTUP It! - 2025 POSTECH Startup Competition",
+   "published": "2025-12-03T10:47:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Do-yoon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23895_28249_476.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23894,
+   "title": "POSTECH Microscope: The 40th Dormitory Union Leadership",
+   "published": "2025-12-03T10:46:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23894_28248_4418.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23892,
+   "title": "Political Apathy Among the Youth Population",
+   "published": "2025-12-03T10:42:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Prof. Hoiok Jeong",
+    "Joongi Park (MSE)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23892_28247_4326.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23891,
+   "title": "Hours of Effort and Moments of Recognition",
+   "published": "2025-12-03T10:38:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Ha Seung-jae (CSE 23)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23891_28244_3825.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23890,
+   "title": "Reporter Column : Laying the Last Building Block",
+   "published": "2025-12-03T10:37:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park So-mang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23890_28243_3726.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23889,
+   "title": "APEC 2025 in Gyeongju : Multilateral Rhetoric, Bilateral Reality",
+   "published": "2025-12-03T10:36:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23889_28242_3611.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23888,
+   "title": "Gentrification: Why Trendy Spots Do Not Last Long",
+   "published": "2025-12-03T10:35:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Tae Jong-hyeok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23888_28241_3525.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23887,
+   "title": "Why are Koreans Obsessed with Baseball?",
+   "published": "2025-12-03T10:34:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Baek Seon-been"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23887_28240_3439.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23886,
+   "title": "Earning a Living or Staying Alive? : Efficiency and Profit Compromising Safety",
+   "published": "2025-12-03T10:34:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Im Yu-jin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23886_28239_3358.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23885,
+   "title": "Postechian's Pick : The Greenhouse at the End of the World",
+   "published": "2025-12-03T10:33:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kwon Moon-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202512/23885_28238_3246.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

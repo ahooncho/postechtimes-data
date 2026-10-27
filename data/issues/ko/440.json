@@ -1,0 +1,332 @@
+{
+ "edition": "ko",
+ "number": 440,
+ "published": "2023-01-07T00:06:00+09:00",
+ "lastUpload": "2023-01-07T00:15:00+09:00",
+ "articles": [
+  {
+   "id": 22420,
+   "title": "더 환하게 세상을 비출 우리대학을 그리며",
+   "published": "2023-01-07T00:15:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22420_27006_316.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22419,
+   "title": "2023년, 더 큰 행복을 만들어갑시다",
+   "published": "2023-01-07T00:15:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202308/22419_27223_221.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22418,
+   "title": "심장에 밀착하는 심근경색 치료 패치 개발",
+   "published": "2023-01-07T00:14:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22417,
+   "title": "우리대학, 안전한 산업환경 구축 앞장설 산업안전 인공지능 연구센터 개소",
+   "published": "2023-01-07T00:14:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22416,
+   "title": "열 증착으로 경제적·친환경적 반도체 공정 개발",
+   "published": "2023-01-07T00:14:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "안윤겸 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22415,
+   "title": "마리나 비아조프스카 교수 초청 ‘필즈 심포지엄’ 개최",
+   "published": "2023-01-07T00:13:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "박준우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22414,
+   "title": "AI Intensive Course 인증제 본격 도입",
+   "published": "2023-01-07T00:13:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22413,
+   "title": "우리대학 예비창업팀 ‘에코텍트’, 실력 인정받아",
+   "published": "2023-01-07T00:13:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "강민영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22412,
+   "title": "체인지업 그라운드에 메타버스 창업 공간 생겨",
+   "published": "2023-01-07T00:13:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "조원준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202308/22412_27226_3326.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22411,
+   "title": "올해부터 21동만 RC로 남는다",
+   "published": "2023-01-07T00:12:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "손유민",
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22411_27007_320.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22410,
+   "title": "함께 도약하는 2023년 되길",
+   "published": "2023-01-07T00:12:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202308/22410_27224_2429.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22409,
+   "title": "날아갈 준비는 됐는가",
+   "published": "2023-01-07T00:11:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202308/22409_27225_2714.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22408,
+   "title": "MZ세대를 홀린 네이버 블로그의 부활",
+   "published": "2023-01-07T00:11:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "탁영채 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22408_27003_2854.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22407,
+   "title": "올해부터 유통기한 사라진다 … 소비기한 도입",
+   "published": "2023-01-07T00:10:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22407_27004_2913.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22406,
+   "title": "기분이 태도가 되지 말자",
+   "published": "2023-01-07T00:09:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "최대현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22406_27002_2534.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22405,
+   "title": "함께 공부하며 성장하자",
+   "published": "2023-01-07T00:09:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "윤은영 / 컴공 대우교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22404,
+   "title": "종착지 없는 산책이 줄 수 있는 것들",
+   "published": "2023-01-07T00:08:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "이현아 / 화공 20"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22403,
+   "title": "제439호 ‘일은 삶의 일부분일 뿐, 조용한 사직’을 읽고",
+   "published": "2023-01-07T00:08:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "한경찬 / 수학 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22402,
+   "title": "익명성 뒤에 숨은 이들에게",
+   "published": "2023-01-07T00:07:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "고평강 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22401,
+   "title": "당신은 미디어를 ‘감상’하나요",
+   "published": "2023-01-07T00:07:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "손유민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22400,
+   "title": "과학기술 윤리 문제에 미리 대응하자",
+   "published": "2023-01-07T00:06:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22399,
+   "title": "스크리밍데이로 시험 스트레스 날려버리다",
+   "published": "2023-01-07T00:06:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22399_27001_2455.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22398,
+   "title": "제440호 형산만평",
+   "published": "2023-01-07T00:06:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202301/22398_27000_2424.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,321 @@
+{
+ "edition": "ko",
+ "number": 424,
+ "published": "2021-05-18T04:24:00+09:00",
+ "lastUpload": "2021-05-18T05:44:00+09:00",
+ "articles": [
+  {
+   "id": 21593,
+   "title": "세계로 향할 포스테키안들의 꿈을 펼치며",
+   "published": "2021-05-18T05:44:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김종은 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21593_26356_4423.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21592,
+   "title": "우리대학 국립대 전환 논란에 담긴 오해와 진실",
+   "published": "2021-05-18T05:43:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "손도원 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 21590,
+   "title": "총장 식사",
+   "published": "2021-05-18T05:42:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21590_26355_428.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 21589,
+   "title": "이사장 치사",
+   "published": "2021-05-18T05:41:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21589_26354_413.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 21588,
+   "title": "세상에서 가장 밝은 빛 밝히다",
+   "published": "2021-05-18T05:38:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21587,
+   "title": "생체친화적 소재의 미세섬유화를 통한 뇌동맥류 치료법 개발",
+   "published": "2021-05-18T05:37:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21586,
+   "title": "질산리튬 보호막으로 폭발 없는 배터리 만든다",
+   "published": "2021-05-18T05:37:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 21585,
+   "title": "WI 폐지, 21학번부터 바뀌는 졸업요건",
+   "published": "2021-05-18T05:36:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "백다현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21585_26353_3623.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21584,
+   "title": "비대면 수업 위협하는 DDoS 공격",
+   "published": "2021-05-18T05:34:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "장유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 21583,
+   "title": "새롭게 탄생한 우리대학 지식의 용광로",
+   "published": "2021-05-18T05:33:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박은하",
+    "손도원",
+    "장유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21583_26350_3110.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21580,
+   "title": "자신의 꿈을 향해 전진하는 연구자가 되길",
+   "published": "2021-05-18T04:59:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "손주현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21580_26347_5858.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21579,
+   "title": "연구자가 되기 위해 지켜야 할 두 가지",
+   "published": "2021-05-18T04:57:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김상수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21579_26346_5733.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21578,
+   "title": "레이스가 아닌 자신만의 페이스로 달려 나가길",
+   "published": "2021-05-18T04:53:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "박지우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21578_26345_5311.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21577,
+   "title": "가장 높이 나는 새가 가장 멀리 본다",
+   "published": "2021-05-18T04:51:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21577_26344_5110.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21576,
+   "title": "각자의 마라톤, 무사히 마치길",
+   "published": "2021-05-18T04:38:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "유민재 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21576_26343_3848.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21575,
+   "title": "자신이 진정 가고 싶은 길을 가길",
+   "published": "2021-05-18T04:37:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "이태훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21575_26342_375.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21574,
+   "title": "‘바늘구멍’도 옛말··· 코로나19로 꽉 막힌 취업 문",
+   "published": "2021-05-18T04:35:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김지원",
+    "박지우 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21574_26341_3528.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21573,
+   "title": "원조 소셜 미디어 싸이월드, 메타버스 플랫폼으로 돌아온다",
+   "published": "2021-05-18T04:33:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "소예린",
+    "안윤겸 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21573_26340_3319.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21572,
+   "title": "우리는 왜 싸울까",
+   "published": "2021-05-18T04:27:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "문병필 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 21571,
+   "title": "나만의 방구석 여행기",
+   "published": "2021-05-18T04:26:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "소예린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 21570,
+   "title": "졸업생 여러분의 행복한 삶을 위하여",
+   "published": "2021-05-18T04:24:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 21569,
+   "title": "제424호 형산만평",
+   "published": "2021-05-18T04:24:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202105/21569_26339_2433.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

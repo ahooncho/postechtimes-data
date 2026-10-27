@@ -1,0 +1,403 @@
+{
+ "edition": "ko",
+ "number": 464,
+ "published": "2025-03-26T18:10:00+09:00",
+ "lastUpload": "2025-03-26T20:34:00+09:00",
+ "articles": [
+  {
+   "id": 23625,
+   "title": "최신 에너지 기술의 중심으로, 2025 ARPA-E Energy Innovation Summit 학생 파견단",
+   "published": "2025-03-26T20:34:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23625_28016_3355.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23624,
+   "title": "미래 인재 육성 및 대학 구성원을 위한 직장어린이집 준공 기념식",
+   "published": "2025-03-26T20:32:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23624_28015_3242.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 23623,
+   "title": "혈류 변화 정밀 관찰 가능한 핵심 기술 개발",
+   "published": "2025-03-26T20:31:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23622,
+   "title": "집념으로 일궈낸 초광안정적 유기형광분자 개발",
+   "published": "2025-03-26T20:31:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23621,
+   "title": "제3기 해오름동맹 지역 대학 R&D 공동연구사업 협약 체결식 및 원자력혁신센터 개소식 개최",
+   "published": "2025-03-26T20:30:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 23620,
+   "title": "양자 각운동량 동역학 연구센터 개소식",
+   "published": "2025-03-26T20:29:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23620_28014_2919.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23619,
+   "title": "2025 상반기 융합부·복수전공 설명회 개최",
+   "published": "2025-03-26T20:28:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23619_28013_2815.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 23618,
+   "title": "10주년을 맞은 POPO, 현황과 앞으로의 계획은",
+   "published": "2025-03-26T20:27:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23618_28012_2625.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23616,
+   "title": "저마다의 빛을 발하다, 2025 포스테키안의 동아리는",
+   "published": "2025-03-26T20:25:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김태린",
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23616_28011_2310.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23615,
+   "title": "타인의 불행을 행복으로 여기는 사람들",
+   "published": "2025-03-26T20:21:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "양지윤 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23614,
+   "title": "트럼프발(發) 관세 전쟁, 글로벌 무역의 운명은",
+   "published": "2025-03-26T20:20:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "강호연 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23614_28009_207.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23613,
+   "title": "새로운 지역의 패러다임, 로코노미",
+   "published": "2025-03-26T20:19:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23613_28008_3350.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23612,
+   "title": "위고비 이후, 차세대 비만 치료법은?",
+   "published": "2025-03-26T20:17:00+09:00",
+   "category": "과학",
+   "bylines": [
+    "양지윤 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23612_28007_173.jpg",
+   "sectionCode": "S1N31",
+   "sectionName": "과학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23611,
+   "title": "천 년의 기억을 품은 교토에서 바라본 일본",
+   "published": "2025-03-26T20:15:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "김수진",
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23611_28006_1115.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 23609,
+   "title": "교토대에서 만난 자유로움",
+   "published": "2025-03-26T20:09:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23609_28005_811.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 23608,
+   "title": "에너지는 자원·지질·정치 복합적 문제, 체계적으로 접근해야",
+   "published": "2025-03-26T20:07:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23608_28004_638.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 23606,
+   "title": "이론과 실험의 교차점에서 새로운 해답을 찾다",
+   "published": "2025-03-26T20:05:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "정혜정 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23606_28003_414.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 23605,
+   "title": "교토대에서 국제 교류를 묻다",
+   "published": "2025-03-26T20:03:00+09:00",
+   "category": "르포",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23605_28002_213.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N32",
+   "subSectionName": "르포"
+  },
+  {
+   "id": 23604,
+   "title": "단백질 세상 힘의 법칙으로 보는 생물물리학",
+   "published": "2025-03-26T19:54:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "손민주 / 물리·시스템생명 부교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23604_28000_5220.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 23602,
+   "title": "정부출연연구기관 공동채용 설명회 개최",
+   "published": "2025-03-26T19:50:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23602_27999_507.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 23601,
+   "title": "무한한 열정의 우주 속 ‘나’라는 별",
+   "published": "2025-03-26T18:19:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "양지윤 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23601_27998_1748.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 23600,
+   "title": "아포칼립스: 돈 바이러스",
+   "published": "2025-03-26T18:16:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "김원화 / 컴공 부교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 23599,
+   "title": "AI 시대의 연구자가 지녀야 할 마음가짐에 대해",
+   "published": "2025-03-26T18:15:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "최선우 / 수학 21"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 23598,
+   "title": "제463호 ‘재수 필수, 삼수는 선택’을 읽고",
+   "published": "2025-03-26T18:14:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "김태림 / 무은재 25"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 23597,
+   "title": "상대적인 것과 절대적인 것",
+   "published": "2025-03-26T18:13:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 23596,
+   "title": "개구리가 우물을 벗어나는 법",
+   "published": "2025-03-26T18:12:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 23595,
+   "title": "2026학번 외국인 포스테키안들을 맞는 우리들의 자세",
+   "published": "2025-03-26T18:11:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 23594,
+   "title": "제464호 형산만평",
+   "published": "2025-03-26T18:10:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202503/23594_27997_946.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

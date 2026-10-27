@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 153,
+ "published": "2022-03-29T02:31:00+09:00",
+ "lastUpload": "2022-03-29T03:05:00+09:00",
+ "articles": [
+  {
+   "id": 22006,
+   "title": "POSTECH Ready to Welcome Postechians on Campus",
+   "published": "2022-03-29T03:05:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/22006_26667_521.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22005,
+   "title": "Building Renovations Underway",
+   "published": "2022-03-29T03:02:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/22005_26666_215.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22004,
+   "title": "Use of Big Data Analytics to Create Improved Animal Models",
+   "published": "2022-03-29T03:00:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/22004_26664_028.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22003,
+   "title": "Metasurface-Driven Optical Encryption Device Using Visible and Ultraviolet Lights Developed",
+   "published": "2022-03-29T02:58:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/22003_26663_584.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22002,
+   "title": "Light Pollution Caused by Satellites Threatens Dark and Quiet Night Sky",
+   "published": "2022-03-29T02:57:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Yim O-Jung"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/22002_26662_5711.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22001,
+   "title": "Metaverse is The Next Generation of The Internet",
+   "published": "2022-03-29T02:56:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/22001_26661_563.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22000,
+   "title": "POSTECH’s Entrepreneurial Opportunities: All You Have to Do Is Start",
+   "published": "2022-03-29T02:54:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/22000_26660_5444.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21999,
+   "title": "Work to Uproot Power-Tripping in POSTECH",
+   "published": "2022-03-29T02:53:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21999_26669_1639.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21998,
+   "title": "POSTECH Microscope: Grand Prize Winners of the UGRP",
+   "published": "2022-03-29T02:52:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21998_26658_5133.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21997,
+   "title": "As a POSTECHIAN, I Just Grabbed ‘a’ Chance",
+   "published": "2022-03-29T02:49:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21997_26656_4740.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21996,
+   "title": "How to Get Out of Burnout Syndrome",
+   "published": "2022-03-29T02:46:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21995,
+   "title": "The Fable of the Dragon-Tyrant",
+   "published": "2022-03-29T02:45:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21995_26655_4510.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21994,
+   "title": "The Russo-Ukrainian War",
+   "published": "2022-03-29T02:43:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Seung-ah"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21994_26654_439.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21993,
+   "title": "Telehealth: New Page in the Health System",
+   "published": "2022-03-29T02:42:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Geun-seok"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21993_26652_3849.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21992,
+   "title": "Can NFTs and Blockchain Really Decentralize the Web?",
+   "published": "2022-03-29T02:37:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Won John"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21992_26650_3647.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21991,
+   "title": "The Grave Possibility of Stagflation in Korea in 2022",
+   "published": "2022-03-29T02:32:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Lee Ji-Hwan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21991_26668_1419.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21990,
+   "title": "Postechian’s Pick: Extremely Loud and Incredibly Close",
+   "published": "2022-03-29T02:31:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Kim San"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202203/21990_26649_3122.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

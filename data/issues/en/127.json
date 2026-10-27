@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 127,
+ "published": "2019-02-28T02:29:00+09:00",
+ "lastUpload": "2019-02-28T02:52:00+09:00",
+ "articles": [
+  {
+   "id": 20686,
+   "title": "2019 POSTECH Matriculation Ceremony",
+   "published": "2019-02-28T02:52:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20686_25625_644.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20685,
+   "title": "First Step Together",
+   "published": "2019-02-28T02:51:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20685_25576_5050.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20684,
+   "title": "Professor Kim Nack-joon of GIFT, appointed as Fellow of TMS",
+   "published": "2019-02-28T02:50:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20684_25575_509.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20683,
+   "title": "Next Generation Memory CBRAM Improved by Nitrogen Doping",
+   "published": "2019-02-28T02:49:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20683_25574_4933.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20682,
+   "title": "Freshmen Orientation",
+   "published": "2019-02-28T02:48:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20682_25587_4640.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20681,
+   "title": "POSTECH Course for Civilization Citizens Starts",
+   "published": "2019-02-28T02:47:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20681_25624_530.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20680,
+   "title": "Application of Metamatrials to Next Generation Displays Suggested",
+   "published": "2019-02-28T02:46:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20680_25572_4642.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20679,
+   "title": "Doctor Who Put Others’ Lives First Before Himself",
+   "published": "2019-02-28T02:45:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20679_25589_4940.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20678,
+   "title": "“Abuse of Power” within Graduate Schools",
+   "published": "2019-02-28T02:43:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20678_25570_4345.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20677,
+   "title": "Is Our Campus Environmental-Friendly?",
+   "published": "2019-02-28T02:43:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20677_25569_430.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20676,
+   "title": "POSTECH MICROSCOPE: Chairman of the Advisory Committee for the Freshman Orientation",
+   "published": "2019-02-28T02:42:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20676_25568_420.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20675,
+   "title": "Reflection upon ‘SKY Castle’",
+   "published": "2019-02-28T02:40:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Pepsineken (Anonymous)"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20675_25586_4556.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20674,
+   "title": "Words of an Editor-in-Chief",
+   "published": "2019-02-28T02:39:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20674_25588_4727.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20673,
+   "title": "No Longer Fresh",
+   "published": "2019-02-28T02:38:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20673_25567_3824.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20672,
+   "title": "Pay the Same, Get the Same?",
+   "published": "2019-02-28T02:37:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20672_25566_3735.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20671,
+   "title": "Disparity Between the Rich and the Poor Increasing",
+   "published": "2019-02-28T02:30:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20671_25565_3012.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20670,
+   "title": "Japanese Aircraft Provokes S. Korea Navy",
+   "published": "2019-02-28T02:29:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20670_25564_2928.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

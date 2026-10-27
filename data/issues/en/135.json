@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 135,
+ "published": "2019-11-08T15:02:00+09:00",
+ "lastUpload": "2019-11-08T15:27:00+09:00",
+ "articles": [
+  {
+   "id": 21061,
+   "title": "Student Leadership Election Held",
+   "published": "2019-11-08T15:27:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21061_25973_2733.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21060,
+   "title": "Halloween Party at Student Union Building",
+   "published": "2019-11-08T15:17:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21060_25972_1723.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21059,
+   "title": "POSTECH-Far Eastern Federal University Conclude MOU",
+   "published": "2019-11-08T15:16:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21059_25971_1620.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21058,
+   "title": "POSTECH Leads Regional Co-Prosperity with ‘AI-Maker Education’",
+   "published": "2019-11-08T15:15:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21058_25970_1533.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21057,
+   "title": "Discover of Intestine Microbial Signal Transmission Pathway",
+   "published": "2019-11-08T15:14:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21057_25969_1449.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21056,
+   "title": "POSTECH Landmark Photo Exhibition",
+   "published": "2019-11-08T15:14:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21056_25968_1357.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21055,
+   "title": "The Woman Who Rebelled Against Korean Society",
+   "published": "2019-11-08T15:13:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21055_25967_138.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21054,
+   "title": "The 10th Anniversary Thoughts",
+   "published": "2019-11-08T15:12:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21054_25966_1145.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21053,
+   "title": "POSTECH Microscope: Life at DICE",
+   "published": "2019-11-08T15:10:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21053_25965_1041.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21052,
+   "title": "Global Warming Intensifies High-Impact Weather Extremes",
+   "published": "2019-11-08T15:09:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21052_25964_923.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21051,
+   "title": "Are You Okay with China’s Cultural Censorship?",
+   "published": "2019-11-08T15:08:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21051_25963_833.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21050,
+   "title": "Life Goals",
+   "published": "2019-11-08T15:07:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21050_25962_726.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21049,
+   "title": "What Is HIFU?",
+   "published": "2019-11-08T15:06:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21049_25961_641.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21048,
+   "title": "Arrest Warrants for Kolon Executives for Fabricating Invossa Data",
+   "published": "2019-11-08T15:05:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21048_25960_542.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21047,
+   "title": "German’s Reluctant Hegemony",
+   "published": "2019-11-08T15:04:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21047_25959_429.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21046,
+   "title": "Problem with Korean Film Ratings",
+   "published": "2019-11-08T15:03:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21046_25958_345.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 21045,
+   "title": "Postechian’s Pick : Bodied—Battle Rap and Hip-Hop Culture",
+   "published": "2019-11-08T15:02:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201911/21045_25957_243.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,359 @@
+{
+ "edition": "ko",
+ "number": 390,
+ "published": "2017-12-06T01:01:00+09:00",
+ "lastUpload": "2017-12-06T13:47:00+09:00",
+ "articles": [
+  {
+   "id": 10035,
+   "title": "수면 위로 올라온 동아리 단톡방 성희롱 사건",
+   "published": "2017-12-06T13:47:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "김희진 기자 장호중 기자 황성진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10034,
+   "title": "2017학년도 총여학생회장단, 생활관자치회장단 선거 실시",
+   "published": "2017-12-06T13:40:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "박지후 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 10033,
+   "title": "제1회 POSTECH-UNIST 친선 조정경기 개최",
+   "published": "2017-12-06T13:38:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "정유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10032,
+   "title": "모두가 즐긴 다채로운 졸업파티",
+   "published": "2017-12-06T13:37:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "백승헌 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10031,
+   "title": "치어로, 평창동계올림픽 응원 경연 대회 입상",
+   "published": "2017-12-06T13:37:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10030,
+   "title": "'포항 사이언스 페스티벌 2017' 개최",
+   "published": "2017-12-06T13:37:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10029,
+   "title": "영어인증제에서 영어프로그램으로, 무엇이 바뀌나?",
+   "published": "2017-12-06T13:28:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박준현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10027,
+   "title": "포항서 규모 5.4 지진 발생",
+   "published": "2017-12-06T13:23:00+09:00",
+   "category": "보도",
+   "bylines": [
+    "백승헌 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10026,
+   "title": "[형산강 수은 문제] 형산강이 울고 있다",
+   "published": "2017-12-06T13:06:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김휘 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10025,
+   "title": "[형산강 수은 문제] 우리대학은 안전한가",
+   "published": "2017-12-06T13:05:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김건창 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10024,
+   "title": "[형산강 수은 문제] 차분하지만 강력한 대처 필요해",
+   "published": "2017-12-06T12:54:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "황성진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10023,
+   "title": "아프지 말아요, 학생의료공제",
+   "published": "2017-12-06T12:30:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "박민해 기자 백승헌 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10022,
+   "title": "북한의 핵개발, 타협과 독단의 역사",
+   "published": "2017-12-06T12:28:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10021,
+   "title": "트럼프 美 대통령 방한 한 달…앞으로의 한반도 정세는",
+   "published": "2017-12-06T12:24:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김건창 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10020,
+   "title": "낮은 농도의 일산화탄소가 지닌 뇌 질환 치료 효과",
+   "published": "2017-12-06T12:21:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "최윤경 교수 / 건국대학교 융합생명공학과"
+   ],
+   "photo": null,
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10019,
+   "title": "일본군 위안부 문제 그 투쟁의 역사 - I MARYMOND YOU. 당신은 오늘도 소중하고 아름답습니다",
+   "published": "2017-12-06T01:22:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "김희진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 10018,
+   "title": "일본군 위안부 문제 그 투쟁의 역사 - 지나온 70년의 이야기",
+   "published": "2017-12-06T01:18:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 10017,
+   "title": "일본군 위안부 문제 그 투쟁의 역사 - 수요일에 모이는 사람들",
+   "published": "2017-12-06T01:16:00+09:00",
+   "category": "기획/사진",
+   "bylines": [
+    "박민해 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N37",
+   "subSectionName": "기획/사진"
+  },
+  {
+   "id": 10016,
+   "title": "[금난새 인터뷰] \"자신의 개성을 가지고 벽을 허물자\"",
+   "published": "2017-12-06T01:14:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "박지후 기자 공환석 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 10015,
+   "title": "포스텍 포지셔닝 - 교육",
+   "published": "2017-12-06T01:11:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 10014,
+   "title": "무관심의 마지노선은 어디인가",
+   "published": "2017-12-06T01:11:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "공환석 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 10013,
+   "title": "[형산만평]",
+   "published": "2017-12-06T01:08:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 10012,
+   "title": "복수전공을 쏘다",
+   "published": "2017-12-06T01:02:00+09:00",
+   "category": "독자논단",
+   "bylines": [
+    "박종현 / 전자 16"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N25",
+   "subSectionName": "독자논단"
+  },
+  {
+   "id": 10011,
+   "title": "개인과 집단",
+   "published": "2017-12-06T01:02:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "김성빈 / 생명 16"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 10010,
+   "title": "제390호 '학부총학생회 주최 10월 토의회 열려'를 읽고",
+   "published": "2017-12-06T01:01:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "최수연 / 기계 16"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  }
+ ],
+ "briefs": {}
+}

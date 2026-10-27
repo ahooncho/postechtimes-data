@@ -1,0 +1,275 @@
+{
+ "edition": "en",
+ "number": 131,
+ "published": "2019-06-13T13:00:00+09:00",
+ "lastUpload": "2019-06-13T13:29:00+09:00",
+ "articles": [
+  {
+   "id": 20904,
+   "title": "Participation of Pride Parade Discussed",
+   "published": "2019-06-13T13:29:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20904_25806_2848.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20903,
+   "title": "The Second Mueunjae Undergraduate Council Elected",
+   "published": "2019-06-13T13:27:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Chae Seung-hyun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20903_25805_2733.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20902,
+   "title": "Nano-sized Hydrogel Capturing Nitrogen Monoxide",
+   "published": "2019-06-13T13:26:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20902_25804_266.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20901,
+   "title": "Thermally stable Metal-silica Nanoparticles Synthesized",
+   "published": "2019-06-13T13:25:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20901_25803_256.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20900,
+   "title": "Biocompatible and Transparent Artificial Retina",
+   "published": "2019-06-13T13:24:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Park Hee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20900_25802_2355.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20899,
+   "title": "Excessively Attractive Technology Start-Up Competition Finished",
+   "published": "2019-06-13T13:23:00+09:00",
+   "category": "News",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20899_25801_2248.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20898,
+   "title": "Number of Single Rooms to be Increased from Next Semester",
+   "published": "2019-06-13T13:21:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20898_25800_2135.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20897,
+   "title": "A Window on Korean Politics",
+   "published": "2019-06-13T13:20:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Lee Mi-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20897_25799_2010.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20896,
+   "title": "General Elective Courses in and out of POSTECH",
+   "published": "2019-06-13T13:18:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Su-min"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20896_25798_1837.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20895,
+   "title": "Gender Equality at POSTECH",
+   "published": "2019-06-13T13:17:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "reporter Kim Min-gyu"
+   ],
+   "photo": null,
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20894,
+   "title": "POSTECH Microscope: Foreign Exchange Seminar",
+   "published": "2019-06-13T13:15:00+09:00",
+   "category": "Postech Microscope",
+   "bylines": [
+    "Reporter Lee Seung-Joo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20894_25797_1541.jpg",
+   "sectionCode": "S1N24",
+   "sectionName": "Postech Microscope",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20893,
+   "title": "Particle Physics and Basic Research at CERN",
+   "published": "2019-06-13T13:14:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Dr. Baek Yong-wook"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20893_25796_1334.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20892,
+   "title": "The Meaning of Travel",
+   "published": "2019-06-13T13:11:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "So Chan"
+   ],
+   "photo": null,
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20891,
+   "title": "Dreams Are Dreams Because They Do Not Last",
+   "published": "2019-06-13T13:09:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Kim Seo-yeon"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20891_25795_914.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20890,
+   "title": "Subminimum Wage for the Disabled",
+   "published": "2019-06-13T13:07:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Song Sung-chan"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20890_25794_725.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20889,
+   "title": "Fintech, Simple Payments and Regulations",
+   "published": "2019-06-13T13:06:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Ryu Nu-ri"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20889_25793_68.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20888,
+   "title": "Veganism Craze",
+   "published": "2019-06-13T13:03:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Park Jee-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20888_25789_39.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20887,
+   "title": "Korea’s Ban on Fukushima Seafood",
+   "published": "2019-06-13T13:02:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Choi Eun-je"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20887_25788_153.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20886,
+   "title": "Postechian’s Pick : What Defines Right and Wrong",
+   "published": "2019-06-13T13:00:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "reporter Yoon Seok-sang"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201906/20886_25787_08.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

@@ -1,0 +1,339 @@
+{
+ "edition": "ko",
+ "number": 450,
+ "published": "2024-01-01T19:56:00+09:00",
+ "lastUpload": "2024-01-01T20:32:00+09:00",
+ "articles": [
+  {
+   "id": 22880,
+   "title": "미래를 여는 등불로 거듭나는 한 해가 되길",
+   "published": "2024-01-01T20:32:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22880_27428_1646.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 22879,
+   "title": "2024년, 제2 건학의 원년으로",
+   "published": "2024-01-01T20:29:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "총장 김성근"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22879_27427_2854.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22878,
+   "title": "피닉스처럼 다시 날아오르는 포항공대를 그리며",
+   "published": "2024-01-01T20:25:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "교수평의회 의장 장영태"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22878_27425_2539.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22877,
+   "title": "중흥기로 들어서는 포스텍",
+   "published": "2024-01-01T20:25:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "제17대 총동창회장 박상태"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22877_27426_2621.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22876,
+   "title": "눈부신 내일을 꿈꾸며",
+   "published": "2024-01-01T20:24:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "제38대 총학생회장 고태영"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22876_27424_2410.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 22875,
+   "title": "김철홍·송호진 교수, 2024 IEEE 석학회원 선임",
+   "published": "2024-01-01T20:22:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22874,
+   "title": "이남훈 교수, 한국인공지능학회서 최우수논문상 수상",
+   "published": "2024-01-01T20:16:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "이재현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22873,
+   "title": "융합문명연구원, ‘포항 속의 포스텍 38년’ 출간",
+   "published": "2024-01-01T20:15:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 22872,
+   "title": "우리대학 급수 시스템을 돌아보다",
+   "published": "2024-01-01T20:15:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "손유민",
+    "정유현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22871,
+   "title": "지진에 대한 피해 보상 이뤄질까",
+   "published": "2024-01-01T20:12:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "강민영",
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22871_27423_1439.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 22870,
+   "title": "쌓여가는 소식들, 우리대학 공지 수단의 현실",
+   "published": "2024-01-01T20:10:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "고평강",
+    "강호연",
+    "정유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22870_27421_103.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22869,
+   "title": "끊이지 않는 ‘흡연 갈등’",
+   "published": "2024-01-01T20:09:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "손유민",
+    "조원준",
+    "오유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22869_27420_853.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22868,
+   "title": "법률시장 흔드는 IT기술, 리걸테크",
+   "published": "2024-01-01T20:05:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "이재현",
+    "오유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22868_27419_541.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22867,
+   "title": "‘당일 수익 500% 보장’, 투자 리딩방 사기 주의보",
+   "published": "2024-01-01T20:05:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김윤철",
+    "이이수 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22867_27418_452.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 22866,
+   "title": "다시 돌아가는 이야기",
+   "published": "2024-01-01T20:03:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "이주형 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22866_27417_38.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 22865,
+   "title": "소고기뭇국",
+   "published": "2024-01-01T20:01:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "서종철 / 화학 조교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 22864,
+   "title": "삶이라는 항해",
+   "published": "2024-01-01T20:01:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "이민주 / 무은재 23"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 22863,
+   "title": "제449호 ‘글로컬대학30 선정, 대학 혁신의 신호탄’을 읽고",
+   "published": "2024-01-01T20:00:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "정준호 / 기계 22"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 22862,
+   "title": "서울 블랙홀에 빠진 대한민국",
+   "published": "2024-01-01T19:59:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "김윤철 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 22861,
+   "title": "현대사회에 대응하는 실존주의",
+   "published": "2024-01-01T19:59:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "정유현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 22860,
+   "title": "2024년을 맞이하며",
+   "published": "2024-01-01T19:58:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 22859,
+   "title": "미리 맞는 크리스마스, 산타 in 학관",
+   "published": "2024-01-01T19:58:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "오유진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22859_27416_582.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 22858,
+   "title": "제450호 형산만평",
+   "published": "2024-01-01T19:56:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202401/22858_27415_5642.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}

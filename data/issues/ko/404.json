@@ -1,0 +1,373 @@
+{
+ "edition": "ko",
+ "number": 404,
+ "published": "2019-02-11T23:49:00+09:00",
+ "lastUpload": "2019-02-12T00:26:00+09:00",
+ "articles": [
+  {
+   "id": 20668,
+   "title": "세상 향한 포스테키안의 찬란한 첫 날갯짓",
+   "published": "2019-02-12T00:26:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20668_25563_2616.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20667,
+   "title": "대학원총학생회, 첫 외국인 학생회장 당선",
+   "published": "2019-02-12T00:25:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20667_25562_2453.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 20666,
+   "title": "빛으로 원격제어하는 인공 촉매 반응기 개발",
+   "published": "2019-02-12T00:22:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20665,
+   "title": "차형준 교수, 액상 접착물질 이용 줄기세포 전달체 개발",
+   "published": "2019-02-12T00:22:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20664,
+   "title": "우리대학 국종성·김형섭 교수 표창 수상",
+   "published": "2019-02-12T00:21:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "권재영 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 20663,
+   "title": "제1회 ‘PJ Metal Best Paper Award’ 개최",
+   "published": "2019-02-12T00:20:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "국현호 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20663_25561_2032.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20662,
+   "title": "제8대 대학원총학생회 회장 당선인 인터뷰",
+   "published": "2019-02-12T00:19:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "김상수 객원기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 20661,
+   "title": "2018학년도 학위수여식 총장 식사",
+   "published": "2019-02-12T00:17:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "김도연 / 총장"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20661_25560_1724.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 20660,
+   "title": "2018학년도 학위수여식 이사장 식사",
+   "published": "2019-02-12T00:16:00+09:00",
+   "category": "축사/식사/치사",
+   "bylines": [
+    "최정우 / 이사장"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20660_25559_1623.jpg",
+   "sectionCode": "S1N25",
+   "sectionName": "특집",
+   "subSectionCode": "S2N30",
+   "subSectionName": "축사/식사/치사"
+  },
+  {
+   "id": 20659,
+   "title": "한 겨울 밤의 꿈 이야기 (feat. 포스테키안)",
+   "published": "2019-02-12T00:15:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20659_25557_1338.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20658,
+   "title": "누군가에 의존하기보단 새로운 길을 개척하는 연구자 되길",
+   "published": "2019-02-12T00:12:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20658_25556_1228.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20657,
+   "title": "내가 어떤 일을 하고 있는지 아는 것",
+   "published": "2019-02-12T00:11:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20657_25555_1115.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20656,
+   "title": "힘든 시간이 오더라도 자기 자신에 대한 믿음을 잃지 않길",
+   "published": "2019-02-12T00:09:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김주희 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20656_25554_949.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20655,
+   "title": "인생이란 도화지에 자신만의 그림을 그려나가길",
+   "published": "2019-02-12T00:08:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20655_25553_719.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20654,
+   "title": "학부 성적에 그치지 않고 더 큰 미래 향해 나아가다",
+   "published": "2019-02-12T00:06:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "권재영 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20654_25552_629.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20653,
+   "title": "끈기와 실천력 갖춰 더 나은 세상 만들길",
+   "published": "2019-02-12T00:05:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20653_25551_527.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20652,
+   "title": "기업가정신으로 차별화된 삶의 가치 실현",
+   "published": "2019-02-12T00:02:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "서리빈 / 산경 대우조교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20652_25550_34.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 20651,
+   "title": "누구나 행복할 자격이 있다",
+   "published": "2019-02-12T00:01:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "김영현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20651_25549_110.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 20650,
+   "title": "인간의 언어습득 능력과 AI의 딥러닝: And Then What?",
+   "published": "2019-02-11T23:59:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "권수옥 / 인문 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 20649,
+   "title": "우리가 바라보는 인간관계",
+   "published": "2019-02-11T23:59:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "노유진 / 화공 16"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 20648,
+   "title": "제404호 ‘증오로 증오를 몰아낼 수는 없다’를 읽고",
+   "published": "2019-02-11T23:58:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "하현우 / 전자 16"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 20647,
+   "title": "사법 불신, 이제는 해결해야 할 때",
+   "published": "2019-02-11T23:57:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "장호중 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 20646,
+   "title": "모두 아재가 된다",
+   "published": "2019-02-11T23:56:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김성민 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 20645,
+   "title": "포스테키안의 졸업을 축하하며",
+   "published": "2019-02-11T23:56:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "."
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  },
+  {
+   "id": 20644,
+   "title": "눈 내리는 78계단 승강기 설치 공사 현장",
+   "published": "2019-02-11T23:55:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "이신범 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20644_25548_556.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 20643,
+   "title": "405호 형산만평",
+   "published": "2019-02-11T23:49:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/201902/20643_25547_495.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  }
+ ],
+ "briefs": {}
+}
