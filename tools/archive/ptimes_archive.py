@@ -501,10 +501,12 @@ def cmd_inspect(args) -> None:
     print(f"status {status} · {len(page)} chars · content-type {headers.get('Content-Type')}")
     for marker in ("article-view-content-div", "itemprop=\"articleBody\"", "<article", "<strong", "기자"):
         print(f"  {marker!r}: {page.count(marker)}")
-    i = page.find("article-view-content-div")
+    i = page.rfind("article-view-content-div")    # 첫 등장은 스크립트 안이라 마지막 등장을 봅니다
     if i >= 0:
         print("--- 본문 시작 부분 ---")
-        print(re.sub(r"\s+", " ", page[max(0, i - 200): i + 1800]))
+        print(re.sub(r"\s+", " ", page[max(0, i - 300): i + 3000]))
+    m = re.search(r'<article\b[^>]*id="article-view-content-div"[^>]*>(.*?)</article>', page, re.S)
+    print(f"--- 본문 정규식: {'일치 ' + str(len(m.group(1))) + '자' if m else '불일치'} ---")
     print(f"--- 꼭지 {len(parse_briefs(page))}개 ---")
     for b in parse_briefs(page):
         print(" ", b["title"], "|", b["reporter"], "|", len(b["paragraphs"]))
