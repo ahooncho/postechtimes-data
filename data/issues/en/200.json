@@ -1,0 +1,247 @@
+{
+ "edition": "en",
+ "number": 200,
+ "published": "2026-11-11T08:50:00+09:00",
+ "lastUpload": "2026-11-11T09:05:00+09:00",
+ "articles": [
+  {
+   "id": 24369,
+   "title": "Welcome Home: 2026 POSTECH Homecoming Day for Commemorating 40th Anniversary",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Hong Seung-hye"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24369_28638_4218.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24368,
+   "title": "Special Luncheon with POSTECH Leadership on Revamped Oasis Cafeteria",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "Headlines",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24368_28637_4118.jpg",
+   "sectionCode": "S1N28",
+   "sectionName": "Headlines",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24367,
+   "title": "Beyond the 200th Issue of The Postech Times",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24366,
+   "title": "Joonhyung AHN: Founding Editor-in-Chief for The Postech Times",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24365,
+   "title": "SF DAY at POSTECH: SF of Today, Science of Tomorrow",
+   "published": "2026-11-11T09:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Kim Tae-hee"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24365_28636_376.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24364,
+   "title": "Discussions on TA Sessions",
+   "published": "2026-11-11T09:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24364_28635_3556.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24363,
+   "title": "Chefs of POSTECH Dormitory",
+   "published": "2026-11-11T09:00:00+09:00",
+   "category": "Campus",
+   "bylines": [
+    "Reporter Sohn Ye-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24363_28634_3433.jpg",
+   "sectionCode": "S1N10",
+   "sectionName": "Campus",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24362,
+   "title": "Why Do We Live in a Recording-Obsessed Society?",
+   "published": "2026-11-11T08:55:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Hong Seung-hye"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24362_28633_3321.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24361,
+   "title": "Industry Degree Puts Doctoral Standards to the Test",
+   "published": "2026-11-11T08:55:00+09:00",
+   "category": "Feature",
+   "bylines": [
+    "Reporter Park Hyo-rin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24361_28639_4540.jpg",
+   "sectionCode": "S1N14",
+   "sectionName": "Feature",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24359,
+   "title": "Stack Atoms to Make Differences: Selective Atomic Gradients",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "News",
+   "bylines": [
+    "Reporter Choi Ji-hun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24359_28631_2813.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24358,
+   "title": "Postechian’s Lab Note: From Physics to Accelerator Engineering",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "News",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24358_28630_269.jpg",
+   "sectionCode": "S1N9",
+   "sectionName": "News",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24356,
+   "title": "Medical Imaging AI: From Technical Promise to Clinical Trust",
+   "published": "2026-11-11T09:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24356_28628_2113.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24355,
+   "title": "Postechian Column: One Team Is Proven Through Action, Not Words",
+   "published": "2026-11-11T09:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24355_28627_197.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24354,
+   "title": "Reporter Column: Too Woke to Take a Joke?",
+   "published": "2026-11-11T09:00:00+09:00",
+   "category": "Opinion",
+   "bylines": [
+    "Reporter Sohn Ye-won"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24354_28625_1721.jpg",
+   "sectionCode": "S1N13",
+   "sectionName": "Opinion",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24353,
+   "title": "Into the Ocean of Cinema: Busan International Film Festival",
+   "published": "2026-11-11T08:50:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Seo Ji-woo"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24353_28624_1556.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24352,
+   "title": "Nobel Prizes of 2026: Noble Discoveries",
+   "published": "2026-11-11T08:50:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Choi Ji-hun"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24352_28623_1411.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24351,
+   "title": "Postechian's Pick: The Stranger (2025)",
+   "published": "2026-11-11T08:50:00+09:00",
+   "category": "Culture",
+   "bylines": [
+    "Reporter Han Yeong-bin"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24351_28622_1138.jpg",
+   "sectionCode": "S1N30",
+   "sectionName": "Culture",
+   "subSectionCode": null,
+   "subSectionName": null
+  }
+ ],
+ "briefs": {}
+}

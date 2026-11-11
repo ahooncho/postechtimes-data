@@ -1,0 +1,403 @@
+{
+ "edition": "ko",
+ "number": 479,
+ "published": "2026-11-11T09:05:00+09:00",
+ "lastUpload": "2026-11-11T10:02:00+09:00",
+ "articles": [
+  {
+   "id": 24395,
+   "title": "학사일정 개편, 10년 만에 다시 ‘3월 개강’으로",
+   "published": "2026-11-11T10:02:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김수진 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24395_28662_25.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24394,
+   "title": "개교 40주년을 맞아 동문과 함께한 추억 공유의 장, 홈커밍데이 개최",
+   "published": "2026-11-11T10:01:00+09:00",
+   "category": "TOP/준TOP",
+   "bylines": [
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24394_28661_059.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N9",
+   "subSectionName": "TOP/준TOP"
+  },
+  {
+   "id": 24393,
+   "title": "제479호 단신보도",
+   "published": "2026-11-11T10:00:00+09:00",
+   "category": "단신보도",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N34",
+   "subSectionName": "단신보도"
+  },
+  {
+   "id": 24392,
+   "title": "우리대학 교내 도시락 배달 서비스 개시… 11월 ‘잇츠미’ 앱 연동 예정",
+   "published": "2026-11-11T09:51:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "박단아 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24392_28660_5124.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 24391,
+   "title": "학생회관 학생창고 개방, 동방 과밀 해소될까",
+   "published": "2026-11-11T09:51:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24391_28659_5042.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 24390,
+   "title": "우승의 순간을 다시 한번 되새기다… 카포전 종합우승 축하연 개최",
+   "published": "2026-11-11T09:50:00+09:00",
+   "category": "중형보도",
+   "bylines": [
+    "조준혁 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24390_28658_4948.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N11",
+   "subSectionName": "중형보도"
+  },
+  {
+   "id": 24389,
+   "title": "새로 단장한 POSTECH AI, 최신 모델로 돌아왔다",
+   "published": "2026-11-11T09:48:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김범준 기자",
+    "조아훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24389_28657_4711.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24388,
+   "title": "더 이상 들을 수 없는 연세OC, 양교 교류의 변화는?",
+   "published": "2026-11-11T09:46:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김수민 기자",
+    "김민하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24388_28656_4550.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24387,
+   "title": "총장과 함께 살펴본 오아시스, 개편 이후의 변화는",
+   "published": "2026-11-11T09:21:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "김태린 기자",
+    "김민하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24387_28654_1914.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24386,
+   "title": "제479호 형산만평",
+   "published": "2026-11-11T09:18:00+09:00",
+   "category": "형산만평",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24386_28652_1738.jpg",
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N29",
+   "subSectionName": "형산만평"
+  },
+  {
+   "id": 24385,
+   "title": "주말 하루, 대구·부산의 미술관에서 마주하는 시선의 궤적",
+   "published": "2026-11-11T09:16:00+09:00",
+   "category": "대학",
+   "bylines": [
+    "times"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24385_28651_147.jpg",
+   "sectionCode": "S1N26",
+   "sectionName": "대학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24384,
+   "title": "일자리도, 월 3만 원 집도 있다는데…포항 떠나는 청년들",
+   "published": "2026-11-11T09:12:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "김태린 기자",
+    "조아훈 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24384_28650_128.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24383,
+   "title": "수능서 빠진 미적분Ⅱ·기하, 내신 상대평가로 돌아온다… 28학년도 입시부턴 어떤 영향이?",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "사회",
+   "bylines": [
+    "한정우 기자",
+    "조유현 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24383_28649_1040.jpg",
+   "sectionCode": "S1N20",
+   "sectionName": "사회",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24382,
+   "title": "존폐의 기로에 선 예체능 병역특례··· 그 공정성을 살펴보다",
+   "published": "2026-11-11T09:09:00+09:00",
+   "category": "문화",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24382_28648_91.jpg",
+   "sectionCode": "S1N6",
+   "sectionName": "문화",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24381,
+   "title": "80년째 나오지 않는 노벨 과학상… 대한민국의 수상은 언제?",
+   "published": "2026-11-11T09:08:00+09:00",
+   "category": "과학",
+   "bylines": [
+    "최진현 기자",
+    "조준혁 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24381_28647_659.jpg",
+   "sectionCode": "S1N31",
+   "sectionName": "과학",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24380,
+   "title": "기술의 쓰임을 고민하고, 배움의 방식을 바꾸다… 장수영 교수가 돌아본 우리대학의 36년",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김민하 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24380_28646_450.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24379,
+   "title": "아토초의 세계를 열고, 창의성의 미래를 말하다… 김동언 교수가 돌아본 우리대학의 33년",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "인터뷰",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24379_28645_236.jpg",
+   "sectionCode": "S1N22",
+   "sectionName": "인터뷰",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24378,
+   "title": "AI의 두뇌를 깨우는 심장, 전력반도체",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "학술",
+   "bylines": [
+    "신세운 / 전자 교수"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24378_28642_5830.jpg",
+   "sectionCode": "S1N5",
+   "sectionName": "학술",
+   "subSectionCode": null,
+   "subSectionName": null
+  },
+  {
+   "id": 24377,
+   "title": "다시 새로운 대학을 꿈꾸며",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "노벨동산",
+   "bylines": [
+    "전상민 / 화공 교수"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N24",
+   "subSectionName": "노벨동산"
+  },
+  {
+   "id": 24376,
+   "title": "좋아하는 것을 좋아할 줄 아는 마음",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "지곡골목소리",
+   "bylines": [
+    "양지윤 / 생명 24"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N26",
+   "subSectionName": "지곡골목소리"
+  },
+  {
+   "id": 24375,
+   "title": "든든한 하루의 시작을 열어주시는 손길",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "현장포착",
+   "bylines": [
+    "김범준 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24375_28641_5516.jpg",
+   "sectionCode": "S1N1",
+   "sectionName": "보도",
+   "subSectionCode": "S2N38",
+   "subSectionName": "현장포착"
+  },
+  {
+   "id": 24374,
+   "title": "제478호 ‘밀레니엄 문제 해결한 AI, 수학의 미래는 어디로?’를 읽고",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "독자리뷰",
+   "bylines": [
+    "백광운 / 수학 24"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N27",
+   "subSectionName": "독자리뷰"
+  },
+  {
+   "id": 24373,
+   "title": "어떻게 죽느냐에서 어떻게 사느냐로",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "포스테키안의픽",
+   "bylines": [
+    "유영주 기자"
+   ],
+   "photo": "https://times.postech.ac.kr/news/photo/202611/24373_28640_5324.jpg",
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N41",
+   "subSectionName": "포스테키안의픽"
+  },
+  {
+   "id": 24372,
+   "title": "정도(定道)는 없다",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "78오름돌",
+   "bylines": [
+    "한정우 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N39",
+   "subSectionName": "78오름돌"
+  },
+  {
+   "id": 24371,
+   "title": "햇빛에 젖은 웃음",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "78내림돌",
+   "bylines": [
+    "김태린 기자"
+   ],
+   "photo": null,
+   "sectionCode": "S1N32",
+   "sectionName": "기자의시선",
+   "subSectionCode": "S2N40",
+   "subSectionName": "78내림돌"
+  },
+  {
+   "id": 24370,
+   "title": "누군지 모를 ‘청년’을 위한 시혜적 정책, 다시 고민해야",
+   "published": "2026-11-11T09:05:00+09:00",
+   "category": "사설",
+   "bylines": [
+    "times"
+   ],
+   "photo": null,
+   "sectionCode": "S1N27",
+   "sectionName": "여론",
+   "subSectionCode": "S2N23",
+   "subSectionName": "사설"
+  }
+ ],
+ "briefs": {
+  "24393": [
+   {
+    "title": "영하 20℃에도 얼지 않는 차세대 하이드로겔 전해질 개발",
+    "reporter": "김태린 기자",
+    "paragraphs": [
+     "우리대학 김연수(신소재) 교수와 조창신(화공·배터리공학과), 박수진(화학) 교수 공동연구팀이 영하 20℃에서도 얼지 않고 외부 충격을 흡수하는 유연 슈퍼커패시터용 하이드로겔 전해질을 개발했다. 슈퍼커패시터는 전하를 저장했다가 방출하는 방식으로 전기에너지를 저장하는 장치다. 기존 하이드로겔은 낮은 온도에서 얼거나 기계적 강도가 약해 유연한 에너지저장 장치에 적용하는 데 한계가 있었다. 이에 연구팀은 하이드로겔 내부에서 외부 힘을 견디는 영역과 이온을 전달하는 영역이 각각 역할을 수행하도록 설계해 기계적 강도와 이온전도성을 동시에 높였다. 새로 개발한 전해질은 기존 하이드로겔보다 이온전도도가 2.4배, 인성이 약 21배 향상됐다. 김 교수는 “하이드로겔 안에서 힘을 견디는 영역과 이온을 전달하는 영역이 역할을 나누도록 설계해, 기계적 물성과 이온전도성을 함께 높인 것이 핵심이다”라고 밝혔다. 이번 연구는 국제 학술지 Chemical Engineering Journal에 게재됐다."
+    ]
+   },
+   {
+    "title": "뉴로메카 박종훈 동문 50억 원 상당 주식 기부",
+    "reporter": "한정우 기자",
+    "paragraphs": [
+     "로봇 제조 기업 뉴로메카를 이끌고 있는 박종훈(기계·학88·석92·박94) 동문이 50억 원 상당의 주식을 기부할 계획이다. 박 동문은 보유한 뉴로메카 보통주 17만 주를 2027년 5월부터 매년 3만 4,000주씩 5년에 걸쳐 분할 출연하기로 기부 약정을 맺었다. 우리대학은 기부 주식을 재원으로 조성되는 기금을 ‘POSTECH 2.0’의 핵심 사업인 교육지구 건립 기금과 교육·연구 발전을 지원하는 제반 사업 비용으로 활용할 예정이다. 이에 더해 뉴로메카는 신공장과 신사옥의 일부 공간을 우리대학 학생과 연구자의 연구·산학협력 공간으로 활용하는 방안을 검토 중이다. 박 동문은 “이번 기부가 끝이 아닌 새로운 시작이 될 수 있도록 산학협력의 다음 단계도 꾸준히 만들어가겠다”라고 말했다. 우리대학 김성근 총장은 “뉴로메카가 포항에 조성할 신사옥이 학생과 연구자에게 열린 실험장이 된다면 제2 건학이 만들어낼 가장 실질적인 성과 중 하나가 될 것이다”라고 밝혔다."
+    ]
+   },
+   {
+    "title": "첫 수상 이후 125주년··· 2026 노벨상 수상자 발표",
+    "reporter": "최진현 기자",
+    "paragraphs": [
+     "지난달 5일에서 12일, 6개 분야의 노벨상 수상자가 발표됐다. 첫 노벨상 수상 이후 125주년을 맞이하는 이번 수상에서는 과학 부문에서 총 6명이 수상의 영예를 안았다. 생리의학상에는 광 게이트 이온 채널 및 광유전학 발견에 기여한 미국의 칼 다이서로스(Karl Deisseroth)와 독일의 페터 헤게만(Peter Hegemann), 게오르그 나겔(Georg Nagel)이 선정됐다. 물리학상은 남극의 얼음을 이용해 우주에서 오는 고에너지 중성미자를 관측한 미국·벨기에 국적의 프랜시스 할센(Francis Halzen)이 단독 수상했다. 화학상에는 거울상 분자의 수수께끼와 비대칭 유기 합성 반응을 규명한 프랑스의 앙리 카강(Henri Kagan)과 일본의 소아이 겐소(Soai Kenso)가 이름을 올렸다. 시상식은 알프레드 노벨(Alfred Nobel)의 기일인 오는 12월 10일 스톡홀름과 오슬로에서 진행될 예정이다."
+    ]
+   }
+  ]
+ }
+}

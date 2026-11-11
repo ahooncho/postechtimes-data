@@ -1,5 +1,656 @@
 [
  {
+  "id": 24395,
+  "title": "학사일정 개편, 10년 만에 다시 ‘3월 개강’으로",
+  "published": "2026-11-11T10:02:00+09:00",
+  "category": "TOP/준TOP",
+  "bylines": [
+   "김수진 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24395_28662_25.jpg",
+  "sectionCode": "S1N1",
+  "subSectionCode": "S2N9",
+  "sectionName": "보도",
+  "subSectionName": "TOP/준TOP",
+  "edition": "ko"
+ },
+ {
+  "id": 24394,
+  "title": "개교 40주년을 맞아 동문과 함께한 추억 공유의 장, 홈커밍데이 개최",
+  "published": "2026-11-11T10:01:00+09:00",
+  "category": "TOP/준TOP",
+  "bylines": [
+   "김범준 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24394_28661_059.jpg",
+  "sectionCode": "S1N1",
+  "subSectionCode": "S2N9",
+  "sectionName": "보도",
+  "subSectionName": "TOP/준TOP",
+  "edition": "ko"
+ },
+ {
+  "id": 24393,
+  "title": "제479호 단신보도",
+  "published": "2026-11-11T10:00:00+09:00",
+  "category": "단신보도",
+  "bylines": [
+   "times"
+  ],
+  "photo": null,
+  "sectionCode": "S1N1",
+  "subSectionCode": "S2N34",
+  "sectionName": "보도",
+  "subSectionName": "단신보도",
+  "edition": "ko"
+ },
+ {
+  "id": 24392,
+  "title": "우리대학 교내 도시락 배달 서비스 개시… 11월 ‘잇츠미’ 앱 연동 예정",
+  "published": "2026-11-11T09:51:00+09:00",
+  "category": "중형보도",
+  "bylines": [
+   "박단아 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24392_28660_5124.jpg",
+  "sectionCode": "S1N1",
+  "subSectionCode": "S2N11",
+  "sectionName": "보도",
+  "subSectionName": "중형보도",
+  "edition": "ko"
+ },
+ {
+  "id": 24391,
+  "title": "학생회관 학생창고 개방, 동방 과밀 해소될까",
+  "published": "2026-11-11T09:51:00+09:00",
+  "category": "중형보도",
+  "bylines": [
+   "유영주 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24391_28659_5042.jpg",
+  "sectionCode": "S1N1",
+  "subSectionCode": "S2N11",
+  "sectionName": "보도",
+  "subSectionName": "중형보도",
+  "edition": "ko"
+ },
+ {
+  "id": 24390,
+  "title": "우승의 순간을 다시 한번 되새기다… 카포전 종합우승 축하연 개최",
+  "published": "2026-11-11T09:50:00+09:00",
+  "category": "중형보도",
+  "bylines": [
+   "조준혁 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24390_28658_4948.jpg",
+  "sectionCode": "S1N1",
+  "subSectionCode": "S2N11",
+  "sectionName": "보도",
+  "subSectionName": "중형보도",
+  "edition": "ko"
+ },
+ {
+  "id": 24389,
+  "title": "새로 단장한 POSTECH AI, 최신 모델로 돌아왔다",
+  "published": "2026-11-11T09:48:00+09:00",
+  "category": "대학",
+  "bylines": [
+   "김범준 기자",
+   "조아훈 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24389_28657_4711.jpg",
+  "sectionCode": "S1N26",
+  "subSectionCode": null,
+  "sectionName": "대학",
+  "subSectionName": null,
+  "edition": "ko"
+ },
+ {
+  "id": 24388,
+  "title": "더 이상 들을 수 없는 연세OC, 양교 교류의 변화는?",
+  "published": "2026-11-11T09:46:00+09:00",
+  "category": "대학",
+  "bylines": [
+   "김수민 기자",
+   "김민하 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24388_28656_4550.jpg",
+  "sectionCode": "S1N26",
+  "subSectionCode": null,
+  "sectionName": "대학",
+  "subSectionName": null,
+  "edition": "ko"
+ },
+ {
+  "id": 24387,
+  "title": "총장과 함께 살펴본 오아시스, 개편 이후의 변화는",
+  "published": "2026-11-11T09:21:00+09:00",
+  "category": "대학",
+  "bylines": [
+   "김태린 기자",
+   "김민하 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24387_28654_1914.jpg",
+  "sectionCode": "S1N26",
+  "subSectionCode": null,
+  "sectionName": "대학",
+  "subSectionName": null,
+  "edition": "ko"
+ },
+ {
+  "id": 24386,
+  "title": "제479호 형산만평",
+  "published": "2026-11-11T09:18:00+09:00",
+  "category": "형산만평",
+  "bylines": [
+   "times"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24386_28652_1738.jpg",
+  "sectionCode": "S1N27",
+  "subSectionCode": "S2N29",
+  "sectionName": "여론",
+  "subSectionName": "형산만평",
+  "edition": "ko"
+ },
+ {
+  "id": 24385,
+  "title": "주말 하루, 대구·부산의 미술관에서 마주하는 시선의 궤적",
+  "published": "2026-11-11T09:16:00+09:00",
+  "category": "대학",
+  "bylines": [
+   "times"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24385_28651_147.jpg",
+  "sectionCode": "S1N26",
+  "subSectionCode": null,
+  "sectionName": "대학",
+  "subSectionName": null,
+  "edition": "ko"
+ },
+ {
+  "id": 24384,
+  "title": "일자리도, 월 3만 원 집도 있다는데…포항 떠나는 청년들",
+  "published": "2026-11-11T09:12:00+09:00",
+  "category": "사회",
+  "bylines": [
+   "김태린 기자",
+   "조아훈 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24384_28650_128.jpg",
+  "sectionCode": "S1N20",
+  "subSectionCode": null,
+  "sectionName": "사회",
+  "subSectionName": null,
+  "edition": "ko"
+ },
+ {
+  "id": 24383,
+  "title": "수능서 빠진 미적분Ⅱ·기하, 내신 상대평가로 돌아온다… 28학년도 입시부턴 어떤 영향이?",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "사회",
+  "bylines": [
+   "한정우 기자",
+   "조유현 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24383_28649_1040.jpg",
+  "sectionCode": "S1N20",
+  "subSectionCode": null,
+  "sectionName": "사회",
+  "subSectionName": null,
+  "edition": "ko"
+ },
+ {
+  "id": 24382,
+  "title": "존폐의 기로에 선 예체능 병역특례··· 그 공정성을 살펴보다",
+  "published": "2026-11-11T09:09:00+09:00",
+  "category": "문화",
+  "bylines": [
+   "유영주 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24382_28648_91.jpg",
+  "sectionCode": "S1N6",
+  "subSectionCode": null,
+  "sectionName": "문화",
+  "subSectionName": null,
+  "edition": "ko"
+ },
+ {
+  "id": 24381,
+  "title": "80년째 나오지 않는 노벨 과학상… 대한민국의 수상은 언제?",
+  "published": "2026-11-11T09:08:00+09:00",
+  "category": "과학",
+  "bylines": [
+   "최진현 기자",
+   "조준혁 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24381_28647_659.jpg",
+  "sectionCode": "S1N31",
+  "subSectionCode": null,
+  "sectionName": "과학",
+  "subSectionName": null,
+  "edition": "ko"
+ },
+ {
+  "id": 24380,
+  "title": "기술의 쓰임을 고민하고, 배움의 방식을 바꾸다… 장수영 교수가 돌아본 우리대학의 36년",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "인터뷰",
+  "bylines": [
+   "김민하 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24380_28646_450.jpg",
+  "sectionCode": "S1N22",
+  "subSectionCode": null,
+  "sectionName": "인터뷰",
+  "subSectionName": null,
+  "edition": "ko"
+ },
+ {
+  "id": 24379,
+  "title": "아토초의 세계를 열고, 창의성의 미래를 말하다… 김동언 교수가 돌아본 우리대학의 33년",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "인터뷰",
+  "bylines": [
+   "김태린 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24379_28645_236.jpg",
+  "sectionCode": "S1N22",
+  "subSectionCode": null,
+  "sectionName": "인터뷰",
+  "subSectionName": null,
+  "edition": "ko"
+ },
+ {
+  "id": 24378,
+  "title": "AI의 두뇌를 깨우는 심장, 전력반도체",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "학술",
+  "bylines": [
+   "신세운 / 전자 교수"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24378_28642_5830.jpg",
+  "sectionCode": "S1N5",
+  "subSectionCode": null,
+  "sectionName": "학술",
+  "subSectionName": null,
+  "edition": "ko"
+ },
+ {
+  "id": 24377,
+  "title": "다시 새로운 대학을 꿈꾸며",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "노벨동산",
+  "bylines": [
+   "전상민 / 화공 교수"
+  ],
+  "photo": null,
+  "sectionCode": "S1N27",
+  "subSectionCode": "S2N24",
+  "sectionName": "여론",
+  "subSectionName": "노벨동산",
+  "edition": "ko"
+ },
+ {
+  "id": 24376,
+  "title": "좋아하는 것을 좋아할 줄 아는 마음",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "지곡골목소리",
+  "bylines": [
+   "양지윤 / 생명 24"
+  ],
+  "photo": null,
+  "sectionCode": "S1N27",
+  "subSectionCode": "S2N26",
+  "sectionName": "여론",
+  "subSectionName": "지곡골목소리",
+  "edition": "ko"
+ },
+ {
+  "id": 24375,
+  "title": "든든한 하루의 시작을 열어주시는 손길",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "현장포착",
+  "bylines": [
+   "김범준 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24375_28641_5516.jpg",
+  "sectionCode": "S1N1",
+  "subSectionCode": "S2N38",
+  "sectionName": "보도",
+  "subSectionName": "현장포착",
+  "edition": "ko"
+ },
+ {
+  "id": 24374,
+  "title": "제478호 ‘밀레니엄 문제 해결한 AI, 수학의 미래는 어디로?’를 읽고",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "독자리뷰",
+  "bylines": [
+   "백광운 / 수학 24"
+  ],
+  "photo": null,
+  "sectionCode": "S1N27",
+  "subSectionCode": "S2N27",
+  "sectionName": "여론",
+  "subSectionName": "독자리뷰",
+  "edition": "ko"
+ },
+ {
+  "id": 24373,
+  "title": "어떻게 죽느냐에서 어떻게 사느냐로",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "포스테키안의픽",
+  "bylines": [
+   "유영주 기자"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24373_28640_5324.jpg",
+  "sectionCode": "S1N32",
+  "subSectionCode": "S2N41",
+  "sectionName": "기자의시선",
+  "subSectionName": "포스테키안의픽",
+  "edition": "ko"
+ },
+ {
+  "id": 24372,
+  "title": "정도(定道)는 없다",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "78오름돌",
+  "bylines": [
+   "한정우 기자"
+  ],
+  "photo": null,
+  "sectionCode": "S1N32",
+  "subSectionCode": "S2N39",
+  "sectionName": "기자의시선",
+  "subSectionName": "78오름돌",
+  "edition": "ko"
+ },
+ {
+  "id": 24371,
+  "title": "햇빛에 젖은 웃음",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "78내림돌",
+  "bylines": [
+   "김태린 기자"
+  ],
+  "photo": null,
+  "sectionCode": "S1N32",
+  "subSectionCode": "S2N40",
+  "sectionName": "기자의시선",
+  "subSectionName": "78내림돌",
+  "edition": "ko"
+ },
+ {
+  "id": 24370,
+  "title": "누군지 모를 ‘청년’을 위한 시혜적 정책, 다시 고민해야",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "사설",
+  "bylines": [
+   "times"
+  ],
+  "photo": null,
+  "sectionCode": "S1N27",
+  "subSectionCode": "S2N23",
+  "sectionName": "여론",
+  "subSectionName": "사설",
+  "edition": "ko"
+ },
+ {
+  "id": 24369,
+  "title": "Welcome Home: 2026 POSTECH Homecoming Day for Commemorating 40th Anniversary",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "Headlines",
+  "bylines": [
+   "Reporter Hong Seung-hye"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24369_28638_4218.jpg",
+  "sectionCode": "S1N28",
+  "subSectionCode": null,
+  "sectionName": "Headlines",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24368,
+  "title": "Special Luncheon with POSTECH Leadership on Revamped Oasis Cafeteria",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "Headlines",
+  "bylines": [
+   "Reporter Seo Ji-woo"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24368_28637_4118.jpg",
+  "sectionCode": "S1N28",
+  "subSectionCode": null,
+  "sectionName": "Headlines",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24367,
+  "title": "Beyond the 200th Issue of The Postech Times",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "News",
+  "bylines": [
+   "times"
+  ],
+  "photo": null,
+  "sectionCode": "S1N9",
+  "subSectionCode": null,
+  "sectionName": "News",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24366,
+  "title": "Joonhyung AHN: Founding Editor-in-Chief for The Postech Times",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "News",
+  "bylines": [
+   "times"
+  ],
+  "photo": null,
+  "sectionCode": "S1N9",
+  "subSectionCode": null,
+  "sectionName": "News",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24365,
+  "title": "SF DAY at POSTECH: SF of Today, Science of Tomorrow",
+  "published": "2026-11-11T09:00:00+09:00",
+  "category": "Campus",
+  "bylines": [
+   "Reporter Kim Tae-hee"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24365_28636_376.jpg",
+  "sectionCode": "S1N10",
+  "subSectionCode": null,
+  "sectionName": "Campus",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24364,
+  "title": "Discussions on TA Sessions",
+  "published": "2026-11-11T09:00:00+09:00",
+  "category": "Campus",
+  "bylines": [
+   "Reporter Han Yeong-bin"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24364_28635_3556.jpg",
+  "sectionCode": "S1N10",
+  "subSectionCode": null,
+  "sectionName": "Campus",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24363,
+  "title": "Chefs of POSTECH Dormitory",
+  "published": "2026-11-11T09:00:00+09:00",
+  "category": "Campus",
+  "bylines": [
+   "Reporter Sohn Ye-won"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24363_28634_3433.jpg",
+  "sectionCode": "S1N10",
+  "subSectionCode": null,
+  "sectionName": "Campus",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24362,
+  "title": "Why Do We Live in a Recording-Obsessed Society?",
+  "published": "2026-11-11T08:55:00+09:00",
+  "category": "Feature",
+  "bylines": [
+   "Reporter Hong Seung-hye"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24362_28633_3321.jpg",
+  "sectionCode": "S1N14",
+  "subSectionCode": null,
+  "sectionName": "Feature",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24361,
+  "title": "Industry Degree Puts Doctoral Standards to the Test",
+  "published": "2026-11-11T08:55:00+09:00",
+  "category": "Feature",
+  "bylines": [
+   "Reporter Park Hyo-rin"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24361_28639_4540.jpg",
+  "sectionCode": "S1N14",
+  "subSectionCode": null,
+  "sectionName": "Feature",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24359,
+  "title": "Stack Atoms to Make Differences: Selective Atomic Gradients",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "News",
+  "bylines": [
+   "Reporter Choi Ji-hun"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24359_28631_2813.jpg",
+  "sectionCode": "S1N9",
+  "subSectionCode": null,
+  "sectionName": "News",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24358,
+  "title": "Postechian’s Lab Note: From Physics to Accelerator Engineering",
+  "published": "2026-11-11T09:05:00+09:00",
+  "category": "News",
+  "bylines": [
+   "times"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24358_28630_269.jpg",
+  "sectionCode": "S1N9",
+  "subSectionCode": null,
+  "sectionName": "News",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24356,
+  "title": "Medical Imaging AI: From Technical Promise to Clinical Trust",
+  "published": "2026-11-11T09:00:00+09:00",
+  "category": "Opinion",
+  "bylines": [
+   "times"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24356_28628_2113.jpg",
+  "sectionCode": "S1N13",
+  "subSectionCode": null,
+  "sectionName": "Opinion",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24355,
+  "title": "Postechian Column: One Team Is Proven Through Action, Not Words",
+  "published": "2026-11-11T09:00:00+09:00",
+  "category": "Opinion",
+  "bylines": [
+   "times"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24355_28627_197.jpg",
+  "sectionCode": "S1N13",
+  "subSectionCode": null,
+  "sectionName": "Opinion",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24354,
+  "title": "Reporter Column: Too Woke to Take a Joke?",
+  "published": "2026-11-11T09:00:00+09:00",
+  "category": "Opinion",
+  "bylines": [
+   "Reporter Sohn Ye-won"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24354_28625_1721.jpg",
+  "sectionCode": "S1N13",
+  "subSectionCode": null,
+  "sectionName": "Opinion",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24353,
+  "title": "Into the Ocean of Cinema: Busan International Film Festival",
+  "published": "2026-11-11T08:50:00+09:00",
+  "category": "Culture",
+  "bylines": [
+   "Reporter Seo Ji-woo"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24353_28624_1556.jpg",
+  "sectionCode": "S1N30",
+  "subSectionCode": null,
+  "sectionName": "Culture",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24352,
+  "title": "Nobel Prizes of 2026: Noble Discoveries",
+  "published": "2026-11-11T08:50:00+09:00",
+  "category": "Culture",
+  "bylines": [
+   "Reporter Choi Ji-hun"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24352_28623_1411.jpg",
+  "sectionCode": "S1N30",
+  "subSectionCode": null,
+  "sectionName": "Culture",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
+  "id": 24351,
+  "title": "Postechian's Pick: The Stranger (2025)",
+  "published": "2026-11-11T08:50:00+09:00",
+  "category": "Culture",
+  "bylines": [
+   "Reporter Han Yeong-bin"
+  ],
+  "photo": "https://times.postech.ac.kr/news/photo/202611/24351_28622_1138.jpg",
+  "sectionCode": "S1N30",
+  "subSectionCode": null,
+  "sectionName": "Culture",
+  "subSectionName": null,
+  "edition": "en"
+ },
+ {
   "id": 24341,
   "title": "5년 만에 되찾아 온 우승기, 짜릿했던 제23회 카포전",
   "published": "2026-10-07T21:40:00+09:00",
